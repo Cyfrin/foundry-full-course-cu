@@ -1,9 +1,8 @@
 *This repo is a work in progress*
 
+# Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course | Foundry Edition 2023
 
-# Blockchain Developer, Smart Contract, & Solidity Course - Beginner to Expert ULTIMATE Course | Foundry Edition 2023
-
-Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidity Course - Beginner to Expert ULTIMATE Course | Foundry Edition 2023
+Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course | Foundry Edition 2023
 
 *Video coming soon...*
 
@@ -51,6 +50,8 @@ TODO: Add gitpod
 <talk about side chain>
 
 # Lesson 2: Welcome to Remix - Remix Simple Storage
+
+💻 Code: [https://github.com/ChainAccelOrg/remix-simple-storage-f23](https://github.com/ChainAccelOrg/remix-simple-storage-f23)
 
 # Lesson 3: Remix Storage Factory
 
