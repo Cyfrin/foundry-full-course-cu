@@ -86,7 +86,11 @@ TODO: Add gitpod
 
 💻 Code: [https://github.com/ChainAccelOrg/remix-storage-factory-f23](https://github.com/ChainAccelOrg/remix-storage-factory-f23)
 
+1. Deploy a contract to <L2>
+
 # Lesson 4: Remix Fund Me
+
+💻 Code: [https://github.com/ChainAccelOrg/remix-fund-me-f23](https://github.com/ChainAccelOrg/remix-fund-me-f23)
 
 # Lesson 5: Foundry Simple Storage
 
