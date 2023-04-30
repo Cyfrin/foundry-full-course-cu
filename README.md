@@ -41,6 +41,7 @@ TODO: Add gitpod
 - [Lesson 0: Welcome to the Course!](#lesson-0-welcome-to-the-course)
 - [Lesson 1: Blockchain Basics](#lesson-1-blockchain-basics)
 - [Lesson 2: Welcome to Remix - Remix Simple Storage](#lesson-2-welcome-to-remix---remix-simple-storage)
+  - [TODO: Extra credit / Exersizes!](#todo-extra-credit--exersizes)
 - [Lesson 3: Remix Storage Factory](#lesson-3-remix-storage-factory)
 - [Lesson 4: Remix Fund Me](#lesson-4-remix-fund-me)
 - [Lesson 5: Foundry Simple Storage](#lesson-5-foundry-simple-storage)
@@ -77,7 +78,13 @@ TODO: Add gitpod
 
 💻 Code: [https://github.com/ChainAccelOrg/remix-simple-storage-f23](https://github.com/ChainAccelOrg/remix-simple-storage-f23)
 
+## TODO: Extra credit / Exersizes!
+
+1. Deploy a contract to <L2>
+
 # Lesson 3: Remix Storage Factory
+
+💻 Code: [https://github.com/ChainAccelOrg/remix-storage-factory-f23](https://github.com/ChainAccelOrg/remix-storage-factory-f23)
 
 # Lesson 4: Remix Fund Me
 
