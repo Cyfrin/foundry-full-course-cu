@@ -43,20 +43,28 @@ TODO: Add gitpod
 - [Lesson 2: Welcome to Remix - Remix Simple Storage](#lesson-2-welcome-to-remix---remix-simple-storage)
   - [TODO: Extra credit / Exersizes!](#todo-extra-credit--exersizes)
 - [Lesson 3: Remix Storage Factory](#lesson-3-remix-storage-factory)
+  - [TODO: Extra credit / Exersizes!](#todo-extra-credit--exersizes-1)
 - [Lesson 4: Remix Fund Me](#lesson-4-remix-fund-me)
-- [Lesson 5: Foundry Simple Storage](#lesson-5-foundry-simple-storage)
-- [Lesson 6: Foundry Fund Me](#lesson-6-foundry-fund-me)
+  - [TODO: Extra credit / Exersizes!](#todo-extra-credit--exersizes-2)
+- [Lesson 5: AI Prompting, Asking Questions, and Getting Help](#lesson-5-ai-prompting-asking-questions-and-getting-help)
+- [Lesson 6: Foundry Simple Storage](#lesson-6-foundry-simple-storage)
+  - [Installation \& Setup (MacOS \& Windows)](#installation--setup-macos--windows)
+    - [Windows Setup](#windows-setup)
+    - [Gitpod](#gitpod)
+  - [Local Development Introduction](#local-development-introduction)
+  - [TODO: Extra credit / Exersizes!](#todo-extra-credit--exersizes-3)
+- [Lesson 7: Foundry Fund Me](#lesson-7-foundry-fund-me)
 - [4 test tiers](#4-test-tiers)
-- [Lesson 7: Html/Js Fund Me](#lesson-7-htmljs-fund-me)
-- [Lesson 8: Foundry Smart Contract Lottery](#lesson-8-foundry-smart-contract-lottery)
-- [Lesson 9: Foundry ERC20s](#lesson-9-foundry-erc20s)
-- [Lesson 10: Foundry NFTs | MoodNFT](#lesson-10-foundry-nfts--moodnft)
-- [Lesson 11: Foundry DeFi | Stablecoin](#lesson-11-foundry-defi--stablecoin)
-- [Lesson 12: Fuzzy Basket](#lesson-12-fuzzy-basket)
-- [Lesson 13: Foundry DeFi | Stablecoin level up](#lesson-13-foundry-defi--stablecoin-level-up)
-- [Lesson 14: Foundry Upgrades](#lesson-14-foundry-upgrades)
-- [Lesson 15: Foundry Governance | Plutocracy (And why it's bad)](#lesson-15-foundry-governance--plutocracy-and-why-its-bad)
-- [Lesson 16: Smart Contract Security (Get to this section!!)](#lesson-16-smart-contract-security-get-to-this-section)
+- [Lesson 8: Html/Js Fund Me](#lesson-8-htmljs-fund-me)
+- [Lesson 9: Foundry Smart Contract Lottery](#lesson-9-foundry-smart-contract-lottery)
+- [Lesson 10: Foundry ERC20s](#lesson-10-foundry-erc20s)
+- [Lesson 11: Foundry NFTs | MoodNFT](#lesson-11-foundry-nfts--moodnft)
+- [Lesson 12: Foundry DeFi | Stablecoin](#lesson-12-foundry-defi--stablecoin)
+- [Lesson 13: Fuzzy Basket](#lesson-13-fuzzy-basket)
+- [Lesson 14: Foundry DeFi | Stablecoin level up](#lesson-14-foundry-defi--stablecoin-level-up)
+- [Lesson 15: Foundry Upgrades](#lesson-15-foundry-upgrades)
+- [Lesson 16: Foundry Governance | Plutocracy (And why it's bad)](#lesson-16-foundry-governance--plutocracy-and-why-its-bad)
+- [Lesson 17: Smart Contract Security (Get to this section!!)](#lesson-17-smart-contract-security-get-to-this-section)
 
 
 # Lesson 0: Welcome to the Course!
@@ -86,20 +94,57 @@ TODO: Add gitpod
 
 💻 Code: [https://github.com/ChainAccelOrg/remix-storage-factory-f23](https://github.com/ChainAccelOrg/remix-storage-factory-f23)
 
+## TODO: Extra credit / Exersizes!
+
 1. Deploy a contract to <L2>
 
 # Lesson 4: Remix Fund Me
 
 💻 Code: [https://github.com/ChainAccelOrg/remix-fund-me-f23](https://github.com/ChainAccelOrg/remix-fund-me-f23)
 
-# Lesson 5: Foundry Simple Storage
+## TODO: Extra credit / Exersizes!
+Deploy to L2
+
+# Lesson 5: AI Prompting, Asking Questions, and Getting Help
+
+DO NOT SKIP THIS!!
+
+# Lesson 6: Foundry Simple Storage
+
+## Installation & Setup (MacOS & Windows)
+-   [Visual Studio Code](https://code.visualstudio.com/)
+    - [Crash Course](https://www.youtube.com/watch?v=WPqXP_kLzpo)
+- [NodeJS](https://nodejs.org/en/)
+- [VSCode Keybindings](https://code.visualstudio.com/docs/getstarted/keybindings)
+- [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- [What is a terminal?](https://code.visualstudio.com/docs/editor/integrated-terminal)
+
+### Windows Setup
+- [WSL](https://docs.microsoft.com/en-us/windows/wsl/install)
+  - When working in WSL, use Linux commands instead of Windows commands
+- [TroubleShooting](https://docs.microsoft.com/en-us/windows/wsl/troubleshooting)
+- `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash`
+
+> ⚠️ Please use Gitpod as an absolute last resort
+### Gitpod
+- [Gitpod](https://www.gitpod.io/)
+  - **If using this, NEVER share a private key with real money on Gitpod**
+  - Ideally you figure out the MacOS, Linux, or Windows install though
+
+## Local Development Introduction
+- `CMD + K` or `CTRL + K` clears the terminal
+- `mkdir ethers-simple-storage-fcc`
+- `code .` to open VSCode in a new VSCode window
 
 Also do advanced stuff like:
 cast
 anvil
 tests
 
-# Lesson 6: Foundry Fund Me
+## TODO: Extra credit / Exersizes!
+Deploy to L2
+
+# Lesson 7: Foundry Fund Me
 
 # 4 test tiers
 
@@ -112,29 +157,29 @@ We cover 1 and 3.
 
 Fun storage stuff
 
-# Lesson 7: Html/Js Fund Me
+# Lesson 8: Html/Js Fund Me
 
-# Lesson 8: Foundry Smart Contract Lottery
+# Lesson 9: Foundry Smart Contract Lottery
 
-# Lesson 9: Foundry ERC20s
+# Lesson 10: Foundry ERC20s
 
-# Lesson 10: Foundry NFTs | MoodNFT
+# Lesson 11: Foundry NFTs | MoodNFT
 
-# Lesson 11: Foundry DeFi | Stablecoin
+# Lesson 12: Foundry DeFi | Stablecoin
 
 MEV
 
-# Lesson 12: Fuzzy Basket
+# Lesson 13: Fuzzy Basket
 
 Fuzz Testing
 
-# Lesson 13: Foundry DeFi | Stablecoin level up
+# Lesson 14: Foundry DeFi | Stablecoin level up
 
-# Lesson 14: Foundry Upgrades
+# Lesson 15: Foundry Upgrades
 
-# Lesson 15: Foundry Governance | Plutocracy (And why it's bad)
+# Lesson 16: Foundry Governance | Plutocracy (And why it's bad)
 
-# Lesson 16: Smart Contract Security (Get to this section!!)
+# Lesson 17: Smart Contract Security (Get to this section!!)
 - Reentrancy
 - Symbolic Execution
 - Flash loans
