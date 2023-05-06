@@ -48,7 +48,7 @@ TODO: Add gitpod
   - [TODO: Extra credit / Exersizes!](#todo-extra-credit--exersizes-2)
 - [Lesson 5: AI Prompting, Asking Questions, and Getting Help](#lesson-5-ai-prompting-asking-questions-and-getting-help)
 - [Lesson 6: Foundry Simple Storage](#lesson-6-foundry-simple-storage)
-  - [Installation \& Setup (MacOS \& Windows)](#installation--setup-macos--windows)
+  - [Installation \& Setup (MacOS \& Linux)](#installation--setup-macos--linux)
     - [Windows Setup](#windows-setup)
     - [Gitpod](#gitpod)
   - [Local Development Introduction](#local-development-introduction)
@@ -111,10 +111,11 @@ DO NOT SKIP THIS!!
 
 # Lesson 6: Foundry Simple Storage
 
-## Installation & Setup (MacOS & Windows)
+💻 Code: [https://github.com/ChainAccelOrg/foundry-simple-storage-f23](https://github.com/ChainAccelOrg/foundry-simple-storage-f23)
+
+## Installation & Setup (MacOS & Linux)
 -   [Visual Studio Code](https://code.visualstudio.com/)
     - [Crash Course](https://www.youtube.com/watch?v=WPqXP_kLzpo)
-- [NodeJS](https://nodejs.org/en/)
 - [VSCode Keybindings](https://code.visualstudio.com/docs/getstarted/keybindings)
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - [What is a terminal?](https://code.visualstudio.com/docs/editor/integrated-terminal)
