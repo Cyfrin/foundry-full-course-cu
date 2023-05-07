@@ -56,7 +56,20 @@ TODO: Add gitpod
   - [TODO: Add FCC bash lessons](#todo-add-fcc-bash-lessons)
   - [TODO: Extra credit / Exersizes!](#todo-extra-credit--exersizes-3)
 - [Lesson 7: Foundry Fund Me](#lesson-7-foundry-fund-me)
-- [4 test tiers](#4-test-tiers)
+  - [Introduction](#introduction)
+  - [Setup](#setup)
+  - [Mocking](#mocking)
+  - [Networking](#networking)
+  - [Programmatic Verification](#programmatic-verification)
+  - [Interactions.s.sol](#interactionsssol)
+  - [Testing](#testing)
+  - [Debugging \& Coverage](#debugging--coverage)
+  - [Style Guide](#style-guide)
+  - [Gas III](#gas-iii)
+  - [Storage](#storage)
+  - [Pushing to GitHub](#pushing-to-github)
+  - [🐸🐦 Tweet Me (add your repo in)!](#-tweet-me-add-your-repo-in)
+  - [Recap](#recap)
 - [Lesson 8: Html/Js Fund Me](#lesson-8-htmljs-fund-me)
 - [Lesson 9: Foundry Smart Contract Lottery](#lesson-9-foundry-smart-contract-lottery)
 - [Lesson 10: Foundry ERC20s](#lesson-10-foundry-erc20s)
@@ -170,6 +183,9 @@ cast --to-base 0x01 dec
 
 ## Deploying to a testnet or a mainnet
 - [Alchemy](https://alchemy.com/?a=673c802981)
+- [Someone fix this please](https://github.com/foundry-rs/foundry/issues/3818)
+- [Example verified contract](https://sepolia.etherscan.io/address/0xe2e9f468eb7f063aa01670bb4bce4119fb6e4b65#code)
+- [ThirdWeb Deploy](https://thirdweb.com/deploy)
 
 ## TODO: Add FCC bash lessons
 
@@ -178,16 +194,71 @@ Deploy to L2
 
 # Lesson 7: Foundry Fund Me
 
-# 4 test tiers
+💻 Code:[https://github.com/ChainAccelOrg/foundry-fund-me-f23](https://github.com/ChainAccelOrg/foundry-fund-me-f23)
+## Introduction 
 
-1. Unit
+## Setup
+- [Dependencies](https://book.getfoundry.sh/projects/dependencies)
+
+## Mocking
+- [Mocking](https://stackoverflow.com/questions/2665812/what-is-mocking)
+- [Aave Github](https://github.com/aave/aave-v3-core)
+- [Chainlink Github](https://github.com/smartcontractkit/chainlink)
+- Multiple Versions of Solidity
+
+## Networking
+- [Chain ID List](https://chainlist.org/)
+
+## Programmatic Verification
+- [Etherscan API Key](https://docs.etherscan.io/getting-started/viewing-api-usage-statistics)
+
+## Interactions.s.sol
+
+## Testing
+4 test tiers
+
+1. [Unit](https://en.wikipedia.org/wiki/Unit_testing)
 2. Integration
 3. Forked
 4. Staging
 
 We cover 1 and 3. 
 
-Fun storage stuff
+## Debugging & Coverage
+- [Chisel](https://github.com/foundry-rs/foundry/tree/master/chisel)
+- [Gas Reporter](https://book.getfoundry.sh/forge/gas-reports)
+- Coverage
+- [console.log](https://book.getfoundry.sh/reference/forge-std/console-log?highlight=console#console-logging)
+
+## Style Guide
+- [Style Guide](https://docs.soliditylang.org/en/latest/style-guide.html)
+- [NatSpec](https://docs.soliditylang.org/en/latest/natspec-format.html)
+
+## Gas III
+
+## Storage
+- [Storage Layout](https://docs.soliditylang.org/en/latest/internals/layout_in_storage.html)
+- [Purpose of the memory keyword](https://stackoverflow.com/questions/33839154/in-ethereum-solidity-what-is-the-purpose-of-the-memory-keyword)
+
+```
+cast storage
+```
+- [Opcodes](https://ethereum.org/en/developers/docs/evm/opcodes/)
+- [Opcodes by Gas](https://github.com/crytic/evm-opcodes)
+- [Opcodes by Gas](https://evm.codes/)
+- Append `s_` to storage variables
+- Append `i_` to immutable variables
+- Caps lock and underscore constant variables
+- [Chainlink Solidity Style Guide](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/13)
+
+## Pushing to GitHub
+- [Github Quickstart](https://docs.github.com/en/get-started/quickstart)
+- [What is Git?](https://www.git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
+- [The quickstart that we follow in the video](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-using-git)
+- [Learn about git and GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk)
+## 🐸🐦 [Tweet Me (add your repo in)!](https://twitter.com/intent/tweet?text=I%20just%20made%20my%20first%20Smart%20Contract%20repo%20using%20@solidity_lang,%20@HardhatHQ,%20@chainlink,%20@AlchemyPlatform,%20and%20more!%0a%0aThanks%20@PatrickAlphaC!!)
+
+## Recap
 
 # Lesson 8: Html/Js Fund Me
 
@@ -196,6 +267,8 @@ Fun storage stuff
 # Lesson 10: Foundry ERC20s
 
 # Lesson 11: Foundry NFTs | MoodNFT
+
+[ENS](https://ens.domains/)
 
 # Lesson 12: Foundry DeFi | Stablecoin
 
