@@ -40,7 +40,6 @@ TODO: Add gitpod
     - [Questions](#questions)
 - [Lesson 0: Welcome to the Course!](#lesson-0-welcome-to-the-course)
 - [Lesson 1: Blockchain Basics](#lesson-1-blockchain-basics)
-  - [Deploying to a testnet or a mainnet](#deploying-to-a-testnet-or-a-mainnet)
 - [Lesson 2: Welcome to Remix - Remix Simple Storage](#lesson-2-welcome-to-remix---remix-simple-storage)
   - [TODO: Extra credit / Exersizes!](#todo-extra-credit--exersizes)
 - [Lesson 3: Remix Storage Factory](#lesson-3-remix-storage-factory)
@@ -53,6 +52,7 @@ TODO: Add gitpod
     - [Windows Setup](#windows-setup)
     - [Gitpod](#gitpod)
   - [Local Development Introduction](#local-development-introduction)
+  - [Deploying to a testnet or a mainnet](#deploying-to-a-testnet-or-a-mainnet)
   - [TODO: Add FCC bash lessons](#todo-add-fcc-bash-lessons)
   - [TODO: Extra credit / Exersizes!](#todo-extra-credit--exersizes-3)
 - [Lesson 7: Foundry Fund Me](#lesson-7-foundry-fund-me)
@@ -87,9 +87,6 @@ TODO: Add gitpod
 Wallets:
 - [Metamask](https://metamask.io/)
 - [Frame](https://frame.sh/)
-
-## Deploying to a testnet or a mainnet
-- [Alchemy](https://alchemy.com/?a=673c802981)
 
 # Lesson 2: Welcome to Remix - Remix Simple Storage
 
@@ -170,6 +167,9 @@ tests
 ```bash
 cast --to-base 0x01 dec
 ```
+
+## Deploying to a testnet or a mainnet
+- [Alchemy](https://alchemy.com/?a=673c802981)
 
 ## TODO: Add FCC bash lessons
 
