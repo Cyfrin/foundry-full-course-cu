@@ -22,6 +22,7 @@ Backup Faucet:<a href="https://sepoliafaucet.com/" target="_blank"> https://sepo
     - Just know that it will often get things wrong, but it's very fast!
 - [Phind](https://www.phind.com/)
     - Like ChatGPT, but it searches the web
+- [Other AI extensions](https://twitter.com/aisolopreneur/status/1654823630155464704?s=42&t=-pu_sCYtfrfPJU7OXfifrQ)
 - Github Discussions 
     -   Ask questions and chat about the course here!
 -   [Stack Exchange Ethereum](https://ethereum.stackexchange.com/)
@@ -70,7 +71,7 @@ TODO: Add gitpod
   - [Pushing to GitHub](#pushing-to-github)
   - [🐸🐦 Tweet Me (add your repo in)!](#-tweet-me-add-your-repo-in)
   - [Recap](#recap)
-- [Lesson 8: Html/Js Fund Me](#lesson-8-htmljs-fund-me)
+- [Lesson 8: Html/Js Fund Me (Quick Fullstack / Front End Tutorial)](#lesson-8-htmljs-fund-me-quick-fullstack--front-end-tutorial)
 - [Lesson 9: Foundry Smart Contract Lottery](#lesson-9-foundry-smart-contract-lottery)
 - [Lesson 10: Foundry ERC20s](#lesson-10-foundry-erc20s)
 - [Lesson 11: Foundry NFTs | MoodNFT](#lesson-11-foundry-nfts--moodnft)
@@ -232,6 +233,7 @@ We cover 1 and 3.
 
 ## Style Guide
 - [Style Guide](https://docs.soliditylang.org/en/latest/style-guide.html)
+  - [Chainlink Style Guide](https://github.com/smartcontractkit/chainlink/blob/develop/contracts/STYLE.md)
 - [NatSpec](https://docs.soliditylang.org/en/latest/natspec-format.html)
 
 ## Gas III
@@ -252,6 +254,8 @@ cast storage
 - [Chainlink Solidity Style Guide](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/13)
 
 ## Pushing to GitHub
+- [Git Docs](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- [GitHub docs](https://docs.github.com/en)
 - [Github Quickstart](https://docs.github.com/en/get-started/quickstart)
 - [What is Git?](https://www.git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 - [The quickstart that we follow in the video](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-using-git)
@@ -260,9 +264,13 @@ cast storage
 
 ## Recap
 
-# Lesson 8: Html/Js Fund Me
+# Lesson 8: Html/Js Fund Me (Quick Fullstack / Front End Tutorial)
+
+💻 Code: [https://github.com/ChainAccelOrg/html-fund-me-f23](https://github.com/ChainAccelOrg/html-fund-me-f23)
 
 # Lesson 9: Foundry Smart Contract Lottery
+
+- debug TX
 
 # Lesson 10: Foundry ERC20s
 
