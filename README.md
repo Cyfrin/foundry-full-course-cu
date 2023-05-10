@@ -69,10 +69,42 @@ TODO: Add gitpod
   - [Gas III](#gas-iii)
   - [Storage](#storage)
   - [Pushing to GitHub](#pushing-to-github)
+- [TODO: Fix the tweet for paradigm instead of hardhat](#todo-fix-the-tweet-for-paradigm-instead-of-hardhat)
   - [🐸🐦 Tweet Me (add your repo in)!](#-tweet-me-add-your-repo-in)
   - [Recap](#recap)
 - [Lesson 8: Html/Js Fund Me (Quick Fullstack / Front End Tutorial)](#lesson-8-htmljs-fund-me-quick-fullstack--front-end-tutorial)
 - [Lesson 9: Foundry Smart Contract Lottery](#lesson-9-foundry-smart-contract-lottery)
+  - [Raffle.sol Setup](#rafflesol-setup)
+  - [Introduction to Events](#introduction-to-events)
+  - [Events in Raffle.sol](#events-in-rafflesol)
+  - [Introduction to Chainlink VRF](#introduction-to-chainlink-vrf)
+    - [Sub-Lesson: Chainlink VRF](#sub-lesson-chainlink-vrf)
+  - [Implementing Chainlink VRF - Introduction](#implementing-chainlink-vrf---introduction)
+  - [Implementing Chainlink VRF - The Request](#implementing-chainlink-vrf---the-request)
+  - [Implementing Chainlink VRF - The FulFill](#implementing-chainlink-vrf---the-fulfill)
+    - [Modulo](#modulo)
+  - [Introduction to Chainlink Automation](#introduction-to-chainlink-automation)
+  - [Implementing Chainlink Keepers - checkUpkeep](#implementing-chainlink-keepers---checkupkeep)
+    - [Enums](#enums)
+  - [Implementing Chainlink Keepers - checkUpkeep continued](#implementing-chainlink-keepers---checkupkeep-continued)
+  - [Implementing Chainlink Keepers - performUpkeep](#implementing-chainlink-keepers---performupkeep)
+  - [Code Cleanup](#code-cleanup)
+  - [Deploying Raffle.sol](#deploying-rafflesol)
+    - [Mock Chainlink VRF Coordinator](#mock-chainlink-vrf-coordinator)
+    - [Continued](#continued)
+  - [Raffle.sol Unit Tests](#rafflesol-unit-tests)
+    - [Testing Events \& Chai Matchers](#testing-events--chai-matchers)
+    - [Continued I](#continued-i)
+  - [Hardhat Methods \& Time Travel](#hardhat-methods--time-travel)
+    - [Continued II](#continued-ii)
+  - [Callstatic](#callstatic)
+    - [Continued III](#continued-iii)
+    - [Massive Promise Test](#massive-promise-test)
+    - [Continued IV](#continued-iv)
+  - [Raffle.sol Staging Tests](#rafflesol-staging-tests)
+  - [Testing on a Testnet](#testing-on-a-testnet)
+    - [Recommended LINK amounts for Sepolia Staging Test:](#recommended-link-amounts-for-sepolia-staging-test)
+  - [Conclusion](#conclusion)
 - [Lesson 10: Foundry ERC20s](#lesson-10-foundry-erc20s)
 - [Lesson 11: Foundry NFTs | MoodNFT](#lesson-11-foundry-nfts--moodnft)
 - [Lesson 12: Foundry DeFi | Stablecoin](#lesson-12-foundry-defi--stablecoin)
@@ -260,6 +292,9 @@ cast storage
 - [What is Git?](https://www.git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 - [The quickstart that we follow in the video](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-using-git)
 - [Learn about git and GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk)
+
+# TODO: Fix the tweet for paradigm instead of hardhat
+
 ## 🐸🐦 [Tweet Me (add your repo in)!](https://twitter.com/intent/tweet?text=I%20just%20made%20my%20first%20Smart%20Contract%20repo%20using%20@solidity_lang,%20@HardhatHQ,%20@chainlink,%20@AlchemyPlatform,%20and%20more!%0a%0aThanks%20@PatrickAlphaC!!)
 
 ## Recap
@@ -270,7 +305,68 @@ cast storage
 
 # Lesson 9: Foundry Smart Contract Lottery
 
+💻 Code: [https://github.com/ChainAccelOrg/foundry-smart-contract-lottery-f23](https://github.com/ChainAccelOrg/foundry-smart-contract-lottery-f23)
+
 - debug TX
+
+## Raffle.sol Setup
+* Raffle.sol Setup
+- Custom Errors in Solidity
+## Introduction to Events
+* Introduction to Events
+- Events & Logging Video
+- Events & Logging in Hardhat
+## Events in Raffle.sol
+* Events in Raffle.sol
+## Introduction to Chainlink VRF
+* Introduction to Chainlink VRF
+- Special Guest <>
+### Sub-Lesson: Chainlink VRF
+> - Chainlink VRFv2 Docs
+> - Chainlink VRFv2 Walkthrough
+> - Chainlink Contracts
+## Implementing Chainlink VRF - Introduction
+* Implementing Chainlink VRF
+## Implementing Chainlink VRF - The Request
+## Implementing Chainlink VRF - The FulFill
+### Modulo
+- Modulo
+## Introduction to Chainlink Automation
+- Chainlink Automation Docs
+- Chainlink Automation Walkthrough
+## Implementing Chainlink Keepers - checkUpkeep
+### Enums
+- Enum
+## Implementing Chainlink Keepers - checkUpkeep continued
+- block.timestamp
+## Implementing Chainlink Keepers - performUpkeep
+## Code Cleanup
+## Deploying Raffle.sol
+### Mock Chainlink VRF Coordinator
+### Continued
+- LINK Token
+## Raffle.sol Unit Tests
+- We use `async function` in the describe blocks at the start, but we correctly take them out later.
+### Testing Events & Chai Matchers
+- Emit Chai Matcher
+### Continued I
+## Hardhat Methods & Time Travel
+- Make Hardhat do whatever you want it to
+- Special debugging hardhat methods
+### Continued II
+## Callstatic
+- Callstatic
+### Continued III
+### Massive Promise Test
+### Continued IV
+## Raffle.sol Staging Tests
+## Testing on a Testnet
+### Recommended LINK amounts for Sepolia Staging Test:
+- Chainlink VRF: 2 LINK
+- Chainlink Keepers: 8 LINK
+## Conclusion
+
+
 
 # Lesson 10: Foundry ERC20s
 
