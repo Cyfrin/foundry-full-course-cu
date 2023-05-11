@@ -83,6 +83,7 @@ TODO: Add gitpod
   - [Implementing Chainlink VRF - The Request](#implementing-chainlink-vrf---the-request)
   - [Implementing Chainlink VRF - The FulFill](#implementing-chainlink-vrf---the-fulfill)
     - [Modulo](#modulo)
+  - [CEI](#cei)
   - [Introduction to Chainlink Automation](#introduction-to-chainlink-automation)
   - [Implementing Chainlink Keepers - checkUpkeep](#implementing-chainlink-keepers---checkupkeep)
     - [Enums](#enums)
@@ -93,26 +94,30 @@ TODO: Add gitpod
     - [Mock Chainlink VRF Coordinator](#mock-chainlink-vrf-coordinator)
     - [Continued](#continued)
   - [Raffle.sol Unit Tests](#rafflesol-unit-tests)
-    - [Testing Events \& Chai Matchers](#testing-events--chai-matchers)
+    - [Testing Events](#testing-events)
     - [Continued I](#continued-i)
-  - [Hardhat Methods \& Time Travel](#hardhat-methods--time-travel)
+  - [Cheatcodes - vm.warp](#cheatcodes---vmwarp)
     - [Continued II](#continued-ii)
   - [Callstatic](#callstatic)
     - [Continued III](#continued-iii)
-    - [Massive Promise Test](#massive-promise-test)
     - [Continued IV](#continued-iv)
   - [Raffle.sol Staging Tests](#rafflesol-staging-tests)
   - [Testing on a Testnet](#testing-on-a-testnet)
     - [Recommended LINK amounts for Sepolia Staging Test:](#recommended-link-amounts-for-sepolia-staging-test)
   - [Conclusion](#conclusion)
 - [Lesson 10: Foundry ERC20s](#lesson-10-foundry-erc20s)
+  - [What is an ERC? What is an EIP?](#what-is-an-erc-what-is-an-eip)
+  - [What is an ERC20?](#what-is-an-erc20)
+  - [Manually Creating an ERC20 Token](#manually-creating-an-erc20-token)
+  - [Creating an ERC20 Token with Openzeppelin](#creating-an-erc20-token-with-openzeppelin)
+  - [Lesson 12 Recap](#lesson-12-recap)
 - [Lesson 11: Foundry NFTs | MoodNFT](#lesson-11-foundry-nfts--moodnft)
 - [Lesson 12: Foundry DeFi | Stablecoin](#lesson-12-foundry-defi--stablecoin)
 - [Lesson 13: Fuzzy Basket](#lesson-13-fuzzy-basket)
 - [Lesson 14: Foundry DeFi | Stablecoin level up](#lesson-14-foundry-defi--stablecoin-level-up)
 - [Lesson 15: Foundry Upgrades](#lesson-15-foundry-upgrades)
 - [Lesson 16: Foundry Governance | Plutocracy (And why it's bad)](#lesson-16-foundry-governance--plutocracy-and-why-its-bad)
-- [Lesson 17: Smart Contract Security (Get to this section!!)](#lesson-17-smart-contract-security-get-to-this-section)
+- [Lesson 17: Introduction to Smart Contract Security (Get to this section!!)](#lesson-17-introduction-to-smart-contract-security-get-to-this-section)
 
 
 # Lesson 0: Welcome to the Course!
@@ -331,6 +336,7 @@ cast storage
 ## Implementing Chainlink VRF - The FulFill
 ### Modulo
 - Modulo
+## CEI
 ## Introduction to Chainlink Automation
 - Chainlink Automation Docs
 - Chainlink Automation Walkthrough
@@ -346,18 +352,13 @@ cast storage
 ### Continued
 - LINK Token
 ## Raffle.sol Unit Tests
-- We use `async function` in the describe blocks at the start, but we correctly take them out later.
-### Testing Events & Chai Matchers
-- Emit Chai Matcher
+### Testing Events
 ### Continued I
-## Hardhat Methods & Time Travel
-- Make Hardhat do whatever you want it to
-- Special debugging hardhat methods
+## Cheatcodes - vm.warp
 ### Continued II
 ## Callstatic
 - Callstatic
 ### Continued III
-### Massive Promise Test
 ### Continued IV
 ## Raffle.sol Staging Tests
 ## Testing on a Testnet
@@ -366,9 +367,25 @@ cast storage
 - Chainlink Keepers: 8 LINK
 ## Conclusion
 
-
-
 # Lesson 10: Foundry ERC20s
+
+💻 Code: [https://github.com/ChainAccelOrg/foundry-erc20-f23](https://github.com/ChainAccelOrg/foundry-erc20-f23)
+
+## What is an ERC? What is an EIP?
+- What is an EIP?
+- EIPs codebase
+## What is an ERC20?
+- Video (using brownie/python)
+- EIP-20
+- ERC-677
+- EIP-777
+## Manually Creating an ERC20 Token
+## Creating an ERC20 Token with Openzeppelin
+- Openzeppelin
+- Openzeppelin Contracts
+- Solmate (Openzeppelin alternative)
+## Lesson 12 Recap
+
 
 # Lesson 11: Foundry NFTs | MoodNFT
 
@@ -388,7 +405,7 @@ Fuzz Testing
 
 # Lesson 16: Foundry Governance | Plutocracy (And why it's bad)
 
-# Lesson 17: Smart Contract Security (Get to this section!!)
+# Lesson 17: Introduction to Smart Contract Security (Get to this section!!)
 - Reentrancy
 - Symbolic Execution
 - Flash loans
