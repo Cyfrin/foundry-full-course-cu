@@ -136,13 +136,24 @@ TODO: Add gitpod
     - [Creating an NFT TokenURI on-Chain](#creating-an-nft-tokenuri-on-chain)
     - [Deploy Script](#deploy-script-1)
   - [Deploying the NFTs to a Testnet](#deploying-the-nfts-to-a-testnet)
-  - [Lesson 14 Recap](#lesson-14-recap)
-- [Lesson 12: Foundry DeFi | Stablecoin](#lesson-12-foundry-defi--stablecoin)
-- [Lesson 13: Fuzzy Basket](#lesson-13-fuzzy-basket)
-- [Lesson 14: Foundry DeFi | Stablecoin level up](#lesson-14-foundry-defi--stablecoin-level-up)
-- [Lesson 15: Foundry Upgrades](#lesson-15-foundry-upgrades)
-- [Lesson 16: Foundry Governance | Plutocracy (And why it's bad)](#lesson-16-foundry-governance--plutocracy-and-why-its-bad)
-- [Lesson 17: Introduction to Smart Contract Security (Get to this section!!)](#lesson-17-introduction-to-smart-contract-security-get-to-this-section)
+  - [Lesson 12 Recap](#lesson-12-recap-1)
+- [Lesson 12: Foundry DeFi | Stablecoin (The PINNACLE PROJECT!! GET HERE!)](#lesson-12-foundry-defi--stablecoin-the-pinnacle-project-get-here)
+  - [What is DeFi?](#what-is-defi)
+  - [What is Aave?](#what-is-aave)
+  - [Programmatic Borrowing \& Lending](#programmatic-borrowing--lending)
+  - [WETH - Wrapped ETH](#weth---wrapped-eth)
+  - [Depositing into Aave](#depositing-into-aave)
+  - [Borrowing from Aave](#borrowing-from-aave)
+  - [Repaying with Aave](#repaying-with-aave)
+  - [Visualizing the Transactions](#visualizing-the-transactions)
+  - [MEV](#mev)
+  - [What is a stablecoin?](#what-is-a-stablecoin)
+  - [Fuzzing](#fuzzing)
+  - [Happy Bow-Tie Friday with Austin Griffith](#happy-bow-tie-friday-with-austin-griffith)
+    - [More DeFi Learnings:](#more-defi-learnings)
+- [Lesson 13: Foundry Upgrades](#lesson-13-foundry-upgrades)
+- [Lesson 14: Foundry Governance | Plutocracy (And why it's bad)](#lesson-14-foundry-governance--plutocracy-and-why-its-bad)
+- [Lesson 15: Introduction to Smart Contract Security (All security interested parties... get here)](#lesson-15-introduction-to-smart-contract-security-all-security-interested-parties-get-here)
 
 
 # Lesson 0: Welcome to the Course!
@@ -467,26 +478,54 @@ What REALLY is the ABI?
 ### Creating an NFT TokenURI on-Chain
 ### Deploy Script
 ## Deploying the NFTs to a Testnet
-## Lesson 14 Recap
-
-
+## Lesson 12 Recap
 - [ENS](https://ens.domains/)
 
-# Lesson 12: Foundry DeFi | Stablecoin
+# Lesson 12: Foundry DeFi | Stablecoin (The PINNACLE PROJECT!! GET HERE!)
 
-MEV
 
-# Lesson 13: Fuzzy Basket
+## What is DeFi?
+- [What is DeFi?](https://chain.link/education/defi)
+- [DefiLlama](https://defillama.com/)
+## What is Aave?
+- [Aave](https://aave.com/)
+- [My Previous Aave Video on Shorting Assets](https://www.youtube.com/watch?v=TmNGAvI-RUA)
+## Programmatic Borrowing & Lending
+- [DAI](https://makerdao.com/en/)
+- [Uniswap](https://app.uniswap.org/)
+## WETH - Wrapped ETH
+- [WETH Token Sepolia Etherscan](https://sepolia.etherscan.io/address/0xdd13E55209Fd76AfE204dBda4007C227904f0a81)
+- [WETH Token Mainnet](https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2)
+## Depositing into Aave
+- [Aave V2 Docs](https://docs.aave.com/developers/v/2.0/)
+- [Aave NPM](https://www.npmjs.com/package/@aave/protocol-v2)
+## Borrowing from Aave
+- [Aave Borrowing FAQs](https://docs.aave.com/faq/borrowing)
+- [Health Factor](https://docs.aave.com/faq/borrowing#what-is-the-health-factor)
+- [Aave Risk Parameters](https://docs.aave.com/risk/asset-risk/risk-parameters)
+## Repaying with Aave 
+## Visualizing the Transactions
+- [aTokens](https://docs.aave.com/developers/v/1.0/developing-on-aave/the-protocol/atokens)
+## MEV
+- [Maximal Extractable Value](https://ethereum.org/en/developers/docs/mev/)
+- [FlashBots](https://www.flashbots.net/)
+## What is a stablecoin?
+- [Stablecoins, but actually](https://www.youtube.com/watch?v=pciVQVocTYc)
+## Fuzzing
+- [Fuzzing intro](https://www.youtube.com/watch?v=juyY-CTolac)
 
-Fuzz Testing
+## Happy Bow-Tie Friday with Austin Griffith
+- [Special Guest Austin Griffith](https://twitter.com/austingriffith)!
+- [Speed Run Ethereum](https://speedrunethereum.com/) 
+### More DeFi Learnings: 
+- [Defi-Minimal](https://github.com/smartcontractkit/defi-minimal/tree/main/contracts)
+- [Defi Dad](https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg)
 
-# Lesson 14: Foundry DeFi | Stablecoin level up
+# Lesson 13: Foundry Upgrades
 
-# Lesson 15: Foundry Upgrades
+# Lesson 14: Foundry Governance | Plutocracy (And why it's bad)
 
-# Lesson 16: Foundry Governance | Plutocracy (And why it's bad)
-
-# Lesson 17: Introduction to Smart Contract Security (Get to this section!!)
+# Lesson 15: Introduction to Smart Contract Security (All security interested parties... get here)
 - Reentrancy
 - Symbolic Execution
 - Flash loans
