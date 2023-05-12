@@ -112,6 +112,31 @@ TODO: Add gitpod
   - [Creating an ERC20 Token with Openzeppelin](#creating-an-erc20-token-with-openzeppelin)
   - [Lesson 12 Recap](#lesson-12-recap)
 - [Lesson 11: Foundry NFTs | MoodNFT](#lesson-11-foundry-nfts--moodnft)
+  - [What is an NFT?](#what-is-an-nft)
+  - [Code Overview](#code-overview)
+  - [Foundry Setup](#foundry-setup)
+  - [Basic NFT](#basic-nft)
+    - [Write Tests](#write-tests)
+  - [IPFS NFT](#ipfs-nft)
+    - [Setting an NFT Mint Price](#setting-an-nft-mint-price)
+    - [Deploy Script](#deploy-script)
+    - [Uploading Token Images with Pinata](#uploading-token-images-with-pinata)
+    - [Uploading Token URIs (metadata) with Pinata](#uploading-token-uris-metadata-with-pinata)
+    - [Deploying](#deploying)
+    - [Tests](#tests)
+  - [SVG On-Chain NFT](#svg-on-chain-nft)
+    - [What is an SVG?](#what-is-an-svg)
+    - [Initial Code](#initial-code)
+    - [Base64 Encoding](#base64-encoding)
+  - [Advanced: EVM Opcodes, Encoding, and Calling](#advanced-evm-opcodes-encoding-and-calling)
+    - [abi.encode \& abi.encodePacked](#abiencode--abiencodepacked)
+    - [Introduction to Encoding Function Calls Directly](#introduction-to-encoding-function-calls-directly)
+    - [Introduction to Encoding Function Calls Recap](#introduction-to-encoding-function-calls-recap)
+    - [Encoding Function Calls Directly](#encoding-function-calls-directly)
+    - [Creating an NFT TokenURI on-Chain](#creating-an-nft-tokenuri-on-chain)
+    - [Deploy Script](#deploy-script-1)
+  - [Deploying the NFTs to a Testnet](#deploying-the-nfts-to-a-testnet)
+  - [Lesson 14 Recap](#lesson-14-recap)
 - [Lesson 12: Foundry DeFi | Stablecoin](#lesson-12-foundry-defi--stablecoin)
 - [Lesson 13: Fuzzy Basket](#lesson-13-fuzzy-basket)
 - [Lesson 14: Foundry DeFi | Stablecoin level up](#lesson-14-foundry-defi--stablecoin-level-up)
@@ -380,6 +405,7 @@ cast storage
 - ERC-677
 - EIP-777
 ## Manually Creating an ERC20 Token
+- `.github`
 ## Creating an ERC20 Token with Openzeppelin
 - Openzeppelin
 - Openzeppelin Contracts
@@ -389,7 +415,62 @@ cast storage
 
 # Lesson 11: Foundry NFTs | MoodNFT
 
-[ENS](https://ens.domains/)
+💻 Code: [https://github.com/ChainAccelOrg/foundry-nft-f23](https://github.com/ChainAccelOrg/foundry-nft-f23)
+
+
+## What is an NFT? 
+- Video
+- Optional: All on Chain SVG NFT
+- EIP-721
+## Code Overview
+## Foundry Setup
+## Basic NFT
+### Write Tests 
+- Openzeppelin NFT
+## IPFS NFT
+### Setting an NFT Mint Price
+### Deploy Script
+### Uploading Token Images with Pinata
+- Pinata
+- nft.storage
+- Pinata NPM
+- Pinata Docs
+### Uploading Token URIs (metadata) with Pinata
+### Deploying
+### Tests
+## SVG On-Chain NFT
+- Patrick's Original Video
+### What is an SVG?
+- SVG Tutorial
+  - On-Chain SVG Example
+### Initial Code  
+### Base64 Encoding
+- Base64 Encoding
+  - Example Encoder
+- base64-sol
+## Advanced: EVM Opcodes, Encoding, and Calling
+### abi.encode & abi.encodePacked
+- abi.encode
+- abi.encodePacked
+Thanks to [Alex Roan](https://twitter.com/alexroan) for his help on this session!
+- Example Contract Creation Transaction
+What REALLY is the ABI?
+- EVM Opcodes
+- More EVM Opcodes
+- Solidity Cheatsheet
+- abi.encode vs abi.encodePacked
+### Introduction to Encoding Function Calls Directly
+### Introduction to Encoding Function Calls Recap
+### Encoding Function Calls Directly
+- Function Selector
+- Function Signature
+### Creating an NFT TokenURI on-Chain
+### Deploy Script
+## Deploying the NFTs to a Testnet
+## Lesson 14 Recap
+
+
+- [ENS](https://ens.domains/)
 
 # Lesson 12: Foundry DeFi | Stablecoin
 
