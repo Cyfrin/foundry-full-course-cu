@@ -483,6 +483,7 @@ What REALLY is the ABI?
 
 # Lesson 12: Foundry DeFi | Stablecoin (The PINNACLE PROJECT!! GET HERE!)
 
+💻 Code: [https://github.com/ChainAccelOrg/foundry-defi-stablecoin-f23](https://github.com/ChainAccelOrg/foundry-defi-stablecoin-f23)
 
 ## What is DeFi?
 - [What is DeFi?](https://chain.link/education/defi)
