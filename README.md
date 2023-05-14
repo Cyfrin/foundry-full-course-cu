@@ -161,8 +161,11 @@ TODO: Add gitpod
   - [Delegatecall](#delegatecall)
   - [Small Proxy Example](#small-proxy-example)
   - [Universal Upgradable Smart Contract](#universal-upgradable-smart-contract)
-- [Lesson 14: Foundry Governance | Plutocracy (And why it's bad)](#lesson-14-foundry-governance--plutocracy-and-why-its-bad)
-- [Lesson 15: Introduction to Smart Contract Security (All security interested parties... get here)](#lesson-15-introduction-to-smart-contract-security-all-security-interested-parties-get-here)
+- [Lesson 14: Foundry DAO / Governance](#lesson-14-foundry-dao--governance)
+  - [Introduction](#introduction-1)
+  - [What is a DAO?](#what-is-a-dao)
+  - [How to build a DAO](#how-to-build-a-dao)
+- [Lesson 15: Smart Contract Security \& Auditing (For developers)](#lesson-15-smart-contract-security--auditing-for-developers)
 
 
 # Lesson 0: Welcome to the Course!
@@ -559,9 +562,29 @@ What REALLY is the ABI?
 - [UUPS vs Transparent](https://docs.openzeppelin.com/contracts/4.x/api/proxy#transparent-vs-uups)
 - [Hardhat-deploy Proxies](https://github.com/wighawag/hardhat-deploy#deploying-and-upgrading-proxies)
 
-# Lesson 14: Foundry Governance | Plutocracy (And why it's bad)
+# Lesson 14: Foundry DAO / Governance 
 
-# Lesson 15: Introduction to Smart Contract Security (All security interested parties... get here)
+Plutocracy is bad! Don't default to ERC20 token voting!!
+
+💻 Code: [https://github.com/ChainAccelOrg/foundry-dao-f23](https://github.com/ChainAccelOrg/foundry-dao-f23)
+
+## Introduction
+## What is a DAO?
+- [What is a DAO?](https://www.youtube.com/watch?v=X_QKZzd68ro)
+## How to build a DAO
+- [How to build a DAO](https://www.youtube.com/watch?v=AhJtmUqhAqg)
+- That's Patrick
+- [PY Code](https://github.com/brownie-mix/dao-mix)
+- [Python Video](https://www.youtube.com/watch?v=rD8AxZ_wBA4)
+- [Openzeppelin Governance](https://docs.openzeppelin.com/contracts/4.x/api/governance)
+- [Compound Governance](https://compound.finance/governance)
+- [Contract Wizard](https://docs.openzeppelin.com/contracts/4.x/wizard)
+- [CastVoteBySig](https://forum.openzeppelin.com/t/what-is-votecastbysig/17069/2)
+
+# Lesson 15: Smart Contract Security & Auditing (For developers)
+
+Developers 100% should know all about this! Don't leave the course without at least watching this section!
+
 - Reentrancy
 - Symbolic Execution
 - Flash loans
