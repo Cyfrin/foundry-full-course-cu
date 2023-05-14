@@ -147,11 +147,17 @@ TODO: Add gitpod
   - [Repaying with Aave](#repaying-with-aave)
   - [Visualizing the Transactions](#visualizing-the-transactions)
   - [MEV](#mev)
+  - [Smart Contract Audit](#smart-contract-audit)
   - [What is a stablecoin?](#what-is-a-stablecoin)
   - [Fuzzing](#fuzzing)
   - [Happy Bow-Tie Friday with Austin Griffith](#happy-bow-tie-friday-with-austin-griffith)
     - [More DeFi Learnings:](#more-defi-learnings)
 - [Lesson 13: Foundry Upgrades](#lesson-13-foundry-upgrades)
+  - [Upgradable Smart Contracts Overview](#upgradable-smart-contracts-overview)
+  - [Types of Upgrades](#types-of-upgrades)
+  - [Delegatecall](#delegatecall)
+  - [Small Proxy Example](#small-proxy-example)
+  - [Universal Upgradable Smart Contract](#universal-upgradable-smart-contract)
 - [Lesson 14: Foundry Governance | Plutocracy (And why it's bad)](#lesson-14-foundry-governance--plutocracy-and-why-its-bad)
 - [Lesson 15: Introduction to Smart Contract Security (All security interested parties... get here)](#lesson-15-introduction-to-smart-contract-security-all-security-interested-parties-get-here)
 
@@ -509,7 +515,9 @@ What REALLY is the ABI?
 - [aTokens](https://docs.aave.com/developers/v/1.0/developing-on-aave/the-protocol/atokens)
 ## MEV
 - [Maximal Extractable Value](https://ethereum.org/en/developers/docs/mev/)
-- [FlashBots](https://www.flashbots.net/)
+- [FlashBots new to MEV](https://docs.flashbots.net/new-to-mev)
+## Smart Contract Audit
+- [What is a smart contract audit](https://www.youtube.com/watch?v=aOqhQvWhUG0)
 ## What is a stablecoin?
 - [Stablecoins, but actually](https://www.youtube.com/watch?v=pciVQVocTYc)
 ## Fuzzing
@@ -523,6 +531,30 @@ What REALLY is the ABI?
 - [Defi Dad](https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg)
 
 # Lesson 13: Foundry Upgrades
+
+💻 Code: [https://github.com/ChainAccelOrg/foundry-upgrades-f23](https://github.com/ChainAccelOrg/foundry-upgrades-f23)
+
+## Upgradable Smart Contracts Overview
+- [Optional Video](https://www.youtube.com/watch?v=bdXJmWajZRY)
+## Types of Upgrades
+1.  Parameter
+2.  Social Migrate
+3.  Proxy
+    1.  Proxy Gotchas
+        1. [Function Collisions](https://blog.openzeppelin.com/the-state-of-smart-contract-upgrades/#diamonds)
+        2. [Storage Collisions](https://blog.openzeppelin.com/the-state-of-smart-contract-upgrades/#diamonds)
+    2.  [Metamorphic Upgrades](https://github.com/PatrickAlphaC/hardhat-metamorphic-upgrades-fcc)
+    3.  [Transparent](https://blog.openzeppelin.com/the-transparent-proxy-pattern/)
+    4.  [UUPS](https://forum.openzeppelin.com/t/uups-proxies-tutorial-solidity-javascript/7786)
+    5.  [Diamond](https://eips.ethereum.org/EIPS/eip-2535)
+## Delegatecall
+- [delegatecall (solidity-by-example)](https://solidity-by-example.org/delegatecall)
+- [Yul](https://docs.soliditylang.org/en/latest/yul.html)
+## Small Proxy Example
+- [EIP 1967](https://eips.ethereum.org/EIPS/eip-1967)
+## Universal Upgradable Smart Contract 
+- [UUPS vs Transparent](https://docs.openzeppelin.com/contracts/4.x/api/proxy#transparent-vs-uups)
+- [Hardhat-deploy Proxies](https://github.com/wighawag/hardhat-deploy#deploying-and-upgrading-proxies)
 
 # Lesson 14: Foundry Governance | Plutocracy (And why it's bad)
 
