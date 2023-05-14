@@ -6,7 +6,9 @@ Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidi
 
 *Video coming soon...*
 
-Recommended Testnet: Sepolia
+## Recommended Tools
+- Recommended Testnet: Sepolia
+- Recommended DevOps: [foundry-devops](https://github.com/ChainAccelOrg/foundry-devops)
 
 # [Testnet Faucets](https://faucets.chain.link)
 Main Faucet:<a href="https://faucets.chain.link" target="_blank"> https://faucets.chain.link</a>
@@ -36,6 +38,7 @@ New: Each lesson gets an NFT, and a "where to learn more" section. Maybe on ZKSy
 TODO: Add gitpod
 
 - [Blockchain Developer, Smart Contract, \& Solidity Course - Powered By AI - Beginner to Expert Course | Foundry Edition 2023](#blockchain-developer-smart-contract--solidity-course---powered-by-ai---beginner-to-expert-course--foundry-edition-2023)
+  - [Recommended Tools](#recommended-tools)
 - [Testnet Faucets](#testnet-faucets)
 - [Resources For This Course](#resources-for-this-course)
     - [Questions](#questions)
