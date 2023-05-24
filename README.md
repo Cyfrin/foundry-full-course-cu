@@ -191,6 +191,18 @@ Wallets:
 
 💻 Code: [https://github.com/ChainAccelOrg/remix-simple-storage-f23](https://github.com/ChainAccelOrg/remix-simple-storage-f23)
 
+In this lesson, we will delve into the fundamentals of REMIX IDE, the ultimate choice for embarking on your smart contract development journey. With this web-based IDE, you gain the power to seamlessly develop, deploy, and test your smart contracts.
+
+What you are going to learn on this lesson?
+
+1. **Solidity Versions:** Gain insight into different Solidity versions and understand their significance in smart contract development.
+2. **Contract Creation:** Learn the step-by-step process of creating a contract, unlocking the potential to bring your ideas to life on the blockchain.
+3. **Variables:** Explore the world of variables and how they enable you to store and manipulate data within your smart contract.
+4. **Structs:** Discover the power of structs, a fundamental building block for organizing complex data structures within your contract.
+5. **Mappings:** Unleash the potential of mappings, allowing you to create efficient key-value data storage and retrieval mechanisms within your smart contract.
+ 6. **Functions:** Master the art of writing functions, enabling your smart contract to execute specific tasks and provide desired functionality.
+7. **Comments:** Learn the importance of comments in your smart contract code, aiding readability, collaboration, and understanding for yourself and other developers.
+
 ## TODO: Extra credit / Exersizes!
 
 1. Deploy a contract to <L2>
@@ -199,6 +211,10 @@ Wallets:
 
 💻 Code: [https://github.com/ChainAccelOrg/remix-storage-factory-f23](https://github.com/ChainAccelOrg/remix-storage-factory-f23)
 
+In this lesson, you will explore the powerful Factory pattern, a technique that empowers you to create instances of contracts within another contract. Unlock the ability to dynamically generate and manage contract instances, providing flexibility and scalability to your smart contract ecosystem.
+
+Additionally, you will delve into the art of importing contracts, an essential skill for building modular and reusable smart contract systems. Discover how to seamlessly integrate external contracts into your project, leveraging pre-existing functionalities and libraries to enhance the capabilities of your own contracts.
+
 ## TODO: Extra credit / Exersizes!
 
 1. Deploy a contract to <L2>
@@ -206,6 +222,36 @@ Wallets:
 # Lesson 4: Remix Fund Me
 
 💻 Code: [https://github.com/ChainAccelOrg/remix-fund-me-f23](https://github.com/ChainAccelOrg/remix-fund-me-f23)
+
+In this lesson, our main focus will be on creating crowdfunding contracts that leverage the power of Chainlink data feeds. By incorporating Chainlink data feeds, we will ensure reliable and accurate information retrieval for real-time price feeds. Join us as we dive into the world of crowdfunding and learn how to integrate Chainlink data feeds to create secure and transparent funding mechanisms on the blockchain.
+
+
+1. Usage of Libraries
+   - Explore the usage of libraries to extend the functionality of your contracts.
+   - See how the `PriceConverter` library enhances the `uint256` data type with a custom method `getConversionRate()`.
+
+2. Error Handling
+   - Discover the error handling mechanism in Solidity using the `error` keyword.
+   - Learn how to define and throw custom errors, such as the `NotOwner()` error for unauthorized access attempts.
+
+3. Constants and Immutability
+   - Learn the importance of constants for setting thresholds and defining fixed values.
+   - Explore the concept of immutability and the benefits of using the `immutable` keyword.
+
+4. Function Modifiers
+   - Discover the power of function modifiers in enforcing access control and simplifying code readability.
+   - Implement the `onlyOwner` modifier to restrict certain functions to the contract owner.
+
+5. Interacting with External Contracts
+   - Explore the ability to interact with external contracts on the blockchain.
+   - Learn how to retrieve data from external contracts, as demonstrated by the `getVersion()` function.
+
+6. Ether Transactions and Withdrawal
+   - Dive into the world of Ether transactions within smart contracts.
+   - Understand different methods of transferring Ether and their implications, including the `transfer()`, `send()`, and `call()` functions.
+   - Witness the withdrawal of funds contributed by funders using the `withdraw()` function.
+
+
 
 ## TODO: Extra credit / Exersizes!
 Deploy to L2
@@ -217,6 +263,10 @@ DO NOT SKIP THIS!!
 # Lesson 6: Foundry Simple Storage
 
 💻 Code: [https://github.com/ChainAccelOrg/foundry-simple-storage-f23](https://github.com/ChainAccelOrg/foundry-simple-storage-f23)
+
+In this lesson, we will dive into the process of deploying the Simple Storage contract using Foundry. This is a powerful deployment tool that streamlines the deployment process and provides additional functionalities to enhance your contract deployment experience.
+
+We will explore step-by-step instructions on how to leverage Foundry to deploy the Simple Storage contract. You will learn how to configure deployment parameters, specify network settings, and manage contract deployment options efficiently.
 
 ## Installation & Setup (MacOS & Linux)
 -   [Visual Studio Code](https://code.visualstudio.com/)
