@@ -15,6 +15,477 @@ Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidi
 <br/>
 
 # Table of Contents
+
+
+<details>
+<summary>Resources</summary>
+<ol>
+<li><a href="#blockchain-developer-smart-contract--solidity-course---powered-by-ai---beginner-to-expert-course--foundry-edition-2023">Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course | Foundry Edition 2023</a></li>
+<li><a href="#table-of-contents">Table of Contents</a>
+  <ul>
+    <li><a href="#recommended-tools">Recommended Tools</a></li>
+  </ul>
+</li>
+<li><a href="#testnet-faucets">Testnet Faucets</a></li>
+<li><a href="#resources-for-this-course">Resources For This Course</a></li>
+<li><a href="#bonus-nfts">Bonus NFTs</a>
+  <ul>
+    <li><a href="#important-notes-for-arbitrum">Important Notes for Arbitrum</a></li>
+    <li><a href="#bridging-to-arbitrum">Bridging to Arbitrum</a></li>
+  </ul>
+</li>
+</ol>
+</details>
+<details>
+<summary> <a href="#lesson-0-the-edge-of-the-rabbit-hole">Lesson 0: The Edge of the Rabbit Hole</a></summary>
+<ol>
+  <li>
+  <a href="#welcome-to-the-course">Welcome to the course! </a>
+  </li>
+  <li>
+  <a href="#best-practices">Best Practices </a>
+  </li>
+</ol>
+</details>
+<details>
+<summary>
+<a href="#lesson-1-blockchain-basics">Lesson 1: Blockchain Basics</a>
+</summary>
+<ol>
+    <li><a href="#what-is-a-blockchain-what-does-a-blockchain-do">What is a Blockchain? What does a blockchain do?</a></li>
+    <li><a href="#the-purpose-of-smart-contracts">The Purpose Of Smart Contracts</a></li>
+    <li><a href="#other-blockchain-benefits">Other Blockchain Benefits</a></li>
+    <li><a href="#what-have-smart-contracts-done-so-far">What have Smart Contracts done so far?</a></li>
+    <li><a href="#making-your-first-transaction">Making Your First Transaction</a></li>
+    <li><a href="#gas-i-introduction-to-gas">Gas I: Introduction to Gas</a></li>
+    <li><a href="#how-do-blockchains-work">How Do Blockchains Work?</a></li>
+    <li><a href="#signing-transactions">Signing Transactions</a></li>
+    <li><a href="#gas-ii">Gas II</a></li>
+    <li><a href="#gas-ii-summary">Gas II Summary</a></li>
+    <li><a href="#high-level-blockchain-fundamentals">High-Level Blockchain Fundamentals</a></li>
+</ol>
+</details>
+
+<details>
+<summary>
+<a href="#lesson-2-welcome-to-remix---remix-simple-storage">Lesson 2: Welcome to Remix - Remix Simple Storage</a>
+</summary>
+<ol>
+    <li><a href="#introduction">Introduction</a></li>
+    <li><a href="#setting-up-your-first-contract">Setting Up Your First Contract</a></li>
+    <li><a href="#basic-solidity-types">Basic Solidity: Types</a></li>
+    <li><a href="#basic-solidity-functions">Basic Solidity: Functions</a></li>
+    <li><a href="#basic-solidity-arrays--structs">Basic Solidity: Arrays &amp; Structs</a></li>
+    <li><a href="#basic-solidity-compiler-errors-and-warnings">Basic Solidity: Compiler Errors and Warnings</a></li>
+    <li><a href="#memory-storage-calldata-intro">Memory, Storage, Calldata (Intro)</a></li>
+    <li><a href="#mappings">Mappings</a></li>
+    <li><a href="#deploying-your-first-contract">Deploying your First Contract</a></li>
+    <li><a href="#the-evm--a-recap-of-lesson-2">The EVM &amp; A Recap of Lesson 2</a></li>
+</ol>
+</details>
+<details>
+<summary><a href="#lesson-3-remix-storage-factory">Lesson 3: Remix Storage Factory</a></summary>
+<ol>
+    <li><a href="#introduction-1">Introduction</a></li>
+    <li><a href="#basic-solidity-importing-contracts-into-other-contracts">Basic Solidity: Importing Contracts into other Contracts</a></li>
+    <li><a href="#basic-solidity-interacting-with-other-contracts">Basic Solidity: Interacting with other Contracts</a></li>
+    <li><a href="#basic-solidity-inheritance--overrides">Basic Solidity: Inheritance &amp; Overrides</a></li>
+    <li><a href="#lesson-3-recap">Lesson 3 Recap</a></li>
+  </ol>
+</details>
+<details>
+<summary>
+<a href="#lesson-4-remix-fund-me">Lesson 4: Remix Fund Me</a>
+</summary>
+  <ol>
+    <li><a href="#introduction-2">Introduction</a></li>
+    <li><a href="#setup">Setup</a></li>
+    <li><a href="#sending-eth-through-a-function">Sending ETH through a function</a></li>
+    <li><a href="#reverts">Reverts</a></li>
+    <li><a href="#getting-real-world-price-data-chainlink">Getting real world price data (Chainlink)</a></li>
+    <li><a href="#quick-recap-i">Quick recap I</a></li>
+    <li><a href="#interfaces">Interfaces</a></li>
+    <li><a href="#ai-help-iii">AI Help III</a></li>
+    <li><a href="#importing-from-npm--github">Importing from NPM / GitHub</a></li>
+    <li><a href="#getting-prices-from-chainlink">Getting Prices from Chainlink</a></li>
+    <li><a href="#more-solidity-math">More solidity math</a></li>
+    <li><a href="#msgsender">msg.sender</a></li>
+    <li><a href="#quick-recap-ii">Quick recap II</a></li>
+    <li><a href="#library">Library</a></li>
+    <li><a href="#safemath">SafeMath</a></li>
+    <li><a href="#for-loop">For Loop</a></li>
+    <li><a href="#resetting-an-array">Resetting an array</a></li>
+    <li><a href="#transfer-send-and-call">Transfer, Send, and Call</a></li>
+    <li><a href="#constructor">Constructor</a></li>
+    <li><a href="#modifiers">Modifiers</a></li>
+    <li><a href="#testnet-demo">Testnet Demo</a></li>
+    <li><a href="#advanced-solidity">Advanced Solidity</a>
+      <ul>
+        <li><a href="#immutable--constant">Immutable &amp; Constant</a></li>
+        <li><a href="#custom-errors">Custom Errors</a></li>
+        <li><a href="#receive--fallback-functions">Receive &amp; Fallback Functions</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
+
+<details>
+<summary><a href="#lesson-5-ai-prompting-asking-questions-and-getting-help">Lesson 5: AI Prompting, Asking Questions, and Getting Help</a></summary>
+<ol>
+    <li><a href="#intro">Intro</a></li>
+    <li><a href="#7-tips-for-this-course">7 Tips for this Course</a></li>
+    <li><a href="#setting-up-github">Setting up GitHub</a></li>
+    <li><a href="#formatting-a-question">Formatting a question</a></li>
+    <li><a href="#speedrunethereum">SpeedRunEthereum</a></li>
+</ul>
+</details>
+<details>
+<summary>
+<a href="#lesson-6-foundry-simple-storage">Lesson 6: Foundry Simple Storage</a>
+</summary>
+  <ol>
+    <li><a href="#introduction-3">Introduction</a></li>
+    <li><a href="#installation--setup-macos--linux">Installation &amp; Setup (MacOS &amp; Linux)</a>
+      <ul>
+        <li><a href="#windows-setup">Windows Setup</a></li>
+        <li><a href="#gitpod">Gitpod</a></li>
+      </ul>
+    </li>
+    <li><a href="#local-development-introduction">Local Development Introduction</a></li>
+    <li><a href="#foundry-install">Foundry Install</a></li>
+    <li><a href="#vscode-setup-ii">VSCode Setup II</a></li>
+    <li><a href="#foundry-setup">Foundry Setup</a></li>
+    <li><a href="#formatting-solidity-in-vscode">Formatting Solidity in VSCode</a></li>
+    <li><a href="#compiling-in-foundry">Compiling in Foundry</a></li>
+    <li><a href="#deploying-to-a-local-chain-i-anvil-or-ganache">Deploying to a local chain I (Anvil or Ganache)</a></li>
+    <li><a href="#adding-another-network-to-metamask">Adding another network to metamask</a></li>
+    <li><a href="#deploying-to-a-local-chain-ii-forge-create">Deploying to a local chain II (Forge Create)</a></li>
+    <li><a href="#private-key-rant-i">Private Key Rant I</a></li>
+    <li><a href="#deploying-to-a-local-chain-iii-forge-script">Deploying to a local chain III (Forge Script)</a></li>
+    <li><a href="#what-is-a-transaction-but-actually">What is a transaction (But actually)</a></li>
+    <li><a href="#private-key-r-ant-ii">Private Key R ant II</a></li>
+    <li><a href="#can-you-encrypt-a-private-key---a-keystore-in-foundry-yet">Can you Encrypt a Private Key -&gt; a keystore in foundry yet??</a></li>
+    <li><a href="#thirdweb-deploy">ThirdWeb Deploy</a></li>
+    <li><a href="#private-key-rant-summary">Private Key Rant Summary:</a></li>
+    <li><a href="#cast-send">Cast Send</a></li>
+    <li><a href="#deploying-to-a-testnet-or-a-mainnet">Deploying to a testnet or a mainnet</a></li>
+    <li><a href="#verifying-a-contract-the-manual-way">Verifying a contract the manual way</a></li>
+    <li><a href="#cleaning-up-the-project">Cleaning up the project</a></li>
+    <li><a href="#alchemy">Alchemy</a></li>
+    <li><a href="#summary">Summary</a></li>
+  </ol>
+</details>
+
+<details>
+<summary>
+<a href="#lesson-7-foundry-fund-me">Lesson 7: Foundry Fund Me</a>
+</summary>
+<ol>
+    <li><a href="#introduction-4">Introduction</a></li>
+    <li><a href="#setup-1">Setup</a></li>
+    <li><a href="#testing-introduction">Testing Introduction</a></li>
+    <li><a href="#setup-continued">Setup Continued</a></li>
+    <li><a href="#tests">Tests</a></li>
+    <li><a href="#debugging-tests-i">Debugging Tests I</a></li>
+    <li><a href="#advanced-deploy-scripts-i">Advanced Deploy Scripts I</a></li>
+    <li><a href="#forked-tests">Forked Tests</a></li>
+    <li><a href="#refactoring-i-testing-deploy-scripts">Refactoring I: Testing Deploy Scripts</a></li>
+    <li><a href="#refactoring-ii-helper-config">Refactoring II: Helper Config</a></li>
+    <li><a href="#refactoring-iii-mocking-continued">Refactoring III: Mocking (continued)</a></li>
+    <li><a href="#magic-numbers">Magic Numbers</a></li>
+    <li><a href="#break-time">Break time!</a>
+    <li><a href="#more-cheatcodes">More Cheatcodes</a></li>
+    <li><a href="#more-coverage">More Coverage</a></li>
+    <li><a href="#chisel">Chisel</a></li>
+    <li><a href="#gas-cheaper-withdraw">Gas: Cheaper Withdraw</a></li>
+    <li><a href="#storage">Storage</a></li>
+    <li><a href="#gas-cheaper-withdraw-continued">Gas: Cheaper Withdraw (continued)</a></li>
+    <li><a href="#interactionsssol">Interactions.s.sol</a></li>
+    <li><a href="#makefile">Makefile</a></li>
+    <li><a href="#pushing-to-github">Pushing to GitHub</a></li>
+    <li><a href="#-tweet-me-add-your-repo-in">🐸🐦 Tweet Me (add your repo in)!</a></li>
+    <li><a href="#recap">Recap</a></li>
+  </ol>
+</details>
+<details>
+<summary>
+<a href="#lesson-8-htmljs-fund-me-quick-fullstack--front-end-tutorial">Lesson 8: Html/Js Fund Me (Quick Fullstack / Front End Tutorial)</a>
+</summary>
+  <ol>
+    <li><a href="#introduction-5">Introduction</a></li>
+    <li><a href="#setup-2">Setup</a></li>
+    <li><a href="#how-metamask-works-with-your-browser">How metamask works with your browser</a></li>
+    <li><a href="#introduction-to-function-selectors">Introduction to function selectors</a></li>
+    <li><a href="#recap-1">Recap</a></li>
+  </ol>
+</details>
+<details>
+<summary>
+<a href="#lesson-9-foundry-smart-contract-lottery">Lesson 9: Foundry Smart Contract Lottery</a>
+</summary>
+<ol>
+    <li><a href="#introduction-6">Introduction</a></li>
+    <li><a href="#rafflesol-setup">Raffle.sol Setup</a></li>
+    <li><a href="#solidity-contract-layout">Solidity Contract Layout</a></li>
+    <li><a href="#custom-errors-1">Custom Errors</a></li>
+    <li><a href="#events">Events</a></li>
+    <li><a href="#blocktimestamp">block.timestamp</a></li>
+    <li><a href="#chainlink-vrf">Chainlink VRF</a>
+      <ul>
+        <li><a href="#sub-lesson-chainlink-vrf">Sub-Lesson: Chainlink VRF</a></li>
+      </ul>
+    </li>
+    <li><a href="#implementing-chainlink-vrf---introduction">Implementing Chainlink VRF - Introduction</a></li>
+    <li><a href="#implementing-chainlink-vrf---the-request">Implementing Chainlink VRF - The Request</a></li>
+    <li><a href="#implementing-chainlink-vrf---the-fulfill">Implementing Chainlink VRF - The FulFill</a></li>
+    <li><a href="#chainlink-vrf-recap">Chainlink VRF Recap</a>
+      <ul>
+        <li><a href="#modulo">Modulo</a></li>
+      </ul>
+    </li>
+    <li><a href="#enum">Enum</a></li>
+    <li><a href="#resetting-an-array-1">Resetting an array</a></li>
+    <li><a href="#note-on-building">Note on building</a></li>
+    <li><a href="#cei">CEI</a></li>
+    <li><a href="#introduction-to-chainlink-automation">Introduction to Chainlink Automation</a></li>
+    <li><a href="#implementing-chainlink-keepers---checkupkeep">Implementing Chainlink Keepers - checkUpkeep</a>
+      <ul>
+        <li><a href="#enums">Enums</a></li>
+      </ul>
+    </li>
+    <li><a href="#implementing-chainlink-keepers---checkupkeep-continued">Implementing Chainlink Keepers - checkUpkeep continued</a></li>
+    <li><a href="#implementing-chainlink-keepers---performupkeep">Implementing Chainlink Keepers - performUpkeep</a></li>
+    <li><a href="#mid-lesson-recap">Mid-Lesson Recap</a></li>
+    <li><a href="#tests--deploy-script-setup">Tests & Deploy Script Setup</a>
+      <ul>
+        <li><a href="#mock-chainlink-vrf-coordinator">Mock Chainlink VRF Coordinator</a></li>
+      </ul>
+    </li>
+    <li><a href="#tests--deploy-script-continued">Tests & Deploy Script Continued</a></li>
+    <li><a href="#lots-of-tests">Lots of Tests</a>
+      <ul>
+        <li><a href="#testing-events-in-foundry">Testing Events in Foundry</a></li>
+        <li><a href="#vmroll--vmwarp">vm.roll & vm.warp</a></li>
+      </ul>
+    </li>
+    <li><a href="#create-subscription-script">Create Subscription Script</a></li>
+    <li><a href="#create-subscription-from-the-ui">Create Subscription from the UI</a></li>
+    <li><a href="#fund-subscription-script">Fund Subscription Script</a></li>
+    <li><a href="#add-consumer-script">Add Consumer Script</a></li>
+    <li><a href="#more-tests">More Tests</a></li>
+    <li><a href="#performupkeep-tests">PerformUpkeep Tests</a></li>
+    <li><a href="#getting-event-data-into-foundry-scripts">Getting Event Data into Foundry Scripts</a></li>
+    <li><a href="#intro-to-fuzz-tests">Intro to Fuzz tests</a></li>
+    <li><a href="#one-big-test">One Big Test</a></li>
+    <li><a href="#passing-the-private-key-to-vmstartbroadcast">Passing the private key to vm.startBroadcast</a></li>
+    <li><a href="#integrations-test">Integrations Test</a></li>
+    <li><a href="#testnet-demo---makefile-setup">Testnet Demo - Makefile setup</a></li>
+    <li><a href="#testnet-demo---the-demo">Testnet Demo - The Demo</a></li>
+    <li><a href="#consolelog-debugging">Console.log Debugging</a></li>
+    <li><a href="#forge-test---debug">forge test --debug</a></li>
+    <li><a href="#recap-2">Recap</a>
+      <ul>
+        <li><a href="#recommended-link-amounts-for-sepolia-staging-test">Recommended LINK amounts for Sepolia Staging Test:</a></li>
+      </ul>
+    </li>
+</ol>
+</details>
+
+<details>
+<summary>
+<a href="#lesson-10-foundry-erc20s">Lesson 10: Foundry ERC20s</a>
+</summary>
+<ol>
+    <li><a href="#what-is-an-erc-what-is-an-eip">What is an ERC? What is an EIP?</a></li>
+    <li><a href="#what-is-an-erc20">What is an ERC20?</a></li>
+    <li><a href="#manually-creating-an-erc20-token">Manually Creating an ERC20 Token</a></li>
+    <li><a href="#erc20-token---openzeppelin">ERC20 Token - Openzeppelin</a></li>
+    <li><a href="#deploy-script">Deploy Script</a></li>
+    <li><a href="#ai-tests">AI Tests</a></li>
+    <li><a href="#lesson-10-recap">Lesson 10 Recap</a></li>
+</ol>
+</details>
+<details>
+<summary>
+<a href="#lesson-11-foundry-nfts--moodnft">Lesson 11: Foundry NFTs | MoodNFT</a>
+</summary>
+  <ol>
+    <li><a href="#introduction-7">Introduction</a></li>
+    <li><a href="#what-is-an-nft">What is an NFT?</a></li>
+    <li><a href="#foundry-setup-1">Foundry Setup</a></li>
+    <li><a href="#ipfs">IPFS</a></li>
+    <li><a href="#using-ipfs">Using IPFS</a></li>
+    <li><a href="#basic-nft-deploy-script">Basic NFT: Deploy Script</a></li>
+    <li><a href="#basic-nft-tests">Basic NFT: Tests</a></li>
+    <li><a href="#basic-nft-interactions">Basic NFT: Interactions</a></li>
+    <li><a href="#basic-nft-testnet-demo">Basic NFT: Testnet Demo</a></li>
+    <li><a href="#the-issue-with-ipfs--https-tokenuri-nfts">The issue with IPFS & HTTPS TokenURI NFTs</a></li>
+    <li><a href="#what-is-an-svg">What is an SVG?</a></li>
+    <li><a href="#svg-nft-introduction">SVG NFT: Introduction</a></li>
+    <li><a href="#svg-nft-encoding-the-nft">SVG NFT: Encoding the NFT</a></li>
+    <li><a href="#svg-nft-flipping-the-mood">SVG NFT: Flipping the mood</a></li>
+    <li><a href="#svg-nft-deploy-script">SVG NFT: Deploy Script</a></li>
+    <li><a href="#svg-nft-debugging-practice--some-notes">SVG NFT: Debugging practice & some notes</a></li>
+    <li><a href="#svg-nft-anvil-demo">SVG NFT: Anvil Demo</a></li>
+    <li><a href="#advanced-evm-opcodes-encoding-and-calling">Advanced: EVM Opcodes, Encoding, and Calling</a>
+      <ul>
+        <li><a href="#abiencode--abiencodepacked">abi.encode & abi.encodePacked</a></li>
+        <li><a href="#introduction-to-encoding-function-calls-directly">Introduction to Encoding Function Calls Directly</a></li>
+        <li><a href="#introduction-to-encoding-function-calls-recap">Introduction to Encoding Function Calls Recap</a></li>
+        <li><a href="#encoding-function-calls-directly">Encoding Function Calls Directly</a></li>
+      </ul>
+    </li>
+    <li><a href="#verifying-metamask-transactions">Verifying Metamask Transactions</a></li>
+    <li><a href="#filecoin--arweave">Filecoin & Arweave</a></li>
+    <li><a href="#lesson-11-recap">Lesson 11 Recap</a></li>
+</ol>
+</details>
+
+<details>
+<summary>
+<a href="#lesson-12-foundry-defi--stablecoin-the-pinnacle-project-get-here">Lesson 12: Foundry DeFi | Stablecoin (The PINNACLE PROJECT!! GET HERE!)</a>
+</summary>
+<ol>
+    <li><a href="#what-is-defi">What is DeFi?</a></li>
+    <li><a href="#code-walkthrough">Code Walkthrough</a></li>
+    <li><a href="#what-is-a-stablecoin-but-actually">What is a stablecoin (But actually)</a></li>
+    <li><a href="#decentralizedstablecoinsol">DecentralizedStableCoin.sol</a></li>
+    <li><a href="#dscenginesol-setup">DSCEngine.sol Setup</a></li>
+    <li><a href="#deposit-collateral">Deposit Collateral</a></li>
+    <li><a href="#mint-dsc">Mint DSC</a>
+      <ul>
+        <li><a href="#getting-the-value-of-our-collateral">Getting the value of our collateral</a></li>
+        <li><a href="#health-factor">Health Factor</a></li>
+        <li><a href="#minting-the-dsc">Minting the DSC</a></li>
+      </ul>
+    </li>
+    <li><a href="#testing-while-developing">Testing while developing</a>
+      <ul>
+        <li><a href="#deploy-script-1">Deploy Script</a></li>
+        <li><a href="#tests-1">Tests</a></li>
+      </ul>
+    </li>
+    <li><a href="#depositcollateralandmintdsc">depositCollateralAndMintDsc</a></li>
+    <li><a href="#redeemcollateral">redeemCollateral</a></li>
+    <li><a href="#liquidate">Liquidate</a>
+      <ul>
+        <li><a href="#setup-3">Setup</a></li>
+        <li><a href="#refactoring">Refactoring</a></li>
+      </ul>
+    </li>
+    <li><a href="#leveling-up-your-testing-skillz">Leveling up your testing skillz</a></li>
+    <li><a href="#challenge-code-coverage-above-80-for-dscenginesol">Challenge: Code coverage above 80% for DSCEngine.sol</a></li>
+    <li><a href="#fuzz-invariant-testing">Fuzz (Invariant) Testing</a></li>
+    <li><a href="#open-based-fuzz-tests">Open-based Fuzz tests</a></li>
+    <li><a href="#handler-based-fuzz-tests">Handler-based Fuzz tests</a>
+      <ul>
+        <li><a href="#revert_on_fail--true">revert_on_fail = true</a></li>
+        <li><a href="#redeeming-collateral">Redeeming Collateral</a></li>
+        <li><a href="#minting-dsc">Minting DSC</a></li>
+        <li><a href="#debuggin-fuzz-tests">Debuggin Fuzz Tests</a></li>
+        <li><a href="#challenge-find-out-why-mintdsc-is-never-being-called-on-our-handlersol">Challenge: Find out why `mintDsc` is never being called on our Handler.sol</a></li>
+      </ul>
+    </li>
+    <li><a href="#price-feed-handling">Price Feed Handling</a></li>
+    <li><a href="#oraclelib">OracleLib</a></li>
+    <li><a href="#note-on-audit-preparedness">Note on audit preparedness</a></li>
+    <li><a href="#recap-3">Recap</a></li>
+    <li><a href="#lens-protocol">Lens Protocol</a></li>
+      <ul>
+        <li><a href="#more-defi-learnings">More DeFi Learnings:</a></li>
+      </ul>
+</ol>
+</details>
+
+
+<details>
+<summary>
+<a href="#lesson-13-foundry-upgrades">Lesson 13: Foundry Upgrades</a>
+</summary>
+<ol>
+    <li><a href="#upgradable-smart-contracts-overview">Upgradable Smart Contracts Overview</a></li>
+    <li><a href="#types-of-upgrades">Types of Upgrades</a></li>
+    <li><a href="#delegatecall">Delegatecall</a></li>
+    <li><a href="#small-proxy-example">Small Proxy Example</a></li>
+    <li><a href="#universal-upgradable-smart-contract">Universal Upgradable Smart Contract</a>
+      <ul>
+        <li><a href="#setup-4">Setup</a></li>
+        <li><a href="#initializer">Initializer</a></li>
+        <li><a href="#deploy">Deploy</a></li>
+        <li><a href="#upgradebox">UpgradeBox</a></li>
+        <li><a href="#test--demo">Test / Demo</a></li>
+      </ul>
+    </li>
+    <li><a href="#testnet-demo-1">Testnet Demo</a></li>
+</ol>
+</details>
+<details>
+<summary>
+<a href="#lesson-14-foundry-dao--governance">Lesson 14: Foundry DAO / Governance</a>
+</summary>
+  <ol>
+    <li><a href="#introduction-8">Introduction</a></li>
+    <li><a href="#what-is-a-dao">What is a DAO?</a></li>
+    <li><a href="#how-to-build-a-dao">How to build a DAO</a>
+      <ul>
+        <li><a href="#setup-5">Setup</a></li>
+        <li><a href="#governance-token">Governance Token</a></li>
+        <li><a href="#governor">Governor</a></li>
+        <li><a href="#tests-2">Tests</a></li>
+      </ul>
+    </li>
+    <li><a href="#wrap-up">Wrap up</a></li>
+    <li><a href="#bonus-gas-optimization-tips">Bonus: Gas optimization tips</a></li>
+  </ol>
+</details>
+<details>
+<summary>
+<a href="#lesson-15-smart-contract-security--auditing-for-developers">Lesson 15: Smart Contract Security & Auditing (For developers)</a>
+</summary>
+  <ol>
+    <li><a href="#introduction-9">Introduction</a></li>
+    <li><a href="#what-is-a-smart-contract-audit">What is a smart contract audit?</a></li>
+    <li><a href="#what-does-the-process-of-manual-review-look-like">What does the process of manual review look like?</a></li>
+    <li><a href="#tools">Tools</a>
+      <ul>
+        <li><a href="#manual-review">Manual Review</a></li>
+        <li><a href="#static-analysis">Static Analysis</a></li>
+        <li><a href="#dynamic-analysis">Dynamic Analysis</a></li>
+        <li><a href="#formal-verification">Formal Verification</a></li>
+        <li><a href="#symbolic-execution">Symbolic Execution</a></li>
+        <li><a href="#fuzzing">Fuzzing</a></li>
+        <li><a href="#formal-verification--symbolic-execution">Formal Verification (& Symbolic Execution)</a></li>
+        <li><a href="#other-security-stuff">Other security stuff</a></li>
+      </ul>
+    </li>
+    <li><a href="#closing-thoughts">Closing Thoughts</a></li>
+  </ol>
+</details>
+
+<details>
+<summary>
+<a href="#congratulations">Congratulations</a>
+</summary>
+<ol>
+    <li><a href="#where-do-i-go-now">Where do I go now?</a>
+      <ul>
+        <li><a href="#learning-more">Learning More</a></li>
+        <li><a href="#community">Community</a></li>
+        <li><a href="#hackathons">Hackathons</a></li>
+      </ul>
+</ol>
+</details>
+
+<a href="#disclosures">Disclosures</a>
+
+<a href="#thank-you">Thank you</a>
+
+
+
+<!-- 
+
+
+
 - [Blockchain Developer, Smart Contract, \& Solidity Course - Powered By AI - Beginner to Expert Course | Foundry Edition 2023](#blockchain-developer-smart-contract--solidity-course---powered-by-ai---beginner-to-expert-course--foundry-edition-2023)
 - [Table of Contents](#table-of-contents)
   - [Recommended Tools](#recommended-tools)
@@ -24,6 +495,8 @@ Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidi
   - [Important Notes for Arbitrum](#important-notes-for-arbitrum)
   - [Bridging to Arbitrum](#bridging-to-arbitrum)
 - [Lesson 0: Welcome to the Course!](#lesson-0-welcome-to-the-course)
+  - [Welcome to the Course!](#welcome-to-the-course)
+  - [Best Practices](#best-practices)
 - [Lesson 1: Blockchain Basics](#lesson-1-blockchain-basics)
   - [What is a Blockchain? What does a blockchain do?](#what-is-a-blockchain-what-does-a-blockchain-do)
   - [The Purpose Of Smart Contracts](#the-purpose-of-smart-contracts)
@@ -197,7 +670,7 @@ Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidi
   - [ERC20 Token - Openzeppelin](#erc20-token---openzeppelin)
   - [Deploy Script](#deploy-script)
   - [AI Tests](#ai-tests)
-  - [Lesson 12 Recap](#lesson-12-recap)
+  - [Lesson 10 Recap](#lesson-10-recap)
 - [Lesson 11: Foundry NFTs | MoodNFT](#lesson-11-foundry-nfts--moodnft)
   - [Introduction](#introduction-7)
   - [What is an NFT?](#what-is-an-nft)
@@ -223,7 +696,7 @@ Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidi
     - [Encoding Function Calls Directly](#encoding-function-calls-directly)
   - [Verifying Metamask Transactions](#verifying-metamask-transactions)
   - [Filecoin \& Arweave](#filecoin--arweave)
-  - [Lesson 12 Recap](#lesson-12-recap-1)
+  - [Lesson 11 Recap](#lesson-11-recap)
 - [Lesson 12: Foundry DeFi | Stablecoin (The PINNACLE PROJECT!! GET HERE!)](#lesson-12-foundry-defi--stablecoin-the-pinnacle-project-get-here)
   - [What is DeFi?](#what-is-defi)
   - [Code Walkthrough](#code-walkthrough)
@@ -301,7 +774,7 @@ Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidi
     - [Community](#community)
     - [Hackathons](#hackathons)
 - [Disclosures](#disclosures)
-- [Thank you](#thank-you)
+- [Thank you](#thank-you) -->
 
 
 
@@ -362,6 +835,10 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 3. Use the [Arbitrum Bridge](https://bridge.arbitrum.io/)
 
 # Lesson 0: Welcome to the Course!
+## Welcome to the Course! 
+- [TIMESTAMP]()
+
+## Best Practices
 - **Follow the repository:** While going through the course be 100% certain to follow along with the github repository. If you run into in an issue check the chronological-updates in the repo.
 - **Be Active in the community:** Ask questions and engage with other developers going through the course in the discussions tab, be sure to go and say hello or gm! This space is different from the other industries, you don't have to be secretive; communicate, network and learn with others :)
 - **Learn at your own pace:** It doesn't matter if it takes you a day, a week, a month or even a year. Progress >>> Perfection
@@ -1063,7 +1540,7 @@ cast storage
 ## Deploy Script
 ## AI Tests
 - [Token Approvals](https://etherscan.io/tokenapprovalchecker)
-## Lesson 12 Recap
+## Lesson 10 Recap
 
 
 # Lesson 11: Foundry NFTs | MoodNFT
@@ -1129,7 +1606,7 @@ What REALLY is the ABI?
 - [joinfire.zxyz](https://app.joinfire.xyz/)
 ## Filecoin & Arweave
 - Special Guest [Ally](https://twitter.com/DeveloperAlly)
-## Lesson 12 Recap
+## Lesson 11 Recap
 - [ENS](https://ens.domains/)
 
 # Lesson 12: Foundry DeFi | Stablecoin (The PINNACLE PROJECT!! GET HERE!)
