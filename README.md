@@ -14,7 +14,9 @@ Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidi
 </p>
 <br/>
 
+# Table of Contents
 - [Blockchain Developer, Smart Contract, \& Solidity Course - Powered By AI - Beginner to Expert Course | Foundry Edition 2023](#blockchain-developer-smart-contract--solidity-course---powered-by-ai---beginner-to-expert-course--foundry-edition-2023)
+- [Table of Contents](#table-of-contents)
   - [Recommended Tools](#recommended-tools)
 - [Testnet Faucets](#testnet-faucets)
 - [Resources For This Course](#resources-for-this-course)
