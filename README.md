@@ -4,18 +4,38 @@
 
 Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidity Course | Powered By AI | Beginner to Expert Course | Foundry Edition 2023
 
-*Video coming soon...*
+*Lol, my t-shirt is backwards in 2 of them*
 
 <br/>
-<p align="center">
-<a href="" target="_blank">
-<img src="./thumbnails/thumbnail-1.png" width="500" alt="Solidity, Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course">
-</a>
-</p>
+<table>
+  <tr>
+    <th align="center">Lessons 0 - 6</th>
+    <th align="center">Lessons 7 - 11</th>
+    <th align="center">Lessons 12 - 15</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://youtu.be/umepbfKp5rI" target="_blank">
+        <img src="./thumbnails/thumbnail-1.png" width="300" alt="Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI 1">
+      </a>
+    </td>
+    <td align="center">
+      <a href="" target="_blank">
+        <img src="./thumbnails/thumbnail-2.png" width="300" alt="Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI 2">
+      </a>
+    </td>
+    <td align="center">
+      <a href="" target="_blank">
+        <img src="./thumbnails/thumbnail-3.png" width="300" alt="Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI 3">
+      </a>
+    </td>
+  </tr>
+</table>
 <br/>
+
+[YouTube Playlist](https://www.youtube.com/playlist?list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42)
 
 # Table of Contents
-
 
 <details>
 <summary>Resources</summary>
@@ -834,9 +854,20 @@ IF YOU DECIDE TO MINT THE REAL NFT:
    5. [Coinbase Wallet](https://www.coinbase.com/wallet)
 3. Use the [Arbitrum Bridge](https://bridge.arbitrum.io/)
 
+
+# Video 1
+
+<br/>
+<p align="center">
+<a href="" target="_blank">
+<img src="./thumbnails/thumbnail-1.png" width="500" alt="Solidity, Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course">
+</a>
+</p>
+<br/>
+
 # Lesson 0: Welcome to the Course!
 ## Welcome to the Course! 
-- [TIMESTAMP]()
+*[⭐️ (0:00:00) | Lesson 0: Welcome!](https://youtu.be/umepbfKp5rI)*
 
 ## Best Practices
 - **Follow the repository:** While going through the course be 100% certain to follow along with the github repository. If you run into in an issue check the chronological-updates in the repo.
@@ -848,6 +879,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 - **Use ChatGPT and/or the course chat**
 
 # Lesson 1: Blockchain Basics
+*[⭐️ (0:13:54) | Lesson 1: Blockchain Basics](https://youtu.be/umepbfKp5rI)*
 ## What is a Blockchain? What does a blockchain do? 
 -   [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
     -   [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
@@ -862,7 +894,6 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 -   [What is a blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
 
 ## The Purpose Of Smart Contracts
-*[⌨️ (TIMESTAMP) The Purpose of Smart Contracts]()*
 - 🎥 [Original Video](https://www.youtube.com/watch?v=_JeRq7Gwj5Y&feature=youtu.be)
 - 🦬 [My ETH Denver Talk](https://www.youtube.com/watch?v=06hXCX_jj2E)
 - 🍔 [McDonalds Scandal](https://www.chicagotribune.com/sns-mcdonalds-story.html)
@@ -872,7 +903,6 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 - 🔮 [Chainlink & Oracles](https://www.youtube.com/watch?v=tIUHQ7sDoaU)
 
 ## Other Blockchain Benefits
-*[⌨️ (TIMESTAMP) Other Blockchain Benefits]()*
 - Decentralized
 - Transparency & Flexibility
 - Speed & Efficiency
@@ -881,7 +911,6 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 - Trust Minimized Agreements
 
 ## What have Smart Contracts done so far?
-*[⌨️ (TIMESTAMP) What have Smart Contracts done so far?]()*
 - [DeFi](https://chain.link/education/defi)
   - [Defi Llama](https://defillama.com/)
   - [Why DeFi is Important](https://medium.com/the-capital/why-defi-1519cc4d4bd3)
@@ -889,7 +918,6 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 - [NFTs](https://www.youtube.com/watch?v=9yuHz6g_P50)
 
 ## Making Your First Transaction
-*[⌨️ (TIMESTAMP) Making Your First Transaction]()*
 -   [Metamask Download Link](https://metamask.io/)
     -   [What is a Private Key?](https://www.coinbase.com/learn/crypto-basics/what-is-a-private-key)
     -   [What is a Secret Phrase?](https://metamask.zendesk.com/hc/en-us/articles/360060826432-What-is-a-Secret-Recovery-Phrase-and-how-to-keep-your-crypto-wallet-secure)
@@ -900,36 +928,30 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 -   OR, use the [Sepolia ETH Faucet](https://faucets.chain.link/), just be sure to swap your metamask to Sepolia!
 
 ## Gas I: Introduction to Gas
-*[⌨️ (TIMESTAMP) Gas I: Introduction to Gas]()*
 -   [Gas and Gas Fees](https://ethereum.org/en/developers/docs/gas/)
 -   [Wei, Gwei, and Ether Converter](https://eth-converter.com/)
 -   [ETH Gas Station](https://ethgasstation.info/)
 
 ## How Do Blockchains Work?
-*[⌨️ (TIMESTAMP) How Do Blockchains Work]()*
 - [What is a hash?](https://techjury.net/blog/what-is-cryptographic-hash/)
 - [Blockchain Demo](https://andersbrownworth.com/blockchain/)
 - [Summary](https://ethereum.org/en/developers/docs/intro-to-ethereum/)
 
 ## Signing Transactions
-*[⌨️ (TIMESTAMP) Signing Transactions]()*
 -   [Public / Private Keys](https://andersbrownworth.com/blockchain/public-private-keys/keys)
 -   [Layer 2 and Rollups](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/)
 -   [Decentralized Blockchain Oracles](https://blog.chain.link/what-is-the-blockchain-oracle-problem/)
 
 ## Gas II
-*[⌨️ (TIMESTAMP) Gas II: Block Rewards & EIP 1559]()*
 -   [Block Rewards](https://www.investopedia.com/terms/b/block-reward.asp)
 -   Advanced Gas
     -   [EIP 1559](https://www.youtube.com/watch?v=MGemhK9t44Q)
     -   GWEI, WEI, and ETH
         -   [ETH Converter](https://eth-converter.com/)
 ## Gas II Summary
-*[⌨️ (TIMESTAMP) Gas II Summary]()*
 -   [Run Your Own Ethereum Node](https://geth.ethereum.org/docs/getting-started)
 
 ## High-Level Blockchain Fundamentals
-*[⌨️ (TIMESTAMP) High-Level Blockchain Fundamentals]()*
 -   [Consensus](https://wiki.polkadot.network/docs/learn-consensus)
 -   [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
 -   [Proof of Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
@@ -942,7 +964,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 💻 Code: [https://github.com/cyfrin/remix-simple-storage-f23](https://github.com/cyfrin/remix-simple-storage-f23)
 
 ## Introduction
-*[⌨️ () Introduction]()*
+*[⭐️ (2:10:42) | Lesson 2: Welcome to Remix - Simple Storage](https://youtu.be/umepbfKp5rI)*
 - [Remix](https://remix.ethereum.org/)
 - [Solidity Documentation](https://docs.soliditylang.org/en/latest/index.html)
 
@@ -1019,9 +1041,8 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 
 💻 Code: [https://github.com/cyfrin/remix-storage-factory-f23](https://github.com/cyfrin/remix-storage-factory-f23)
 
-
 ## Introduction
-*[⌨️ () Introduction]()*
+*[⭐️ (3:29:58) | Lesson 3 | Storage Factory](https://youtu.be/umepbfKp5rI)*
 - [Factory Pattern](https://betterprogramming.pub/learn-solidity-the-factory-pattern-75d11c3e7d29)
 
 ## Basic Solidity: Importing Contracts into other Contracts
@@ -1049,6 +1070,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 💻 Code: [https://github.com/Cyfrin/remix-fund-me-f23](https://github.com/Cyfrin/remix-fund-me-f23)
 
 ## Introduction
+*[⭐️ (4:09:08) | Lesson 4 | Fund Me](https://youtu.be/umepbfKp5rI)*
 ## Setup
 ## Sending ETH through a function
 - [Fields in a Transaction](https://ethereum.org/en/developers/docs/transactions/)
@@ -1127,7 +1149,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 
 DO NOT SKIP THIS!!
 
-*[⌨️ () Introduction]()*
+*[⭐️ (6:00:00) | Lesson 5 | AI Prompting](https://youtu.be/umepbfKp5rI)*
 ## Intro
 - [Deep Learning for Python Engineers](https://learn.deeplearning.ai/)
 ## 7 Tips for this Course
@@ -1147,7 +1169,7 @@ DO NOT SKIP THIS!!
 
 
 ## Introduction
-*[⌨️ () Introduction]()*
+*[⭐️ (6:00:00) | Lesson 6 | Foundry Simple Storage](https://youtu.be/umepbfKp5rI)*
 
 ## Installation & Setup (MacOS & Linux)
 -   [Visual Studio Code](https://code.visualstudio.com/)
@@ -1408,7 +1430,7 @@ cast storage
 
 # Lesson 8: Html/Js Fund Me (Quick Fullstack / Front End Tutorial)
 
-*[⭐️ (2:36:02) | Lesson 8: HTML Fund Me](https://youtu.be/sas02qSFZ74)*
+*[⭐️ (2:37:02) | Lesson 8: HTML Fund Me](https://youtu.be/sas02qSFZ74?t=9422)*
 
 💻 Code: [https://github.com/Cyfrin/html-fund-me-f23](https://github.com/Cyfrin/html-fund-me-f23)
 
@@ -1432,7 +1454,7 @@ cast storage
 
 # Lesson 9: Foundry Smart Contract Lottery
 
-*[⭐️ (3:04:09) | Lesson 9: Smart Contract Lottery](https://youtu.be/sas02qSFZ74)*
+*[⭐️ (3:04:09) | Lesson 9: Smart Contract Lottery](https://youtu.be/sas02qSFZ74?t=11050)*
 
 💻 Code: [https://github.com/Cyfrin/foundry-smart-contract-lottery-f23](https://github.com/Cyfrin/foundry-smart-contract-lottery-f23)
 
@@ -1540,7 +1562,7 @@ cast storage
 
 # Lesson 10: Foundry ERC20s
 
-*[⭐️ (7:07:04) | Lesson 10: ERC20s](https://youtu.be/sas02qSFZ74)*
+*[⭐️ (7:07:04) | Lesson 10: ERC20s](https://youtu.be/sas02qSFZ74?t=25683)*
 
 💻 Code: [https://github.com/Cyfrin/foundry-erc20-f23](https://github.com/Cyfrin/foundry-erc20-f23)
 
@@ -1567,7 +1589,7 @@ cast storage
 
 # Lesson 11: Foundry NFTs | MoodNFT
 
-*[⭐️ (7:40:56) | Lesson 11: NFTs](https://youtu.be/sas02qSFZ74)*
+*[⭐️ (7:40:56) | Lesson 11: NFTs](https://youtu.be/sas02qSFZ74?t=27657)*
 
 💻 Code: [https://github.com/Cyfrin/foundry-nft-f23](https://github.com/Cyfrin/foundry-nft-f23)
 
@@ -1649,6 +1671,10 @@ What REALLY is the ABI?
 # Lesson 12: Foundry DeFi | Stablecoin (The PINNACLE PROJECT!! GET HERE!)
 
 💻 Code: [https://github.com/Cyfrin/foundry-defi-stablecoin-f23](https://github.com/Cyfrin/foundry-defi-stablecoin-f23)
+
+## Introduction
+
+*[⭐️ (0:00:00) | Lesson 12: DeFi Stablecoins](https://www.youtube.com/watch?v=wUjYK5gwNZs)*
 
 ## What is DeFi?
 - [What is DeFi?](https://chain.link/education/defi)
@@ -1742,6 +1768,10 @@ QR Code for Lesson 12 Arbitrum:
 
 💻 Code: [https://github.com/Cyfrin/foundry-upgrades-f23](https://github.com/Cyfrin/foundry-upgrades-f23)
 
+## Introduction
+
+*[⭐️ (4:47:00) | Lesson 13: Upgradable Contracts & Proxies](https://youtu.be/wUjYK5gwNZs?t=17220)*
+
 ## Upgradable Smart Contracts Overview
 - [Optional Video](https://www.youtube.com/watch?v=bdXJmWajZRY)
 ## Types of Upgrades
@@ -1779,6 +1809,9 @@ Plutocracy is bad! Don't default to ERC20 token voting!!
 💻 Code: [https://github.com/Cyfrin/foundry-dao-f23](https://github.com/Cyfrin/foundry-dao-f23)
 
 ## Introduction
+
+*[⭐️ (6:05:45) | Lesson 14 | DAOs & Governance](https://youtu.be/wUjYK5gwNZs?t=21946)*
+
 - [Plutacray is bad](https://vitalik.ca/general/2018/03/28/plutocracy.html)
 - [DAOs are not corporations](https://vitalik.ca/general/2022/09/20/daos.html)
 ## What is a DAO?
@@ -1808,6 +1841,7 @@ Developers 100% should know all about this! Don't leave the course without at le
 🖥️ Code: https://github.com/PatrickAlphaC/denver-security
 
 ## Introduction
+*[⭐️ (7:21:12) | Lesson 15 | Security & Auditing](https://youtu.be/wUjYK5gwNZs?t=26472)*
 - [Readiness Checklist](https://github.com/nascentxyz/simple-security-toolkit)
 ## What is a smart contract audit?
 - [What is a smart contract audit](https://www.youtube.com/watch?v=aOqhQvWhUG0)
