@@ -12,7 +12,7 @@ Calling all developers, the @patrickalphac 27-hour Solidity tutorial is FINALLY 
 
 From beginner to advanced, this course has everything you need to start building #dApps on the #Ethereum blockchain. Check it out! 👇
 
-<TODO>
+https://youtu.be/umepbfKp5rI
 ```
 
 Link:
