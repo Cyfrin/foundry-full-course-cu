@@ -9,7 +9,7 @@ Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidi
 <br/>
 <p align="center">
 <a href="" target="_blank">
-<img src="./background.png" width="500" alt="Solidity, Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course">
+<img src="./thumbnails/thumbnail-1.png" width="500" alt="Solidity, Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course">
 </a>
 </p>
 <br/>
@@ -1264,7 +1264,23 @@ ANYWHERE written in plain text
 
 ## Summary
 
+🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
+# Completed Video 1!!
+🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
+
+<br/>
+<p align="center">
+<a href="" target="_blank">
+<img src="./thumbnails/thumbnail-2.png" width="500" alt="Solidity, Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course">
+</a>
+</p>
+<br/>
+
+[Video 2: https://youtu.be/sas02qSFZ74](https://youtu.be/sas02qSFZ74)
+
 # Lesson 7: Foundry Fund Me
+
+*[⭐️ (0:00:00) | Lesson 7: Foundry Fund Me](https://youtu.be/sas02qSFZ74)*
 
 💻 Code:[https://github.com/Cyfrin/foundry-fund-me-f23](https://github.com/Cyfrin/foundry-fund-me-f23)
 ## Introduction 
@@ -1392,6 +1408,8 @@ cast storage
 
 # Lesson 8: Html/Js Fund Me (Quick Fullstack / Front End Tutorial)
 
+*[⭐️ (2:36:02) | Lesson 8: HTML Fund Me](https://youtu.be/sas02qSFZ74)*
+
 💻 Code: [https://github.com/Cyfrin/html-fund-me-f23](https://github.com/Cyfrin/html-fund-me-f23)
 
 - [More in-depth Javascript & Full Stack introduction video](https://www.youtube.com/watch?v=pdsYCkUWrgQ)
@@ -1413,6 +1431,8 @@ cast storage
 - [More in-depth Javascript & Full Stack introduction video](https://www.youtube.com/watch?v=pdsYCkUWrgQ)
 
 # Lesson 9: Foundry Smart Contract Lottery
+
+*[⭐️ (3:04:09) | Lesson 9: Smart Contract Lottery](https://youtu.be/sas02qSFZ74)*
 
 💻 Code: [https://github.com/Cyfrin/foundry-smart-contract-lottery-f23](https://github.com/Cyfrin/foundry-smart-contract-lottery-f23)
 
@@ -1520,6 +1540,8 @@ cast storage
 
 # Lesson 10: Foundry ERC20s
 
+*[⭐️ (7:07:04) | Lesson 10: ERC20s](https://youtu.be/sas02qSFZ74)*
+
 💻 Code: [https://github.com/Cyfrin/foundry-erc20-f23](https://github.com/Cyfrin/foundry-erc20-f23)
 
 ## What is an ERC? What is an EIP?
@@ -1544,6 +1566,8 @@ cast storage
 
 
 # Lesson 11: Foundry NFTs | MoodNFT
+
+*[⭐️ (7:40:56) | Lesson 11: NFTs](https://youtu.be/sas02qSFZ74)*
 
 💻 Code: [https://github.com/Cyfrin/foundry-nft-f23](https://github.com/Cyfrin/foundry-nft-f23)
 
@@ -1608,6 +1632,19 @@ What REALLY is the ABI?
 - Special Guest [Ally](https://twitter.com/DeveloperAlly)
 ## Lesson 11 Recap
 - [ENS](https://ens.domains/)
+
+🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
+# Completed Video 2!!
+🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
+
+
+<br/>
+<p align="center">
+<a href="" target="_blank">
+<img src="./thumbnails/thumbnail-3.png" width="500" alt="Solidity, Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course">
+</a>
+</p>
+<br/>
 
 # Lesson 12: Foundry DeFi | Stablecoin (The PINNACLE PROJECT!! GET HERE!)
 
@@ -1681,6 +1718,25 @@ What REALLY is the ABI?
 ### More DeFi Learnings: 
 - [Defi-Minimal](https://github.com/smartcontractkit/defi-minimal/tree/main/contracts)
 - [Defi Dad](https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg)
+
+QR Code for Lesson 12 Arbitrum:
+<br/>
+<p align="center">
+<a href="" target="_blank">
+<img src="./thumbnails/lesson-12-arbitrum.png" width="100" alt="Solidity, Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course">
+</a>
+</p>
+<br/>
+
+QR Code for Lesson 12 Arbitrum:
+<br/>
+<p align="center">
+<a href="" target="_blank">
+<img src="./thumbnails/lesson-12-sepolia.png" width="100" alt="Solidity, Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course">
+</a>
+</p>
+<br/>
+
 
 # Lesson 13: Foundry Upgrades
 
