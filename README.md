@@ -1,10 +1,9 @@
-*This repo is a work in progress*
 
 # Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course | Foundry Edition 2023
 
 Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidity Course | Powered By AI | Beginner to Expert Course | Foundry Edition 2023
 
-*Lol, my t-shirt is backwards in 2 of them*
+<!-- *Lol, my t-shirt is backwards in 2 of them* -->
 
 <br/>
 <table>
