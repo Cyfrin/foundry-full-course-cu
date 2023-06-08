@@ -69,7 +69,7 @@ Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidi
 <details>
 <summary>
 <a href="#lesson-1-blockchain-basics">Lesson 1: Blockchain Basics</a>
-<em><a href="https://youtu.be/umepbfKp5rI?t=836" rel="nofollow"><g-emoji class="g-emoji" alias="keyboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2328.png">⌨️</g-emoji> (00:09:05) Lesson 1: Blockchain Basics</a></em>
+<em><a href="https://www.youtube.com/watch?v=umepbfKp5rI&t=834s" rel="nofollow"><g-emoji class="g-emoji" alias="keyboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2328.png">⌨️</g-emoji> (00:09:05) Lesson 1: Blockchain Basics</a></em>
 </summary>
 <ol>
     <li><a href="#what-is-a-blockchain-what-does-a-blockchain-do">What is a Blockchain? What does a blockchain do?</a></li>
