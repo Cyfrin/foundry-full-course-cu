@@ -89,7 +89,7 @@ Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidi
 <details>
 <summary>
 <a href="#lesson-2-welcome-to-remix---remix-simple-storage">Lesson 2: Welcome to Remix - Remix Simple Storage</a>
-<em><a href="https://youtu.be/umepbfKp5rI?t=7844" rel="nofollow"><g-emoji class="g-emoji" alias="keyboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2328.png">⌨️</g-emoji> (2:10:42) Lesson 2: Welcome to Remix - Remix Simple Storage</a></em>
+<em><a href="https://www.youtube.com/watch?v=umepbfKp5rI&t=7844s" rel="nofollow"><g-emoji class="g-emoji" alias="keyboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2328.png">⌨️</g-emoji> (2:10:42) Lesson 2: Welcome to Remix - Remix Simple Storage</a></em>
 </summary>
 <ol>
     <li><a href="#introduction">Introduction</a></li>
