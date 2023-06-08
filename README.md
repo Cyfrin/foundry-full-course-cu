@@ -1917,7 +1917,7 @@ And make today an amazing day!
 
 # Disclosures
 
-Transparency is important! So we want to disclouse any potential conflicts that might have affeted my judgement so you can pick tools that are right for you. Patrick is co-founder of Alpha Chain, a blockchain infrastructure company. Alpha Chain runs **chainlink, ethereum, binance, polygon, harmony, solana, moonbeam, and moonriver blockchain services.** Alpha Chain often works with Alchemy and recieves discounted servies. Patrick is co-founder of Cyfrin, and they do smart contract security & auditing services. Patrick is a co-founder of Chain Accel, who are an advisor on the Peeranha project. Patrick is an advisor on the Chainlink project. The Cyfrin team often does buisness on the Arbitrum L2. 
+Transparency is important! So we want to disclose any potential conflicts that might have affected my judgement so you can pick tools that are right for you. Patrick is co-founder of Alpha Chain, a blockchain infrastructure company. Alpha Chain runs **chainlink, ethereum, binance, polygon, harmony, solana, moonbeam, and moonriver blockchain services.** Alpha Chain often works with Alchemy and recieves discounted servies. Patrick is co-founder of Cyfrin, and they do smart contract security & auditing services. Patrick is a co-founder of Chain Accel, who are an advisor on the Peeranha project. Patrick is an advisor on the Chainlink project. The Cyfrin team often does buisness on the Arbitrum L2. 
 
 Because of all this, I have added alternatives to each section where we suggest a tool. This video & course was created and sponsored solely by the [Cyfrin](https://www.cyfrin.io/) team. 
 
