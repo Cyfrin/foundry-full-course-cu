@@ -893,7 +893,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 -   [What is a blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
 
 ## The Purpose Of Smart Contracts
-*[⭐️ (0:24:26) | The Purpose Of Smart Contracts](https://www.youtube.com/watch?v=umepbfKp5rI&t=1463s)*
+*[⌨️ (0:24:26) | The Purpose Of Smart Contracts](https://www.youtube.com/watch?v=umepbfKp5rI&t=1463s)*
 - 🎥 [Original Video](https://www.youtube.com/watch?v=_JeRq7Gwj5Y&feature=youtu.be)
 - 🦬 [My ETH Denver Talk](https://www.youtube.com/watch?v=06hXCX_jj2E)
 - 🍔 [McDonalds Scandal](https://www.chicagotribune.com/sns-mcdonalds-story.html)
@@ -902,7 +902,8 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 - 🧱 [How does a blockchain work?](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 - 🔮 [Chainlink & Oracles](https://www.youtube.com/watch?v=tIUHQ7sDoaU)
 
-## [Other Blockchain Benefits](https://www.youtube.com/watch?v=umepbfKp5rI&t=2393s)
+## Other Blockchain Benefits
+*[⌨️ (0:39:53) | Other Blockchain Benefits](https://www.youtube.com/watch?v=umepbfKp5rI&t=2393s)*
 - Decentralized
 - Transparency & Flexibility
 - Speed & Efficiency
@@ -910,14 +911,16 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 - Counterparty Risk Removal
 - Trust Minimized Agreements
 
-## [What have Smart Contracts done so far?](https://www.youtube.com/watch?v=umepbfKp5rI&t=2660s)
+## What have Smart Contracts done so far?
+*[⌨️ (0:44:20) | What have Smart Contracts done so far?](https://www.youtube.com/watch?v=umepbfKp5rI&t=2660s)*
 - [DeFi](https://chain.link/education/defi)
   - [Defi Llama](https://defillama.com/)
   - [Why DeFi is Important](https://medium.com/the-capital/why-defi-1519cc4d4bd3)
 - [DAOs](https://betterprogramming.pub/what-is-a-dao-what-is-the-architecture-of-a-dao-how-to-build-a-dao-high-level-d096a97162cc)
 - [NFTs](https://www.youtube.com/watch?v=9yuHz6g_P50)
 
-## [Making Your First Transaction](https://www.youtube.com/watch?v=umepbfKp5rI&t=2813s)
+## Making Your First Transaction
+*[⌨️ (0:46:55) | Making Your First Transaction](https://www.youtube.com/watch?v=umepbfKp5rI&t=2813s)*
 -   [Metamask Download Link](https://metamask.io/)
     -   [What is a Private Key?](https://www.coinbase.com/learn/crypto-basics/what-is-a-private-key)
     -   [What is a Secret Phrase?](https://metamask.zendesk.com/hc/en-us/articles/360060826432-What-is-a-Secret-Recovery-Phrase-and-how-to-keep-your-crypto-wallet-secure)
@@ -927,22 +930,26 @@ IF YOU DECIDE TO MINT THE REAL NFT:
     -   NOTE: The Chainlink documentation always has the most up to date faucets on their [link token contracts page](https://docs.chain.link/docs/link-token-contracts/#sepolia). If the faucet above is broken, check the chainlink documentation for the most up to date faucet.
 -   OR, use the [Sepolia ETH Faucet](https://faucets.chain.link/), just be sure to swap your metamask to Sepolia!
 
-## [Gas I: Introduction to Gas](https://www.youtube.com/watch?v=umepbfKp5rI&t=3974s)
+## Gas I: Introduction to Gas
+*[⌨️ (1:06:16) | Gas I: Introduction to Gas](https://www.youtube.com/watch?v=umepbfKp5rI&t=3974s)*
 -   [Gas and Gas Fees](https://ethereum.org/en/developers/docs/gas/)
 -   [Wei, Gwei, and Ether Converter](https://eth-converter.com/)
 -   [ETH Gas Station](https://ethgasstation.info/)
 
-## [How Do Blockchains Work?](https://www.youtube.com/watch?v=umepbfKp5rI&t=4537s)
+## How Do Blockchains Work?
+*[⌨️ (1:15:39) | How Do Blockchains Work?](https://www.youtube.com/watch?v=umepbfKp5rI&t=4537s)*
 - [What is a hash?](https://techjury.net/blog/what-is-cryptographic-hash/)
 - [Blockchain Demo](https://andersbrownworth.com/blockchain/)
 - [Summary](https://ethereum.org/en/developers/docs/intro-to-ethereum/)
 
-## [Signing Transactions](https://www.youtube.com/watch?v=umepbfKp5rI&t=5589s)
+## Signing Transactions
+*[⌨️ (1:33:09) | Signing Transactions](https://www.youtube.com/watch?v=umepbfKp5rI&t=5589s)*
 -   [Public / Private Keys](https://andersbrownworth.com/blockchain/public-private-keys/keys)
 -   [Layer 2 and Rollups](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/)
 -   [Decentralized Blockchain Oracles](https://blog.chain.link/what-is-the-blockchain-oracle-problem/)
 
-## [Gas II](https://www.youtube.com/watch?v=umepbfKp5rI&t=6134s)
+## Gas II
+*[⌨️ (1:42:15) | Gas II](https://www.youtube.com/watch?v=umepbfKp5rI&t=6134s)*
 -   [Block Rewards](https://www.investopedia.com/terms/b/block-reward.asp)
 -   Advanced Gas
     -   [EIP 1559](https://www.youtube.com/watch?v=MGemhK9t44Q)
@@ -951,7 +958,8 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 ## Gas II Summary
 -   [Run Your Own Ethereum Node](https://geth.ethereum.org/docs/getting-started)
 
-## [High-Level Blockchain Fundamentals](https://www.youtube.com/watch?v=umepbfKp5rI&t=6695s)
+## High-Level Blockchain Fundamentals
+*[⌨️ (1:51:36) | High-Level Blockchain Fundamentals](https://www.youtube.com/watch?v=umepbfKp5rI&t=6695s)*
 -   [Consensus](https://wiki.polkadot.network/docs/learn-consensus)
 -   [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
 -   [Proof of Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
