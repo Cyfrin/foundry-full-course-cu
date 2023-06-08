@@ -892,7 +892,8 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 -   [Web3](https://en.wikipedia.org/wiki/Web3)
 -   [What is a blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
 
-## [The Purpose Of Smart Contracts](https://www.youtube.com/watch?v=umepbfKp5rI&t=1463s)
+## The Purpose Of Smart Contracts
+*[⭐️ (0:24:26) | The Purpose Of Smart Contracts](https://www.youtube.com/watch?v=umepbfKp5rI&t=1463s)*
 - 🎥 [Original Video](https://www.youtube.com/watch?v=_JeRq7Gwj5Y&feature=youtu.be)
 - 🦬 [My ETH Denver Talk](https://www.youtube.com/watch?v=06hXCX_jj2E)
 - 🍔 [McDonalds Scandal](https://www.chicagotribune.com/sns-mcdonalds-story.html)
