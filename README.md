@@ -977,7 +977,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 - [Solidity Documentation](https://docs.soliditylang.org/en/latest/index.html)
 
 ## Setting Up Your First Contract
-*[⌨️ () Setting Up Your First Contract]()*
+*[⌨️ (2:13:37) Setting Up Your First Contract](https://www.youtube.com/watch?v=umepbfKp5rI&t=8016s)*
 -   Versioning
 -   Take notes in your code!
 -   [What is a software license](https://snyk.io/learn/what-is-a-software-license/)
@@ -986,7 +986,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 -   Contract Declaration
 
 ## Basic Solidity: Types
-*[⌨️ () Basic Solidity Types]()*
+*[⌨️ (2:23:51) Basic Solidity Types](https://www.youtube.com/watch?v=umepbfKp5rI&t=8629s)*
 -   [Types & Declaring Variables](https://docs.soliditylang.org/en/v0.8.13/)
     -   `uint256`, `int256`, `bool`, `string`, `address`, `bytes32`
     -   [Solidity Types](https://docs.soliditylang.org/en/latest/types.html)
@@ -995,7 +995,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 -   Comments
 
 ## Basic Solidity: Functions
-*[⌨️ () Basic Solidity Functions]()*
+*[⌨️ (2:31:58) Basic Solidity Functions](https://www.youtube.com/watch?v=umepbfKp5rI&t=9116s)*
 -   Functions
 -   Deploying a Contract
     -   Smart Contracts have addresses just like our wallets
@@ -1006,7 +1006,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 -   View & Pure Functions
 
 ## Basic Solidity: Arrays & Structs
-*[⌨️ () Basic Solidity Arrays & Structs]()*
+*[⌨️ (2:51:02) Basic Solidity Arrays & Structs](https://www.youtube.com/watch?v=umepbfKp5rI&t=10262s)*
 -   Structs
 -   Intro to Storage
 -   Arrays 
@@ -1015,12 +1015,12 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 
 
 ## Basic Solidity: Compiler Errors and Warnings
-*[⌨️ () Basic Solidity Errors & Warnings]()*
+*[⌨️ (3:03:30) Basic Solidity Errors & Warnings](https://www.youtube.com/watch?v=umepbfKp5rI&t=11010s)*
 - Yellow: Warnings are Ok
 - Red: Errors are not Ok
 
 ## Memory, Storage, Calldata (Intro)
-*[⌨️ () Basic Solidity Memory, Storage, & Calldata (Intro)]()*
+*[⌨️ (3:08:12) Basic Solidity Memory, Storage, & Calldata (Intro)](https://www.youtube.com/watch?v=umepbfKp5rI&t=11292s)*
 - 6 Places you can store and access data
   - calldata
   - memory
@@ -1030,11 +1030,11 @@ IF YOU DECIDE TO MINT THE REAL NFT:
   - stack
 
 ## Mappings
-*[⌨️ () Basic Solidity Mappings]()*
+*[⌨️ (3:13:23) Basic Solidity Mappings](https://www.youtube.com/watch?v=umepbfKp5rI&t=11605s)*
 - [Mappings](https://solidity-by-example.org/mapping)
 
 ## Deploying your First Contract
-*[⌨️ () Deploying your First Contract]()*
+*[⌨️ (3:17:48) Deploying your First Contract](https://www.youtube.com/watch?v=umepbfKp5rI&t=11866s)*
 -   A testnet or mainnet
 -   Connecting Metamask
 -   [Find a faucet here](https://docs.chain.link/docs/link-token-contracts/#Sepolia)
@@ -1042,7 +1042,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 -   Interacting with Deployed Contracts
 
 ## The EVM & A Recap of Lesson 2
-*[⌨️ () The EVM & A Recap of Lesson 2]()*
+*[⌨️ (3:27:10) The EVM & A Recap of Lesson 2](https://www.youtube.com/watch?v=umepbfKp5rI&t=12428s)*
 -   The EVM
 
 # Lesson 3: Remix Storage Factory
@@ -1054,23 +1054,26 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 - [Factory Pattern](https://betterprogramming.pub/learn-solidity-the-factory-pattern-75d11c3e7d29)
 
 ## Basic Solidity: Importing Contracts into other Contracts
-*[⌨️ () Importing Contracts into other Contracts]()*
+*[⌨️ (3:38:31) Importing Contracts into other Contracts](https://www.youtube.com/watch?v=umepbfKp5rI&t=13111s)*
 - [Composibility](https://chain.link/techtalks/defi-composability)
 - [Solidity new keyword](https://docs.soliditylang.org/en/latest/control-structures.html?highlight=new#creating-contracts-via-new)
 - [Importing Code in solidity](https://solidity-by-example.org/import)
 
-## Basic Solidity: Interacting with other Contracts
-*[⌨️ () Interacting with other contracts]()*
+## Basic Solidity: AI Help II
+*[⌨️ (3:46:50) AI Help II](https://www.youtube.com/watch?v=umepbfKp5rI&t=13607s)*
+
+## Basic Solidity: Interacting with Contracts ABI
+*[⌨️ (3:50:46) Interacting with contracts ABI](https://www.youtube.com/watch?v=umepbfKp5rI&t=13846s)*
 - To interact, you always need: ABI + Address
 - [ABI](https://docs.soliditylang.org/en/latest/abi-spec.html?highlight=abi)
 
 ## Basic Solidity: Inheritance & Overrides
-*[⌨️ () Inheritance & Overrides]()*
+*[⌨️ (4:00:42) Inheritance & Overrides](https://www.youtube.com/watch?v=umepbfKp5rI&t=14441s)*
 - [Inheritance](https://solidity-by-example.org/inheritance) 
 - [Override & Virtual Keyword](https://docs.soliditylang.org/en/latest/contracts.html?highlight=override#function-overriding)
 
 ## Lesson 3 Recap
-*[⌨️ () Lesson 3 Recap]()*
+*[⌨️ (4:07:41) Lesson 3 Recap](https://www.youtube.com/watch?v=umepbfKp5rI&t=14860s)*
 
 
 # Lesson 4: Remix Fund Me
