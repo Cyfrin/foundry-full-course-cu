@@ -1,0 +1,58 @@
+﻿Welcome to the ultimate Solidity Smart Contract Web 3 Blockchain Developer Course, Foundry Edition. Previously, we've done two other massive courses and tutorials like this. One of them with JavaScript, and one of them with Python. And then, now one in pure Solidity. And combined, those two videos have over 5 million views, making them the most watched blockchain developer educational material on the planet. And we're looking to do it all over again. We've learned a ton from making those first two courses, and we've taken all of those learnings from those two courses, wrapped them up into this one, to make this one the best one yet.
+
+
+If you're more interested in full-stack development and working with JavaScript, the Hard Hat one is still a phenomenal resource for you to get started. However, this one has a ton of advancements in it, making it the most cutting-edge Web3 developer course, period.
+
+
+Having done one of these videos every year for the past three years, I've been reached out to by countless developer helpers who are now full-time developers in the Web3 space, making a living doing well, and contributing to Web 3. And there are thousands that I have not met who have left comments or left me notes, and I know we're going to do it again with this video.
+
+
+If you're looking to become a Web 3 Solidity Smart Contract or blockchain developer, or any of those terms, this is the course for you. And this course is for anybody and everybody, no matter your blockchain or developer experience level.
+
+
+And additionally, we're going to be using artificial intelligence to accelerate our learning progress. And I'm going to teach you not only how to become a blockchain developer, but how to work with AI tools to make you a 10x developer.
+
+
+If you have a little bit of developer experience before this, this course will be even easier to get through. But again, don't worry if you've never coded before.
+
+
+And for those who are already familiar with blockchain and smart contract development, feel free to jump around the different modules in different sections and grab the learnings that you want. I promise there's a lot of cutting-edge information in here. And maybe you need a brush-up. So, no matter if you're brand new to coding, brand new to blockchain, or you're an experienced smart contract engineer, you're in the right place.
+
+
+Welcome to the edge of the rabbit hole. Let's get froggy.
+
+
+For those of you who don't know me, my name is Patrick Collins. I'm a smart contract engineer, security researcher, and just lover of all things Web3. I'm one of the co-founders of the smart contract auditing firm Siphon, an avid smart contract YouTuber, co-creator of web3education.dev, and I live and breathe smart contract development. I absolutely love Web3, blockchain, and smart contracts, and I love the power and the tools that they enable us to use. But not only that, I love taking blockchain developers like yourself, watching this video right now, on the journey to becoming a successful smart contract developer. I think the key to Web3, to blockchain, to cryptocurrencies being successful is having a phenomenal foundation of developers. So, I'm incredibly excited that you're here with me.
+
+
+And for those who don't want to become blockchain developers, the first two lessons of this course, Lesson Zero and Lesson One, are foundational pieces of conceptual information for you just to understand how to get into this Web3 thing. So, if you don't want to become a developer, just stop once we get to the coding.
+
+
+Where my Pythonistas at? I'm working on an edition of this course purely in Python and Viper so stay tuned for that as well.
+
+
+In any case, I'm incredibly excited for your journey. This is a data dump passion project of all the knowledge that I've collected over the past few years of working in this industry and being a smart contract developer myself. And at this point, I have the track record to show that I am 100% confident that if you follow along, if you code along with us, if you follow me on this journey, it will come out the other side armed with the knowledge to be a positive force in the cryptocurrency and blockchain industry.
+
+
+Smart contract and Solidity developers are massively in demand, with an average salary being around $145,000 a year. And with AI coming into play, it's becoming even easier to get up to speed quickly. But only those that understand the technology truly will be able to take advantage of all these advancements. AIs get stuff wrong a lot, so we especially need the knowledge to fact-check whenever AIs get things wrong.
+
+
+Being here, you have the opportunity to be a pioneer, ushering in the age of Web 3, of cryptocurrency, blazing the trail of where this phenomenal industry has yet to go. Like I said, this isn't the first time we've done this. We've already helped so many developers get into this space, and we're going to give you the cutting-edge, most modern tools for industries like DeFi, NFTs, DAOs, tokens, credible smart contracts, blockchains, and everything else that you can think of.
+
+
+Once you finish this course, it will be abundantly clear what you want your next steps to be, and you'll have a ton of economic opportunity at your fingertips and opportunities to make a huge difference in this amazing industry. However, I can't just give it to you. You have to come with me on this journey. You have to take the step.
+
+
+Despite what you might think, you know, cryptocurrencies and smart contracts enable a more accountable world, a more transparent world, a more collaborative world, a world where promises can't be broken. And that's a world that I want to live in. We'll learn more about the purpose of smart contracts and the purpose of blockchain technology in Lesson One of this course, and then, of course, we'll teach you how to build it.
+
+
+So before we even get started, I want to give you a huge thank you for even being here on this video and listening and being interested and engaging in this phenomenal technology. So thank you for being here, and welcome to the rabbit hole because we're about to drop down.
+
+
+With that being said, let's get froggy. So let's begin our journey by talking about some best practices. That way, you can get the absolute most out of this course and be as effective as possible. Now, there are two links in the description that I want you to pause the video right now, go in the description, and click on and open up. First, one is web3education.dev, and the second one is a GitHub link to a repo, also known as a repository, with all the code and all the lessons and everything we're going to be covering in this video.
+
+
+The web3education.dev site is an education site that we're working on to have all of this video and everything else and all the cutting-edge learnings of blockchain developers in this course in this site. So if you enjoy written context as well, be sure to subscribe to sign up for that so that you can be one of the first people to know when it launches.
+
+
+And the second site is this GitHub link. This is going to be your Bible for the duration of watching this video. It has everything that we're going to go over. It has all the code, contacts, text, etc., that you
