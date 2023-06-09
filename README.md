@@ -1115,7 +1115,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 ## Getting Prices from Chainlink
 *[⭐️ (4:48:07) Getting Prices from Chainlink](https://youtu.be/umepbfKp5rI?t=17287)*
 ## More Solidity math
-*[⭐️ (4:52:00) More solidity math](https://youtu.be/umepbfKp5rI?t=17520)*
+*[⭐️ (4:52:00) More Solidity math](https://youtu.be/umepbfKp5rI?t=17520)*
 - Multiply before you divide
 - [tuple](https://docs.soliditylang.org/en/latest/abi-spec.html?highlight=tuple#handling-tuple-types)
 - [Floating Point Numbers in Solidity](https://stackoverflow.com/questions/58277234/does-solidity-supports-floating-point-number)
@@ -1167,11 +1167,11 @@ IF YOU DECIDE TO MINT THE REAL NFT:
   - [Someone make this!](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/13)
 
 ### Custom Errors
-*[⭐️ (5:42:10) Custom Errors](https://youtu.be/umepbfKp5rI?t=20530)*
+*[⭐️ (5:42:08) Custom Errors](https://youtu.be/umepbfKp5rI?t=20528)*
 - [Custom Errors Introduction](https://blog.soliditylang.org/2021/04/21/custom-errors/)
 
 ### Receive & Fallback Functions
-*[⭐️ (5:44:57) Receive & Fallback Functions](https://youtu.be/umepbfKp5rI?t=20697)*
+*[⭐️ (5:44:56) Receive & Fallback Functions](https://youtu.be/umepbfKp5rI?t=20696)*
 - [Solidity Docs Special Functions](https://docs.soliditylang.org/en/latest/contracts.html?highlight=fallback#special-functions)
 - [Fallback](https://solidity-by-example.org/fallback)
 - [Receive](https://docs.soliditylang.org/en/latest/contracts.html?highlight=fallback#receive-ether-function)
@@ -1189,7 +1189,7 @@ DO NOT SKIP THIS!!
 ## 7 Tips for this Course
 - [Original Video](https://www.youtube.com/watch?v=IS5dAkFSo_Y)
 ## Setting up GitHub
-*[⭐️ (6:12:57) Lesson 4 Recap](https://youtu.be/umepbfKp5rI?t=22377)*
+*[⭐️ (6:12:57) Setting up GitHub](https://youtu.be/umepbfKp5rI?t=22377)*
 ## Formatting a question
 *[⭐️ (6:14:24) Formatting a question](https://youtu.be/umepbfKp5rI?t=22464)*
 - [markdown](https://www.markdownguide.org/basic-syntax/)
