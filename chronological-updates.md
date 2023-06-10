@@ -12,6 +12,13 @@
 
 # Lesson 6
 
+1. If you have trouble installing anvil, you can install it with this command:
+```
+# install Anvil
+cargo install --path ./anvil --profile local --force
+```
+Per the [foundry docs](https://book.getfoundry.sh/getting-started/installation#building-from-source)
+
 # Lesson 7 
 
 1. `forge test -m` has [been replaced](https://github.com/foundry-rs/foundry/blob/98a1862d7e9f6ee53ef7371c683b10f2322ffa23/CHANGELOG.md?plain=1#L30) by `forge test --mt`
