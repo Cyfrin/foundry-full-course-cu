@@ -14,7 +14,8 @@
 
 # Lesson 7 
 
-`forge test -m` has [been replaced](https://github.com/foundry-rs/foundry/blob/98a1862d7e9f6ee53ef7371c683b10f2322ffa23/CHANGELOG.md?plain=1#L30) by `forge test --mt`
+1. `forge test -m` has [been replaced](https://github.com/foundry-rs/foundry/blob/98a1862d7e9f6ee53ef7371c683b10f2322ffa23/CHANGELOG.md?plain=1#L30) by `forge test --mt`
+2. To run the [foundry-devops](https://github.com/Cyfrin/foundry-devops/) tool, you might need to install [jq](https://stackoverflow.com/questions/37668134/how-to-install-jq-on-mac-on-the-command-line)
 
 # Lesson 8
 
