@@ -19,12 +19,12 @@ Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidi
       </a>
     </td>
     <td align="center">
-      <a href="" target="_blank">
+      <a href="https://youtu.be/sas02qSFZ74" target="_blank">
         <img src="./thumbnails/thumbnail-2.png" width="300" alt="Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI 2">
       </a>
     </td>
     <td align="center">
-      <a href="" target="_blank">
+      <a href="https://youtu.be/wUjYK5gwNZs" target="_blank">
         <img src="./thumbnails/thumbnail-3.png" width="300" alt="Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI 3">
       </a>
     </td>
@@ -858,7 +858,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 
 <br/>
 <p align="center">
-<a href="" target="_blank">
+<a href="https://youtu.be/umepbfKp5rI" target="_blank">
 <img src="./thumbnails/thumbnail-1.png" width="500" alt="Solidity, Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course">
 </a>
 </p>
@@ -1329,13 +1329,12 @@ ANYWHERE written in plain text
 
 <br/>
 <p align="center">
-<a href="" target="_blank">
+<a href="https://youtu.be/sas02qSFZ74" target="_blank">
 <img src="./thumbnails/thumbnail-2.png" width="500" alt="Solidity, Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course">
 </a>
 </p>
 <br/>
 
-[Video 2: https://youtu.be/sas02qSFZ74](https://youtu.be/sas02qSFZ74)
 
 # Lesson 7: Foundry Fund Me
 
@@ -1699,7 +1698,7 @@ What REALLY is the ABI?
 
 <br/>
 <p align="center">
-<a href="" target="_blank">
+<a href="https://youtu.be/wUjYK5gwNZs" target="_blank">
 <img src="./thumbnails/thumbnail-3.png" width="500" alt="Solidity, Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course">
 </a>
 </p>
