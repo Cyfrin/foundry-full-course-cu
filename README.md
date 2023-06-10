@@ -1206,7 +1206,7 @@ DO NOT SKIP THIS!!
 
 
 ## Introduction
-*[⭐️ (6:23:00) | Lesson 6 | Foundry Simple Storage](https://www.youtube.com/watch?v=umepbfKp5rI&t=22978s)*
+*[⭐️ (6:23:59) | Lesson 6 | Foundry Simple Storage](https://www.youtube.com/watch?v=umepbfKp5rI&t=22979s)*
 
 ## Installation & Setup (MacOS & Linux)
 *[⌨️ (6:29:44) | Installation & Setup (MacOS & Linux) ](https://youtu.be/umepbfKp5rI?t=23384)*
