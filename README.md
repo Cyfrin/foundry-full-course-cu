@@ -1344,7 +1344,7 @@ ANYWHERE written in plain text
 - Special Guest [Vitto](https://twitter.com/VittoStack)
 - [Alchemy](https://alchemy.com/?a=673c802981)
 
-## Lesson 6 Summary
+## Summary
 *[⌨️ (8:21:28) | Summary ](https://youtu.be/umepbfKp5rI?t=30088)*
 
 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
