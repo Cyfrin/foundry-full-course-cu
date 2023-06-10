@@ -1306,7 +1306,6 @@ ANYWHERE written in plain text
 </p>
 <br/>
 
-[Video 2: https://youtu.be/sas02qSFZ74](https://youtu.be/sas02qSFZ74)
 
 # Lesson 7: Foundry Fund Me
 
