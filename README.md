@@ -1206,16 +1206,18 @@ DO NOT SKIP THIS!!
 
 
 ## Introduction
-*[⭐️ (6:00:00) | Lesson 6 | Foundry Simple Storage](https://www.youtube.com/watch?v=umepbfKp5rI&t=22978s)*
+*[⭐️ (6:23:59) | Lesson 6 | Foundry Simple Storage](https://www.youtube.com/watch?v=umepbfKp5rI&t=22979s)*
 
 ## Installation & Setup (MacOS & Linux)
+*[⌨️ (6:29:44) | Installation & Setup (MacOS & Linux) ](https://youtu.be/umepbfKp5rI?t=23384)*
 -   [Visual Studio Code](https://code.visualstudio.com/)
     - [Crash Course](https://www.youtube.com/watch?v=WPqXP_kLzpo)
 - [VSCode Keybindings](https://code.visualstudio.com/docs/getstarted/keybindings)
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - [What is a terminal?](https://code.visualstudio.com/docs/editor/integrated-terminal)
 
-### Windows Setup
+### Windows Setup (WSL)
+*[⌨️ (6:32:26) | Windows Setup (WSL) ](https://youtu.be/umepbfKp5rI?t=23546)*
 - Special Guest [Vasiliy](https://twitter.com/cromewar)
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/install)
   - When working in WSL, use Linux commands instead of Windows commands
@@ -1224,6 +1226,7 @@ DO NOT SKIP THIS!!
 
 > ⚠️ Please use Gitpod as an absolute last resort
 ### Gitpod
+*[⌨️ (6:40:19) | Gitpod ](https://youtu.be/umepbfKp5rI?t=24019)*
 - [Gitpod](https://www.gitpod.io/)
   - **If using this, NEVER share a private key with real money on Gitpod**
   - Ideally you figure out the MacOS, Linux, or Windows install though
@@ -1235,17 +1238,21 @@ DO NOT SKIP THIS!!
   
 
 ## Foundry Install
+*[⌨️ (6:44:37) | Foundry Install ](https://youtu.be/umepbfKp5rI?t=24277)*
 - [https://getfoundry.sh](https://getfoundry.sh)
 ## VSCode Setup II
+*[⌨️ (6:52:00) | VSCode Setup II ](https://youtu.be/umepbfKp5rI?t=24720)*
 - CoPilot
 - Copilot labs
 - Hardhat Solidity Extension
 - VSCodium
 - `mkdir foundry-f23`
 ## Foundry Setup
+*[⌨️ (6:57:17) | Foundry Setup ](https://youtu.be/umepbfKp5rI?t=25037)*
 - FreeCodeCamp Bash 
 
 ## Formatting Solidity in VSCode
+*[⌨️ (7:04:19) | Formatting Solidity in VSCode ](https://youtu.be/umepbfKp5rI?t=25459)*
 - Format your solidity code with in your `settings.json`
 ```json
     "[solidity]": {
@@ -1256,38 +1263,49 @@ DO NOT SKIP THIS!!
     }
 ```
 ## Compiling in Foundry
+*[⌨️ (7:08:31) | Compiling in Foundry ](https://youtu.be/umepbfKp5rI?t=25711)*
 ## Deploying to a local chain I (Anvil or Ganache)
+*[⌨️ (7:09:49) | Deploying to a local chain I (Anvil or Ganache)](https://youtu.be/umepbfKp5rI?t=25789)*
 - [Ganache](https://trufflesuite.com/ganache/)
-## Adding another network to metamask
+## Adding another network to Metamask
+*[⌨️ (7:17:44) | Adding another network to Metamask](https://youtu.be/umepbfKp5rI?t=26264)*
 - [ETH JSON RPC](https://ethereum.github.io/execution-apis/api-documentation/)
 ## Deploying to a local chain II (Forge Create)
+*[⌨️ (7:19:41) | Deploying to a local chain II (Forge Create)](https://youtu.be/umepbfKp5rI?t=26381)*
 - 2 Ways to deploy:
   - 1. `forge create`
   - 2. `forge script`
 
 ## Private Key Rant I
+*[⌨️ (7:23:45) | Private Key Rant I](https://youtu.be/umepbfKp5rI?t=26625)*
 - `history -c`
 
 ## Deploying to a local chain III (Forge Script)
+*[⌨️ (7:26:17) | Deploying to a local chain III (Forge Script)](https://youtu.be/umepbfKp5rI?t=26777)*
 ## What is a transaction (But actually)
+*[⌨️ (7:36:02) | What is a transaction (But actually)](https://youtu.be/umepbfKp5rI?t=27362)*
 ```bash
 cast --to-base 0x01 dec
 ```
 ## Private Key R ant II
+*[⌨️ (7:41:41) | Private Key R ant II ](https://youtu.be/umepbfKp5rI?t=27701)*
 - `cast send`
 - `source .env`
 
 # Can you Encrypt a Private Key -> a keystore in foundry yet??
+*[⌨️ (7:45:00) | Can you Encrypt a Private Key -> a keystore in foundry yet?? ](https://youtu.be/umepbfKp5rI?t=27900)*
 A: No
 - [The .env pledge](https://github.com/Cyfrin/foundry-full-course-f23/discussions/5)
 
 ## ThirdWeb Deploy
+*[⌨️ (7:51:44) | ThirdWeb Deploy ](https://youtu.be/umepbfKp5rI?t=28304)*
 - Special Guest [Ciara](https://twitter.com/CiaraNightingal)
 - [nodejs install](https://nodejs.org/en/download)
 - [npm install](https://nodejs.org/en/download)
 - [thirdweb](https://thirdweb.com/)
 
 ## Private Key Rant Summary:
+*[⌨️ (7:56:25) | Private Key Rant Summary ](https://youtu.be/umepbfKp5rI?t=28585)*
 ```
 Summary:
 When you look to deploy 
@@ -1303,25 +1321,31 @@ ANYWHERE written in plain text
 - [Someone fix this please](https://github.com/foundry-rs/foundry/issues/3818)
 
 ## Cast Send
+*[⌨️ (7:56:40) | Cast Send ](https://youtu.be/umepbfKp5rI?t=28600)*
 
 ## Deploying to a testnet or a mainnet
+*[⌨️ (8:00:26) | Deploying to a testnet or a mainnet ](https://youtu.be/umepbfKp5rI?t=28826)*
 - [Alchemy](https://alchemy.com/?a=673c802981)
 - Other node as a service:
   - [Quicknode](https://www.quicknode.com/endpoints)
   - [Infura](https://www.infura.io/)
 
 ## Verifying a contract the manual way
+*[⌨️ (8:06:06) | Verifying a contract the manual way ](https://youtu.be/umepbfKp5rI?t=29166)*
 - [Example verified contract](https://sepolia.etherscan.io/address/0xe2e9f468eb7f063aa01670bb4bce4119fb6e4b65#code)
 
 ## Cleaning up the project
+*[⌨️ (8:07:43) | Cleaning up the project ](https://youtu.be/umepbfKp5rI?t=29263)*
 - `forge fmt`
 - `README.md`
 
-## Alchemy
-- Special Gust [Vitto](https://twitter.com/VittoStack)
+## Alchemy & the mempool
+*[⌨️ (8:10:28) | Alchemy & the mempool ](https://youtu.be/umepbfKp5rI?t=29428)*
+- Special Guest [Vitto](https://twitter.com/VittoStack)
 - [Alchemy](https://alchemy.com/?a=673c802981)
 
 ## Summary
+*[⌨️ (8:21:28) | Summary ](https://youtu.be/umepbfKp5rI?t=30088)*
 
 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
 # Completed Video 1!!
