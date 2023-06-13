@@ -1643,29 +1643,28 @@ cast storage
 *[⌨️ (5:59:12) | PerformUpkeep Tests ](https://youtu.be/sas02qSFZ74?t=21552)*
 - Expecting Custom Errors 
 ## Getting Event Data into Foundry Scripts
-*[⌨️ () | ]()*
+*[⌨️ (6:03:23) | Getting Event Data into Foundry Scripts ](https://youtu.be/sas02qSFZ74?t=21803)*
 - `vm.recordLogs`
 ## Intro to Fuzz tests
-*[⌨️ () | ]()*
+*[⌨️ (6:11:48) | Intro to Fuzz tests ](https://youtu.be/sas02qSFZ74?t=22308)*
 ## One Big Test
-*[⌨️ () | ]()*
+*[⌨️ (6:15:41) | One Big Test ](https://youtu.be/sas02qSFZ74?t=22541)*
 ## Passing the private key to vm.startBroadcast
-*[⌨️ () | ]()*
+*[⌨️ (6:26:30) | Passing the private key to vm.startBroadcast ](https://youtu.be/sas02qSFZ74?t=23190)*
 ## Integrations Test
-*[⌨️ () | ]()*
+*[⌨️ (6:41:08) | Integrations Test ](https://youtu.be/sas02qSFZ74?t=24068)*
 ## Testnet Demo - Makefile setup
-*[⌨️ () | ]()*
+*[⌨️ (6:44:42) | Testnet Demo - Makefile setup ](https://youtu.be/sas02qSFZ74?t=24282)*
 ## Testnet Demo - The Demo
-*[⌨️ () | ]()*
+*[⌨️ (6:52:33) | Testnet Demo - The Demo ](https://youtu.be/sas02qSFZ74?t=24753)*
 ## Console.log Debugging
-*[⌨️ () | ]()*
+*[⌨️ (6:59:30) | Console.log Debugging ](https://youtu.be/sas02qSFZ74?t=25170)*
 ## forge test --debug
-*[⌨️ () | ]()*
+*[⌨️ (7:01:06) | forge test --debug ](https://youtu.be/sas02qSFZ74?t=25266)*
 ## Recap
-*[⌨️ () | ]()*
+*[⌨️ (7:02:07) | Recap ](https://youtu.be/sas02qSFZ74?t=25327)*
 
 ### Recommended LINK amounts for Sepolia Staging Test:
-*[⌨️ () | ]()*
 - Chainlink VRF: 2 LINK
 - Chainlink Keepers: 8 LINK
 
