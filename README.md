@@ -1590,8 +1590,8 @@ cast storage
 *[⌨️ (4:13:04) | Resetting an array ](https://youtu.be/sas02qSFZ74?t=15184)*
 ## Note on building
 *[⌨️ (4:14:31) | Note on building ](https://youtu.be/sas02qSFZ74?t=15271)*
-## CEI (Checks, effects, interactions)
-*[⌨️ (4:16:00) | CEI (Checks, effects, interactions) ](https://youtu.be/sas02qSFZ74?t=15360)*
+## CEI (Checks, Effects, Interactions)
+*[⌨️ (4:16:00) | CEI (Checks, Effects, Interactions) ](https://youtu.be/sas02qSFZ74?t=15360)*
 ## Introduction to Chainlink Automation
 *[⌨️ (4:18:31) | Introduction to Chainlink Automation ](https://youtu.be/sas02qSFZ74?t=15511)*
 - Chainlink Automation Docs
