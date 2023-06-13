@@ -1570,7 +1570,6 @@ cast storage
 * Introduction to Chainlink VRF
 - Special Guest [Richard](https://twitter.com/RGottleber)
 ### Sub-Lesson: Chainlink VRF
-*[⌨️ () |  ]()*
 > - Chainlink VRFv2 Docs
 > - Chainlink VRFv2 Walkthrough
 > - Chainlink Contracts
@@ -1578,11 +1577,8 @@ cast storage
 *[⌨️ (3:47:21) | Implementing Chainlink VRF - Introduction ](https://youtu.be/sas02qSFZ74?t=13641)*
 * Implementing Chainlink VRF
 ## Implementing Chainlink VRF - The Request
-*[⌨️ () | ]()*
 ## Implementing Chainlink VRF - The FulFill
-*[⌨️ () | ]()*
 ## Chainlink VRF Recap
-*[⌨️ () | ]()*
 
 ### Modulo
 *[⌨️ (4:03:32) | Modulo ](https://youtu.be/sas02qSFZ74?t=14612)*
@@ -1594,8 +1590,8 @@ cast storage
 *[⌨️ (4:13:04) | Resetting an array ](https://youtu.be/sas02qSFZ74?t=15184)*
 ## Note on building
 *[⌨️ (4:14:31) | Note on building ](https://youtu.be/sas02qSFZ74?t=15271)*
-## CEI
-*[⌨️ (4:16:00) |CEI ](https://youtu.be/sas02qSFZ74?t=15360)*
+## CEI (Checks, effects, interactions)
+*[⌨️ (4:16:00) | CEI (Checks, effects, interactions) ](https://youtu.be/sas02qSFZ74?t=15360)*
 ## Introduction to Chainlink Automation
 *[⌨️ (4:18:31) | Introduction to Chainlink Automation ](https://youtu.be/sas02qSFZ74?t=15511)*
 - Chainlink Automation Docs
@@ -1603,10 +1599,8 @@ cast storage
 ## Implementing Chainlink Keepers - checkUpkeep
 *[⌨️ (4:33:47) | Implementing Chainlink Keepers - checkUpkeep ](https://youtu.be/sas02qSFZ74?t=16427)*
 ### Enums
-*[⌨️ () | Enums ]()*
 - Enum
 ## Implementing Chainlink Keepers - checkUpkeep continued
-*[⌨️ () | ]()*
 - block.timestamp
 ## Implementing Chainlink Keepers - performUpkeep
 *[⌨️ (4:40:10) | Implementing Chainlink Keepers - performUpkeep ](https://youtu.be/sas02qSFZ74?t=16810)*
@@ -1619,7 +1613,7 @@ cast storage
 ## Tests & Deploy Script Continued
 *[⌨️ (4:56:25) | Tests & Deploy Script Continued ](https://youtu.be/sas02qSFZ74?t=17785)*
 ## Lots of Tests
-*[⌨️ (5:04:50) | Lots of Tests ]()*
+*[⌨️ (5:04:50) | Lots of Tests ](https://youtu.be/sas02qSFZ74?t=18290)*
 ### Testing Events in Foundry
 *[⌨️ (5:09:37) | Testing Events in Foundry ](https://youtu.be/sas02qSFZ74?t=18577)*
 ### vm.roll & vm.warp
@@ -1678,19 +1672,24 @@ cast storage
 - What is an EIP?
 - EIPs codebase
 ## What is an ERC20?
+*[⌨️ (7:10:42) | What is an ERC20? ](https://youtu.be/sas02qSFZ74?t=25842)*
 - [Video (using brownie/python)](https://www.youtube.com/watch?v=8rpir_ZSK1g)
 - EIP-20
 - ERC-677
 - EIP-777
 ## Manually Creating an ERC20 Token
+*[⌨️ (7:12:06) | Manually Creating an ERC20 Token ](https://youtu.be/sas02qSFZ74?t=25926)*
 - `.github`
 ## ERC20 Token - Openzeppelin
+*[⌨️ (7:19:01) | ERC20 Token - Openzeppelin ](https://youtu.be/sas02qSFZ74?t=26341)*
 - Openzeppelin
   - [Openzeppelin Wizard](https://wizard.openzeppelin.com/)
 - Openzeppelin Contracts
 - Solmate (Openzeppelin alternative)
 ## Deploy Script
+*[⌨️ 7:22:58 | Deploy Script ](https://youtu.be/sas02qSFZ74?t=26578)*
 ## AI Tests
+*[⌨️ (7:25:48) | AI Tests ](https://youtu.be/sas02qSFZ74?t=26748)*
 - [Token Approvals](https://etherscan.io/tokenapprovalchecker)
 ## Lesson 10 Recap
 
