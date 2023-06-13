@@ -1984,6 +1984,8 @@ Because of all this, I have added alternatives to each section where we suggest 
 
 # Donations
 
+## BadgerDAO 
+
 We are THRILLED to have received donations from the [BaderDAO](https://badger.com/) protocol. 
 
 BadgerDAO is a decentralized collective of builders supporting community driven growth for Bitcoin across DeFi. Deposit to earn [Yield-Bearing Rewards](https://app.badger.com/?chain=ethereum#) that automate and optimize yield from Aura and Convex positions. 
