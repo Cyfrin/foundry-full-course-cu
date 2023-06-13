@@ -1978,7 +1978,7 @@ And make today an amazing day!
 
 # Disclosures
 
-Transparency is important! So we want to disclose any potential conflicts that might have affected my judgement so you can pick tools that are right for you. Patrick is co-founder of Alpha Chain, a blockchain infrastructure company. Alpha Chain runs **chainlink, ethereum, binance, polygon, harmony, solana, moonbeam, and moonriver blockchain services.** Alpha Chain often works with Alchemy and recieves discounted servies. Patrick is co-founder of Cyfrin, and they do smart contract security & auditing services. Patrick is a co-founder of Chain Accel, who are an advisor on the Peeranha project. Patrick is an advisor on the Chainlink project. The Cyfrin team often does buisness on the Arbitrum L2. 
+Transparency is important! So we want to disclose any potential conflicts that might have affected my judgement so you can pick tools that are right for you. Patrick is co-founder of Alpha Chain, a blockchain infrastructure company. Alpha Chain runs **Chainlink, Ethereum, Binance, Polygon, Harmony, Solana, Moonbeam, and Moonriver blockchain services.** Alpha Chain often works with Alchemy and receives discounted services. Patrick is the co-founder of Cyfrin, and they do smart contract security & auditing services. Patrick is also the co-founder of Chain Accel, who is an advisor on the Peeranha project. Patrick is an advisor on the Chainlink project. The Cyfrin team often does buisness on the Arbitrum L2. 
 
 Because of all this, I have added alternatives to each section where we suggest a tool. This video & course was created and sponsored solely by the [Cyfrin](https://www.cyfrin.io/) team. 
 
@@ -1986,7 +1986,7 @@ Because of all this, I have added alternatives to each section where we suggest 
 
 ## BadgerDAO 
 
-We are THRILLED to have received donations from the [BaderDAO](https://badger.com/) protocol. 
+We are THRILLED to have received donations from the [BadgerDAO](https://badger.com/) protocol. 
 
 BadgerDAO is a decentralized collective of builders supporting community driven growth for Bitcoin across DeFi. Deposit to earn [Yield-Bearing Rewards](https://app.badger.com/?chain=ethereum#) that automate and optimize yield from Aura and Convex positions. 
 
