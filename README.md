@@ -1982,6 +1982,17 @@ Transparency is important! So we want to disclose any potential conflicts that m
 
 Because of all this, I have added alternatives to each section where we suggest a tool. This video & course was created and sponsored solely by the [Cyfrin](https://www.cyfrin.io/) team. 
 
+# Donations
+
+We are THRILLED to have received donations from the [BaderDAO](https://badger.com/) protocol. 
+
+BadgerDAO is a decentralized collective of builders supporting community driven growth for Bitcoin across DeFi. Deposit to earn [Yield-Bearing Rewards](https://app.badger.com/?chain=ethereum#) that automate and optimize yield from Aura and Convex positions. 
+
+<a href="https://badger.com/" target="_blank">
+  <img src="./thumbnails/badgerdao-logo-black-text.png" width="500" alt="Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI 3">
+</a>
+
+
 # Thank you
 
 Thanks to everyone who is taking, participating in, and working on this course. It's been a passion project and a data dump of everything I've learnt in the web3 space to get you up to speed quickly. Also, a big thank you to Cyfrin & Chain Accel for encouraging this course to come to light, and many, many, many people from the community. 
