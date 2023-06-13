@@ -1289,14 +1289,14 @@ DO NOT SKIP THIS!!
 ```bash
 cast --to-base 0x01 dec
 ```
-## Private Key R ant II
-*[⌨️ (7:41:41) | Private Key R ant II ](https://youtu.be/umepbfKp5rI?t=27701)*
+## Private Key Rant II
+*[⌨️ (7:41:41) | Private Key Rant II ](https://youtu.be/umepbfKp5rI?t=27701)*
 - `cast send`
 - `source .env`
 
 # Can you Encrypt a Private Key -> a keystore in foundry yet??
 *[⌨️ (7:45:00) | Can you Encrypt a Private Key -> a keystore in foundry yet?? ](https://youtu.be/umepbfKp5rI?t=27900)*
-A: No
+- A: No
 - [The .env pledge](https://github.com/Cyfrin/foundry-full-course-f23/discussions/5)
 
 ## ThirdWeb Deploy
