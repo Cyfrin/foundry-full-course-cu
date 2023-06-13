@@ -1498,17 +1498,21 @@ cast storage
 
 ## Introduction
 ## Setup
+*[⌨️ (2:38:59) | Setup ](https://youtu.be/sas02qSFZ74?t=9539)*
 - [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-## How metamask works with your browser
+## How Metamask works with your browser
+*[⌨️ (2:40:25) | How Metamask works with your browser ](https://youtu.be/sas02qSFZ74?t=9625)*
 - [Metamask Docs](https://docs.metamask.io/)
 - [Ethers Docs](https://docs.ethers.org/v5/)
 
 ## Introduction to function selectors
+*[⌨️ (2:52:34) | Introduction to function selectors ](https://youtu.be/sas02qSFZ74?t=10354)*
 - [Function selector](https://ethereum.stackexchange.com/questions/49996/what-is-the-function-selector-of-the-fallback-function?rq=1)
 - [cast sig](https://book.getfoundry.sh/reference/cast/cast-sig?highlight=sig#cast-sig)
 
 ## Recap
+*[⌨️ (3:00:00) | Recap ](https://youtu.be/sas02qSFZ74?t=10800)*
 
 - [More in-depth Javascript & Full Stack introduction video](https://www.youtube.com/watch?v=pdsYCkUWrgQ)
 
@@ -1521,9 +1525,11 @@ cast storage
 ## Introduction
 
 ## Raffle.sol Setup
+*[⌨️ (3:08:16) | Raffle.sol Setup ](https://youtu.be/sas02qSFZ74?t=11296)*
 * Raffle.sol Setup
 
 ## Solidity Contract Layout
+*[⌨️ (3:15:53) | Solidity Contract Layout ](https://youtu.be/sas02qSFZ74?t=11753)*
 ```
 // Layout of Contract:
 // version
@@ -1549,74 +1555,117 @@ cast storage
 ```
 
 ## Custom Errors
+*[⌨️ (3:17:37) | Custom Errors ](https://youtu.be/sas02qSFZ74?t=11857)*
 - Custom Errors in Solidity
 
 ## Events
+*[⌨️ 3:22:00 | Events ](https://youtu.be/sas02qSFZ74?t=12120)*
 * Introduction to Events
 - Events & Logging Video
 - Events & Logging in Hardhat
 ## block.timestamp
+*[⌨️ (3:33:29) | block.timestamp ](https://youtu.be/sas02qSFZ74?t=12809)*
 ## Chainlink VRF
+*[⌨️ (3:37:13) | Chainlink VRF ](https://youtu.be/sas02qSFZ74?t=13033)*
 * Introduction to Chainlink VRF
 - Special Guest [Richard](https://twitter.com/RGottleber)
 ### Sub-Lesson: Chainlink VRF
+*[⌨️ () |  ]()*
 > - Chainlink VRFv2 Docs
 > - Chainlink VRFv2 Walkthrough
 > - Chainlink Contracts
 ## Implementing Chainlink VRF - Introduction
+*[⌨️ (3:47:21) | Implementing Chainlink VRF - Introduction ](https://youtu.be/sas02qSFZ74?t=13641)*
 * Implementing Chainlink VRF
 ## Implementing Chainlink VRF - The Request
+*[⌨️ () | ]()*
 ## Implementing Chainlink VRF - The FulFill
+*[⌨️ () | ]()*
 ## Chainlink VRF Recap
+*[⌨️ () | ]()*
 
 ### Modulo
+*[⌨️ (4:03:32) | Modulo ](https://youtu.be/sas02qSFZ74?t=14612)*
 - Modulo
 
 ## Enum
+*[⌨️ () | ]()*
 ## Resetting an array
-## Note on building 
+*[⌨️ () | ]()*
+## Note on building
+*[⌨️ () | ]()*
 ## CEI
+*[⌨️ () | ]()*
 ## Introduction to Chainlink Automation
+*[⌨️ () | ]()*
 - Chainlink Automation Docs
 - Chainlink Automation Walkthrough
 ## Implementing Chainlink Keepers - checkUpkeep
+*[⌨️ () | ]()*
 ### Enums
+*[⌨️ () | ]()*
 - Enum
 ## Implementing Chainlink Keepers - checkUpkeep continued
+*[⌨️ () | ]()*
 - block.timestamp
 ## Implementing Chainlink Keepers - performUpkeep
+*[⌨️ () | ]()*
 ## Mid-Lesson Recap
+*[⌨️ () | ]()*
 ## Tests & Deploy Script Setup
+*[⌨️ () | ]()*
 ### Mock Chainlink VRF Coordinator
+*[⌨️ () | ]()*
 ## Tests & Deploy Script Continued
+*[⌨️ () | ]()*
 ## Lots of Tests
+*[⌨️ () | ]()*
 ### Testing Events in Foundry
+*[⌨️ () | ]()*
 ### vm.roll & vm.warp
+*[⌨️ () | ]()*
 ## Create Subscription Script
+*[⌨️ () | ]()*
 - [eth signature database](https://openchain.xyz/signatures)
 ## Create Subscription from the UI
+*[⌨️ () | ]()*
 ## Fund Subscription Script
+*[⌨️ () | ]()*
 - [Link Token](https://chain.link/)
 - [Solmate](https://github.com/transmissions11/solmate)
 - [Openzeppelin](https://www.openzeppelin.com/)
 ## Add Consumer Script
+*[⌨️ () | ]()*
 ## More Tests
+*[⌨️ () | ]()*
 - `forge coverage --report debug`
 ## PerformUpkeep Tests
+*[⌨️ () | ]()*
 - Expecting Custom Errors 
 ## Getting Event Data into Foundry Scripts
+*[⌨️ () | ]()*
 - `vm.recordLogs`
 ## Intro to Fuzz tests
+*[⌨️ () | ]()*
 ## One Big Test
+*[⌨️ () | ]()*
 ## Passing the private key to vm.startBroadcast
+*[⌨️ () | ]()*
 ## Integrations Test
+*[⌨️ () | ]()*
 ## Testnet Demo - Makefile setup
+*[⌨️ () | ]()*
 ## Testnet Demo - The Demo
+*[⌨️ () | ]()*
 ## Console.log Debugging
+*[⌨️ () | ]()*
 ## forge test --debug
+*[⌨️ () | ]()*
 ## Recap
+*[⌨️ () | ]()*
 
 ### Recommended LINK amounts for Sepolia Staging Test:
+*[⌨️ () | ]()*
 - Chainlink VRF: 2 LINK
 - Chainlink Keepers: 8 LINK
 
