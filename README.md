@@ -1589,58 +1589,58 @@ cast storage
 - Modulo
 
 ## Enum
-*[⌨️ () | ]()*
+*[⌨️ (4:08:57) | Enum ](https://youtu.be/sas02qSFZ74?t=14937)*
 ## Resetting an array
-*[⌨️ () | ]()*
+*[⌨️ (4:13:04) | Resetting an array ](https://youtu.be/sas02qSFZ74?t=15184)*
 ## Note on building
-*[⌨️ () | ]()*
+*[⌨️ (4:14:31) | Note on building ](https://youtu.be/sas02qSFZ74?t=15271)*
 ## CEI
-*[⌨️ () | ]()*
+*[⌨️ (4:16:00) |CEI ](https://youtu.be/sas02qSFZ74?t=15360)*
 ## Introduction to Chainlink Automation
-*[⌨️ () | ]()*
+*[⌨️ (4:18:31) | Introduction to Chainlink Automation ](https://youtu.be/sas02qSFZ74?t=15511)*
 - Chainlink Automation Docs
 - Chainlink Automation Walkthrough
 ## Implementing Chainlink Keepers - checkUpkeep
-*[⌨️ () | ]()*
+*[⌨️ (4:33:47) | Implementing Chainlink Keepers - checkUpkeep ](https://youtu.be/sas02qSFZ74?t=16427)*
 ### Enums
-*[⌨️ () | ]()*
+*[⌨️ () | Enums ]()*
 - Enum
 ## Implementing Chainlink Keepers - checkUpkeep continued
 *[⌨️ () | ]()*
 - block.timestamp
 ## Implementing Chainlink Keepers - performUpkeep
-*[⌨️ () | ]()*
+*[⌨️ (4:40:10) | Implementing Chainlink Keepers - performUpkeep ](https://youtu.be/sas02qSFZ74?t=16810)*
 ## Mid-Lesson Recap
-*[⌨️ () | ]()*
+*[⌨️ (4:43:00) | Mid-Lesson Recap ](https://youtu.be/sas02qSFZ74?t=16980)*
 ## Tests & Deploy Script Setup
-*[⌨️ () | ]()*
+*[⌨️ (4:44:08) | Tests & Deploy Script Setup ](https://youtu.be/sas02qSFZ74?t=17048)*
 ### Mock Chainlink VRF Coordinator
-*[⌨️ () | ]()*
+*[⌨️ (4:52:02) | Mock Chainlink VRF Coordinator ](https://youtu.be/sas02qSFZ74?t=17522)*
 ## Tests & Deploy Script Continued
-*[⌨️ () | ]()*
+*[⌨️ (4:56:25) | Tests & Deploy Script Continued ](https://youtu.be/sas02qSFZ74?t=17785)*
 ## Lots of Tests
-*[⌨️ () | ]()*
+*[⌨️ (5:04:50) | Lots of Tests ]()*
 ### Testing Events in Foundry
-*[⌨️ () | ]()*
+*[⌨️ (5:09:37) | Testing Events in Foundry ](https://youtu.be/sas02qSFZ74?t=18577)*
 ### vm.roll & vm.warp
-*[⌨️ () | ]()*
+*[⌨️ (5:12:37) | vm.roll & vm.warp ](https://youtu.be/sas02qSFZ74?t=18757)*
 ## Create Subscription Script
-*[⌨️ () | ]()*
+*[⌨️ (5:15:21) | Create Subscription Script ](https://youtu.be/sas02qSFZ74?t=18921)*
 - [eth signature database](https://openchain.xyz/signatures)
 ## Create Subscription from the UI
-*[⌨️ () | ]()*
+*[⌨️ (5:26:41) | Create Subscription from the UI ](https://youtu.be/sas02qSFZ74?t=19601)*
 ## Fund Subscription Script
-*[⌨️ () | ]()*
+*[⌨️ (5:30:19) | Fund Subscription Script ](https://youtu.be/sas02qSFZ74?t=19819)*
 - [Link Token](https://chain.link/)
 - [Solmate](https://github.com/transmissions11/solmate)
 - [Openzeppelin](https://www.openzeppelin.com/)
 ## Add Consumer Script
-*[⌨️ () | ]()*
+*[⌨️ (5:42:29) | Add Consumer Script ](https://youtu.be/sas02qSFZ74?t=20549)*
 ## More Tests
-*[⌨️ () | ]()*
+*[⌨️ (5:52:44) | More Tests ](https://youtu.be/sas02qSFZ74?t=21164)*
 - `forge coverage --report debug`
 ## PerformUpkeep Tests
-*[⌨️ () | ]()*
+*[⌨️ (5:59:12) | PerformUpkeep Tests ](https://youtu.be/sas02qSFZ74?t=21552)*
 - Expecting Custom Errors 
 ## Getting Event Data into Foundry Scripts
 *[⌨️ () | ]()*
