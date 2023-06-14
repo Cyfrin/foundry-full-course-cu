@@ -1366,26 +1366,31 @@ ANYWHERE written in plain text
 
 *[⭐️ (0:00:00) | Lesson 7: Foundry Fund Me](https://www.youtube.com/watch?v=sas02qSFZ74&t=0s)*
 
-💻 Code:[https://github.com/Cyfrin/foundry-fund-me-f23](https://github.com/Cyfrin/foundry-fund-me-f23)
+💻 Code: [https://github.com/Cyfrin/foundry-fund-me-f23](https://github.com/Cyfrin/foundry-fund-me-f23)
 ## Introduction 
-
+*[⌨️ (0:09) | Introduction ](https://youtu.be/sas02qSFZ74?t=9)*
 ## Setup
-
+*[⌨️ (2:51) | Setup ](https://youtu.be/sas02qSFZ74?t=171)*
 ## Testing Introduction
-
+*[⌨️ (4:40) | Testing Introduction ](https://youtu.be/sas02qSFZ74?t=280)*
 ## Setup Continued
+*[⌨️ (6:14) | Setup Continued ](https://youtu.be/sas02qSFZ74?t=374)*
 - [Dependencies](https://book.getfoundry.sh/projects/dependencies)
 - [remappings](https://book.getfoundry.sh/reference/forge/forge-remappings)
 
 ## Tests
+*[⌨️ (11:54) | Tests ](https://youtu.be/sas02qSFZ74?t=714)*
 - [foundry tests](https://book.getfoundry.sh/forge/writing-tests)
 - [console.log](https://book.getfoundry.sh/reference/forge-std/console-log?highlight=con#console-logging)
 
 ## Debugging Tests I
+*[⌨️ (20:45) | Debugging Tests I ](https://youtu.be/sas02qSFZ74?t=1245)*
 
 ## Advanced Deploy Scripts I
+*[⌨️ (23:16) | Advanced Deploy Scripts I ](https://youtu.be/sas02qSFZ74?t=1396)*
 
 ## Forked Tests
+*[⌨️ (25:47) | Forked Tests ](https://youtu.be/sas02qSFZ74?t=1547)*
 -  4 types of testing:
 ```
 1. Unit: Testing a single function
@@ -1397,28 +1402,37 @@ ANYWHERE written in plain text
 - [forge coverage](https://book.getfoundry.sh/reference/forge/forge-coverage?highlight=cover#description)
 
 ## Refactoring I: Testing Deploy Scripts
+*[⌨️ (34:17) | Refactoring I: Testing Deploy Scripts ](https://youtu.be/sas02qSFZ74?t=2057)*
 
 ## Refactoring II: Helper Config
+*[⌨️ (41:28) | Refactoring II: Helper Config ](https://youtu.be/sas02qSFZ74?t=2488)*
 - [block.chainid](https://docs.soliditylang.org/en/v0.8.19/units-and-global-variables.html)
 - [Chain ID List](https://chainlist.org/)
   - 11155111 is ETH Sepolia
   - 1 is ETH Mainnet
 
-## Refactoring III: Mocking (continued)
+## Refactoring III: Mocking
+*[⌨️ (54:32) | Refactoring III: Mocking ](https://youtu.be/sas02qSFZ74?t=3272)*
 - [Mocking](https://stackoverflow.com/questions/2665812/what-is-mocking)
 - [Chainlink Github](https://github.com/smartcontractkit/chainlink)
 - Multiple Versions of Solidity
 
 ## Magic Numbers
+*[⌨️ (58:40) | Magic Numbers ](https://youtu.be/sas02qSFZ74?t=3520)*
 - [Style Guide](https://docs.soliditylang.org/en/v0.8.17/style-guide.html)
 - [Magic Numbers](https://codeburst.io/software-anti-patterns-magic-numbers-7bc484f40544)
 
+## Refactoring III: Mocking (continued)
+*[⌨️ (1:00:45) | Refactoring III: Mocking (continued) ](https://youtu.be/sas02qSFZ74?t=3645)*
+
 # Break time!
+*[⌨️ (1:05:02) | Break time! ](https://youtu.be/sas02qSFZ74?t=3902)*
 *****
 Take a break!
 *****
 
 ## More Cheatcodes
+*[⌨️ (1:05:06) | More Cheatcodes ](https://youtu.be/sas02qSFZ74?t=3906)*
 - [foundry cheatcodes](https://book.getfoundry.sh/forge/cheatcodes)
 - [forge std cheats](https://book.getfoundry.sh/reference/forge-std/)
   - [vm.expectRevert](https://book.getfoundry.sh/cheatcodes/expect-revert?highlight=expectRevert#expectrevert)
@@ -1427,6 +1441,7 @@ Take a break!
   - [deal](https://book.getfoundry.sh/cheatcodes/deal?highlight=deal#deal)
 
 ## More Coverage
+*[⌨️ (1:17:36) | More Coverage ](https://youtu.be/sas02qSFZ74?t=4656)*
 - [State tree testing](https://twitter.com/PaulRBerg/status/1624763320539525121?s=20)
 - Arrange, Act, Assert
 - [hoax](https://book.getfoundry.sh/reference/forge-std/hoax?highlight=hoax#hoax)
@@ -1434,9 +1449,11 @@ Take a break!
 - [vm.startPrank](https://book.getfoundry.sh/cheatcodes/start-prank?highlight=startPrank#startprank)
 
 ## Chisel 
+*[⌨️ (1:32:26) | Chisel ](https://youtu.be/sas02qSFZ74?t=5546)*
 - [Chisel](https://book.getfoundry.sh/reference/chisel/?highlight=chisel#chisel)
 
 ## Gas: Cheaper Withdraw
+*[⌨️ (1:33:50) | Gas: Cheaper Withdraw ](https://youtu.be/sas02qSFZ74?t=5630)*
 - [Gas Reporter](https://book.getfoundry.sh/forge/gas-reports)
 - `forge snapshot`
 - `vm.txGasPrice`
@@ -1444,7 +1461,8 @@ Take a break!
 - `tx.getprice`
 
 ## Storage 
-** Advanced **
+*[⌨️ (1:38:37) | Storage ](https://youtu.be/sas02qSFZ74?t=5917)*
+- ** Advanced **
 - [Storage Layout](https://docs.soliditylang.org/en/latest/internals/layout_in_storage.html)
 - [Purpose of the memory keyword](https://stackoverflow.com/questions/33839154/in-ethereum-solidity-what-is-the-purpose-of-the-memory-keyword)
 
@@ -1460,21 +1478,25 @@ cast storage
 - [Chainlink Solidity Style Guide](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/13)
 
 ## Gas: Cheaper Withdraw (continued)
+*[⌨️ (1:48:20) | Gas: Cheaper Withdraw (continued) ](https://youtu.be/sas02qSFZ74?t=6500)*
 - [evm.codes]()
 - [Style Guide](https://docs.soliditylang.org/en/latest/style-guide.html)
   - [Chainlink Style Guide](https://github.com/smartcontractkit/chainlink/blob/develop/contracts/STYLE.md)
 - [NatSpec](https://docs.soliditylang.org/en/latest/natspec-format.html)
 
 ## Interactions.s.sol
+*[⌨️ (1:56:11) | Interactions.s.sol ](https://youtu.be/sas02qSFZ74?t=6971)*
 - [foundry devops](https://github.com/Cyfrin/foundry-devops)
 - [Best README Template](https://github.com/othneildrew/Best-README-Template)
 - [ffi](https://book.getfoundry.sh/cheatcodes/ffi?highlight=ffi#ffi)
 
 ## Makefile
+*[⌨️ (2:10:56) | Makefile ](https://youtu.be/sas02qSFZ74?t=7856)*
 - [Install make](https://stackoverflow.com/questions/39892692/how-to-implement-make-install-in-a-makefile)
 - [Etherscan API Key](https://docs.etherscan.io/getting-started/viewing-api-usage-statistics)
 
 ## Pushing to GitHub
+*[⌨️ (2:19:17) | Pushing to GitHub ](https://youtu.be/sas02qSFZ74?t=8357)*
 - Add these to your `.gitignore`
   - `.env`
   - `lib/`
@@ -1487,8 +1509,10 @@ cast storage
 - [Learn about git and GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
 ## 🐸🐦 [Tweet Me (add your repo in)!](https://twitter.com/intent/tweet?text=I%20just%20made%20my%20first%20Smart%20Contract%20repo%20using%20@solidity_lang,%20foundry,%20@chainlink,%20@AlchemyPlatform,%20and%20more!%0a%0aThanks%20@PatrickAlphaC!!)
+*[⌨️ (2:34:56) | Tweet Me (add your repo in)! ](https://youtu.be/sas02qSFZ74?t=9296)*
 
-## Recap
+## Lesson 7: Recap
+*[⌨️ (2:35:13) | Lesson 7: Recap ](https://youtu.be/sas02qSFZ74?t=9313)*
 
 # Lesson 8: Html/Js Fund Me (Quick Fullstack / Front End Tutorial)
 
