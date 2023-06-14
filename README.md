@@ -956,6 +956,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
     -   GWEI, WEI, and ETH
         -   [ETH Converter](https://eth-converter.com/)
 ## Gas II Summary
+*[⌨️ (1:48:40) | Gas II Summary](https://youtu.be/umepbfKp5rI?t=6520)*
 -   [Run Your Own Ethereum Node](https://geth.ethereum.org/docs/getting-started)
 
 ## High-Level Blockchain Fundamentals
@@ -977,7 +978,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 - [Solidity Documentation](https://docs.soliditylang.org/en/latest/index.html)
 
 ## Setting Up Your First Contract
-*[⌨️ (2:16:40) Setting Up Your First Contract](https://youtu.be/umepbfKp5rI?t=8200)*
+*[⌨️ (2:16:40) | Setting Up Your First Contract](https://youtu.be/umepbfKp5rI?t=8200)*
 -   Versioning
 -   Take notes in your code!
 -   [What is a software license](https://snyk.io/learn/what-is-a-software-license/)
@@ -986,7 +987,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 -   Contract Declaration
 
 ## Basic Solidity: Types
-*[⌨️ (2:24:09) Basic Solidity Types](https://youtu.be/umepbfKp5rI?t=8649)*
+*[⌨️ (2:24:09) | Basic Solidity Types](https://youtu.be/umepbfKp5rI?t=8649)*
 -   [Types & Declaring Variables](https://docs.soliditylang.org/en/v0.8.13/)
     -   `uint256`, `int256`, `bool`, `string`, `address`, `bytes32`
     -   [Solidity Types](https://docs.soliditylang.org/en/latest/types.html)
@@ -995,7 +996,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 -   Comments
 
 ## Basic Solidity: Functions
-*[⌨️ (2:31:57) Basic Solidity Functions](https://youtu.be/umepbfKp5rI?t=9117)*
+*[⌨️ (2:31:57) | Basic Solidity Functions](https://youtu.be/umepbfKp5rI?t=9117)*
 -   Functions
 -   Deploying a Contract
     -   Smart Contracts have addresses just like our wallets
@@ -1006,7 +1007,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 -   View & Pure Functions
 
 ## Basic Solidity: Arrays & Structs
-*[⌨️ (2:51:29) Basic Solidity Arrays & Structs](https://youtu.be/umepbfKp5rI?t=10289)*
+*[⌨️ (2:51:29) | Basic Solidity Arrays & Structs](https://youtu.be/umepbfKp5rI?t=10289)*
 -   Structs
 -   Intro to Storage
 -   Arrays 
@@ -1015,12 +1016,12 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 
 
 ## Basic Solidity: Compiler Errors and Warnings
-*[⌨️ (3:03:31) Basic Solidity Errors & Warnings](https://youtu.be/umepbfKp5rI?t=11011)*
+*[⌨️ (3:03:31) | Basic Solidity Errors & Warnings](https://youtu.be/umepbfKp5rI?t=11011)*
 - Yellow: Warnings are Ok
 - Red: Errors are not Ok
 
 ## Memory, Storage, Calldata (Intro)
-*[⌨️ (3:08:13) Basic Solidity Memory, Storage, & Calldata (Intro)](https://youtu.be/umepbfKp5rI?t=11293)*
+*[⌨️ (3:08:13) | Basic Solidity Memory, Storage, & Calldata (Intro)](https://youtu.be/umepbfKp5rI?t=11293)*
 - 6 Places you can store and access data
   - calldata
   - memory
@@ -1030,11 +1031,11 @@ IF YOU DECIDE TO MINT THE REAL NFT:
   - stack
 
 ## Mappings
-*[⌨️ (3:14:37) Basic Solidity Mappings](https://youtu.be/umepbfKp5rI?t=11677)*
+*[⌨️ (3:14:37) | Basic Solidity Mappings](https://youtu.be/umepbfKp5rI?t=11677)*
 - [Mappings](https://solidity-by-example.org/mapping)
 
 ## Deploying your First Contract
-*[⌨️ (3:17:46) Deploying your First Contract](https://youtu.be/umepbfKp5rI?t=11866)*
+*[⌨️ (3:17:46) | Deploying your First Contract](https://youtu.be/umepbfKp5rI?t=11866)*
 -   A testnet or mainnet
 -   Connecting Metamask
 -   [Find a faucet here](https://docs.chain.link/docs/link-token-contracts/#Sepolia)
@@ -1042,7 +1043,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 -   Interacting with Deployed Contracts
 
 ## The EVM & A Recap of Lesson 2
-*[⌨️ (3:27:07) The EVM & A Recap of Lesson 2](https://youtu.be/umepbfKp5rI?t=12427)*
+*[⌨️ (3:27:07) | The EVM & A Recap of Lesson 2](https://youtu.be/umepbfKp5rI?t=12427)*
 -   The EVM
 
 # Lesson 3: Remix Storage Factory
@@ -1054,23 +1055,23 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 - [Factory Pattern](https://betterprogramming.pub/learn-solidity-the-factory-pattern-75d11c3e7d29)
 
 ## Basic Solidity: Importing Contracts into other Contracts
-*[⌨️ (3:41:30) Importing Contracts into other Contracts](https://youtu.be/umepbfKp5rI?t=13290)*
+*[⌨️ (3:41:30) | Importing Contracts into other Contracts](https://youtu.be/umepbfKp5rI?t=13290)*
 - [Composibility](https://chain.link/techtalks/defi-composability)
 - [Solidity new keyword](https://docs.soliditylang.org/en/latest/control-structures.html?highlight=new#creating-contracts-via-new)
 - [Importing Code in solidity](https://solidity-by-example.org/import)
 
 ## Basic Solidity: Interacting with other Contracts
-*[⌨️ (3:52:49) Interacting with other contracts](https://youtu.be/umepbfKp5rI?t=13969)*
+*[⌨️ (3:52:49) | Interacting with other contracts](https://youtu.be/umepbfKp5rI?t=13969)*
 - To interact, you always need: ABI + Address
 - [ABI](https://docs.soliditylang.org/en/latest/abi-spec.html?highlight=abi)
 
 ## Basic Solidity: Inheritance & Overrides
-*[⌨️ (4:00:44) Inheritance & Overrides](https://youtu.be/umepbfKp5rI?t=14444)*
+*[⌨️ (4:00:44) | Inheritance & Overrides](https://youtu.be/umepbfKp5rI?t=14444)*
 - [Inheritance](https://solidity-by-example.org/inheritance) 
 - [Override & Virtual Keyword](https://docs.soliditylang.org/en/latest/contracts.html?highlight=override#function-overriding)
 
 ## Lesson 3 Recap
-*[⌨️ (4:07:37) Lesson 3 Recap](https://youtu.be/umepbfKp5rI?t=14857)*
+*[⌨️ (4:07:37) | Lesson 3 Recap](https://youtu.be/umepbfKp5rI?t=14857)*
 
 
 # Lesson 4: Remix Fund Me
@@ -1159,6 +1160,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 ## Advanced Solidity
 *[⌨️ (5:34:01) | Advanced Solidity](https://youtu.be/umepbfKp5rI?t=20041)*
 ### Immutable & Constant
+*[⌨️ (5:34:53) | Immutable & Constant](https://youtu.be/umepbfKp5rI?t=20093)*
 - [Immutable](https://solidity-by-example.org/immutable)
 - [Constant](https://solidity-by-example.org/constants)
 - [Current ETH Gas Prices](https://etherscan.io/gastracker)
@@ -1287,14 +1289,14 @@ DO NOT SKIP THIS!!
 ```bash
 cast --to-base 0x01 dec
 ```
-## Private Key R ant II
-*[⌨️ (7:41:41) | Private Key R ant II ](https://youtu.be/umepbfKp5rI?t=27701)*
+## Private Key Rant II
+*[⌨️ (7:41:41) | Private Key Rant II ](https://youtu.be/umepbfKp5rI?t=27701)*
 - `cast send`
 - `source .env`
 
 # Can you Encrypt a Private Key -> a keystore in foundry yet??
 *[⌨️ (7:45:00) | Can you Encrypt a Private Key -> a keystore in foundry yet?? ](https://youtu.be/umepbfKp5rI?t=27900)*
-A: No
+- A: No
 - [The .env pledge](https://github.com/Cyfrin/foundry-full-course-f23/discussions/5)
 
 ## ThirdWeb Deploy
