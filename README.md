@@ -1524,17 +1524,21 @@ cast storage
 
 ## Introduction
 ## Setup
+*[⌨️ (2:38:59) | Setup ](https://youtu.be/sas02qSFZ74?t=9539)*
 - [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-## How metamask works with your browser
+## How Metamask works with your browser
+*[⌨️ (2:40:25) | How Metamask works with your browser ](https://youtu.be/sas02qSFZ74?t=9625)*
 - [Metamask Docs](https://docs.metamask.io/)
 - [Ethers Docs](https://docs.ethers.org/v5/)
 
 ## Introduction to function selectors
+*[⌨️ (2:52:34) | Introduction to function selectors ](https://youtu.be/sas02qSFZ74?t=10354)*
 - [Function selector](https://ethereum.stackexchange.com/questions/49996/what-is-the-function-selector-of-the-fallback-function?rq=1)
 - [cast sig](https://book.getfoundry.sh/reference/cast/cast-sig?highlight=sig#cast-sig)
 
 ## Recap
+*[⌨️ (3:00:00) | Recap ](https://youtu.be/sas02qSFZ74?t=10800)*
 
 - [More in-depth Javascript & Full Stack introduction video](https://www.youtube.com/watch?v=pdsYCkUWrgQ)
 
@@ -1547,9 +1551,11 @@ cast storage
 ## Introduction
 
 ## Raffle.sol Setup
+*[⌨️ (3:08:16) | Raffle.sol Setup ](https://youtu.be/sas02qSFZ74?t=11296)*
 * Raffle.sol Setup
 
 ## Solidity Contract Layout
+*[⌨️ (3:15:53) | Solidity Contract Layout ](https://youtu.be/sas02qSFZ74?t=11753)*
 ```
 // Layout of Contract:
 // version
@@ -1575,14 +1581,18 @@ cast storage
 ```
 
 ## Custom Errors
+*[⌨️ (3:17:37) | Custom Errors ](https://youtu.be/sas02qSFZ74?t=11857)*
 - Custom Errors in Solidity
 
 ## Events
+*[⌨️ 3:22:00 | Events ](https://youtu.be/sas02qSFZ74?t=12120)*
 * Introduction to Events
 - Events & Logging Video
 - Events & Logging in Hardhat
 ## block.timestamp
+*[⌨️ (3:33:29) | block.timestamp ](https://youtu.be/sas02qSFZ74?t=12809)*
 ## Chainlink VRF
+*[⌨️ (3:37:13) | Chainlink VRF ](https://youtu.be/sas02qSFZ74?t=13033)*
 * Introduction to Chainlink VRF
 - Special Guest [Richard](https://twitter.com/RGottleber)
 ### Sub-Lesson: Chainlink VRF
@@ -1590,57 +1600,89 @@ cast storage
 > - Chainlink VRFv2 Walkthrough
 > - Chainlink Contracts
 ## Implementing Chainlink VRF - Introduction
+*[⌨️ (3:47:21) | Implementing Chainlink VRF - Introduction ](https://youtu.be/sas02qSFZ74?t=13641)*
 * Implementing Chainlink VRF
 ## Implementing Chainlink VRF - The Request
 ## Implementing Chainlink VRF - The FulFill
 ## Chainlink VRF Recap
 
 ### Modulo
+*[⌨️ (4:03:32) | Modulo ](https://youtu.be/sas02qSFZ74?t=14612)*
 - Modulo
 
 ## Enum
+*[⌨️ (4:08:57) | Enum ](https://youtu.be/sas02qSFZ74?t=14937)*
 ## Resetting an array
-## Note on building 
-## CEI
+*[⌨️ (4:13:04) | Resetting an array ](https://youtu.be/sas02qSFZ74?t=15184)*
+## Note on building
+*[⌨️ (4:14:31) | Note on building ](https://youtu.be/sas02qSFZ74?t=15271)*
+## CEI (Checks, Effects, Interactions)
+*[⌨️ (4:16:00) | CEI (Checks, Effects, Interactions) ](https://youtu.be/sas02qSFZ74?t=15360)*
 ## Introduction to Chainlink Automation
+*[⌨️ (4:18:31) | Introduction to Chainlink Automation ](https://youtu.be/sas02qSFZ74?t=15511)*
 - Chainlink Automation Docs
 - Chainlink Automation Walkthrough
 ## Implementing Chainlink Keepers - checkUpkeep
+*[⌨️ (4:33:47) | Implementing Chainlink Keepers - checkUpkeep ](https://youtu.be/sas02qSFZ74?t=16427)*
 ### Enums
 - Enum
 ## Implementing Chainlink Keepers - checkUpkeep continued
 - block.timestamp
 ## Implementing Chainlink Keepers - performUpkeep
+*[⌨️ (4:40:10) | Implementing Chainlink Keepers - performUpkeep ](https://youtu.be/sas02qSFZ74?t=16810)*
 ## Mid-Lesson Recap
+*[⌨️ (4:43:00) | Mid-Lesson Recap ](https://youtu.be/sas02qSFZ74?t=16980)*
 ## Tests & Deploy Script Setup
+*[⌨️ (4:44:08) | Tests & Deploy Script Setup ](https://youtu.be/sas02qSFZ74?t=17048)*
 ### Mock Chainlink VRF Coordinator
+*[⌨️ (4:52:02) | Mock Chainlink VRF Coordinator ](https://youtu.be/sas02qSFZ74?t=17522)*
 ## Tests & Deploy Script Continued
+*[⌨️ (4:56:25) | Tests & Deploy Script Continued ](https://youtu.be/sas02qSFZ74?t=17785)*
 ## Lots of Tests
+*[⌨️ (5:04:50) | Lots of Tests ](https://youtu.be/sas02qSFZ74?t=18290)*
 ### Testing Events in Foundry
+*[⌨️ (5:09:37) | Testing Events in Foundry ](https://youtu.be/sas02qSFZ74?t=18577)*
 ### vm.roll & vm.warp
+*[⌨️ (5:12:37) | vm.roll & vm.warp ](https://youtu.be/sas02qSFZ74?t=18757)*
 ## Create Subscription Script
+*[⌨️ (5:15:21) | Create Subscription Script ](https://youtu.be/sas02qSFZ74?t=18921)*
 - [eth signature database](https://openchain.xyz/signatures)
 ## Create Subscription from the UI
+*[⌨️ (5:26:41) | Create Subscription from the UI ](https://youtu.be/sas02qSFZ74?t=19601)*
 ## Fund Subscription Script
+*[⌨️ (5:30:19) | Fund Subscription Script ](https://youtu.be/sas02qSFZ74?t=19819)*
 - [Link Token](https://chain.link/)
 - [Solmate](https://github.com/transmissions11/solmate)
 - [Openzeppelin](https://www.openzeppelin.com/)
 ## Add Consumer Script
+*[⌨️ (5:42:29) | Add Consumer Script ](https://youtu.be/sas02qSFZ74?t=20549)*
 ## More Tests
+*[⌨️ (5:52:44) | More Tests ](https://youtu.be/sas02qSFZ74?t=21164)*
 - `forge coverage --report debug`
 ## PerformUpkeep Tests
+*[⌨️ (5:59:12) | PerformUpkeep Tests ](https://youtu.be/sas02qSFZ74?t=21552)*
 - Expecting Custom Errors 
 ## Getting Event Data into Foundry Scripts
+*[⌨️ (6:03:23) | Getting Event Data into Foundry Scripts ](https://youtu.be/sas02qSFZ74?t=21803)*
 - `vm.recordLogs`
 ## Intro to Fuzz tests
+*[⌨️ (6:11:48) | Intro to Fuzz tests ](https://youtu.be/sas02qSFZ74?t=22308)*
 ## One Big Test
+*[⌨️ (6:15:41) | One Big Test ](https://youtu.be/sas02qSFZ74?t=22541)*
 ## Passing the private key to vm.startBroadcast
+*[⌨️ (6:26:30) | Passing the private key to vm.startBroadcast ](https://youtu.be/sas02qSFZ74?t=23190)*
 ## Integrations Test
+*[⌨️ (6:41:08) | Integrations Test ](https://youtu.be/sas02qSFZ74?t=24068)*
 ## Testnet Demo - Makefile setup
+*[⌨️ (6:44:42) | Testnet Demo - Makefile setup ](https://youtu.be/sas02qSFZ74?t=24282)*
 ## Testnet Demo - The Demo
+*[⌨️ (6:52:33) | Testnet Demo - The Demo ](https://youtu.be/sas02qSFZ74?t=24753)*
 ## Console.log Debugging
+*[⌨️ (6:59:30) | Console.log Debugging ](https://youtu.be/sas02qSFZ74?t=25170)*
 ## forge test --debug
+*[⌨️ (7:01:06) | forge test --debug ](https://youtu.be/sas02qSFZ74?t=25266)*
 ## Recap
+*[⌨️ (7:02:07) | Recap ](https://youtu.be/sas02qSFZ74?t=25327)*
 
 ### Recommended LINK amounts for Sepolia Staging Test:
 - Chainlink VRF: 2 LINK
@@ -1648,7 +1690,7 @@ cast storage
 
 # Lesson 10: Foundry ERC20s
 
-*[⭐️ (7:07:04) | Lesson 10: ERC20s](https://www.youtube.com/watch?v=sas02qSFZ74&t=25684s)*
+*[⭐️ (7:08:04) | Lesson 10: ERC20s](https://www.youtube.com/watch?v=sas02qSFZ74&t=25684s)*
 
 💻 Code: [https://github.com/Cyfrin/foundry-erc20-f23](https://github.com/Cyfrin/foundry-erc20-f23)
 
@@ -1656,19 +1698,24 @@ cast storage
 - What is an EIP?
 - EIPs codebase
 ## What is an ERC20?
+*[⌨️ (7:10:42) | What is an ERC20? ](https://youtu.be/sas02qSFZ74?t=25842)*
 - [Video (using brownie/python)](https://www.youtube.com/watch?v=8rpir_ZSK1g)
 - EIP-20
 - ERC-677
 - EIP-777
 ## Manually Creating an ERC20 Token
+*[⌨️ (7:12:06) | Manually Creating an ERC20 Token ](https://youtu.be/sas02qSFZ74?t=25926)*
 - `.github`
 ## ERC20 Token - Openzeppelin
+*[⌨️ (7:19:01) | ERC20 Token - Openzeppelin ](https://youtu.be/sas02qSFZ74?t=26341)*
 - Openzeppelin
   - [Openzeppelin Wizard](https://wizard.openzeppelin.com/)
 - Openzeppelin Contracts
 - Solmate (Openzeppelin alternative)
 ## Deploy Script
+*[⌨️ 7:22:58 | Deploy Script ](https://youtu.be/sas02qSFZ74?t=26578)*
 ## AI Tests
+*[⌨️ (7:25:48) | AI Tests ](https://youtu.be/sas02qSFZ74?t=26748)*
 - [Token Approvals](https://etherscan.io/tokenapprovalchecker)
 ## Lesson 10 Recap
 
