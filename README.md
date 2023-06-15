@@ -1733,7 +1733,7 @@ cast storage
 - [Optional: All on Chain SVG NFT]
 - EIP-721
 ## Foundry Setup
-*[⌨️ (7:49:53) | Foundry Setup ](https://youtu.be/sas02qSFZ74?t=28193)*
+*[⌨️ (7:49:54) | Foundry Setup ](https://youtu.be/sas02qSFZ74?t=28194)*
 - TokenURI
 - Pudgy Penguin Example
 ## IPFS
@@ -1750,7 +1750,7 @@ cast storage
 ## Basic NFT: Interactions
 *[⌨️ (8:25:31) | Basic NFT: Interactions ](https://youtu.be/sas02qSFZ74?t=30331)*
 ## Basic NFT: Testnet Demo
-*[⌨️ (8:28:24) | Basic NFT: Testnet Demo ](https://www.youtube.com/watch?v=sas02qSFZ74&t=27656s)*
+*[⌨️ (8:28:24) | Basic NFT: Testnet Demo ](https://youtu.be/sas02qSFZ74?t=30504)*
 ## The issue with IPFS & HTTPS TokenURI NFTs
 *[⌨️ (8:34:32) | The issue with IPFS & HTTPS TokenURI NFTs ](https://youtu.be/sas02qSFZ74?t=30872)*
 - [pinata](https://pinata.cloud/)
@@ -1778,7 +1778,7 @@ cast storage
 - [filecoin](https://filecoin.io/)
 - [nft.storage](https://nft.storage/)
 - [Patrick video on Filecoin](https://www.youtube.com/watch?v=Cj9r3pKI2L8)
-  ### Filecoin & Arweave
+### Filecoin & Arweave
 *[⌨️ (9:36:58) | Filecoin & Arweave ](https://youtu.be/sas02qSFZ74?t=34618)*
 - Special Guest [Ally](https://twitter.com/DeveloperAlly)
 ## Advanced: EVM Opcodes, Encoding, and Calling
