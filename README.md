@@ -1887,7 +1887,7 @@ QR Code for Lesson 12 Arbitrum:
 </p>
 <br/>
 
-QR Code for Lesson 12 Arbitrum:
+QR Code for Lesson 12 Sepolia:
 <br/>
 <p align="center">
 <a href="" target="_blank">
