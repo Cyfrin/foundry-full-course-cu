@@ -1727,42 +1727,62 @@ cast storage
 💻 Code: [https://github.com/Cyfrin/foundry-nft-f23](https://github.com/Cyfrin/foundry-nft-f23)
 
 ## Introduction
-## What is an NFT? 
+## What is an NFT?
+*[⌨️ (7:43:21) | What is an NFT? ](https://youtu.be/sas02qSFZ74?t=27801)*
 - [Video](https://www.youtube.com/watch?v=9yuHz6g_P50)
 - [Optional: All on Chain SVG NFT]
 - EIP-721
 ## Foundry Setup
+*[⌨️ (7:49:53) | Foundry Setup ](https://youtu.be/sas02qSFZ74?t=28193)*
 - TokenURI
 - Pudgy Penguin Example
 ## IPFS
+*[⌨️ (8:00:24) | IPFS ](https://youtu.be/sas02qSFZ74?t=28824)*
 - [What is IPFS](https://www.youtube.com/watch?v=5Uj6uR3fp-U)
 ## Using IPFS
+*[⌨️ (8:07:30) | Using IPFS ](https://youtu.be/sas02qSFZ74?t=29250)*
 ## Basic NFT: Deploy Script
+*[⌨️ (8:13:59) | Basic NFT: Deploy Script ](https://youtu.be/sas02qSFZ74?t=29639)*
 ## Basic NFT: Tests
+*[⌨️ (8:15:25) | Basic NFT: Tests ](https://youtu.be/sas02qSFZ74?t=29725)*
 - Comparing strings in solidity
 - `chisel`
 ## Basic NFT: Interactions
+*[⌨️ (8:25:31) | Basic NFT: Interactions ](https://youtu.be/sas02qSFZ74?t=30331)*
 ## Basic NFT: Testnet Demo
+*[⌨️ (8:28:24) | Basic NFT: Testnet Demo ](https://www.youtube.com/watch?v=sas02qSFZ74&t=27656s)*
 ## The issue with IPFS & HTTPS TokenURI NFTs
+*[⌨️ (8:34:32) | The issue with IPFS & HTTPS TokenURI NFTs ](https://youtu.be/sas02qSFZ74?t=30872)*
 - [pinata](https://pinata.cloud/)
 - [SVG NFT Video](https://www.youtube.com/watch?v=9oERTH9Bkw0)
 ## What is an SVG?
+*[⌨️ (8:38:30) | What is an SVG? ](https://youtu.be/sas02qSFZ74?t=31110)*
 - [svg](https://www.w3schools.com/graphics/svg_intro.asp)
 - [vscode extension](https://marketplace.visualstudio.com/items?itemName=vitaliymaz.vscode-svg-previewer)
 - [base64 encoding](https://www.base64encode.org/)
 ## SVG NFT: Introduction
+*[⌨️ (8:45:54) | SVG NFT: Introduction ](https://youtu.be/sas02qSFZ74?t=31554)*
 ## SVG NFT: Encoding the NFT
+*[⌨️ (8:50:03) | SVG NFT: Encoding the NFT ](https://youtu.be/sas02qSFZ74?t=31803)*
 - [base64 openzeppelin](https://docs.openzeppelin.com/contracts/4.x/utilities)
 ## SVG NFT: Flipping the mood
+*[⌨️ (9:06:41) | SVG NFT: Flipping the mood ](https://youtu.be/sas02qSFZ74?t=32801)*
 ## SVG NFT: Deploy Script
+*[⌨️ (9:08:44) | SVG NFT: Deploy Script ](https://youtu.be/sas02qSFZ74?t=32924)*
 - [readFile Cheat](https://github.com/foundry-rs/foundry/issues/2153)
 ## SVG NFT: Debugging practice & some notes
+*[⌨️ (9:25:46) | SVG NFT: Debugging practice & some notes ](https://youtu.be/sas02qSFZ74?t=33946)*
 ## SVG NFT: Anvil Demo
+*[⌨️ (9:31:29) | SVG NFT: Anvil Demo ](https://youtu.be/sas02qSFZ74?t=34289)*
 - [arweave](https://www.arweave.org/)
 - [filecoin](https://filecoin.io/)
 - [nft.storage](https://nft.storage/)
 - [Patrick video on Filecoin](https://www.youtube.com/watch?v=Cj9r3pKI2L8)
+  ### Filecoin & Arweave
+*[⌨️ (9:36:58) | Filecoin & Arweave ](https://youtu.be/sas02qSFZ74?t=34618)*
+- Special Guest [Ally](https://twitter.com/DeveloperAlly)
 ## Advanced: EVM Opcodes, Encoding, and Calling
+*[⌨️ (9:44:02) | Advanced: EVM Opcodes, Encoding, and Calling ](https://youtu.be/sas02qSFZ74?t=35042)*
 ### abi.encode & abi.encodePacked
 - abi.encode
 - abi.encodePacked
@@ -1774,18 +1794,21 @@ What REALLY is the ABI?
 - Solidity Cheatsheet
 - abi.encode vs abi.encodePacked
 ### Introduction to Encoding Function Calls Directly
+*[⌨️ (10:06:27) | Introduction to Encoding Function Calls Directly ](https://youtu.be/sas02qSFZ74?t=36387)*
 ### Introduction to Encoding Function Calls Recap
+*[⌨️ (10:12:16) | Introduction to Encoding Function Calls Recap ](https://youtu.be/sas02qSFZ74?t=36736)*
 ### Encoding Function Calls Directly
+*[⌨️ (10:14:15) | Encoding Function Calls Directly ](https://youtu.be/sas02qSFZ74?t=36855)*
 - Function Selector
 - Function Signature
 ## Verifying Metamask Transactions
+*[⌨️ (10:28:45) | Verifying Metamask Transactions ](https://youtu.be/sas02qSFZ74?t=37725)*
 1. Check the address
 2. Check the function selector
 3. Decode the calldata
 - [joinfire.zxyz](https://app.joinfire.xyz/)
-## Filecoin & Arweave
-- Special Guest [Ally](https://twitter.com/DeveloperAlly)
 ## Lesson 11 Recap
+*[⌨️ (10:36:31) | Lesson 11 Recap ](https://youtu.be/sas02qSFZ74?t=38191)*
 - [ENS](https://ens.domains/)
 
 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
