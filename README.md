@@ -1778,7 +1778,7 @@ cast storage
 - [filecoin](https://filecoin.io/)
 - [nft.storage](https://nft.storage/)
 - [Patrick video on Filecoin](https://www.youtube.com/watch?v=Cj9r3pKI2L8)
-### Filecoin & Arweave
+## Filecoin & Arweave
 *[⌨️ (9:36:58) | Filecoin & Arweave ](https://youtu.be/sas02qSFZ74?t=34618)*
 - Special Guest [Ally](https://twitter.com/DeveloperAlly)
 ## Advanced: EVM Opcodes, Encoding, and Calling
