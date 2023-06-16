@@ -877,8 +877,6 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 - **Refer to Documentation:** Things are constantly being updated, so whenever Patrick opens up some documentation, open it your end and maybe even have the code sample next to you.
 - **Use ChatGPT and/or the course chat**
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 # Lesson 1: Blockchain Basics
 *[⭐️ (0:13:54) | Lesson 1: Blockchain Basics](https://www.youtube.com/watch?v=umepbfKp5rI&t=834s)*
 ## What is a Blockchain? What does a blockchain do? 
