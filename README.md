@@ -1235,7 +1235,6 @@ DO NOT SKIP THIS!!
 
 ## Local Development Introduction
 - `CMD + K` or `CTRL + K` clears the terminal
-- `mkdir ethers-simple-storage-fcc`
 - `code .` to open VSCode in a new VSCode window
   
 
@@ -1248,7 +1247,7 @@ DO NOT SKIP THIS!!
 - Copilot labs
 - Hardhat Solidity Extension
 - VSCodium
-- `mkdir foundry-f23`
+- `mkdir foundry-simple-storage-f23`
 ## Foundry Setup
 *[⌨️ (6:57:17) | Foundry Setup ](https://youtu.be/umepbfKp5rI?t=25037)*
 - FreeCodeCamp Bash 
