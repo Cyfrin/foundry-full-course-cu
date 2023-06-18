@@ -1247,6 +1247,8 @@ DO NOT SKIP THIS!!
 - Copilot labs
 - Hardhat Solidity Extension
 - VSCodium
+- `mkdir foundry-f23`
+- `cd foundry-f23`
 - `mkdir foundry-simple-storage-f23`
 ## Foundry Setup
 *[⌨️ (6:57:17) | Foundry Setup ](https://youtu.be/umepbfKp5rI?t=25037)*
