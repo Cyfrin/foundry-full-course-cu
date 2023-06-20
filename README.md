@@ -1836,7 +1836,7 @@ What REALLY is the ABI?
 ## What is DeFi?
 - [What is DeFi?](https://chain.link/education/defi)
 - [DefiLlama](https://defillama.com/)
-- [Bankless]()
+- [Bankless](https://www.bankless.com/)
 - [MEV](https://www.flashbots.net/)
 - [Aave](https://aave.com/)
 - [My Previous Aave Video on Shorting Assets](https://www.youtube.com/watch?v=TmNGAvI-RUA)
@@ -1844,22 +1844,28 @@ What REALLY is the ABI?
 - [Uniswap](https://app.uniswap.org/)
 - [Maximal Extractable Value (MEV)](https://ethereum.org/en/developers/docs/mev/)
 ## Code Walkthrough
+*[⌨️ (0:09:17) | Code Walkthrough](https://youtu.be/wUjYK5gwNZs?t=557)*
 - [What is a smart contract audit](https://www.youtube.com/watch?v=aOqhQvWhUG0)
 ## What is a stablecoin (But actually)
+*[⌨️ (0:12:22) | What is a stablecoin (But actually)](https://youtu.be/wUjYK5gwNZs?t=742)*
 - [Video](https://www.youtube.com/watch?v=pciVQVocTYc)
-- [MakerDAO Forums]()
+- [MakerDAO Forums](https://start.makerdao.com/)
 ## DecentralizedStableCoin.sol
+*[⌨️ (0:40:41) | DecentralizedStableCoin.sol](https://youtu.be/wUjYK5gwNZs?t=2441)*
 - [What is a smart contract audit](https://www.youtube.com/watch?v=aOqhQvWhUG0)
 - `super`
 ## DSCEngine.sol Setup
+*[⌨️ (0:54:43) | DSCEngine.sol Setup ](https://youtu.be/wUjYK5gwNZs?t=3283)*
 - [liquidations](https://docs.aave.com/faq/liquidations)
 - [nonreentrant](https://docs.openzeppelin.com/contracts/4.x/api/security)
   - [reentrancy](https://solidity-by-example.org/hacks/re-entrancy/)
 ## Deposit Collateral
+*[⌨️ (1:04:49) | Deposit Collateral ](https://youtu.be/wUjYK5gwNZs?t=3889)*
 - Other DeFi Examples:
   - [Aave V2 Docs](https://docs.aave.com/developers/v/2.0/)
   - [Aave NPM](https://www.npmjs.com/package/@aave/protocol-v2)
 ## Mint DSC
+*[⌨️ (1:22:51) | Mint DSC ](https://youtu.be/wUjYK5gwNZs?t=4971)*
 ### Getting the value of our collateral
 - [Aave Borrowing FAQs](https://docs.aave.com/faq/borrowing)
 - [Health Factor](https://docs.aave.com/faq/borrowing#what-is-the-health-factor)
