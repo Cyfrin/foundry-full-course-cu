@@ -1867,44 +1867,70 @@ What REALLY is the ABI?
 ## Mint DSC
 *[⌨️ (1:22:51) | Mint DSC ](https://youtu.be/wUjYK5gwNZs?t=4971)*
 ### Getting the value of our collateral
+*[⌨️ () |  ]()*
 - [Aave Borrowing FAQs](https://docs.aave.com/faq/borrowing)
 - [Health Factor](https://docs.aave.com/faq/borrowing#what-is-the-health-factor)
 - [Aave Risk Parameters](https://docs.aave.com/risk/asset-risk/risk-parameters)
 ### Health Factor
+*[⌨️ (1:39:11) | Health Factor ](https://youtu.be/wUjYK5gwNZs?t=5951)*
 - [Liquidation Threshold](https://docs.aave.com/risk/asset-risk/risk-parameters)
 ### Minting the DSC
+*[⌨️ (1:46:02) | Minting the DSC ](https://youtu.be/wUjYK5gwNZs?t=6362)*
 ## Testing while developing
 ### Deploy Script
+*[⌨️ (1:47:28) | Deploy Script ](https://youtu.be/wUjYK5gwNZs?t=6448)*
 - [WETH Token Sepolia Etherscan](https://sepolia.etherscan.io/address/0xdd13E55209Fd76AfE204dBda4007C227904f0a81)
 - [WETH Token Mainnet](https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2)
 ### Tests
+*[⌨️ (2:02:24) | Tests ](https://youtu.be/wUjYK5gwNZs?t=7344)*
 ## depositCollateralAndMintDsc
+*[⌨️ (2:13:45) | depositCollateralAndMintDsc ](https://youtu.be/wUjYK5gwNZs?t=8025)*
 ## redeemCollateral
+*[⌨️ (2:16:12) | redeemCollateral ](https://youtu.be/wUjYK5gwNZs?t=8172)*
 ## Liquidate
 ### Setup
+*[⌨️ (2:27:50) | Setup ](https://youtu.be/wUjYK5gwNZs?t=8870)*
 ### Refactoring
+*[⌨️ (2:44:45) | Refactoring ](https://youtu.be/wUjYK5gwNZs?t=9885)*
+## Sanity check 
+*[⌨️ (2:54:13) | Sanity check ](https://youtu.be/wUjYK5gwNZs?t=10453)*
 ## Leveling up your testing skillz 
-## Challenge: Code coverage above 80% for DSCEngine.sol
+*[⌨️ (2:56:55) | Leveling up your testing skillz  ](https://youtu.be/wUjYK5gwNZs?t=10615)*
+## Challenge: Get DSCEngine.sol test coverage above 85%
 ## Fuzz (Invariant) Testing
+*[⌨️ (3:13:50) | Fuzz (Invariant) Testing ](https://youtu.be/wUjYK5gwNZs?t=11630)*
 - [Video](https://www.youtube.com/watch?v=juyY-CTolac)
 ## Open-based Fuzz tests
+*[⌨️ (3:27:17) | Open-based Fuzz tests ](https://youtu.be/wUjYK5gwNZs?t=12437)*
 ## Handler-based Fuzz tests
+*[⌨️ () |  ]()*
 ### revert_on_fail = true
+*[⌨️ (3:46:55) | revert_on_fail = true ](https://youtu.be/wUjYK5gwNZs?t=13615)*
 ### Redeeming Collateral
+*[⌨️ () |  ]()*
 ### Minting DSC
+*[⌨️ () |  ]()*
 ### Debuggin Fuzz Tests
+*[⌨️ () |  ]()*
 - [Ghost Variables](https://mirror.xyz/horsefacts.eth/Jex2YVaO65dda6zEyfM_-DXlXhOWCAoSpOx5PLocYgw)
 ### Challenge: Find out why `mintDsc` is never being called on our Handler.sol
+*[⌨️ () |  ]()*
 ## Price Feed Handling
+*[⌨️ () |  ]()*
 ## OracleLib
+*[⌨️ () |  ]()*
 ## Note on audit preparedness
+*[⌨️ () |  ]()*
 - [Simple security checklist](https://github.com/nascentxyz/simple-security-toolkit)
 ## Recap
+*[⌨️ () |  ]()*
 ## Lens Protocol
+*[⌨️ () |  ]()*
 - Special Guest [Nader](https://twitter.com/dabit3)
 - [Lens Protocol](https://www.lens.xyz/)
 
-### More DeFi Learnings: 
+### More DeFi Learnings:
+*[⌨️ () |  ]()*
 - [Defi-Minimal](https://github.com/smartcontractkit/defi-minimal/tree/main/contracts)
 - [Defi Dad](https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg)
 
