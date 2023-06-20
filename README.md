@@ -1867,7 +1867,7 @@ What REALLY is the ABI?
 ## Mint DSC
 *[⌨️ (1:22:51) | Mint DSC ](https://youtu.be/wUjYK5gwNZs?t=4971)*
 ### Getting the value of our collateral
-*[⌨️ () |  ]()*
+*[⌨️ (1:29:53) | Getting the value of our collateral ](https://youtu.be/wUjYK5gwNZs?t=5393)*
 - [Aave Borrowing FAQs](https://docs.aave.com/faq/borrowing)
 - [Health Factor](https://docs.aave.com/faq/borrowing#what-is-the-health-factor)
 - [Aave Risk Parameters](https://docs.aave.com/risk/asset-risk/risk-parameters)
@@ -1892,8 +1892,6 @@ What REALLY is the ABI?
 *[⌨️ (2:27:50) | Setup ](https://youtu.be/wUjYK5gwNZs?t=8870)*
 ### Refactoring
 *[⌨️ (2:44:45) | Refactoring ](https://youtu.be/wUjYK5gwNZs?t=9885)*
-## Sanity check 
-*[⌨️ (2:54:13) | Sanity check ](https://youtu.be/wUjYK5gwNZs?t=10453)*
 ## Leveling up your testing skillz 
 *[⌨️ (2:56:55) | Leveling up your testing skillz  ](https://youtu.be/wUjYK5gwNZs?t=10615)*
 ## Challenge: Get DSCEngine.sol test coverage above 85%
@@ -1903,15 +1901,14 @@ What REALLY is the ABI?
 ## Open-based Fuzz tests
 *[⌨️ (3:27:17) | Open-based Fuzz tests ](https://youtu.be/wUjYK5gwNZs?t=12437)*
 ## Handler-based Fuzz tests
-*[⌨️ () |  ]()*
 ### revert_on_fail = true
 *[⌨️ (3:46:55) | revert_on_fail = true ](https://youtu.be/wUjYK5gwNZs?t=13615)*
 ### Redeeming Collateral
-*[⌨️ () |  ]()*
+*[⌨️ (4:03:57) | Redeeming Collateral ](https://youtu.be/wUjYK5gwNZs?t=14637)*
 ### Minting DSC
-*[⌨️ () |  ]()*
+*[⌨️ (4:09:42) | Minting DSC ](https://youtu.be/wUjYK5gwNZs?t=14982)*
 ### Debuggin Fuzz Tests
-*[⌨️ () |  ]()*
+*[⌨️ (4:15:01) | Debuggin Fuzz Tests ](https://youtu.be/wUjYK5gwNZs?t=15301)*
 - [Ghost Variables](https://mirror.xyz/horsefacts.eth/Jex2YVaO65dda6zEyfM_-DXlXhOWCAoSpOx5PLocYgw)
 ### Challenge: Find out why `mintDsc` is never being called on our Handler.sol
 *[⌨️ () |  ]()*
