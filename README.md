@@ -1364,6 +1364,8 @@ ANYWHERE written in plain text
 # Completed Video 1!!
 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
 
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
+
 <br/>
 <p align="center">
 <a href="https://youtu.be/sas02qSFZ74" target="_blank">
@@ -1371,8 +1373,6 @@ ANYWHERE written in plain text
 </a>
 </p>
 <br/>
-
-<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 # Lesson 7: Foundry Fund Me
 
@@ -1834,6 +1834,7 @@ What REALLY is the ABI?
 # Completed Video 2!!
 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
 
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 <br/>
 <p align="center">
@@ -1842,8 +1843,6 @@ What REALLY is the ABI?
 </a>
 </p>
 <br/>
-
-<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 # Lesson 12: Foundry DeFi | Stablecoin (The PINNACLE PROJECT!! GET HERE!)
 
