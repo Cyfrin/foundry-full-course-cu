@@ -1926,7 +1926,7 @@ What REALLY is the ABI?
 ### Minting DSC
 *[⌨️ (4:09:42) | Minting DSC ](https://youtu.be/wUjYK5gwNZs?t=14982)*
 ### Debugging Fuzz Tests
-*[⌨️ (4:15:01) | Debuggin Fuzz Tests ](https://youtu.be/wUjYK5gwNZs?t=15301)*
+*[⌨️ (4:15:01) | Debugging Fuzz Tests ](https://youtu.be/wUjYK5gwNZs?t=15301)*
 - [Ghost Variables](https://mirror.xyz/horsefacts.eth/Jex2YVaO65dda6zEyfM_-DXlXhOWCAoSpOx5PLocYgw)
 ### Challenge: Find out why `mintDsc` is never being called on our Handler.sol
 ## Price Feed Handling
