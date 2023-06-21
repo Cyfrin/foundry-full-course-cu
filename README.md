@@ -1360,11 +1360,11 @@ ANYWHERE written in plain text
 ## Summary
 *[⌨️ (8:21:28) | Summary ](https://youtu.be/umepbfKp5rI?t=30088)*
 
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
+
 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
 # Completed Video 1!!
 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
-
-<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 <br/>
 <p align="center">
@@ -1830,11 +1830,11 @@ What REALLY is the ABI?
 *[⌨️ (10:36:31) | Lesson 11 Recap ](https://youtu.be/sas02qSFZ74?t=38191)*
 - [ENS](https://ens.domains/)
 
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
+
 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
 # Completed Video 2!!
 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
-
-<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 <br/>
 <p align="center">
