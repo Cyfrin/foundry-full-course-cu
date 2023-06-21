@@ -877,7 +877,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 - **Refer to Documentation:** Things are constantly being updated, so whenever Patrick opens up some documentation, open it your end and maybe even have the code sample next to you.
 - **Use ChatGPT and/or the course chat**
 
-<p align="right">(<a href="#table-of-contents">back to top ⬆️</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 # Lesson 1: Blockchain Basics
 *[⭐️ (0:13:54) | Lesson 1: Blockchain Basics](https://www.youtube.com/watch?v=umepbfKp5rI&t=834s)*
@@ -969,7 +969,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 -   [Nakamoto Consensus](https://blockonomi.com/nakamoto-consensus/)
 -   [The merge](https://ethereum.org/en/eth2/)
 
-<p align="right">(<a href="#table-of-contents">back to top ⬆️</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 # Lesson 2: Welcome to Remix - Remix Simple Storage
 
@@ -1049,7 +1049,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 *[⌨️ (3:27:07) | The EVM & A Recap of Lesson 2](https://youtu.be/umepbfKp5rI?t=12427)*
 -   The EVM
 
-<p align="right">(<a href="#table-of-contents">back to top ⬆️</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 # Lesson 3: Remix Storage Factory
 
@@ -1078,7 +1078,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 ## Lesson 3 Recap
 *[⌨️ (4:07:37) | Lesson 3 Recap](https://youtu.be/umepbfKp5rI?t=14857)*
 
-<p align="right">(<a href="#table-of-contents">back to top ⬆️</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 # Lesson 4: Remix Fund Me
 
@@ -1187,7 +1187,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 ## Lesson 4 Recap
 *[⌨️ (5:57:10) | Lesson 4 Recap](https://youtu.be/umepbfKp5rI?t=21430)*
 
-<p align="right">(<a href="#table-of-contents">back to top ⬆️</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 # Lesson 5: AI Prompting, Asking Questions, and Getting Help
 
@@ -1210,7 +1210,7 @@ DO NOT SKIP THIS!!
 *[⌨️ (6:19:58) | SpeedRunEthereum](https://youtu.be/umepbfKp5rI?t=22798)*
 - Special Guest [Austin](https://twitter.com/austingriffith)
 
-<p align="right">(<a href="#table-of-contents">back to top ⬆️</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 # Lesson 6: Foundry Simple Storage
 
@@ -1372,7 +1372,7 @@ ANYWHERE written in plain text
 </p>
 <br/>
 
-<p align="right">(<a href="#table-of-contents">back to top ⬆️</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 # Lesson 7: Foundry Fund Me
 
@@ -1526,7 +1526,7 @@ cast storage
 ## Lesson 7: Recap
 *[⌨️ (2:35:13) | Lesson 7: Recap ](https://youtu.be/sas02qSFZ74?t=9313)*
 
-<p align="right">(<a href="#table-of-contents">back to top ⬆️</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 # Lesson 8: Html/Js Fund Me (Quick Fullstack / Front End Tutorial)
 
@@ -1556,7 +1556,7 @@ cast storage
 
 - [More in-depth Javascript & Full Stack introduction video](https://www.youtube.com/watch?v=pdsYCkUWrgQ)
 
-<p align="right">(<a href="#table-of-contents">back to top ⬆️</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 # Lesson 9: Foundry Smart Contract Lottery
 
@@ -1704,7 +1704,7 @@ cast storage
 - Chainlink VRF: 2 LINK
 - Chainlink Keepers: 8 LINK
 
-<p align="right">(<a href="#table-of-contents">back to top ⬆️</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 # Lesson 10: Foundry ERC20s
 
@@ -1737,7 +1737,7 @@ cast storage
 - [Token Approvals](https://etherscan.io/tokenapprovalchecker)
 ## Lesson 10 Recap
 
-<p align="right">(<a href="#table-of-contents">back to top ⬆️</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 # Lesson 11: Foundry NFTs | MoodNFT
 
@@ -1843,7 +1843,7 @@ What REALLY is the ABI?
 </p>
 <br/>
 
-<p align="right">(<a href="#table-of-contents">back to top ⬆️</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 # Lesson 12: Foundry DeFi | Stablecoin (The PINNACLE PROJECT!! GET HERE!)
 
@@ -1966,7 +1966,7 @@ QR Code for Lesson 12 Sepolia:
 </p>
 <br/>
 
-<p align="right">(<a href="#table-of-contents">back to top ⬆️</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 # Lesson 13: Foundry Upgrades
 
@@ -2005,7 +2005,7 @@ QR Code for Lesson 12 Sepolia:
 ### Test / Demo
 ## Testnet Demo
 
-<p align="right">(<a href="#table-of-contents">back to top ⬆️</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 # Lesson 14: Foundry DAO / Governance 
 
@@ -2039,7 +2039,7 @@ Plutocracy is bad! Don't default to ERC20 token voting!!
 ## Bonus: Gas optimization tips
 - Special Guest [Harrison](https://twitter.com/PopPunkOnChain)
 
-<p align="right">(<a href="#table-of-contents">back to top ⬆️</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 # Lesson 15: Smart Contract Security & Auditing (For developers)
 
@@ -2092,7 +2092,7 @@ Developers 100% should know all about this! Don't leave the course without at le
     -   [Trust](https://www.trust-security.xyz/)
     -   [More](https://patrickalphac.medium.com/top-7-smart-contract-auditors-bec7bd70dd9f)
 
-<p align="right">(<a href="#table-of-contents">back to top ⬆️</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 # Congratulations
 
@@ -2125,7 +2125,7 @@ Be sure to check out project grant programs!
 
 And make today an amazing day!
 
-<p align="right">(<a href="#table-of-contents">back to top ⬆️</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 # Disclosures
 
@@ -2133,7 +2133,7 @@ Transparency is important! So we want to disclose any potential conflicts that m
 
 Because of all this, I have added alternatives to each section where we suggest a tool. This video & course was created and sponsored solely by the [Cyfrin](https://www.cyfrin.io/) team. 
 
-<p align="right">(<a href="#table-of-contents">back to top ⬆️</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 # Donations
 
@@ -2147,7 +2147,7 @@ BadgerDAO is a decentralized collective of builders supporting community driven 
   <img src="./thumbnails/badgerdao-logo-black-text.png" width="500" alt="Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI 3">
 </a>
 
-<p align="right">(<a href="#table-of-contents">back to top ⬆️</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 # Thank you
 
@@ -2160,4 +2160,4 @@ And thanks to the [Cyfrin](https://www.cyfrin.io/) team for making this possible
 [![Patrick Collins Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickalphac/)
 [![Patrick Collins Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@patrick.collins_58673/)
 
-<p align="right">(<a href="#table-of-contents">back to top ⬆️</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
