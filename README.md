@@ -1847,7 +1847,7 @@ What REALLY is the ABI?
 *[⌨️ (0:09:17) | Code Walkthrough](https://youtu.be/wUjYK5gwNZs?t=557)*
 - [What is a smart contract audit](https://www.youtube.com/watch?v=aOqhQvWhUG0)
 ## What is a stablecoin (But actually)
-*[⌨️ (0:12:22) | What is a stablecoin (But actually)](https://youtu.be/wUjYK5gwNZs?t=742)*
+*[⌨️ (0:12:23) | What is a stablecoin (But actually)](https://youtu.be/wUjYK5gwNZs?t=743)*
 - [Video](https://www.youtube.com/watch?v=pciVQVocTYc)
 - [MakerDAO Forums](https://start.makerdao.com/)
 ## DecentralizedStableCoin.sol
@@ -1855,7 +1855,7 @@ What REALLY is the ABI?
 - [What is a smart contract audit](https://www.youtube.com/watch?v=aOqhQvWhUG0)
 - `super`
 ## DSCEngine.sol Setup
-*[⌨️ (0:54:43) | DSCEngine.sol Setup ](https://youtu.be/wUjYK5gwNZs?t=3283)*
+*[⌨️ (0:54:44) | DSCEngine.sol Setup ](https://youtu.be/wUjYK5gwNZs?t=3284)*
 - [liquidations](https://docs.aave.com/faq/liquidations)
 - [nonreentrant](https://docs.openzeppelin.com/contracts/4.x/api/security)
   - [reentrancy](https://solidity-by-example.org/hacks/re-entrancy/)
@@ -1865,9 +1865,8 @@ What REALLY is the ABI?
   - [Aave V2 Docs](https://docs.aave.com/developers/v/2.0/)
   - [Aave NPM](https://www.npmjs.com/package/@aave/protocol-v2)
 ## Mint DSC
-*[⌨️ (1:22:51) | Mint DSC ](https://youtu.be/wUjYK5gwNZs?t=4971)*
 ### Getting the value of our collateral
-*[⌨️ (1:29:53) | Getting the value of our collateral ](https://youtu.be/wUjYK5gwNZs?t=5393)*
+*[⌨️ (1:22:51) | Getting the value of our collateral ](https://youtu.be/wUjYK5gwNZs?t=4971)*
 - [Aave Borrowing FAQs](https://docs.aave.com/faq/borrowing)
 - [Health Factor](https://docs.aave.com/faq/borrowing#what-is-the-health-factor)
 - [Aave Risk Parameters](https://docs.aave.com/risk/asset-risk/risk-parameters)
@@ -1889,7 +1888,7 @@ What REALLY is the ABI?
 *[⌨️ (2:16:12) | redeemCollateral ](https://youtu.be/wUjYK5gwNZs?t=8172)*
 ## Liquidate
 ### Setup
-*[⌨️ (2:27:50) | Setup ](https://youtu.be/wUjYK5gwNZs?t=8870)*
+*[⌨️ (2:27:49) | Setup ](https://youtu.be/wUjYK5gwNZs?t=8869)*
 ### Refactoring
 *[⌨️ (2:44:45) | Refactoring ](https://youtu.be/wUjYK5gwNZs?t=9885)*
 ## Leveling up your testing skillz 
@@ -1899,7 +1898,7 @@ What REALLY is the ABI?
 *[⌨️ (3:13:50) | Fuzz (Invariant) Testing ](https://youtu.be/wUjYK5gwNZs?t=11630)*
 - [Video](https://www.youtube.com/watch?v=juyY-CTolac)
 ## Open-based Fuzz tests
-*[⌨️ (3:27:17) | Open-based Fuzz tests ](https://youtu.be/wUjYK5gwNZs?t=12437)*
+*[⌨️ (3:27:18) | Open-based Fuzz tests ](https://youtu.be/wUjYK5gwNZs?t=12438)*
 ## Handler-based Fuzz tests
 ### revert_on_fail = true
 *[⌨️ (3:46:55) | revert_on_fail = true ](https://youtu.be/wUjYK5gwNZs?t=13615)*
@@ -1907,27 +1906,25 @@ What REALLY is the ABI?
 *[⌨️ (4:03:57) | Redeeming Collateral ](https://youtu.be/wUjYK5gwNZs?t=14637)*
 ### Minting DSC
 *[⌨️ (4:09:42) | Minting DSC ](https://youtu.be/wUjYK5gwNZs?t=14982)*
-### Debuggin Fuzz Tests
+### Debugging Fuzz Tests
 *[⌨️ (4:15:01) | Debuggin Fuzz Tests ](https://youtu.be/wUjYK5gwNZs?t=15301)*
 - [Ghost Variables](https://mirror.xyz/horsefacts.eth/Jex2YVaO65dda6zEyfM_-DXlXhOWCAoSpOx5PLocYgw)
 ### Challenge: Find out why `mintDsc` is never being called on our Handler.sol
-*[⌨️ () |  ]()*
 ## Price Feed Handling
-*[⌨️ () |  ]()*
+*[⌨️ (4:23:30) | Price Feed Handling ](https://youtu.be/wUjYK5gwNZs?t=15810)*
 ## OracleLib
-*[⌨️ () |  ]()*
+*[⌨️ (4:31:28) | OracleLib ](https://youtu.be/wUjYK5gwNZs?t=16288)*
 ## Note on audit preparedness
-*[⌨️ () |  ]()*
+*[⌨️ (4:39:57) | Note on audit preparedness ](https://youtu.be/wUjYK5gwNZs?t=16797)*
 - [Simple security checklist](https://github.com/nascentxyz/simple-security-toolkit)
 ## Recap
-*[⌨️ () |  ]()*
+*[⌨️ (4:41:06) | Recap ](https://youtu.be/wUjYK5gwNZs?t=16866)*
 ## Lens Protocol
-*[⌨️ () |  ]()*
+*[⌨️ (4:44:38) | Lens Protocol ](https://youtu.be/wUjYK5gwNZs?t=17078)*
 - Special Guest [Nader](https://twitter.com/dabit3)
 - [Lens Protocol](https://www.lens.xyz/)
 
 ### More DeFi Learnings:
-*[⌨️ () |  ]()*
 - [Defi-Minimal](https://github.com/smartcontractkit/defi-minimal/tree/main/contracts)
 - [Defi Dad](https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg)
 
@@ -1948,7 +1945,6 @@ QR Code for Lesson 12 Sepolia:
 </a>
 </p>
 <br/>
-
 
 # Lesson 13: Foundry Upgrades
 
