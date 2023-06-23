@@ -182,7 +182,7 @@ Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidi
     <li><a href="#private-key-rant-i">Private Key Rant I</a></li>
     <li><a href="#deploying-to-a-local-chain-iii-forge-script">Deploying to a local chain III (Forge Script)</a></li>
     <li><a href="#what-is-a-transaction-but-actually">What is a transaction (But actually)</a></li>
-    <li><a href="#private-key-r-ant-ii">Private Key R ant II</a></li>
+    <li><a href="#private-key-rant-ii">Private Key R ant II</a></li>
     <li><a href="#can-you-encrypt-a-private-key---a-keystore-in-foundry-yet">Can you Encrypt a Private Key -&gt; a keystore in foundry yet??</a></li>
     <li><a href="#thirdweb-deploy">ThirdWeb Deploy</a></li>
     <li><a href="#private-key-rant-summary">Private Key Rant Summary:</a></li>
