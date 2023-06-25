@@ -1084,6 +1084,8 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 *[⌨️ (4:12:20) | Setup](https://youtu.be/umepbfKp5rI?t=15140)*
 ## Sending ETH through a function
 *[⌨️ (4:14:00) | Sending ETH through a function](https://youtu.be/umepbfKp5rI?t=15240)*
+- [Ethereum Unit Converter](https://eth-converter.com/)
+  
 - [Fields in a Transaction](https://ethereum.org/en/developers/docs/transactions/)
 - [More on v,r,s](https://ethereum.stackexchange.com/questions/15766/what-does-v-r-s-in-eth-gettransactionbyhash-mean)
 - [payable](https://solidity-by-example.org/payable)
