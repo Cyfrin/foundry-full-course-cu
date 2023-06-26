@@ -1381,7 +1381,8 @@ ANYWHERE written in plain text
 *[⌨️ (6:14) | Setup Continued ](https://youtu.be/sas02qSFZ74?t=374)*
 - [Chainlink Brownie Contracts Github Repo](https://github.com/smartcontractkit/chainlink-brownie-contracts)
   ```bash
-  forge install smartcontractkit/chainlink-brownie-contracts@0.6.1 --no-commit```
+  forge install smartcontractkit/chainlink-brownie-contracts@0.6.1 --no-commit
+  ```
 - [Dependencies](https://book.getfoundry.sh/projects/dependencies)
 - [remappings](https://book.getfoundry.sh/reference/forge/forge-remappings)
 
