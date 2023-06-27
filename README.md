@@ -182,7 +182,7 @@ Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidi
     <li><a href="#private-key-rant-i">Private Key Rant I</a></li>
     <li><a href="#deploying-to-a-local-chain-iii-forge-script">Deploying to a local chain III (Forge Script)</a></li>
     <li><a href="#what-is-a-transaction-but-actually">What is a transaction (But actually)</a></li>
-    <li><a href="#private-key-r-ant-ii">Private Key R ant II</a></li>
+    <li><a href="#private-key-rant-ii">Private Key Rant II</a></li>
     <li><a href="#can-you-encrypt-a-private-key---a-keystore-in-foundry-yet">Can you Encrypt a Private Key -&gt; a keystore in foundry yet??</a></li>
     <li><a href="#thirdweb-deploy">ThirdWeb Deploy</a></li>
     <li><a href="#private-key-rant-summary">Private Key Rant Summary:</a></li>
@@ -1090,6 +1090,8 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 *[⌨️ (4:12:20) | Setup](https://youtu.be/umepbfKp5rI?t=15140)*
 ## Sending ETH through a function
 *[⌨️ (4:14:00) | Sending ETH through a function](https://youtu.be/umepbfKp5rI?t=15240)*
+- [Ethereum Unit Converter](https://eth-converter.com/)
+  
 - [Fields in a Transaction](https://ethereum.org/en/developers/docs/transactions/)
 - [More on v,r,s](https://ethereum.stackexchange.com/questions/15766/what-does-v-r-s-in-eth-gettransactionbyhash-mean)
 - [payable](https://solidity-by-example.org/payable)
@@ -1114,6 +1116,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 *[⌨️ (4:36:22) | Quick recap I](https://youtu.be/umepbfKp5rI?t=16582)*
 ## Interfaces
 *[⌨️ (4:37:08) | Interfaces](https://youtu.be/umepbfKp5rI?t=16628)*
+- For reference - [ChainLink Interface's Repo](https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol)
 ## AI Help III
 *[⌨️ (4:43:31) | AI Help III](https://youtu.be/umepbfKp5rI?t=17011)*
 ## Importing from NPM / GitHub
@@ -1387,6 +1390,10 @@ ANYWHERE written in plain text
 *[⌨️ (4:40) | Testing Introduction ](https://youtu.be/sas02qSFZ74?t=280)*
 ## Setup Continued
 *[⌨️ (6:14) | Setup Continued ](https://youtu.be/sas02qSFZ74?t=374)*
+- [Chainlink Brownie Contracts Github Repo](https://github.com/smartcontractkit/chainlink-brownie-contracts)
+  ```bash
+  forge install smartcontractkit/chainlink-brownie-contracts@0.6.1 --no-commit
+  ```
 - [Dependencies](https://book.getfoundry.sh/projects/dependencies)
 - [remappings](https://book.getfoundry.sh/reference/forge/forge-remappings)
 - [Chainlink Brownie Contracts](https://github.com/smartcontractkit/chainlink-brownie-contracts)
