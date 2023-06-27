@@ -1389,6 +1389,7 @@ ANYWHERE written in plain text
 *[⌨️ (6:14) | Setup Continued ](https://youtu.be/sas02qSFZ74?t=374)*
 - [Dependencies](https://book.getfoundry.sh/projects/dependencies)
 - [remappings](https://book.getfoundry.sh/reference/forge/forge-remappings)
+- [Chainlink Brownie Contracts](https://github.com/smartcontractkit/chainlink-brownie-contracts)
 
 ## Tests
 *[⌨️ (11:54) | Tests ](https://youtu.be/sas02qSFZ74?t=714)*
