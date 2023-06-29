@@ -1626,6 +1626,12 @@ cast storage
 ## Implementing Chainlink VRF - Introduction
 *[⌨️ (3:47:21) | Implementing Chainlink VRF - Introduction ](https://youtu.be/sas02qSFZ74?t=13641)*
 * Implementing Chainlink VRF
+- [Get Sepolia Testnet LINK tokens](https://faucets.chain.link/)
+- [Chainlink docs - create a random number](https://docs.chain.link/vrf/v2/subscription/examples/get-a-random-number#create-and-fund-a-subscription)
+- [Chainlink Brownie Contracts](https://github.com/smartcontractkit/chainlink-brownie-contracts)
+```bash 
+forge install smartcontractkit/chainlink-brownie-contracts@0.6.1 --no-commit
+```
 ## Implementing Chainlink VRF - The Request
 ## Implementing Chainlink VRF - The FulFill
 ## Chainlink VRF Recap
