@@ -34,6 +34,8 @@ Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidi
 
 [YouTube Playlist](https://www.youtube.com/playlist?list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42)
 
+[YouTube Playlist of each section](https://www.youtube.com/playlist?list=PL2-Nvp2Kn0FPH2xU3IbKrrkae-VVXs1vk)
+
 # Table of Contents
 
 <details>
