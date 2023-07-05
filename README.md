@@ -1515,6 +1515,7 @@ cast storage
 ## Makefile
 *[⌨️ (2:10:56) | Makefile ](https://youtu.be/sas02qSFZ74?t=7856)*
 - [Install make](https://stackoverflow.com/questions/39892692/how-to-implement-make-install-in-a-makefile)
+- [Install make Ubuntu](https://linuxhint.com/install-use-make-ubuntu/).
 - [Etherscan API Key](https://docs.etherscan.io/getting-started/viewing-api-usage-statistics)
 
 ## Pushing to GitHub
