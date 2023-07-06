@@ -1413,6 +1413,17 @@ ANYWHERE written in plain text
 
 ## Forked Tests
 *[⌨️ (25:47) | Forked Tests ](https://youtu.be/sas02qSFZ74?t=1547)*
+
+- The test option `-m` regex is deprecated. Please use `--match-test` or `--mt` instead.
+
+```bash
+forge test -m testPriceFeedVersionIsAccurate -vvv
+```
+is depreciated. Please use 
+```
+forge test --match-test testPriceFeedVersionIsAccurate -vvv
+```
+
 -  4 types of testing:
 ```
 1. Unit: Testing a single function
