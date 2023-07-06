@@ -1412,7 +1412,7 @@ ANYWHERE written in plain text
 ## Forked Tests
 *[⌨️ (25:47) | Forked Tests ](https://youtu.be/sas02qSFZ74?t=1547)*
 
-- The test option `-m` regex is deprecated. Please use `--match-test` instead.
+- The test option `-m` regex is deprecated. Please use `--match-test` or `--mt` instead.
 
 ```bash
 forge test -m testPriceFeedVersionIsAccurate -vvv
