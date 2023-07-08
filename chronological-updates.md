@@ -29,6 +29,17 @@ Per the [foundry docs](https://book.getfoundry.sh/getting-started/installation#b
 
 # Lesson 9
 
+The modulo examples shown on remix in the demo are the wrong way around.
+
+It shows on screen (line 11):
+```
+// 2 % 2 = 0. 2 % 3 = 1.      2 % 6 = 0.  2 % 7 = 1
+```
+What it should be:
+```
+// 2 % 2 = 0. 3 % 2 = 1.      6 % 2 = 0.  7 % 2 = 1
+```
+
 # Lesson 10
 
 # Lesson 11
