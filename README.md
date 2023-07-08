@@ -58,7 +58,7 @@ Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidi
 </ol>
 </details>
 <details>
-<summary> <a href="#lesson-0-the-edge-of-the-rabbit-hole">Lesson 0: The Edge of the Rabbit Hole</a></summary>
+<summary> <a href="#lesson-0-welcome-to-the-course">Lesson 0: Welcome to the Course!</a></summary>
 <ol>
   <li>
   <a href="#welcome-to-the-course">Welcome to the course! </a>
