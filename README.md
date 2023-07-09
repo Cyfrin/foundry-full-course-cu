@@ -2035,6 +2035,8 @@ QR Code for Lesson 12 Sepolia:
 - [ERC-1967]()
 ### UpgradeBox
 *[⌨️ (5:48:29) | Upgradebox ](https://youtu.be/wUjYK5gwNZs?t=20909)*
+### Test/Demo
+*[⌨️ (5:53:48) | Test/Demo ](https://youtu.be/wUjYK5gwNZs?t=21228)*
 ## Testnet Demo
 *[⌨️ (5:59:40) | Testnet Demo ](https://youtu.be/wUjYK5gwNZs?t=21580)*
 
