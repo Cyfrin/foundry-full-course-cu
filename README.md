@@ -466,7 +466,6 @@ Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidi
   <ol>
     <li><a href="#introduction-9">Introduction</a></li>
     <li><a href="#what-is-a-smart-contract-audit">What is a smart contract audit?</a></li>
-    <li><a href="#what-does-the-process-of-manual-review-look-like">What does the process of manual review look like?</a></li>
     <li><a href="#tools">Tools</a>
       <ul>
         <li><a href="#manual-review">Manual Review</a></li>
@@ -479,6 +478,8 @@ Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidi
         <li><a href="#other-security-stuff">Other security stuff</a></li>
       </ul>
     </li>
+    <li><a href="#what-does-the-process-of-manual-review-look-like">What does the process of manual review look like?</a></li>
+    <li><a href="#formal-verification">Formal Verification</a></li>
     <li><a href="#closing-thoughts">Closing Thoughts</a></li>
   </ol>
 </details>
@@ -2078,10 +2079,11 @@ Developers 100% should know all about this! Don't leave the course without at le
 *[⭐️ (7:21:12) | Lesson 15 | Security & Auditing](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=26472s)*
 - [Readiness Checklist](https://github.com/nascentxyz/simple-security-toolkit)
 ## What is a smart contract audit?
+*[⌨️ (7:24:47) | What is a smart contract audit?](https://youtu.be/wUjYK5gwNZs?t=26687)*
 - [What is a smart contract audit](https://www.youtube.com/watch?v=aOqhQvWhUG0)
-## What does the process of manual review look like? 
-- [Tincho finds $100,000 ENS bug](https://www.youtube.com/watch?v=A-T9F0anN1E)
 ## Tools
+*[⌨️ (7:31:11) | What tools do security professionals use?](https://youtu.be/wUjYK5gwNZs?t=27071)*
+
 ### Manual Review
 ### Static Analysis
 - [Slither](https://github.com/crytic/slither#how-to-install)
@@ -2101,7 +2103,19 @@ Developers 100% should know all about this! Don't leave the course without at le
 - [Comparisons](https://twitter.com/palinatolmach/status/1653030270684270592)
 ### Other security stuff
 - [solcurity](https://github.com/transmissions11/solcurity)
+
+## What does the process of manual review look like? 
+*[⌨️ (7:42:32) | Manual Review with Tincho](https://youtu.be/wUjYK5gwNZs?t=27752)*
+
+- [Tincho finds $100,000 ENS bug](https://www.youtube.com/watch?v=A-T9F0anN1E)
+
+## Formal Verification
+*[⌨️ (7:56:35) | Formal Verification](https://youtu.be/wUjYK5gwNZs?t=28595)*
+- [Formal Verification & Symbolic Execution | W/ Trail Of Bits](https://www.youtube.com/watch?v=izpoxfTSaFs)
+
 ## Closing Thoughts
+*[⌨️ (8:10:56) | Wrap. Up](https://youtu.be/wUjYK5gwNZs?t=29455)*
+
 - [Common Attacks](https://blog.sigmaprime.io/solidity-security.html)
 -   [Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 -   [Attacks](https://consensys.github.io/smart-contract-best-practices/attacks/)
