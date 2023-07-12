@@ -1,8 +1,6 @@
 <div align="center">
 <h1> Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course | Foundry Edition 2023 </h1>
 
-<a href="https://github.com/Cyfrin/foundry-full-course-f23"><img src="https://sloc.xyz/github/Cyfrin/foundry-full-course-f23" alt="LOC"/></a>
-<a href="https://github.com/Cyfrin/foundry-full-course-f23"><img src="https://visitor-badge.laobi.icu/badge?page_id=Cyfrin.foundry-full-course-f23" alt="visitor count"/></a>
 <a href="https://github.com/Cyfrin/foundry-full-course-f23/stargazers"><img src="https://img.shields.io/github/stars/Cyfrin/foundry-full-course-f23" alt="Stars Badge"/></a>
 <a href="https://github.com/Cyfrin/foundry-full-course-f23/network/members"><img src="https://img.shields.io/github/forks/Cyfrin/foundry-full-course-f23" alt="Forks Badge"/></a>
 <a href="https://github.com/Cyfrin/foundry-full-course-f23/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Cyfrin/foundry-full-course-f23?color=2b9348"></a>
