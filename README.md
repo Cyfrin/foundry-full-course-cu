@@ -2018,20 +2018,28 @@ QR Code for Lesson 12 Sepolia:
     4.  [UUPS](https://forum.openzeppelin.com/t/uups-proxies-tutorial-solidity-javascript/7786)
     5.  [Diamond](https://eips.ethereum.org/EIPS/eip-2535)
 ## Delegatecall
+*[⌨️ (5:02:20) | Delegatecall ](https://youtu.be/wUjYK5gwNZs?t=18140)*
 - [delegatecall (solidity-by-example)](https://solidity-by-example.org/delegatecall)
 - [Yul](https://docs.soliditylang.org/en/latest/yul.html)
 ## Small Proxy Example
+*[⌨️ (5:10:24) | Small Proxy Example ](https://youtu.be/wUjYK5gwNZs?t=18624)*
 - [EIP 1967](https://eips.ethereum.org/EIPS/eip-1967)
 ## Universal Upgradable Smart Contract 
 ### Setup
+*[⌨️ (5:21:53) | UUPS Setup ](https://youtu.be/wUjYK5gwNZs?t=19313)*
 - [UUPS vs Transparent](https://docs.openzeppelin.com/contracts/4.x/api/proxy#transparent-vs-uups)
 - Abstract Contracts
 ### Initializer
+*[⌨️ (5:34:24) | Initializer ](https://youtu.be/wUjYK5gwNZs?t=20064)*
 ### Deploy
+*[⌨️ (5:43:34) | Deploy ](https://youtu.be/wUjYK5gwNZs?t=20614)*
 - [ERC-1967]()
 ### UpgradeBox
-### Test / Demo
+*[⌨️ (5:48:29) | Upgradebox ](https://youtu.be/wUjYK5gwNZs?t=20909)*
+### Test/Demo
+*[⌨️ (5:53:48) | Test/Demo ](https://youtu.be/wUjYK5gwNZs?t=21228)*
 ## Testnet Demo
+*[⌨️ (5:59:40) | Testnet Demo ](https://youtu.be/wUjYK5gwNZs?t=21580)*
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
