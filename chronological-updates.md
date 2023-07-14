@@ -46,6 +46,9 @@ What it should be:
 
 # Lesson 12
 
+In the latest version of openzeppelin/openzeppelin-contracts `ERC20Mock.sol` file has been updated with **0** constructor parameters.
+You should use `forge install openzeppelin/openzeppelin-contracts@v4.8.3 --no-commit` command to download the appropriate version synced with the video.
+
 # Lesson 13
 
 # Lesson 14
