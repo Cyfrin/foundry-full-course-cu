@@ -1,8 +1,12 @@
+<div align="center">
+<h1> Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course | Foundry Edition 2023 </h1>
 
-# Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course | Foundry Edition 2023
+<a href="https://github.com/Cyfrin/foundry-full-course-f23/stargazers"><img src="https://img.shields.io/github/stars/Cyfrin/foundry-full-course-f23" alt="Stars Badge"/></a>
+<a href="https://github.com/Cyfrin/foundry-full-course-f23/network/members"><img src="https://img.shields.io/github/forks/Cyfrin/foundry-full-course-f23" alt="Forks Badge"/></a>
+<a href="https://github.com/Cyfrin/foundry-full-course-f23/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Cyfrin/foundry-full-course-f23?color=2b9348"></a>
 
 Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidity Course | Powered By AI | Beginner to Expert Course | Foundry Edition 2023
-
+</div>
 <!-- *Lol, my t-shirt is backwards in 2 of them* -->
 
 <br/>
@@ -805,7 +809,7 @@ Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidi
 - Recommended DevOps: [foundry-devops](https://github.com/Cyfrin/foundry-devops)
 
 # [Testnet Faucets](https://faucets.chain.link)
-- Main Faucet:<a href="https://faucets.chain.link" target="_blank"> https://faucets.chain.link</a>
+- Main Faucet:<a href="https://faucets.chain.link" target="_blank" > https://faucets.chain.link</a>
 - Backup Faucet:<a href="https://sepoliafaucet.com/" target="_blank"> https://sepoliafaucet.com/</a>
 
 > ⚠️ All code associated with this course is for demo purposes only. They have not been audited and should not be considered production ready. Please use at your own risk. 
