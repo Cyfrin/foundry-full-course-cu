@@ -809,8 +809,8 @@ Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidi
 - Recommended DevOps: [foundry-devops](https://github.com/Cyfrin/foundry-devops)
 
 # [Testnet Faucets](https://faucets.chain.link)
-- Main Faucet:<a href="https://faucets.chain.link" target="_blank" > https://faucets.chain.link</a>
-- Backup Faucet:<a href="https://sepoliafaucet.com/" target="_blank"> https://sepoliafaucet.com/</a>
+- Main Faucet:<a href="https://sepoliafaucet.com/" target="_blank"> https://sepoliafaucet.com/</a>
+- Backup Faucet:<a href="https://www.infura.io/faucet/sepolia" target="_blank" > https://www.infura.io/faucet/sepolia</a>
 
 > ⚠️ All code associated with this course is for demo purposes only. They have not been audited and should not be considered production ready. Please use at your own risk. 
 
