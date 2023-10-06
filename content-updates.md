@@ -49,10 +49,6 @@ Calling all book nerds! We're gonna dish on the books you can't afford to miss i
 
 Ready to go under the hood of EVM? Let's talk low-level programming, bit operations, and all that geeky stuff.
 
-🔟 "The Must-Read Web3 Books: Get Your Read On!" 📚
-
-Calling all book nerds! We're gonna dish on the books you can't afford to miss if you're serious about Web3. Might even chat with a few authors, who knows?
-
 
 
 ## 📚 Updated Lessons
