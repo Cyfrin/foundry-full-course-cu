@@ -1317,7 +1317,7 @@ cast --to-base 0x01 dec
 
 # Can you Encrypt a Private Key -> a keystore in foundry yet??
 *[⌨️ (7:45:00) | Can you Encrypt a Private Key -> a keystore in foundry yet?? ](https://youtu.be/umepbfKp5rI?t=27900)*
-- A: No
+- A: Yes
 - [The .env pledge](https://github.com/Cyfrin/foundry-full-course-f23/discussions/5)
 
 ## ThirdWeb Deploy
