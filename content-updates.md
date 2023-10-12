@@ -6,15 +6,22 @@ As we mention on the [announcement](https://github.com/Cyfrin/foundry-full-cours
 
 ## 🎥 New Related Content
 
-- **What to do after finishing Patricks Course**
+### What to do after finishing Patricks Course
 
-     So, you've crushed Patrick's course, huh? 🎉 And now you're like, "Cool, but now what?" Well, don't sweat it. This video 🎥 will guide you through 5 ideas of what to do next.
+So, you've crushed Patrick's course, huh? 🎉 And now you're like, "Cool, but now what?" Well, don't sweat it. This video 🎥 will guide you through 5 ideas of what to do next.
 
-     [Check out the video here!](https://youtu.be/HRW7G0xo8yw?si=op1UuZuGMNDUe1Ni)
+[![Chronological Updates](https://img.youtube.com/vi/HRW7G0xo8yw/0.jpg)](https://www.youtube.com/watch?HRW7G0xo8yw)
+
+
+
+### Solving common problems and erorrs most students face
+Outdated packages and confusing commands got you stuck? We tackle the most common issues students face during the course and also fix some issues on our end. Get the lowdown on how to navigate through those roadblocks. 🛠️✌️
+
+[![Chronological Updates](https://img.youtube.com/vi/G_evB-LLkRU/0.jpg)](https://www.youtube.com/watch?v=G_evB-LLkRU)
 
 ## 🕒 Upcoming Content
 
-0️⃣ Solving common problems and erorrs most students face, like outdated packages, libraries and commands that work differently now, etc. This will be a video series that will be released in the coming weeks.
+✅ Solving common problems and erorrs most students face, like outdated packages, libraries and commands that work differently now, etc. This will be a video series that will be released in the coming weeks.
 
 1️⃣ "Building a Charismatic Web3 Resume" 📝
 
