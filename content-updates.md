@@ -10,7 +10,7 @@ As we mention on the [announcement](https://github.com/Cyfrin/foundry-full-cours
 
 So, you've crushed Patrick's course, huh? 🎉 And now you're like, "Cool, but now what?" Well, don't sweat it. This video 🎥 will guide you through 5 ideas of what to do next.
 
-[![Chronological Updates](https://img.youtube.com/vi/HRW7G0xo8yw/0.jpg)](https://www.youtube.com/watch?HRW7G0xo8yw)
+[![Chronological Updates](https://img.youtube.com/vi/HRW7G0xo8yw/0.jpg)](https://www.youtube.com/watch?=HRW7G0xo8yw)
 
 
 
