@@ -103,6 +103,8 @@ You should use `forge install openzeppelin/openzeppelin-contracts@v4.8.3 --no-co
 
 # Lesson 13
 
+The UUPSUpgradeable function `upgradeTo` has been **removed** in Openzeppelin version 5. You should use `forge install openzeppelin/openzeppelin-contracts-upgradeable@v4.5.0 --no-commit` command to download the appropriate version synced with the video, or use `upgradeToAndCall(address, new bytes(0))` instead.
+
 # Lesson 14
 
 # Lesson 15
