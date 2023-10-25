@@ -107,4 +107,52 @@ The UUPSUpgradeable function `upgradeTo` has been **removed** in Openzeppelin ve
 
 # Lesson 14
 
+ 
+Openzeppelin v5 made some changes:
+
+1. **Ownable constructor** has been updated with 1 parameter instead of 0. Since `Box.sol` it's inheriting it, we need to pass the address of the owner of the Box contract into its constructor:
+
+```solidity
+constructor(address owner) Ownable(owner) {}
+```
+This will also change the behaviour inside the `GovernorTest.sol`, where we dont need to transfer the contract ownership, but we just set it inside the constructor.
+
+
+```solidity
+contract GovernorTest is Test {
+    function setUp() public {
+        // controlled.transferOwnership(address(timelock)); deprecated
+        controlled = new Controlled(address(timelock)); 
+    }
+}
+```
+
+
+2. The role **TIMELOCK_ADMIN_ROLE** has been removed inside `TimelockController.sol`. The admin can be set inside the MyTimelock constructor (1) and then (2) can be revoked after the assignement of the needed roles to MyGoverner.
+
+```solidity
+contract MyTimelock is TimelockController {
+    constructor(uint256 minDelay, address[] memory proposers, address[] memory executors, address admin)
+        TimelockController(minDelay, proposers, executors, admin){}
+}
+```
+
+```solidity
+contract GovernorTest is Test {
+    function setUp() public {
+        //(1)
+        timelock = new Timelock(MIN_DELAY, proposers, executors, address(this));
+        //(2)
+        bytes32 adminRole = timelock.DEFAULT_ADMIN_ROLE();
+        timelock.revokeRole(adminRole, address(this));
+    }
+}
+```
+
+3. Openzeppelin Wizard 
+- The Openzeppelin Wizard has a total different content and it misses this import inside `GovToken.sol`:
+`import {Nonces} from "@openzeppelin/contracts/utils/Nonces.sol";`
+- The voting delay has now changed from 1 block to 7400: this value has to be updated also for the `VOTING_DELAY` state variable inside `GovernorTest.sol`.
+
+
 # Lesson 15
