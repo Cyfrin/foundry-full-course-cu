@@ -33,7 +33,7 @@ Get ahead of the curve with early access to Updraft! Sign up [here](https://cyfr
 
 # Guide to Get Support
 
-Need help or have questions? Our support team is here to assist. Check out [how to ask a question](https://github.com/Cyfrin/path-solidity-developer-2023/blob/main/how-to-ask-a-question.md) for quick answers to common queries or to learn how to reach for more personalized assistance, and if you want to contribute answering questions and helping others, check out [how to answer a question](https://github.com/Cyfrin/path-solidity-developer-2023/blob/main/how-to-answer-a-question.md).
+Need help or have questions? Our support team is here to assist. Check out [how to ask a question](https://github.com/Cyfrin/security-and-auditing-full-course-s23/blob/main/how-to-ask-a-question.md) for quick answers to common queries or to learn how to reach for more personalized assistance, and if you want to contribute answering questions and helping others, check out [how to answer a question](https://github.com/Cyfrin/security-and-auditing-full-course-s23/blob/main/how-to-answer-a-question.md).
 
 # Disclosures
 
