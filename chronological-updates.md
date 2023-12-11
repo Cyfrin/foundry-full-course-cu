@@ -13,6 +13,7 @@ For those who prefer the video format here we have a video with a recopilation o
 # Lesson 3
 
 # Lesson 4
+1. ```KOVAN``` has been replaced with ```SEPOLIA``` here is the link to [ChainLink](https://docs.chain.link/data-feeds/using-data-feeds)
 
 ## Lesson 4 Challenge
 
