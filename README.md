@@ -1,13 +1,61 @@
+
+
+[contributors-shield]: https://img.shields.io/github/contributors/cyfrin/foundry-full-course-f23.svg?style=for-the-badge
+
+[contributors-url]: https://github.com/cyfrin/foundry-full-course-f23/graphs/contributors
+
+[forks-shield]: https://img.shields.io/github/forks/cyfrin/foundry-full-course-f23.svg?style=for-the-badge
+
+[forks-url]: https://github.com/cyfrin/foundry-full-course-f23/network/members
+
+[stars-shield]: https://img.shields.io/github/stars/cyfrin/foundry-full-course-f23.svg?style=for-the-badge
+
+[stars-url]: https://github.com/cyfrin/foundry-full-course-f23/stargazers
+
+[issues-shield]: https://img.shields.io/github/issues/cyfrin/foundry-full-course-f23.svg?style=for-the-badge
+
+[issues-url]: https://github.com/cyfrin/foundry-full-course-f23/issues
+
+[license-shield]: https://img.shields.io/github/license/cyfrin/foundry-full-course-f23.svg?style=for-the-badge
+
+[license-url]: https://github.com/cyfrin/foundry-full-course-f23/blob/master/LICENSE.txt
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
 <div align="center">
 <h1> Blockchain Developer, Smart Contract, & Solidity Career Path - Powered By AI - Beginner to Expert Course <br>| Foundry Edition 2023  |</h1>
 
-<a href="https://github.com/Cyfrin/foundry-full-course-f23/stargazers"><img src="https://img.shields.io/github/stars/Cyfrin/foundry-full-course-f23" alt="Stars Badge"/></a>
-<a href="https://github.com/Cyfrin/foundry-full-course-f23/network/members"><img src="https://img.shields.io/github/forks/Cyfrin/foundry-full-course-f23" alt="Forks Badge"/></a>
-<a href="https://github.com/Cyfrin/foundry-full-course-f23/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Cyfrin/foundry-full-course-f23?color=2b9348"></a>
+
+<p align="center"><strong>Learn smart contract development, and level up your career
+</strong></p>
+
+
+
+[![Stargazers][stars-shield]][stars-url] [![Forks][forks-shield]][forks-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+<p align="center">
+    <br />
+    <a href="https://cyfrin.io/">
+        <img src=".github/images/poweredbycyfrinblue.png" width="145" alt=""/></a>
+    <br />
+</p>
+
 
 Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidity Cyfrin Updraft - Career Path <br>| Powered By AI |<br>| Beginner to Expert Path |<br>| Foundry Edition 2023 |
-
 </div>
+
+This repository houses course resources and [discussions](https://github.com/Cyfrin/foundry-full-course-f23/discussions) for the course.
+
+Please refer to this for an in-depth explanation of the content:
+
+-   [Website](https://updraft.cyfrin.io) - Join Cyfrin Updraft and enjoy 50+ hours of smart contract development courses
+-   [Twitter](https://twitter.com/CyfrinUpdraft) - Stay updated with the latest course releases
+-   [LinkedIn](https://www.linkedin.com/school/cyfrin-updraft/) - Add Updraft to your learning experiences
+-   [Discord](https://discord.gg/cyfrin) - Join a community of 3000+ developers and auditors
+-   [Newsletter](https://cyfrin.io/newsletter) - Weekly security research tips and resources to level up your career
+-   [Codehawks](https://codehawks.com) - Smart contracts auditing competitions to help secure web3
 <!-- *Lol, my t-shirt is backwards in 2 of them* -->
 
 <br/>
@@ -2478,9 +2526,20 @@ Thanks to everyone who is taking, participating in, and working on this course. 
 
 And thanks to the [Cyfrin](https://www.cyfrin.io/) team for making this possible!
 
-[![Patrick Collins Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PatrickAlphaC)
-[![Patrick Collins YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA)
-[![Patrick Collins Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickalphac/)
-[![Patrick Collins Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@patrick.collins_58673/)
+<a href="https://github.com/cyfrin/security-and-auditing-full-course-s23/graphs/contributors">
+
+<img src="https://contrib.rocks/image?repo=cyfrin/foundry-full-course-f23" />
+
+</a>
+
+## License
+
+Cyfrin Updraft content is open-sourced [licensed as GPLv3](https://github.com/cyfrin/foundry-full-course-f23/blob/main/LICENSE).
+
+
+[![Cyfrin Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cyfrinupdraft)
+[![Cyfrin YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CyfrinAudits)
+[![Cyfrin LinkedIn](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/school/cyfrin-updraft/)
+
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
