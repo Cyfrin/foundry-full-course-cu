@@ -1389,7 +1389,7 @@ _[⌨️ (25:47) | Forked Tests ](https://youtu.be/sas02qSFZ74?t=1547)_
 forge test -m testPriceFeedVersionIsAccurate -vvv
 ```
 
-is depreciated. Please use
+is deprecated. Please use
 
 ```
 forge test --match-test testPriceFeedVersionIsAccurate -vvv
