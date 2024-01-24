@@ -1251,6 +1251,10 @@ Enter password:
 `your-account-name` keystore was saved successfully. Address: address-corresponding-to-private-key
 ```
 
+```
+forge script <script> --rpc-url <rpc_url> --account <account_name> --sender <address> --broadcast
+```
+
 - [The .env pledge](https://github.com/Cyfrin/foundry-full-course-f23/discussions/5)
 
 ## ThirdWeb Deploy
