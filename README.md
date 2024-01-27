@@ -949,7 +949,7 @@ _[⌨️ (4:36:22) | Quick recap I](https://youtu.be/umepbfKp5rI?t=16582)_
 
 _[⌨️ (4:37:08) | Interfaces](https://youtu.be/umepbfKp5rI?t=16628)_
 
-- For reference - [ChainLink Interface's Repo](https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol)
+- For reference - [ChainLink Interface's Repo](https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/shared/interfaces/AggregatorV3Interface.sol)
 
 ## AI Help III
 
