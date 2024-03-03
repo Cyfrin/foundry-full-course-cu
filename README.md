@@ -849,6 +849,7 @@ _[⌨️ (3:27:07) | The EVM & A Recap of Lesson 2](https://youtu.be/umepbfKp5rI
 # Lesson 3: Remix Storage Factory
 
 💻 Code: [https://github.com/cyfrin/remix-storage-factory-f23](https://github.com/cyfrin/remix-storage-factory-f23)
+
 🎥 Demo: [https://storeth-frontend.vercel.app/](https://storeth-frontend.vercel.app/)
 
 ## Introduction
