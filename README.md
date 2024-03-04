@@ -850,7 +850,7 @@ _[⌨️ (3:27:07) | The EVM & A Recap of Lesson 2](https://youtu.be/umepbfKp5rI
 
 💻 Code: [https://github.com/cyfrin/remix-storage-factory-f23](https://github.com/cyfrin/remix-storage-factory-f23)
 
-🎥 Demo: [https://storeth-frontend.vercel.app/](https://storeth-frontend.vercel.app/)
+🎥 Demo: [https://github.com/pacelliv/storage-factory-demo](https://github.com/pacelliv/storage-factory-demo)
 
 ## Introduction
 
