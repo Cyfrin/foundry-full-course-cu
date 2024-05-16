@@ -565,8 +565,9 @@ Please refer to this for an in-depth explanation of the content:
 
 # [Testnet Faucets](https://faucets.chain.link)
 
-- Main Faucet:<a href="https://sepoliafaucet.com/" target="_blank"> https://sepoliafaucet.com/</a>
-- Backup Faucet:<a href="https://www.infura.io/faucet/sepolia" target="_blank" > https://www.infura.io/faucet/sepolia</a>
+- Main: <a href="https://cloud.google.com/application/web3/faucet/ethereum/sepolia" target="_blank"> Sepolia GCP Faucet </a>
+- Alchemy Faucet:<a href="https://sepoliafaucet.com/" target="_blank"> https://sepoliafaucet.com/</a>
+- Infura Faucet:<a href="https://www.infura.io/faucet/sepolia" target="_blank" > https://www.infura.io/faucet/sepolia</a>
 
 > ⚠️ All code associated with this course is for demo purposes only. They have not been audited and should not be considered production ready. Please use at your own risk.
 
