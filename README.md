@@ -2346,7 +2346,7 @@ Plutocracy is bad! Don't default to ERC20 token voting!!
 _[⭐️ (6:05:45) | Lesson 14 | DAOs & Governance](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=21945s)_
 
 - [Plutocracy is bad](https://vitalik.ca/general/2018/03/28/plutocracy.html)
-- [DAOs are not corporations](https://vitalik.ca/general/2022/09/20/daos.html)
+- [DAOs are not corporations](https://vitalik.eth.limo/general/2022/09/20/daos.html)
 
 ## What is a DAO?
 
