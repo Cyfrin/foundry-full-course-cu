@@ -2367,7 +2367,7 @@ _[⭐️ (6:05:45) | Lesson 14 | DAOs & Governance](https://www.youtube.com/watc
 
 - [Openzeppelin Governance](https://docs.openzeppelin.com/contracts/4.x/api/governance)
 - [Compound Governance](https://compound.finance/governance)
-- [Contract Wizard](https://docs.openzeppelin.com/contracts/4.x/wizard)
+- [Contract Wizard](https://wizard.openzeppelin.com/)
 
 ### Governor
 
