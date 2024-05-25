@@ -58,7 +58,7 @@ cargo install --path ./anvil --profile local --force
 
 Per the [foundry docs](https://book.getfoundry.sh/getting-started/installation#building-from-source)
 
-3. The exntension used on the video is [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) which has being deprecated, so please use [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml) instead.
+3. The extension used on the video is [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) which has being deprecated, so please use [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml) instead.
 
 # Lesson 7
 
@@ -107,7 +107,6 @@ The UUPSUpgradeable function `upgradeTo` has been **removed** in Openzeppelin ve
 
 # Lesson 14
 
- 
 Openzeppelin v5 made some changes:
 
 1. **Ownable constructor** has been updated with 1 parameter instead of 0. Since `Box.sol` it's inheriting it, we need to pass the address of the owner of the Box contract into its constructor:
@@ -115,18 +114,17 @@ Openzeppelin v5 made some changes:
 ```solidity
 constructor(address owner) Ownable(owner) {}
 ```
-This will also change the behaviour inside the `GovernorTest.sol`, where we dont need to transfer the contract ownership, but we just set it inside the constructor.
 
+This will also change the behaviour inside the `GovernorTest.sol`, where we dont need to transfer the contract ownership, but we just set it inside the constructor.
 
 ```solidity
 contract GovernorTest is Test {
     function setUp() public {
         // controlled.transferOwnership(address(timelock)); deprecated
-        controlled = new Controlled(address(timelock)); 
+        controlled = new Controlled(address(timelock));
     }
 }
 ```
-
 
 2. The role **TIMELOCK_ADMIN_ROLE** has been removed inside `TimelockController.sol`. The admin can be set inside the MyTimelock constructor (1) and then (2) can be revoked after the assignement of the needed roles to MyGoverner.
 
@@ -149,10 +147,10 @@ contract GovernorTest is Test {
 }
 ```
 
-3. Openzeppelin Wizard 
-- The Openzeppelin Wizard has a total different content and it misses this import inside `GovToken.sol`:
-`import {Nonces} from "@openzeppelin/contracts/utils/Nonces.sol";`
-- The voting delay has now changed from 1 block to 7400: this value has to be updated also for the `VOTING_DELAY` state variable inside `GovernorTest.sol`.
+3. Openzeppelin Wizard
 
+- The Openzeppelin Wizard has a total different content and it misses this import inside `GovToken.sol`:
+  `import {Nonces} from "@openzeppelin/contracts/utils/Nonces.sol";`
+- The voting delay has now changed from 1 block to 7400: this value has to be updated also for the `VOTING_DELAY` state variable inside `GovernorTest.sol`.
 
 # Lesson 15
