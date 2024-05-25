@@ -1782,6 +1782,7 @@ _[⌨️ (5:26:41) | Create Subscription from the UI ](https://youtu.be/sas02qSF
 _[⌨️ (5:30:19) | Fund Subscription Script ](https://youtu.be/sas02qSFZ74?t=19819)_
 
 - [Link Token](https://chain.link/)
+  - [Link Token Addresses](https://docs.chain.link/resources/link-token-contracts)
 - [Solmate](https://github.com/transmissions11/solmate)
 - [Openzeppelin](https://www.openzeppelin.com/)
 
