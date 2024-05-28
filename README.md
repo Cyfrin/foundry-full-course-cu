@@ -87,6 +87,12 @@ Please refer to this for an in-depth explanation of the content:
 </table>
 <br/>
 
+Cyfrin Updraft Courses:
+- [Cyfrin Updraft - Blockchain basics](https://updraft.cyfrin.io/courses/blockchain-basics)
+- [Cyfrin Updraft - Solidity basics](https://updraft.cyfrin.io/courses/blockchain-basics)
+- [Cyfrin Updraft - Foundry Fundamentals](https://updraft.cyfrin.io/courses/blockchain-basics)
+- [Cyfrin Updraft - Advanced Foundry](https://updraft.cyfrin.io/courses/blockchain-basics)
+
 [YouTube Playlist](https://www.youtube.com/playlist?list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42)
 
 [YouTube Playlist of each section](https://www.youtube.com/playlist?list=PL2-Nvp2Kn0FPH2xU3IbKrrkae-VVXs1vk)
@@ -108,8 +114,8 @@ Please refer to this for an in-depth explanation of the content:
 <li><a href="#resources-for-this-course">Resources For This Course</a></li>
 <li><a href="#bonus-nfts">Bonus NFTs</a>
   <ul>
-    <li><a href="#important-notes-for-arbitrum">Important Notes for Arbitrum</a></li>
-    <li><a href="#bridging-to-arbitrum">Bridging to Arbitrum</a></li>
+    <li><a href="#important-notes-for-zksync">Important Notes for zkSync</a></li>
+    <li><a href="#bridging-to-zksync">Bridging to zkSync</a></li>
   </ul>
 </li>
 </ol>
@@ -592,11 +598,12 @@ Please refer to this for an in-depth explanation of the content:
 These are 100% optional to do.
 
 - [Sepolia](https://sepolia.etherscan.io/address/0x76B50696B8EFFCA6Ee6Da7F6471110F334536321)
-- [Arbitrum](https://arbiscan.io/address/0x39338138414Df90EC67dC2EE046ab78BcD4F56D9)
+- [zkSync Sepolia](https://sepolia.explorer.zksync.io/address/0x96bA338cf715fcbE935BCa076A7a8BAB1f18E39A)
+- [zkSync](https://explorer.zksync.io/address/0xBbA202c6DA89646F13C11a63C4aF182E4fFd4c2e)
 
-After every lesson, you'll see two QR codes. Those codes will send you to an NFT deployed to Sepolia or Arbitrum. They contain a challenge for you to solve, and in return, you'll be given an AWESOME NFT.
+After every lesson, you'll see two QR codes. Those codes will send you to an NFT deployed to Sepolia zkSync Sepolia, or zkSync. They contain a challenge for you to solve, and in return, you'll be given an AWESOME NFT.
 
-## Important Notes for Arbitrum
+## Important Notes for zkSync
 
 IF YOU DECIDE TO MINT THE REAL NFT:
 
@@ -606,9 +613,9 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 3. It might be a good idea to wait till later in the course when we teach you about verifying metamask transactions.
 4. Feel free to mint NFTs on sepolia without worrying about the above
 
-## Bridging to Arbitrum
+## Bridging to zkSync
 
-1. We didn't show you how to bring ETH -> Arbitrum, but the process would be:
+1. The process for bridging looks like the following:
    1. Buy ETH (On an exchange like [Coinbase](https://www.coinbase.com/home) or [Kraken](https://www.kraken.com/))
 2. Send ETH -> one of your wallets like:
    1. [Metamask](https://metamask.io/)
@@ -616,7 +623,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
    3. [Rainbow](https://rainbow.me/)
    4. [Argent](https://www.argent.xyz/)
    5. [Coinbase Wallet](https://www.coinbase.com/wallet)
-3. Use the [Arbitrum Bridge](https://bridge.arbitrum.io/)
+3. Use the [zkSync Bridge](https://portal.zksync.io/bridge/)
 
 # Video 1
 
@@ -2244,22 +2251,12 @@ _[⌨️ (4:44:38) | Lens Protocol ](https://youtu.be/wUjYK5gwNZs?t=17078)_
 - [Defi-Minimal](https://github.com/smartcontractkit/defi-minimal/tree/main/contracts)
 - [Defi Dad](https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg)
 
-QR Code for Lesson 12 Arbitrum:
+QR Code for Lesson 12 zkSync, Sepolia, and zkSync Sepolia:
 <br/>
 
 <p align="center">
 <a href="" target="_blank">
-<img src="./thumbnails/lesson-12-arbitrum.png" width="100" alt="Solidity, Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course">
-</a>
-</p>
-<br/>
-
-QR Code for Lesson 12 Sepolia:
-<br/>
-
-<p align="center">
-<a href="" target="_blank">
-<img src="./thumbnails/lesson-12-sepolia.png" width="100" alt="Solidity, Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course">
+<img src="./thumbnails/lesson-12.png" width="100" alt="Solidity, Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course">
 </a>
 </p>
 <br/>
@@ -2508,23 +2505,18 @@ And make today an amazing day!
 
 # Disclosures
 
-Transparency is important! So we want to disclose any potential conflicts that might have affected my judgement so you can pick tools that are right for you. Patrick is co-founder of Alpha Chain, a blockchain infrastructure company. Alpha Chain runs **Chainlink, Ethereum, Binance, Polygon, Harmony, Solana, Moonbeam, and Moonriver blockchain services.** Alpha Chain often works with Alchemy and receives discounted services. Patrick is the co-founder of Cyfrin, and they do smart contract security & auditing services. Patrick is also the co-founder of Chain Accel, who is an advisor on the Peeranha project. Patrick is an advisor on the Chainlink project. The Cyfrin team often does buisness on the Arbitrum L2.
+Transparency is important! So we want to disclose any potential conflicts that might have affected my judgement so you can pick tools that are right for you. Patrick is co-founder of Alpha Chain, a blockchain infrastructure company. Alpha Chain runs **Chainlink, Ethereum, Binance, Polygon, Harmony, Solana, Moonbeam, and Moonriver blockchain services.** Alpha Chain often works with Alchemy and receives discounted services. Patrick is the co-founder of Cyfrin, and they do smart contract security & auditing services. Patrick is also the co-founder of Chain Accel, who is an advisor on the Peeranha project.
 
-Because of all this, I have added alternatives to each section where we suggest a tool. This video & course was created and sponsored solely by the [Cyfrin](https://www.cyfrin.io/) team.
+Because of all this, I have added alternatives to each section where we suggest a tool. 
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Donations
+# Sponsors
 
-## BadgerDAO
-
-We are THRILLED to have received donations from the [BadgerDAO](https://badger.com/) protocol.
-
-BadgerDAO is a decentralized collective of builders supporting community driven growth for Bitcoin across DeFi. Deposit to earn [Yield-Bearing Rewards](https://app.badger.com/?chain=ethereum#) that automate and optimize yield from Aura and Convex positions.
-
-<a href="https://badger.com/" target="_blank">
-  <img src="./thumbnails/badgerdao-logo-black-text.png" width="500" alt="Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI 3">
-</a>
+- [Matter Labs (zkSync)](https://zksync.io/)
+- [Arbitrum Foundation](https://arbitrum.foundation/)
+- [Chainlink Labs](https://chainlinklabs.com/)
+- [BadgerDAO](https://badger.com/)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
