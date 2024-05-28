@@ -63,9 +63,9 @@ Please refer to this for an in-depth explanation of the content:
 <br/>
 <table>
   <tr>
-    <th align="center">Lessons 0 - 6</th>
-    <th align="center">Lessons 7 - 11</th>
-    <th align="center">Lessons 12 - 15</th>
+    <th align="center">Sections 0 - 6</th>
+    <th align="center">Sections 7 - 11</th>
+    <th align="center">Sections 12 - 15</th>
   </tr>
   <tr>
     <td align="center">
@@ -99,7 +99,7 @@ Cyfrin Updraft Courses:
 
 # Table of Contents
 
-> All the lessons for on this repo are for several courses on the Solidity Developer Career path of Cyfrin Updraft.
+> All the Sections for on this repo are for several courses on the Solidity Developer Career path of Cyfrin Updraft.
 
 <details>
 <summary>Resources</summary>
@@ -121,7 +121,7 @@ Cyfrin Updraft Courses:
 </ol>
 </details>
 <details>
-<summary> <a href="#lesson-0-welcome-to-the-course">Lesson 0: Welcome to the Course!</a></summary>
+<summary> <a href="#section-0-welcome-to-the-course">Section 0: Welcome to the Course!</a></summary>
 <ol>
   <li>
   <a href="#welcome-to-the-course">Welcome to the course! </a>
@@ -133,7 +133,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#lesson-1-blockchain-basics">Lesson 1: Blockchain Basics</a>
+<a href="#section-1-blockchain-basics">Section 1: Blockchain Basics</a>
 </summary>
 <ol>
     <li><a href="#what-is-a-blockchain-what-does-a-blockchain-do">What is a Blockchain? What does a blockchain do?</a></li>
@@ -152,7 +152,7 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#lesson-2-welcome-to-remix---remix-simple-storage">Lesson 2: Welcome to Remix - Remix Simple Storage</a>
+<a href="#section-2-welcome-to-remix---remix-simple-storage">Section 2: Welcome to Remix - Remix Simple Storage</a>
 </summary>
 <ol>
     <li><a href="#introduction">Introduction</a></li>
@@ -164,22 +164,22 @@ Cyfrin Updraft Courses:
     <li><a href="#memory-storage-calldata-intro">Memory, Storage, Calldata (Intro)</a></li>
     <li><a href="#mappings">Mappings</a></li>
     <li><a href="#deploying-your-first-contract">Deploying your First Contract</a></li>
-    <li><a href="#the-evm--a-recap-of-lesson-2">The EVM &amp; A Recap of Lesson 2</a></li>
+    <li><a href="#the-evm--a-recap-of-section-2">The EVM &amp; A Recap of Section 2</a></li>
 </ol>
 </details>
 <details>
-<summary><a href="#lesson-3-remix-storage-factory">Lesson 3: Remix Storage Factory</a></summary>
+<summary><a href="#section-3-remix-storage-factory">Section 3: Remix Storage Factory</a></summary>
 <ol>
     <li><a href="#introduction-1">Introduction</a></li>
     <li><a href="#basic-solidity-importing-contracts-into-other-contracts">Basic Solidity: Importing Contracts into other Contracts</a></li>
     <li><a href="#basic-solidity-interacting-with-other-contracts">Basic Solidity: Interacting with other Contracts</a></li>
     <li><a href="#basic-solidity-inheritance--overrides">Basic Solidity: Inheritance &amp; Overrides</a></li>
-    <li><a href="#lesson-3-recap">Lesson 3 Recap</a></li>
+    <li><a href="#section-3-recap">Section 3 Recap</a></li>
   </ol>
 </details>
 <details>
 <summary>
-<a href="#lesson-4-remix-fund-me">Lesson 4: Remix Fund Me</a>
+<a href="#section-4-remix-fund-me">Section 4: Remix Fund Me</a>
 </summary>
   <ol>
     <li><a href="#introduction-2">Introduction</a></li>
@@ -214,7 +214,7 @@ Cyfrin Updraft Courses:
 </details>
 
 <details>
-<summary><a href="#lesson-5-ai-prompting-asking-questions-and-getting-help">Lesson 5: AI Prompting, Asking Questions, and Getting Help</a></summary>
+<summary><a href="#section-5-ai-prompting-asking-questions-and-getting-help">Section 5: AI Prompting, Asking Questions, and Getting Help</a></summary>
 <ol>
     <li><a href="#intro">Intro</a></li>
     <li><a href="#7-tips-for-this-course">7 Tips for this Course</a></li>
@@ -225,7 +225,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#lesson-6-foundry-simple-storage">Lesson 6: Foundry Simple Storage</a>
+<a href="#section-6-foundry-simple-storage">Section 6: Foundry Simple Storage</a>
 </summary>
   <ol>
     <li><a href="#introduction-3">Introduction</a></li>
@@ -262,7 +262,7 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#lesson-7-foundry-fund-me">Lesson 7: Foundry Fund Me</a>
+<a href="#section-7-foundry-fund-me">Section 7: Foundry Fund Me</a>
 </summary>
 <ol>
     <li><a href="#introduction-4">Introduction</a></li>
@@ -293,7 +293,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#lesson-8-htmljs-fund-me-quick-fullstack--front-end-tutorial">Lesson 8: Html/Js Fund Me (Quick Fullstack / Front End Tutorial)</a>
+<a href="#section-8-htmljs-fund-me-quick-fullstack--front-end-tutorial">Section 8: Html/Js Fund Me (Quick Fullstack / Front End Tutorial)</a>
 </summary>
   <ol>
     <li><a href="#introduction-5">Introduction</a></li>
@@ -305,7 +305,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#lesson-9-foundry-smart-contract-lottery">Lesson 9: Foundry Smart Contract Lottery</a>
+<a href="#section-9-foundry-smart-contract-lottery">Section 9: Foundry Smart Contract Lottery</a>
 </summary>
 <ol>
     <li><a href="#introduction-6">Introduction</a></li>
@@ -316,7 +316,7 @@ Cyfrin Updraft Courses:
     <li><a href="#blocktimestamp">block.timestamp</a></li>
     <li><a href="#chainlink-vrf">Chainlink VRF</a>
       <ul>
-        <li><a href="#sub-lesson-chainlink-vrf">Sub-Lesson: Chainlink VRF</a></li>
+        <li><a href="#sub-section-chainlink-vrf">Sub-Section: Chainlink VRF</a></li>
       </ul>
     </li>
     <li><a href="#implementing-chainlink-vrf---introduction">Implementing Chainlink VRF - Introduction</a></li>
@@ -339,7 +339,7 @@ Cyfrin Updraft Courses:
     </li>
     <li><a href="#implementing-chainlink-keepers---checkupkeep-continued">Implementing Chainlink Keepers - checkUpkeep continued</a></li>
     <li><a href="#implementing-chainlink-keepers---performupkeep">Implementing Chainlink Keepers - performUpkeep</a></li>
-    <li><a href="#mid-lesson-recap">Mid-Lesson Recap</a></li>
+    <li><a href="#mid-section-recap">Mid-Section Recap</a></li>
     <li><a href="#tests--deploy-script-setup">Tests & Deploy Script Setup</a>
       <ul>
         <li><a href="#mock-chainlink-vrf-coordinator">Mock Chainlink VRF Coordinator</a></li>
@@ -377,7 +377,7 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#lesson-10-foundry-erc20s">Lesson 10: Foundry ERC20s</a>
+<a href="#section-10-foundry-erc20s">Section 10: Foundry ERC20s</a>
 </summary>
 <ol>
     <li><a href="#what-is-an-erc-what-is-an-eip">What is an ERC? What is an EIP?</a></li>
@@ -386,12 +386,12 @@ Cyfrin Updraft Courses:
     <li><a href="#erc20-token---openzeppelin">ERC20 Token - Openzeppelin</a></li>
     <li><a href="#deploy-script">Deploy Script</a></li>
     <li><a href="#ai-tests">AI Tests</a></li>
-    <li><a href="#lesson-10-recap">Lesson 10 Recap</a></li>
+    <li><a href="#section-10-recap">Section 10 Recap</a></li>
 </ol>
 </details>
 <details>
 <summary>
-<a href="#lesson-11-foundry-nfts--moodnft">Lesson 11: Foundry NFTs | MoodNFT</a>
+<a href="#section-11-foundry-nfts--moodnft">Section 11: Foundry NFTs | MoodNFT</a>
 </summary>
   <ol>
     <li><a href="#introduction-7">Introduction</a></li>
@@ -421,13 +421,13 @@ Cyfrin Updraft Courses:
     </li>
     <li><a href="#verifying-metamask-transactions">Verifying Metamask Transactions</a></li>
     <li><a href="#filecoin--arweave">Filecoin & Arweave</a></li>
-    <li><a href="#lesson-11-recap">Lesson 11 Recap</a></li>
+    <li><a href="#section-11-recap">Section 11 Recap</a></li>
 </ol>
 </details>
 
 <details>
 <summary>
-<a href="#lesson-12-foundry-defi--stablecoin-the-pinnacle-project-get-here">Lesson 12: Foundry DeFi | Stablecoin (The PINNACLE PROJECT!! GET HERE!)</a>
+<a href="#section-12-foundry-defi--stablecoin-the-pinnacle-project-get-here">Section 12: Foundry DeFi | Stablecoin (The PINNACLE PROJECT!! GET HERE!)</a>
 </summary>
 <ol>
     <li><a href="#what-is-defi">What is DeFi?</a></li>
@@ -483,7 +483,7 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#lesson-13-foundry-upgrades">Lesson 13: Foundry Upgrades</a>
+<a href="#section-13-foundry-upgrades">Section 13: Foundry Upgrades</a>
 </summary>
 <ol>
     <li><a href="#upgradable-smart-contracts-overview">Upgradable Smart Contracts Overview</a></li>
@@ -504,7 +504,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#lesson-14-foundry-dao--governance">Lesson 14: Foundry DAO / Governance</a>
+<a href="#section-14-foundry-dao--governance">Section 14: Foundry DAO / Governance</a>
 </summary>
   <ol>
     <li><a href="#introduction-8">Introduction</a></li>
@@ -523,7 +523,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#lesson-15-smart-contract-security--auditing-for-developers">Lesson 15: Smart Contract Security & Auditing (For developers)</a>
+<a href="#section-15-smart-contract-security--auditing-for-developers">Section 15: Smart Contract Security & Auditing (For developers)</a>
 </summary>
   <ol>
     <li><a href="#introduction-9">Introduction</a></li>
@@ -601,7 +601,7 @@ These are 100% optional to do.
 - [zkSync Sepolia](https://sepolia.explorer.zksync.io/address/0x96bA338cf715fcbE935BCa076A7a8BAB1f18E39A)
 - [zkSync](https://explorer.zksync.io/address/0xBbA202c6DA89646F13C11a63C4aF182E4fFd4c2e)
 
-After every lesson, you'll see two QR codes. Those codes will send you to an NFT deployed to Sepolia zkSync Sepolia, or zkSync. They contain a challenge for you to solve, and in return, you'll be given an AWESOME NFT.
+After every section, in this GitHub repo will be a link to a contract on Sepolia or zkSync. They contain a challenge for you to solve, and in return, you'll be given an AWESOME NFT.
 
 ## Important Notes for zkSync
 
@@ -635,11 +635,11 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 </p>
 <br/>
 
-# Lesson 0: Welcome to the Course!
+# Section 0: Welcome to the Course!
 
 ## Welcome to the Course!
 
-_[⭐️ (0:00:00) | Lesson 0: Welcome!](https://www.youtube.com/watch?v=umepbfKp5rI&t=0s)_
+_[⭐️ (0:00:00) | Section 0: Welcome!](https://www.youtube.com/watch?v=umepbfKp5rI&t=0s)_
 
 ## Best Practices
 
@@ -653,9 +653,9 @@ _[⭐️ (0:00:00) | Lesson 0: Welcome!](https://www.youtube.com/watch?v=umepbfK
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Lesson 1: Blockchain Basics
+# Section 1: Blockchain Basics
 
-_[⭐️ (0:13:54) | Lesson 1: Blockchain Basics](https://www.youtube.com/watch?v=umepbfKp5rI&t=834s)_
+_[⭐️ (0:13:54) | Section 1: Blockchain Basics](https://www.youtube.com/watch?v=umepbfKp5rI&t=834s)_
 
 ## What is a Blockchain? What does a blockchain do?
 
@@ -767,15 +767,19 @@ _[⌨️ (1:51:36) | High-Level Blockchain Fundamentals](https://www.youtube.com
 - [Nakamoto Consensus](https://blockonomi.com/nakamoto-consensus/)
 - [The merge](https://ethereum.org/en/eth2/)
 
+## Section 1 NFTs
+- [zkSync](https://explorer.zksync.io/address/0xfa257F68Ca436F6e00299917837D7712Fa5bdf75)
+- [Sepolia](https://sepolia.etherscan.io/address/0x25056312685339b49e1d1C5a0b72Ff9eff13AF77)
+
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Lesson 2: Welcome to Remix - Remix Simple Storage
+# Section 2: Welcome to Remix - Remix Simple Storage
 
 💻 Code: [https://github.com/cyfrin/remix-simple-storage-f23](https://github.com/cyfrin/remix-simple-storage-f23)
 
 ## Introduction
 
-_[⭐️ (2:10:42) | Lesson 2: Welcome to Remix - Simple Storage](https://www.youtube.com/watch?v=umepbfKp5rI&t=7842s)_
+_[⭐️ (2:10:42) | Section 2: Welcome to Remix - Simple Storage](https://www.youtube.com/watch?v=umepbfKp5rI&t=7842s)_
 
 - [Remix](https://remix.ethereum.org/)
 - [Solidity Documentation](https://docs.soliditylang.org/en/latest/index.html)
@@ -860,21 +864,25 @@ _[⌨️ (3:17:46) | Deploying your First Contract](https://youtu.be/umepbfKp5rI
 - See the faucets at the top of this readme!
 - Interacting with Deployed Contracts
 
-## The EVM & A Recap of Lesson 2
+## The EVM & A Recap of Section 2
 
-_[⌨️ (3:27:07) | The EVM & A Recap of Lesson 2](https://youtu.be/umepbfKp5rI?t=12427)_
+_[⌨️ (3:27:07) | The EVM & A Recap of Section 2](https://youtu.be/umepbfKp5rI?t=12427)_
 
 - The EVM
 
+## Section 2 NFTs
+- [zkSync](https://explorer.zksync.io/address/0x5f9f9f46ECb48D625e320888922Bf86555608E9C)
+- [Sepolia](https://sepolia.etherscan.io/address/0x5c1ddb86F11BB46D3067C702AC554aEaED9ff8f0#code)
+
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Lesson 3: Remix Storage Factory
+# Section 3: Remix Storage Factory
 
 💻 Code: [https://github.com/cyfrin/remix-storage-factory-f23](https://github.com/cyfrin/remix-storage-factory-f23)
 
 ## Introduction
 
-_[⭐️ (3:29:58) | Lesson 3 | Storage Factory](https://www.youtube.com/watch?v=umepbfKp5rI&t=12598s)_
+_[⭐️ (3:29:58) | Section 3 | Storage Factory](https://www.youtube.com/watch?v=umepbfKp5rI&t=12598s)_
 
 - [Factory Pattern](https://betterprogramming.pub/learn-solidity-the-factory-pattern-75d11c3e7d29)
 
@@ -900,19 +908,23 @@ _[⌨️ (4:00:44) | Inheritance & Overrides](https://youtu.be/umepbfKp5rI?t=144
 - [Inheritance](https://solidity-by-example.org/inheritance)
 - [Override & Virtual Keyword](https://docs.soliditylang.org/en/latest/contracts.html?highlight=override#function-overriding)
 
-## Lesson 3 Recap
+## Section 3 Recap
 
-_[⌨️ (4:07:37) | Lesson 3 Recap](https://youtu.be/umepbfKp5rI?t=14857)_
+_[⌨️ (4:07:37) | Section 3 Recap](https://youtu.be/umepbfKp5rI?t=14857)_
+
+## Section 3 NFTs
+- [zkSync](https://explorer.zksync.io/address/0x1D5c2Eb5F17Fa0BA4E3DfDDBF59DC0e6316219Ff)
+- [Sepolia](https://sepolia.etherscan.io/address/0x4A62A8901e6113dEF0AEeEC77E531779cd40da73#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Lesson 4: Remix Fund Me
+# Section 4: Remix Fund Me
 
 💻 Code: [https://github.com/Cyfrin/remix-fund-me-f23](https://github.com/Cyfrin/remix-fund-me-f23)
 
 ## Introduction
 
-_[⭐️ (4:09:08) | Lesson 4 | Fund Me](https://www.youtube.com/watch?v=umepbfKp5rI&t=14948s)_
+_[⭐️ (4:09:08) | Section 4 | Fund Me](https://www.youtube.com/watch?v=umepbfKp5rI&t=14948s)_
 
 ## Setup
 
@@ -1075,17 +1087,21 @@ _[⌨️ (5:44:56) | Receive & Fallback Functions](https://youtu.be/umepbfKp5rI?
 - [Fallback](https://solidity-by-example.org/fallback)
 - [Receive](https://docs.soliditylang.org/en/latest/contracts.html?highlight=fallback#receive-ether-function)
 
-## Lesson 4 Recap
+## Section 4 Recap
 
-_[⌨️ (5:57:10) | Lesson 4 Recap](https://youtu.be/umepbfKp5rI?t=21430)_
+_[⌨️ (5:57:10) | Section 4 Recap](https://youtu.be/umepbfKp5rI?t=21430)_
+
+## Section 4 NFTs
+- [zkSync](https://explorer.zksync.io/address/0x598c64586d890222c085eCb3a01Db36237D6ccE4)
+- [Sepolia](https://sepolia.etherscan.io/address/0x1b30DA2a868704483143A4D46865Ac9585629fd0#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Lesson 5: AI Prompting, Asking Questions, and Getting Help
+# Section 5: AI Prompting, Asking Questions, and Getting Help
 
 DO NOT SKIP THIS!!
 
-_[⭐️ (6:00:00) | Lesson 5 | AI Prompting](https://www.youtube.com/watch?v=umepbfKp5rI&t=21600s)_
+_[⭐️ (6:00:00) | Section 5 | AI Prompting](https://www.youtube.com/watch?v=umepbfKp5rI&t=21600s)_
 
 ## Intro
 
@@ -1113,15 +1129,19 @@ _[⌨️ (6:19:58) | SpeedRunEthereum](https://youtu.be/umepbfKp5rI?t=22798)_
 
 - Special Guest [Austin](https://twitter.com/austingriffith)
 
+## Section 5 NFTs
+- [zkSync](https://explorer.zksync.io/address/0x687C1d191ccD64777dF009942A148fBF7F52F006#contract)
+- [Sepolia](https://sepolia.etherscan.io/address/0x4b3a7F293091708dDD6B8748179aeAF80E9c1bA2#code)
+
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Lesson 6: Foundry Simple Storage
+# Section 6: Foundry Simple Storage
 
 💻 Code: [https://github.com/Cyfrin/foundry-simple-storage-f23](https://github.com/Cyfrin/foundry-simple-storage-f23)
 
 ## Introduction
 
-_[⭐️ (6:23:59) | Lesson 6 | Foundry Simple Storage](https://www.youtube.com/watch?v=umepbfKp5rI&t=22979s)_
+_[⭐️ (6:23:59) | Section 6 | Foundry Simple Storage](https://www.youtube.com/watch?v=umepbfKp5rI&t=22979s)_
 
 ## Installation & Setup (MacOS & Linux)
 
@@ -1330,6 +1350,11 @@ _[⌨️ (8:10:28) | Alchemy & the mempool ](https://youtu.be/umepbfKp5rI?t=2942
 
 _[⌨️ (8:21:28) | Summary ](https://youtu.be/umepbfKp5rI?t=30088)_
 
+## Section 6 NFTs
+- [zkSync](https://explorer.zksync.io/address/0xbe19357f00B8A80154bB927a95d82888Ee70F6F8#contract)
+- [Sepolia](https://sepolia.etherscan.io/address/0x6c4791c3a9E9Bc5449045872Bd1b602d6385E3E1#code)
+
+
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
@@ -1346,9 +1371,9 @@ _[⌨️ (8:21:28) | Summary ](https://youtu.be/umepbfKp5rI?t=30088)_
 </p>
 <br/>
 
-# Lesson 7: Foundry Fund Me
+# Section 7: Foundry Fund Me
 
-_[⭐️ (0:00:00) | Lesson 7: Foundry Fund Me](https://www.youtube.com/watch?v=sas02qSFZ74&t=0s)_
+_[⭐️ (0:00:00) | Section 7: Foundry Fund Me](https://www.youtube.com/watch?v=sas02qSFZ74&t=0s)_
 
 💻 Code: [https://github.com/Cyfrin/foundry-fund-me-f23](https://github.com/Cyfrin/foundry-fund-me-f23)
 
@@ -1562,15 +1587,19 @@ _[⌨️ (2:19:17) | Pushing to GitHub ](https://youtu.be/sas02qSFZ74?t=8357)_
 
 _[⌨️ (2:34:56) | Tweet Me (add your repo in)! ](https://youtu.be/sas02qSFZ74?t=9296)_
 
-## Lesson 7: Recap
+## Section 7: Recap
 
-_[⌨️ (2:35:13) | Lesson 7: Recap ](https://youtu.be/sas02qSFZ74?t=9313)_
+_[⌨️ (2:35:13) | Section 7: Recap ](https://youtu.be/sas02qSFZ74?t=9313)_
+
+## Section 7 NFTs
+- [zkSync](https://explorer.zksync.io/address/0xDBb7cFfb41261D9a445b09E7c5dF28De18254D5B#contract)
+- [Sepolia](https://sepolia.etherscan.io/address/0xD7D127991c6A89Df752FC3daeC17540aE8B86101#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Lesson 8: Html/Js Fund Me (Quick Fullstack / Front End Tutorial)
+# Section 8: Html/Js Fund Me (Quick Fullstack / Front End Tutorial)
 
-_[⭐️ (2:37:02) | Lesson 8: HTML Fund Me](https://www.youtube.com/watch?v=sas02qSFZ74&t=9422s)_
+_[⭐️ (2:37:02) | Section 8: HTML Fund Me](https://www.youtube.com/watch?v=sas02qSFZ74&t=9422s)_
 
 💻 Code: [https://github.com/Cyfrin/html-fund-me-f23](https://github.com/Cyfrin/html-fund-me-f23)
 
@@ -1604,11 +1633,14 @@ _[⌨️ (3:00:00) | Recap ](https://youtu.be/sas02qSFZ74?t=10800)_
 
 - [More in-depth Javascript & Full Stack introduction video](https://www.youtube.com/watch?v=pdsYCkUWrgQ)
 
+## Section 8 NFTs
+- [IPFS hash for website](ipfs://QmdCBj5B188qzXgG1LUCD6aKe6RJHqbSgu7YfPyncDirzh)
+
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Lesson 9: Foundry Smart Contract Lottery
+# Section 9: Foundry Smart Contract Lottery
 
-_[⭐️ (3:04:09) | Lesson 9: Smart Contract Lottery](https://www.youtube.com/watch?v=sas02qSFZ74&t=11049s)_
+_[⭐️ (3:04:09) | Section 9: Smart Contract Lottery](https://www.youtube.com/watch?v=sas02qSFZ74&t=11049s)_
 
 💻 Code: [https://github.com/Cyfrin/foundry-smart-contract-lottery-f23](https://github.com/Cyfrin/foundry-smart-contract-lottery-f23)
 
@@ -1675,7 +1707,7 @@ _[⌨️ (3:37:13) | Chainlink VRF ](https://youtu.be/sas02qSFZ74?t=13033)_
 
 * Special Guest [Richard](https://twitter.com/RGottleber)
 
-### Sub-Lesson: Chainlink VRF
+### Sub-Section: Chainlink VRF
 
 > - Chainlink VRFv2 Docs
 > - Chainlink VRFv2 Walkthrough
@@ -1746,9 +1778,9 @@ _[⌨️ (4:33:47) | Implementing Chainlink Keepers - checkUpkeep ](https://yout
 
 _[⌨️ (4:40:10) | Implementing Chainlink Keepers - performUpkeep ](https://youtu.be/sas02qSFZ74?t=16810)_
 
-## Mid-Lesson Recap
+## Mid-Section Recap
 
-_[⌨️ (4:43:00) | Mid-Lesson Recap ](https://youtu.be/sas02qSFZ74?t=16980)_
+_[⌨️ (4:43:00) | Mid-Section Recap ](https://youtu.be/sas02qSFZ74?t=16980)_
 
 ## Tests & Deploy Script Setup
 
@@ -1856,11 +1888,15 @@ _[⌨️ (7:02:07) | Recap ](https://youtu.be/sas02qSFZ74?t=25327)_
 - Chainlink VRF: 2 LINK
 - Chainlink Keepers: 8 LINK
 
+## Section 9 NFTs
+- [zkSync](https://explorer.zksync.io/address/0xEFA0f9Ca73f5C2f4b735eEDf63d49B1680054158#contract)
+- [Sepolia](https://sepolia.etherscan.io/address/0x33e1fD270599188BB1489a169dF1f0be08b83509#code)
+
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Lesson 10: Foundry ERC20s
+# Section 10: Foundry ERC20s
 
-_[⭐️ (7:08:04) | Lesson 10: ERC20s](https://www.youtube.com/watch?v=sas02qSFZ74&t=25684s)_
+_[⭐️ (7:08:04) | Section 10: ERC20s](https://www.youtube.com/watch?v=sas02qSFZ74&t=25684s)_
 
 💻 Code: [https://github.com/Cyfrin/foundry-erc20-f23](https://github.com/Cyfrin/foundry-erc20-f23)
 
@@ -1903,13 +1939,17 @@ _[⌨️ (7:25:48) | AI Tests ](https://youtu.be/sas02qSFZ74?t=26748)_
 
 - [Token Approvals](https://etherscan.io/tokenapprovalchecker)
 
-## Lesson 10 Recap
+## Section 10 Recap
+
+## Sectoin 10 NFTs
+- [zkSync](https://explorer.zksync.io/address/0x475d9da05E73e283EB5B490c89cfDf36B0Bca5fc)
+- [Sepolia](https://sepolia.etherscan.io/address/0xE0aE410a16776BCcb04A8d4B0151Bb3F25035994#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Lesson 11: Foundry NFTs | MoodNFT
+# Section 11: Foundry NFTs | MoodNFT
 
-_[⭐️ (7:40:56) | Lesson 11: NFTs](https://www.youtube.com/watch?v=sas02qSFZ74&t=27656s)_
+_[⭐️ (7:40:56) | Section 11: NFTs](https://www.youtube.com/watch?v=sas02qSFZ74&t=27656s)_
 
 💻 Code: [https://github.com/Cyfrin/foundry-nft-f23](https://github.com/Cyfrin/foundry-nft-f23)
 
@@ -2054,11 +2094,15 @@ _[⌨️ (10:28:45) | Verifying Metamask Transactions ](https://youtu.be/sas02qS
 
 - [joinfire.zxyz](https://app.joinfire.xyz/)
 
-## Lesson 11 Recap
+## Section 11 Recap
 
-_[⌨️ (10:36:31) | Lesson 11 Recap ](https://youtu.be/sas02qSFZ74?t=38191)_
+_[⌨️ (10:36:31) | Section 11 Recap ](https://youtu.be/sas02qSFZ74?t=38191)_
 
 - [ENS](https://ens.domains/)
+
+## Section 11 NFTs
+- [zkSync](https://explorer.zksync.io/address/0x9085b18f712A7F26DC2f4C2F485ffCd1D0a10433#contract)
+- [Sepolia](https://sepolia.etherscan.io/address/0x93c7A945af9c453a8c932bf47683B5eB8C2F8792#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
@@ -2076,13 +2120,13 @@ _[⌨️ (10:36:31) | Lesson 11 Recap ](https://youtu.be/sas02qSFZ74?t=38191)_
 </p>
 <br/>
 
-# Lesson 12: Foundry DeFi | Stablecoin (The PINNACLE PROJECT!! GET HERE!)
+# Section 12: Foundry DeFi | Stablecoin (The PINNACLE PROJECT!! GET HERE!)
 
 💻 Code: [https://github.com/Cyfrin/foundry-defi-stablecoin-f23](https://github.com/Cyfrin/foundry-defi-stablecoin-f23)
 
 ## Introduction
 
-_[⭐️ (0:00:00) | Lesson 12: DeFi Stablecoins](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=0s)_
+_[⭐️ (0:00:00) | Section 12: DeFi Stablecoins](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=0s)_
 
 ## What is DeFi?
 
@@ -2251,25 +2295,20 @@ _[⌨️ (4:44:38) | Lens Protocol ](https://youtu.be/wUjYK5gwNZs?t=17078)_
 - [Defi-Minimal](https://github.com/smartcontractkit/defi-minimal/tree/main/contracts)
 - [Defi Dad](https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg)
 
-QR Code for Lesson 12 zkSync, Sepolia, and zkSync Sepolia:
-<br/>
 
-<p align="center">
-<a href="" target="_blank">
-<img src="./thumbnails/lesson-12.png" width="100" alt="Solidity, Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course">
-</a>
-</p>
-<br/>
+## Section 12 NFTs
+- [zkSync](https://explorer.zksync.io/address/0xC4C177DEa09d046D68b0Ad2E0d8003090f0FD832#contract)
+- [Sepolia](https://sepolia.etherscan.io/address/0xe5760847db2f10A74Fc575B4803df5fe129811C1#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Lesson 13: Foundry Upgrades
+# Section 13: Foundry Upgrades
 
 💻 Code: [https://github.com/Cyfrin/foundry-upgrades-f23](https://github.com/Cyfrin/foundry-upgrades-f23)
 
 ## Introduction
 
-_[⭐️ (4:47:00) | Lesson 13: Upgradable Contracts & Proxies](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=17220s)_
+_[⭐️ (4:47:00) | Section 13: Upgradable Contracts & Proxies](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=17220s)_
 
 ## Upgradable Smart Contracts Overview
 
@@ -2332,9 +2371,14 @@ _[⌨️ (5:53:48) | Test/Demo ](https://youtu.be/wUjYK5gwNZs?t=21228)_
 
 _[⌨️ (5:59:40) | Testnet Demo ](https://youtu.be/wUjYK5gwNZs?t=21580)_
 
+
+## Section 13 NFTs
+- [zkSync](https://explorer.zksync.io/address/0xaf3697C1B7e686a7f83dcbb753AcbBA4c2A940aB#contract)
+- [Sepolia](https://sepolia.etherscan.io/address/0xaFa4150818b7843345A5E54E430Bd0cAE31B5c0C#code)
+
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Lesson 14: Foundry DAO / Governance
+# Section 14: Foundry DAO / Governance
 
 Plutocracy is bad! Don't default to ERC20 token voting!!
 
@@ -2342,7 +2386,7 @@ Plutocracy is bad! Don't default to ERC20 token voting!!
 
 ## Introduction
 
-_[⭐️ (6:05:45) | Lesson 14 | DAOs & Governance](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=21945s)_
+_[⭐️ (6:05:45) | Section 14 | DAOs & Governance](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=21945s)_
 
 - [Plutocracy is bad](https://vitalik.eth.limo/general/2018/03/28/plutocracy.html)
 - [DAOs are not corporations](https://vitalik.eth.limo/general/2022/09/20/daos.html)
@@ -2379,9 +2423,13 @@ _[⭐️ (6:05:45) | Lesson 14 | DAOs & Governance](https://www.youtube.com/watc
 
 - Special Guest [Harrison](https://twitter.com/PopPunkOnChain)
 
+## Section 14 NFTs
+- [zkSync](https://explorer.zksync.io/address/0xC63704f836505F6967d8e6Ee8A1678B57f7b5Ec9)
+- [Sepolia](https://sepolia.etherscan.io/address/0x46F3fE2C8aC9e9AE4DEDE1a7a29Ab3BdcFa7eaFc#code)
+
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Lesson 15: Smart Contract Security & Auditing (For developers)
+# Section 15: Smart Contract Security & Auditing (For developers)
 
 Developers 100% should know all about this! Don't leave the course without at least watching this section!
 
@@ -2389,7 +2437,7 @@ Developers 100% should know all about this! Don't leave the course without at le
 
 ## Introduction
 
-_[⭐️ (7:21:12) | Lesson 15 | Security & Auditing](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=26472s)_
+_[⭐️ (7:21:12) | Section 15 | Security & Auditing](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=26472s)_
 
 - [Readiness Checklist](https://github.com/nascentxyz/simple-security-toolkit)
 
@@ -2467,6 +2515,10 @@ _[⌨️ (8:10:56) | Wrap. Up](https://youtu.be/wUjYK5gwNZs?t=29455)_
   - [Dedaub](https://dedaub.com/)
   - [Trust](https://www.trust-security.xyz/)
   - [More](https://patrickalphac.medium.com/top-7-smart-contract-auditors-bec7bd70dd9f)
+
+## Section 15 NFTs
+- [zkSync](https://explorer.zksync.io/address/0xb54B64B3BB587b39F189797c68A6bd183fFB4379#contract)
+- [Sepolia](https://sepolia.etherscan.io/address/0x766a74f8924C7B07df088fDB0F7D7DbaDd330Fb3#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
