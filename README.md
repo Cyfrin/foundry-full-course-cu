@@ -875,6 +875,8 @@ _[⌨️ (3:17:46) | Deploying your First Contract](https://youtu.be/umepbfKp5rI
 
 - zkSync compiler edition: 0.8.24
 
+## 🐸🐦 [Tweet Me (add your repo in)!](https://twitter.com/intent/tweet?text=I%20just%20deployed%20a%20Smart%20Contract%20to%20the%20@zksync%20testnet!%0a%0a%20Thanks%20@PatrickAlphaC%20and%20@cyfrinupdraft!)
+
 ## The EVM & A Recap of Section 2
 
 _[⌨️ (3:27:07) | The EVM & A Recap of Section 2](https://youtu.be/umepbfKp5rI?t=12427)_
