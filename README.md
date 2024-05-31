@@ -579,6 +579,11 @@ Cyfrin Updraft Courses:
 
 > ⚠️ All code associated with this course is for demo purposes only. They have not been audited and should not be considered production ready. Please use at your own risk.
 
+## Chainlist
+
+- [Chainlist](https://chainlist.org/): https://chainlist.org/
+
+
 # Resources For This Course
 
 - AI Frens
