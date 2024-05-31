@@ -1071,6 +1071,7 @@ _[⌨️ (5:29:54) | Tesnet Demo](https://youtu.be/umepbfKp5rI?t=19794)_
 
 - [Disconnecting Metamask](https://help.1inch.io/en/articles/4666771-metamask-how-to-connect-disconnect-and-switch-accounts-with-metamask-on-1inch-network)
 
+
 ## Advanced Solidity
 
 _[⌨️ (5:34:01) | Advanced Solidity](https://youtu.be/umepbfKp5rI?t=20041)_
@@ -2572,16 +2573,19 @@ And make today an amazing day!
 
 Transparency is important! So we want to disclose any potential conflicts that might have affected my judgement so you can pick tools that are right for you. Patrick is co-founder of Alpha Chain, a blockchain infrastructure company. Alpha Chain runs **Chainlink, Ethereum, Binance, Polygon, Harmony, Solana, Moonbeam, and Moonriver blockchain services.** Alpha Chain often works with Alchemy and receives discounted services. Patrick is the co-founder of Cyfrin, and they do smart contract security & auditing services. Patrick is also the co-founder of Chain Accel, who is an advisor on the Peeranha project.
 
-Because of all this, I have added alternatives to each section where we suggest a tool. 
+Because of all this, I have added alternatives to each section where we suggest a tool.
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 # Sponsors
 
+A huge thank you to our sponsors. These are the groups and technologies 
+
 - [Matter Labs (zkSync)](https://zksync.io/)
 - [Arbitrum Foundation](https://arbitrum.foundation/)
 - [Chainlink Labs](https://chainlinklabs.com/)
 - [BadgerDAO](https://badger.com/)
+- [Optimism RPGF Round 3](https://community.optimism.io/docs/governance/retropgf-3/)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
