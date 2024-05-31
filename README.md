@@ -871,6 +871,10 @@ _[⌨️ (3:17:46) | Deploying your First Contract](https://youtu.be/umepbfKp5rI
 - See the faucets at the top of this readme!
 - Interacting with Deployed Contracts
 
+## zkSync L2 deploy
+
+- zkSync compiler edition: 0.8.24
+
 ## The EVM & A Recap of Section 2
 
 _[⌨️ (3:27:07) | The EVM & A Recap of Section 2](https://youtu.be/umepbfKp5rI?t=12427)_
