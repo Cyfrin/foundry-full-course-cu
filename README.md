@@ -1,5 +1,3 @@
-
-
 [contributors-shield]: https://img.shields.io/github/contributors/cyfrin/foundry-full-course-f23.svg?style=for-the-badge
 
 [contributors-url]: https://github.com/cyfrin/foundry-full-course-f23/graphs/contributors
@@ -22,8 +20,10 @@
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
+*Entire course and video content updated June 15, 2024*
+
 <div align="center">
-<h1> Blockchain Developer, Smart Contract, & Solidity Career Path - Powered By AI - Beginner to Expert Course <br>| Foundry Edition 2023  |</h1>
+<h1> Blockchain Developer, Smart Contract, & Solidity Career Path - Powered By AI - Beginner to Expert Course <br>| Foundry Edition 2024  |</h1>
 
 
 <p align="center"><strong>Learn smart contract development, and level up your career
@@ -45,7 +45,7 @@
 </p>
 
 
-Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidity Cyfrin Updraft - Career Path <br>| Powered By AI |<br>| Beginner to Expert Path |<br>| Foundry Edition 2023 |
+Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidity Cyfrin Updraft - Career Path <br>| Powered By AI |<br>| Beginner to Expert Path |<br>| Foundry Edition 2024 |
 </div>
 
 This repository houses course resources and [discussions](https://github.com/Cyfrin/foundry-full-course-f23/discussions) for the course.
@@ -104,7 +104,7 @@ Cyfrin Updraft Courses:
 <details>
 <summary>Resources</summary>
 <ol>
-<li><a href="#blockchain-developer-smart-contract--solidity-course---powered-by-ai---beginner-to-expert-course--foundry-edition-2023">Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course | Foundry Edition 2023</a></li>
+<li><a href="#blockchain-developer-smart-contract--solidity-course---powered-by-ai---beginner-to-expert-course--foundry-edition-2024">Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course | Foundry Edition 2024</a></li>
 <li><a href="#table-of-contents">Table of Contents</a>
   <ul>
     <li><a href="#recommended-tools">Recommended Tools</a></li>
