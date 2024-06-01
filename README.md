@@ -1235,6 +1235,10 @@ _[⌨️ (7:04:19) | Formatting Solidity in VSCode ](https://youtu.be/umepbfKp5r
 
 _[⌨️ (7:08:31) | Compiling in Foundry ](https://youtu.be/umepbfKp5rI?t=25711)_
 
+## Compiling to zkSync in foundry-zksync
+
+- [foundry-zksync](https://github.com/matter-labs/foundry-zksync)
+
 ## Deploying to a local chain I (Anvil or Ganache)
 
 _[⌨️ (7:09:49) | Deploying to a local chain I (Anvil or Ganache)](https://youtu.be/umepbfKp5rI?t=25789)_
