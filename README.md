@@ -766,6 +766,8 @@ _[⌨️ (1:51:36) | High-Level Blockchain Fundamentals](https://www.youtube.com
 
 💻 Code: [https://github.com/cyfrin/remix-simple-storage-f23](https://github.com/cyfrin/remix-simple-storage-f23)
 
+🧑‍🍳 Cookbook Listing: https://www.cookbook.dev/contracts/remix-simple-storage-f23-SimpleStorage
+
 ## Introduction
 
 _[⭐️ (2:10:42) | Lesson 2: Welcome to Remix - Simple Storage](https://www.youtube.com/watch?v=umepbfKp5rI&t=7842s)_
@@ -865,6 +867,8 @@ _[⌨️ (3:27:07) | The EVM & A Recap of Lesson 2](https://youtu.be/umepbfKp5rI
 
 💻 Code: [https://github.com/cyfrin/remix-storage-factory-f23](https://github.com/cyfrin/remix-storage-factory-f23)
 
+🧑‍🍳 Cookbook Listing: https://www.cookbook.dev/protocols/remix-storage-factory-f23
+
 ## Introduction
 
 _[⭐️ (3:29:58) | Lesson 3 | Storage Factory](https://www.youtube.com/watch?v=umepbfKp5rI&t=12598s)_
@@ -902,6 +906,8 @@ _[⌨️ (4:07:37) | Lesson 3 Recap](https://youtu.be/umepbfKp5rI?t=14857)_
 # Lesson 4: Remix Fund Me
 
 💻 Code: [https://github.com/Cyfrin/remix-fund-me-f23](https://github.com/Cyfrin/remix-fund-me-f23)
+
+🧑‍🍳 Cookbook Listing: https://www.cookbook.dev/contracts/remix-fund-me-f23-FundMe
 
 ## Introduction
 
@@ -1111,6 +1117,8 @@ _[⌨️ (6:19:58) | SpeedRunEthereum](https://youtu.be/umepbfKp5rI?t=22798)_
 # Lesson 6: Foundry Simple Storage
 
 💻 Code: [https://github.com/Cyfrin/foundry-simple-storage-f23](https://github.com/Cyfrin/foundry-simple-storage-f23)
+
+🧑‍🍳 Cookbook Listing: https://www.cookbook.dev/protocols/foundry-simple-storage-f23
 
 ## Introduction
 
@@ -1344,6 +1352,8 @@ _[⌨️ (8:21:28) | Summary ](https://youtu.be/umepbfKp5rI?t=30088)_
 _[⭐️ (0:00:00) | Lesson 7: Foundry Fund Me](https://www.youtube.com/watch?v=sas02qSFZ74&t=0s)_
 
 💻 Code: [https://github.com/Cyfrin/foundry-fund-me-f23](https://github.com/Cyfrin/foundry-fund-me-f23)
+
+🧑‍🍳 Cookbook Listing: https://www.cookbook.dev/protocols/foundry-fund-me-f23
 
 ## Introduction
 
@@ -1605,6 +1615,8 @@ _[⭐️ (3:04:09) | Lesson 9: Smart Contract Lottery](https://www.youtube.com/w
 
 💻 Code: [https://github.com/Cyfrin/foundry-smart-contract-lottery-f23](https://github.com/Cyfrin/foundry-smart-contract-lottery-f23)
 
+🧑‍🍳 Cookbook Listing: https://www.cookbook.dev/protocols/foundry-smart-contract-lottery-f23
+
 ## Introduction
 
 ## Raffle.sol Setup
@@ -1857,6 +1869,8 @@ _[⭐️ (7:08:04) | Lesson 10: ERC20s](https://www.youtube.com/watch?v=sas02qSF
 
 💻 Code: [https://github.com/Cyfrin/foundry-erc20-f23](https://github.com/Cyfrin/foundry-erc20-f23)
 
+🧑‍🍳 Cookbook Listing: https://www.cookbook.dev/protocols/foundry-erc20-f23
+
 ## What is an ERC? What is an EIP?
 
 - What is an EIP?
@@ -1905,6 +1919,8 @@ _[⌨️ (7:25:48) | AI Tests ](https://youtu.be/sas02qSFZ74?t=26748)_
 _[⭐️ (7:40:56) | Lesson 11: NFTs](https://www.youtube.com/watch?v=sas02qSFZ74&t=27656s)_
 
 💻 Code: [https://github.com/Cyfrin/foundry-nft-f23](https://github.com/Cyfrin/foundry-nft-f23)
+
+🧑‍🍳 Cookbook Listing: https://www.cookbook.dev/protocols/foundry-nft-f23
 
 ## Introduction
 
@@ -2072,6 +2088,8 @@ _[⌨️ (10:36:31) | Lesson 11 Recap ](https://youtu.be/sas02qSFZ74?t=38191)_
 # Lesson 12: Foundry DeFi | Stablecoin (The PINNACLE PROJECT!! GET HERE!)
 
 💻 Code: [https://github.com/Cyfrin/foundry-defi-stablecoin-f23](https://github.com/Cyfrin/foundry-defi-stablecoin-f23)
+
+🧑‍🍳 Cookbook Listing: https://www.cookbook.dev/protocols/foundry-defi-stablecoin-f23
 
 ## Introduction
 
@@ -2270,6 +2288,8 @@ QR Code for Lesson 12 Sepolia:
 
 💻 Code: [https://github.com/Cyfrin/foundry-upgrades-f23](https://github.com/Cyfrin/foundry-upgrades-f23)
 
+🧑‍🍳 Cookbook Listing: https://www.cookbook.dev/protocols/foundry-upgrades-f23
+
 ## Introduction
 
 _[⭐️ (4:47:00) | Lesson 13: Upgradable Contracts & Proxies](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=17220s)_
@@ -2343,6 +2363,8 @@ Plutocracy is bad! Don't default to ERC20 token voting!!
 
 💻 Code: [https://github.com/Cyfrin/foundry-dao-f23](https://github.com/Cyfrin/foundry-dao-f23)
 
+🧑‍🍳 Cookbook Listing: https://www.cookbook.dev/protocols/foundry-dao-f23
+
 ## Introduction
 
 _[⭐️ (6:05:45) | Lesson 14 | DAOs & Governance](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=21945s)_
@@ -2389,6 +2411,8 @@ _[⭐️ (6:05:45) | Lesson 14 | DAOs & Governance](https://www.youtube.com/watc
 Developers 100% should know all about this! Don't leave the course without at least watching this section!
 
 🖥️ Code: https://github.com/PatrickAlphaC/denver-security
+
+🧑‍🍳 Cookbook Listing: https://www.cookbook.dev/protocols/denver-security
 
 ## Introduction
 
