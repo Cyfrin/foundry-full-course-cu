@@ -2099,7 +2099,7 @@ _[⌨️ (0:09:17) | Code Walkthrough](https://youtu.be/wUjYK5gwNZs?t=557)_
 
 _[⌨️ (0:12:23) | What is a stablecoin (But actually)](https://youtu.be/wUjYK5gwNZs?t=743)_
 
-- [Video](https://www.youtube.com/watch?v=pciVQVocTYc)
+- [Video](https://www.youtube.com/watch?v=XeqQf08PDlA)
 - [MakerDAO Forums](https://start.makerdao.com/)
 
 ## DecentralizedStableCoin.sol
