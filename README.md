@@ -93,7 +93,7 @@ Please refer to this for an in-depth explanation of the content:
 
 # Table of Contents
 
-> All the lessons for on this repo are for several courses on the Solidity Developer Career path of Cyfrin Updraft.
+> All the lessons on this repo are for several courses on the Solidity Developer Career path of Cyfrin Updraft.
 
 <details>
 <summary>Resources</summary>
@@ -636,12 +636,12 @@ _[⭐️ (0:00:00) | Lesson 0: Welcome!](https://www.youtube.com/watch?v=umepbfK
 
 ## Best Practices
 
-- **Follow the repository:** While going through the course be 100% certain to follow along with the github repository. If you run into in an issue check the chronological-updates in the repo.
+- **Follow the repository:** While going through the course be 100% certain to follow along with the github repository. If you run into an issue check the chronological-updates in the repo.
 - **Be Active in the community:** Ask questions and engage with other developers going through the course in the discussions tab, be sure to go and say hello or gm! This space is different from the other industries, you don't have to be secretive; communicate, network and learn with others :)
 - **Learn at your own pace:** It doesn't matter if it takes you a day, a week, a month or even a year. Progress >>> Perfection
 - **Take Breaks:** You will exhaust your mind and recall less if you go all out and watch the entire course in one sitting.
   **Suggested Strategy** every 25 minutes take a 5 min break, and every 2 hours take a longer 30 min break
-- **Refer to Documentation:** Things are constantly being updated, so whenever Patrick opens up some documentation, open it your end and maybe even have the code sample next to you.
+- **Refer to Documentation:** Things are constantly being updated, so whenever Patrick opens up some documentation, open it on your end and maybe even have the code sample next to you.
 - **Use ChatGPT and/or the course chat**
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -2508,7 +2508,7 @@ And make today an amazing day!
 
 # Disclosures
 
-Transparency is important! So we want to disclose any potential conflicts that might have affected my judgement so you can pick tools that are right for you. Patrick is co-founder of Alpha Chain, a blockchain infrastructure company. Alpha Chain runs **Chainlink, Ethereum, Binance, Polygon, Harmony, Solana, Moonbeam, and Moonriver blockchain services.** Alpha Chain often works with Alchemy and receives discounted services. Patrick is the co-founder of Cyfrin, and they do smart contract security & auditing services. Patrick is also the co-founder of Chain Accel, who is an advisor on the Peeranha project. Patrick is an advisor on the Chainlink project. The Cyfrin team often does buisness on the Arbitrum L2.
+Transparency is important! So we want to disclose any potential conflicts that might have affected my judgement so you can pick tools that are right for you. Patrick is co-founder of Alpha Chain, a blockchain infrastructure company. Alpha Chain runs **Chainlink, Ethereum, Binance, Polygon, Harmony, Solana, Moonbeam, and Moonriver blockchain services.** Alpha Chain often works with Alchemy and receives discounted services. Patrick is the co-founder of Cyfrin, and they do smart contract security & auditing services. Patrick is also the co-founder of Chain Accel, who is an advisor on the Peeranha project. Patrick is an advisor on the Chainlink project. The Cyfrin team often does business on the Arbitrum L2.
 
 Because of all this, I have added alternatives to each section where we suggest a tool. This video & course was created and sponsored solely by the [Cyfrin](https://www.cyfrin.io/) team.
 
