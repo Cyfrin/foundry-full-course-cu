@@ -586,7 +586,7 @@ Please refer to this for an in-depth explanation of the content:
   - Great place for asking technical questions about Ethereum
 - [Peeranha](https://peeranha.io/)
   - Decentralized Stack Exchange!
-- [Cookbook](./Cookbook-listings.md)
+- [Cookbook](./cookbook-listings.md)
   - An online AI IDE
 
 # Bonus NFTs
