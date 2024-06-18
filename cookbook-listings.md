@@ -2,7 +2,7 @@
 
 ## About
 
-An online AI IDE to help visualize codebases, and ask questions.
+🧑‍🍳 Cookbook is a smart contract registry and co-pilot to help visualize codebases and fast track smart contract development.
 
 ## Listings
 

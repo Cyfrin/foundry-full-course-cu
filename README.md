@@ -587,7 +587,7 @@ Please refer to this for an in-depth explanation of the content:
 - [Peeranha](https://peeranha.io/)
   - Decentralized Stack Exchange!
 - [Cookbook](./cookbook-listings.md)
-  - An online AI IDE
+  - A smart contract registry and co-pilot
 
 # Bonus NFTs
 
