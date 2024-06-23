@@ -1,22 +1,22 @@
-[contributors-shield]: https://img.shields.io/github/contributors/cyfrin/foundry-full-course.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/cyfrin/foundry-full-course-cu.svg?style=for-the-badge
 
-[contributors-url]: https://github.com/cyfrin/foundry-full-course/graphs/contributors
+[contributors-url]: https://github.com/cyfrin/foundry-full-course-cu/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/cyfrin/foundry-full-course.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/cyfrin/foundry-full-course-cu.svg?style=for-the-badge
 
-[forks-url]: https://github.com/cyfrin/foundry-full-course/network/members
+[forks-url]: https://github.com/cyfrin/foundry-full-course-cu/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/cyfrin/foundry-full-course.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/cyfrin/foundry-full-course-cu.svg?style=for-the-badge
 
-[stars-url]: https://github.com/cyfrin/foundry-full-course/stargazers
+[stars-url]: https://github.com/cyfrin/foundry-full-course-cu/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/cyfrin/foundry-full-course.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/cyfrin/foundry-full-course-cu.svg?style=for-the-badge
 
-[issues-url]: https://github.com/cyfrin/foundry-full-course/issues
+[issues-url]: https://github.com/cyfrin/foundry-full-course-cu/issues
 
-[license-shield]: https://img.shields.io/github/license/cyfrin/foundry-full-course.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/cyfrin/foundry-full-course-cu.svg?style=for-the-badge
 
-[license-url]: https://github.com/cyfrin/foundry-full-course/blob/master/LICENSE.txt
+[license-url]: https://github.com/cyfrin/foundry-full-course-cu/blob/master/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
@@ -48,7 +48,7 @@
 Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidity Cyfrin Updraft - Career Path <br>| Powered By AI |<br>| Beginner to Expert Path |<br>| Foundry Edition 2024 |
 </div>
 
-This repository houses course resources and [discussions](https://github.com/Cyfrin/foundry-full-course/discussions) for the course.
+This repository houses course resources and [discussions](https://github.com/Cyfrin/foundry-full-course-cu/discussions) for the course.
 
 Please refer to this for an in-depth explanation of the content:
 
@@ -782,7 +782,7 @@ _[⌨️ (1:51:36) | High-Level Blockchain Fundamentals](https://www.youtube.com
 
 # Section 2: Welcome to Remix - Remix Simple Storage
 
-💻 Code: [https://github.com/cyfrin/remix-simple-storage](https://github.com/cyfrin/remix-simple-storage)
+💻 Code: [https://github.com/cyfrin/remix-simple-storage-cu](https://github.com/cyfrin/remix-simple-storage-cu)
 
 ## Introduction
 
@@ -891,7 +891,7 @@ _[⌨️ (3:27:07) | The EVM & A Recap of Section 2](https://youtu.be/umepbfKp5r
 
 # Section 3: Remix Storage Factory
 
-💻 Code: [https://github.com/cyfrin/remix-storage-factory](https://github.com/cyfrin/remix-storage-factory)
+💻 Code: [https://github.com/cyfrin/remix-storage-factory-cu](https://github.com/cyfrin/remix-storage-factory-cu)
 
 ## Introduction
 
@@ -933,7 +933,7 @@ _[⌨️ (4:07:37) | Section 3 Recap](https://youtu.be/umepbfKp5rI?t=14857)_
 
 # Section 4: Remix Fund Me
 
-💻 Code: [https://github.com/Cyfrin/remix-fund-me](https://github.com/Cyfrin/remix-fund-me)
+💻 Code: [https://github.com/Cyfrin/remix-fund-me-cu](https://github.com/Cyfrin/remix-fund-me-cu)
 
 ## Introduction
 
@@ -1151,7 +1151,7 @@ _[⌨️ (6:19:58) | SpeedRunEthereum](https://youtu.be/umepbfKp5rI?t=22798)_
 
 # Section 6: Foundry Simple Storage
 
-💻 Code: [https://github.com/Cyfrin/foundry-simple-storage](https://github.com/Cyfrin/foundry-simple-storage)
+💻 Code: [https://github.com/Cyfrin/foundry-simple-storage-cu](https://github.com/Cyfrin/foundry-simple-storage-cu)
 
 ## Introduction
 
@@ -1206,9 +1206,9 @@ _[⌨️ (6:52:00) | VSCode Setup II ](https://youtu.be/umepbfKp5rI?t=24720)_
 - Copilot labs
 - Hardhat Solidity Extension
 - VSCodium
-- `mkdir foundry`
-- `cd foundry`
-- `mkdir foundry-simple-storage`
+- `mkdir foundry-cu`
+- `cd foundry-cu`
+- `mkdir foundry-simple-storage-cu`
 
 ## Foundry Setup
 
@@ -1301,7 +1301,7 @@ Enter password:
 forge script <script> --rpc-url <rpc_url> --account <account_name> --sender <address> --broadcast
 ```
 
-- [The .env pledge](https://github.com/Cyfrin/foundry-full-course/discussions/5)
+- [The .env pledge](https://github.com/Cyfrin/foundry-full-course-cu/discussions/5)
 
 ## ThirdWeb Deploy
 
@@ -1393,7 +1393,7 @@ _[⌨️ (8:21:28) | Summary ](https://youtu.be/umepbfKp5rI?t=30088)_
 
 _[⭐️ (0:00:00) | Section 7: Foundry Fund Me](https://www.youtube.com/watch?v=sas02qSFZ74&t=0s)_
 
-💻 Code: [https://github.com/Cyfrin/foundry-fund-me](https://github.com/Cyfrin/foundry-fund-me)
+💻 Code: [https://github.com/Cyfrin/foundry-fund-me-cu](https://github.com/Cyfrin/foundry-fund-me-cu)
 
 ## Introduction
 
@@ -1619,7 +1619,7 @@ _[⌨️ (2:35:13) | Section 7: Recap ](https://youtu.be/sas02qSFZ74?t=9313)_
 
 _[⭐️ (2:37:02) | Section 8: HTML Fund Me](https://www.youtube.com/watch?v=sas02qSFZ74&t=9422s)_
 
-💻 Code: [https://github.com/Cyfrin/html-fund-me](https://github.com/Cyfrin/html-fund-me)
+💻 Code: [https://github.com/Cyfrin/html-fund-me-cu](https://github.com/Cyfrin/html-fund-me-cu)
 
 - [More in-depth Javascript & Full Stack introduction video](https://www.youtube.com/watch?v=pdsYCkUWrgQ)
 
@@ -1660,7 +1660,7 @@ _[⌨️ (3:00:00) | Recap ](https://youtu.be/sas02qSFZ74?t=10800)_
 
 _[⭐️ (3:04:09) | Section 9: Smart Contract Lottery](https://www.youtube.com/watch?v=sas02qSFZ74&t=11049s)_
 
-💻 Code: [https://github.com/Cyfrin/foundry-smart-contract-lottery](https://github.com/Cyfrin/foundry-smart-contract-lottery)
+💻 Code: [https://github.com/Cyfrin/foundry-smart-contract-lottery-cu](https://github.com/Cyfrin/foundry-smart-contract-lottery-cu)
 
 ## Introduction
 
@@ -1916,7 +1916,7 @@ _[⌨️ (7:02:07) | Recap ](https://youtu.be/sas02qSFZ74?t=25327)_
 
 _[⭐️ (7:08:04) | Section 10: ERC20s](https://www.youtube.com/watch?v=sas02qSFZ74&t=25684s)_
 
-💻 Code: [https://github.com/Cyfrin/foundry-erc20](https://github.com/Cyfrin/foundry-erc20)
+💻 Code: [https://github.com/Cyfrin/foundry-erc20-cu](https://github.com/Cyfrin/foundry-erc20-cu)
 
 ## What is an ERC? What is an EIP?
 
@@ -1969,7 +1969,7 @@ _[⌨️ (7:25:48) | AI Tests ](https://youtu.be/sas02qSFZ74?t=26748)_
 
 _[⭐️ (7:40:56) | Section 11: NFTs](https://www.youtube.com/watch?v=sas02qSFZ74&t=27656s)_
 
-💻 Code: [https://github.com/Cyfrin/foundry-nft](https://github.com/Cyfrin/foundry-nft)
+💻 Code: [https://github.com/Cyfrin/foundry-nft-cu](https://github.com/Cyfrin/foundry-nft-cu)
 
 ## Introduction
 
@@ -2140,7 +2140,7 @@ _[⌨️ (10:36:31) | Section 11 Recap ](https://youtu.be/sas02qSFZ74?t=38191)_
 
 # Section 12: Foundry DeFi | Stablecoin (The PINNACLE PROJECT!! GET HERE!)
 
-💻 Code: [https://github.com/Cyfrin/foundry-defi-stablecoin](https://github.com/Cyfrin/foundry-defi-stablecoin)
+💻 Code: [https://github.com/Cyfrin/foundry-defi-stablecoin-cu](https://github.com/Cyfrin/foundry-defi-stablecoin-cu)
 
 ## Introduction
 
@@ -2322,7 +2322,7 @@ _[⌨️ (4:44:38) | Lens Protocol ](https://youtu.be/wUjYK5gwNZs?t=17078)_
 
 # Section 13: Foundry Upgrades
 
-💻 Code: [https://github.com/Cyfrin/foundry-upgrades](https://github.com/Cyfrin/foundry-upgrades)
+💻 Code: [https://github.com/Cyfrin/foundry-upgrades-cu](https://github.com/Cyfrin/foundry-upgrades-cu)
 
 ## Introduction
 
@@ -2400,7 +2400,7 @@ _[⌨️ (5:59:40) | Testnet Demo ](https://youtu.be/wUjYK5gwNZs?t=21580)_
 
 Plutocracy is bad! Don't default to ERC20 token voting!!
 
-💻 Code: [https://github.com/Cyfrin/foundry-dao](https://github.com/Cyfrin/foundry-dao)
+💻 Code: [https://github.com/Cyfrin/foundry-dao-cu](https://github.com/Cyfrin/foundry-dao-cu)
 
 ## Introduction
 
@@ -2601,13 +2601,13 @@ And thanks to the [Cyfrin](https://www.cyfrin.io/) team for making this possible
 
 <a href="https://github.com/cyfrin/security-and-auditing-full-course-s23/graphs/contributors">
 
-<img src="https://contrib.rocks/image?repo=cyfrin/foundry-full-course" />
+<img src="https://contrib.rocks/image?repo=cyfrin/foundry-full-course-cu" />
 
 </a>
 
 ## License
 
-Cyfrin Updraft content is open-sourced [licensed as GPLv3](https://github.com/cyfrin/foundry-full-course/blob/main/LICENSE).
+Cyfrin Updraft content is open-sourced [licensed as GPLv3](https://github.com/cyfrin/foundry-full-course-cu/blob/main/LICENSE).
 
 
 [![Cyfrin Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cyfrinupdraft)
