@@ -51,3 +51,15 @@ Github Issues:
 
 ## Rationale
 Many hardhat libraries are hard-pegged to specific versions of openzeppelin libraries, typically one of the 4+ versions. This makes it challenging to have smart contracts in a hardhat environment. 
+
+# 6. Don't use the zkSync remix plugin
+- [ ] The plugin fails to:
+  - [ ] Verify certain contracts (likely same issues as above)
+  - [ ] Verify contracts with libraries
+  - [ ] Has is
+
+GitHub Issues:
+- https://github.com/NethermindEth/zksync-remix-plugin/issues/110
+
+## Rationale
+You shouldn't really be using remix for serious projects anyways, but the plugin's seemingly difficulty working with smart contracts is enough erosion to the developer experience that I don't trust using it. 
