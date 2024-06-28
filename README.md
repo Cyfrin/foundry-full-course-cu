@@ -483,7 +483,7 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#section-14-foundry-merkle-airdrop">Section 13: Foundry Merkle Airdrop</a>
+<a href="#section-13-foundry-merkle-airdrop">Section 13: Foundry Merkle Airdrop</a>
 </summary>
 <ol>
     <li><a href="#introduction-to-merkle-airdrops-and-code-walkthrough">Introduction to Merkle Airdrops and Code Walkthrough</a></li>
