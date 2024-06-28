@@ -2520,13 +2520,13 @@ _[⭐️ (6:05:45) | Section 14 | DAOs & Governance](https://www.youtube.com/wat
 
 - Special Guest [Harrison](https://twitter.com/PopPunkOnChain)
 
-## Section 17 NFTs
+## Section 16 NFTs
 - [zkSync](https://explorer.zksync.io/address/0xC63704f836505F6967d8e6Ee8A1678B57f7b5Ec9)
 - [Sepolia](https://sepolia.etherscan.io/address/0x46F3fE2C8aC9e9AE4DEDE1a7a29Ab3BdcFa7eaFc#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Section 18: Smart Contract Security & Auditing (For developers)
+# Section 17: Smart Contract Security & Auditing (For developers)
 
 Developers 100% should know all about this! Don't leave the course without at least watching this section!
 
