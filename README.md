@@ -2369,10 +2369,17 @@ _[⌨️ (4:44:38) | Lens Protocol ](https://youtu.be/wUjYK5gwNZs?t=17078)_
 ## Deployment Script
 ## Adding Signature Verification
 ## Signature Standards
+  - [EIP-191](https://eips.ethereum.org/EIPS/eip-191)
+  - [EIP-712](https://eips.ethereum.org/EIPS/eip-712)
+  - [Signature standards article](https://www.cyfrin.io/blog/understanding-ethereum-signature-standards-eip-191-eip-712)
 ## ECDSA Signatures
+  - [ECDSA signatures article](https://www.cyfrin.io/blog/elliptic-curve-digital-signature-algorithm-and-signatures)
 ## Transaction Types Introduction
-## ransaction Types
+## Transaction Types
+- [Ethereum transaction types](https://ethereum.org/en/developers/docs/transactions/#typed-transaction-envelope)
+- [zkSync transaction types](https://docs.zksync.io/zk-stack/concepts/transaction-lifecycle#transaction-types)
 ## Blob Transactions
+  - [Blob transactions article](https://www.cyfrin.io/blog/what-is-eip-4844-proto-danksharding-and-blob-transactions)
 ## Type 113 Transactions
 ## Implementing Signatures
 ## Modifying the Tests
