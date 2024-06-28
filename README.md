@@ -2349,6 +2349,11 @@ _[⌨️ (4:44:38) | Lens Protocol ](https://youtu.be/wUjYK5gwNZs?t=17078)_
 - [Defi-Minimal](https://github.com/smartcontractkit/defi-minimal/tree/main/contracts)
 - [Defi Dad](https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg)
 
+## Section 12 NFTs
+- [zkSync](https://explorer.zksync.io/address/0xC4C177DEa09d046D68b0Ad2E0d8003090f0FD832#contract)
+- [Sepolia](https://sepolia.etherscan.io/address/0xe5760847db2f10A74Fc575B4803df5fe129811C1#code)
+
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 # Section 13: Merkle Airdrop & Signatures
 
@@ -2379,6 +2384,8 @@ _[⌨️ (4:44:38) | Lens Protocol ](https://youtu.be/wUjYK5gwNZs?t=17078)_
 ## Deploy and Claim on zkSync Local Node
 ## Deploy and Claim on zkSync Sepolia
 ## Summary
+
+## Section 13 NFTs (TBD)
 
 # Section 14: Account Abstraction 
 
