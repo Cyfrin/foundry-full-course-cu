@@ -1,40 +1,28 @@
 [contributors-shield]: https://img.shields.io/github/contributors/cyfrin/foundry-full-course-cu.svg?style=for-the-badge
-
 [contributors-url]: https://github.com/cyfrin/foundry-full-course-cu/graphs/contributors
-
 [forks-shield]: https://img.shields.io/github/forks/cyfrin/foundry-full-course-cu.svg?style=for-the-badge
-
 [forks-url]: https://github.com/cyfrin/foundry-full-course-cu/network/members
-
 [stars-shield]: https://img.shields.io/github/stars/cyfrin/foundry-full-course-cu.svg?style=for-the-badge
-
 [stars-url]: https://github.com/cyfrin/foundry-full-course-cu/stargazers
-
 [issues-shield]: https://img.shields.io/github/issues/cyfrin/foundry-full-course-cu.svg?style=for-the-badge
-
 [issues-url]: https://github.com/cyfrin/foundry-full-course-cu/issues
-
 [license-shield]: https://img.shields.io/github/license/cyfrin/foundry-full-course-cu.svg?style=for-the-badge
-
 [license-url]: https://github.com/cyfrin/foundry-full-course-cu/blob/master/LICENSE.txt
-
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
-*Entire course and video content updated June 15, 2024*
+_Entire course and video content updated June 15, 2024_
 
 <div align="center">
 <h1> Blockchain Developer, Smart Contract, & Solidity Career Path - Powered By AI - Beginner to Expert Course <br>| Foundry Edition 2024  |</h1>
 
-
 <p align="center"><strong>Learn smart contract development, and level up your career
 </strong></p>
-
-
 
 [![Stargazers][stars-shield]][stars-url] [![Forks][forks-shield]][forks-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+
 <p align="center">
     <br />
     <a href="https://cyfrin.io/">
@@ -44,20 +32,20 @@
     <br />
 </p>
 
-
 Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidity Cyfrin Updraft - Career Path <br>| Powered By AI |<br>| Beginner to Expert Path |<br>| Foundry Edition 2024 |
+
 </div>
 
 This repository houses course resources and [discussions](https://github.com/Cyfrin/foundry-full-course-cu/discussions) for the course.
 
 Please refer to this for an in-depth explanation of the content:
 
--   [Website](https://updraft.cyfrin.io) - Join Cyfrin Updraft and enjoy 50+ hours of smart contract development courses
--   [Twitter](https://twitter.com/CyfrinUpdraft) - Stay updated with the latest course releases
--   [LinkedIn](https://www.linkedin.com/school/cyfrin-updraft/) - Add Updraft to your learning experiences
--   [Discord](https://discord.gg/cyfrin) - Join a community of 3000+ developers and auditors
--   [Newsletter](https://cyfrin.io/newsletter) - Weekly security research tips and resources to level up your career
--   [Codehawks](https://codehawks.com) - Smart contracts auditing competitions to help secure web3
+- [Website](https://updraft.cyfrin.io) - Join Cyfrin Updraft and enjoy 50+ hours of smart contract development courses
+- [Twitter](https://twitter.com/CyfrinUpdraft) - Stay updated with the latest course releases
+- [LinkedIn](https://www.linkedin.com/school/cyfrin-updraft/) - Add Updraft to your learning experiences
+- [Discord](https://discord.gg/cyfrin) - Join a community of 3000+ developers and auditors
+- [Newsletter](https://cyfrin.io/newsletter) - Weekly security research tips and resources to level up your career
+- [Codehawks](https://codehawks.com) - Smart contracts auditing competitions to help secure web3
 <!-- *Lol, my t-shirt is backwards in 2 of them* -->
 
 <br/>
@@ -88,10 +76,11 @@ Please refer to this for an in-depth explanation of the content:
 <br/>
 
 Cyfrin Updraft Courses:
+
 - [Cyfrin Updraft - Blockchain basics](https://updraft.cyfrin.io/courses/blockchain-basics)
-- [Cyfrin Updraft - Solidity basics](https://updraft.cyfrin.io/courses/blockchain-basics)
-- [Cyfrin Updraft - Foundry Fundamentals](https://updraft.cyfrin.io/courses/blockchain-basics)
-- [Cyfrin Updraft - Advanced Foundry](https://updraft.cyfrin.io/courses/blockchain-basics)
+- [Cyfrin Updraft - Solidity basics](https://updraft.cyfrin.io/courses/solidity)
+- [Cyfrin Updraft - Foundry Fundamentals](https://updraft.cyfrin.io/courses/foundry)
+- [Cyfrin Updraft - Advanced Foundry](https://updraft.cyfrin.io/courses/advanced-foundry)
 
 [YouTube Playlist](https://www.youtube.com/playlist?list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42)
 
@@ -214,6 +203,7 @@ Cyfrin Updraft Courses:
         <li><a href="#receive--fallback-functions">Receive &amp; Fallback Functions</a></li>
       </ul>
     </li>
+    <li><a href="#Section-4-Recap">Section 4 Recap</a></li>
   </ol>
 </details>
 
@@ -259,7 +249,7 @@ Cyfrin Updraft Courses:
     <li><a href="#deploying-to-a-testnet-or-a-mainnet">Deploying to a testnet or a mainnet</a></li>
     <li><a href="#verifying-a-contract-the-manual-way">Verifying a contract the manual way</a></li>
     <li><a href="#cleaning-up-the-project">Cleaning up the project</a></li>
-    <li><a href="#alchemy">Alchemy</a></li>
+    <li><a href="#Alchemy-and-the-mempool">Alchemy and the mempool</a></li>
     <li><a href="#summary">Summary</a></li>
   </ol>
 </details>
@@ -291,8 +281,7 @@ Cyfrin Updraft Courses:
     <li><a href="#interactionsssol">Interactions.s.sol</a></li>
     <li><a href="#makefile">Makefile</a></li>
     <li><a href="#pushing-to-github">Pushing to GitHub</a></li>
-    <li><a href="#-tweet-me-add-your-repo-in">🐸🐦 Tweet Me (add your repo in)!</a></li>
-    <li><a href="#recap">Recap</a></li>
+    <li><a href="#Section-7-Recap">Recap</a></li>
   </ol>
 </details>
 <details>
@@ -304,7 +293,7 @@ Cyfrin Updraft Courses:
     <li><a href="#setup-2">Setup</a></li>
     <li><a href="#how-metamask-works-with-your-browser">How metamask works with your browser</a></li>
     <li><a href="#introduction-to-function-selectors">Introduction to function selectors</a></li>
-    <li><a href="#recap-1">Recap</a></li>
+    <li><a href="#recap">Recap</a></li>
   </ol>
 </details>
 <details>
@@ -324,17 +313,11 @@ Cyfrin Updraft Courses:
       </ul>
     </li>
     <li><a href="#implementing-chainlink-vrf---introduction">Implementing Chainlink VRF - Introduction</a></li>
-    <li><a href="#implementing-chainlink-vrf---the-request">Implementing Chainlink VRF - The Request</a></li>
-    <li><a href="#implementing-chainlink-vrf---the-fulfill">Implementing Chainlink VRF - The FulFill</a></li>
-    <li><a href="#chainlink-vrf-recap">Chainlink VRF Recap</a>
-      <ul>
-        <li><a href="#modulo">Modulo</a></li>
-      </ul>
-    </li>
+    <li><a href="#modulo">Modulo</a></li>
     <li><a href="#enum">Enum</a></li>
     <li><a href="#resetting-an-array-1">Resetting an array</a></li>
     <li><a href="#note-on-building">Note on building</a></li>
-    <li><a href="#cei">CEI</a></li>
+    <li><a href="#CEI-Checks-Effects-Interactions">CEI</a></li>
     <li><a href="#introduction-to-chainlink-automation">Introduction to Chainlink Automation</a></li>
     <li><a href="#implementing-chainlink-keepers---checkupkeep">Implementing Chainlink Keepers - checkUpkeep</a>
       <ul>
@@ -371,7 +354,7 @@ Cyfrin Updraft Courses:
     <li><a href="#testnet-demo---the-demo">Testnet Demo - The Demo</a></li>
     <li><a href="#consolelog-debugging">Console.log Debugging</a></li>
     <li><a href="#forge-test---debug">forge test --debug</a></li>
-    <li><a href="#recap-2">Recap</a>
+    <li><a href="#recap-1">Recap</a>
       <ul>
         <li><a href="#recommended-link-amounts-for-sepolia-staging-test">Recommended LINK amounts for Sepolia Staging Test:</a></li>
       </ul>
@@ -462,7 +445,6 @@ Cyfrin Updraft Courses:
       </ul>
     </li>
     <li><a href="#leveling-up-your-testing-skillz">Leveling up your testing skillz</a></li>
-    <li><a href="#challenge-code-coverage-above-80-for-dscenginesol">Challenge: Code coverage above 80% for DSCEngine.sol</a></li>
     <li><a href="#fuzz-invariant-testing">Fuzz (Invariant) Testing</a></li>
     <li><a href="#open-based-fuzz-tests">Open-based Fuzz tests</a></li>
     <li><a href="#handler-based-fuzz-tests">Handler-based Fuzz tests</a>
@@ -470,14 +452,14 @@ Cyfrin Updraft Courses:
         <li><a href="#revert_on_fail--true">revert_on_fail = true</a></li>
         <li><a href="#redeeming-collateral">Redeeming Collateral</a></li>
         <li><a href="#minting-dsc">Minting DSC</a></li>
-        <li><a href="#debuggin-fuzz-tests">Debuggin Fuzz Tests</a></li>
+        <li><a href="#debugging-fuzz-tests">Debuggin Fuzz Tests</a></li>
         <li><a href="#challenge-find-out-why-mintdsc-is-never-being-called-on-our-handlersol">Challenge: Find out why `mintDsc` is never being called on our Handler.sol</a></li>
       </ul>
     </li>
     <li><a href="#price-feed-handling">Price Feed Handling</a></li>
     <li><a href="#oraclelib">OracleLib</a></li>
     <li><a href="#note-on-audit-preparedness">Note on audit preparedness</a></li>
-    <li><a href="#recap-3">Recap</a></li>
+    <li><a href="#recap-2">Recap</a></li>
     <li><a href="#lens-protocol">Lens Protocol</a></li>
       <ul>
         <li><a href="#more-defi-learnings">More DeFi Learnings:</a></li>
@@ -487,7 +469,7 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#section-13-foundry-merkle-airdrop">Section 13: Foundry Merkle Airdrop</a>
+<a href="#Section-13-Merkle-Airdrop--Signatures">Section 13: Foundry Merkle Airdrop</a>
 </summary>
 <ol>
     <li><a href="#introduction-to-merkle-airdrops-and-code-walkthrough">Introduction to Merkle Airdrops and Code Walkthrough</a></li>
@@ -507,23 +489,23 @@ Cyfrin Updraft Courses:
     <li><a href="#type-113-transactions">Type 113 Transactions</a></li>
     <li><a href="#implementing-signatures">Implementing Signatures</a></li>
     <li><a href="#modifying-the-tests">Modifying the Tests</a></li>
-    <li><a href="#test-on-zksync-(optional)">Test on zkSync (optional)</a></li>
+    <li><a href="#test-on-zksync-optional">Test on zkSync (optional)</a></li>
     <li><a href="#create-claiming-script">Create Claiming Script</a></li>
     <li><a href="#creating-a-signature">Creating a Signature</a></li>
     <li><a href="#splitting-a-signature">Splitting a Signature</a></li>
     <li><a href="#executing-the-anvil-script">Executing the Anvil Script</a></li>
-    <li><a href="#depoy-and-claim-on-zksync-local-node">Deploy and Claim on zkSync Local Node</a></li>
+    <li><a href="#Deploy-and-Claim-on-zkSync-Local-Node">Deploy and Claim on zkSync Local Node</a></li>
     <li><a href="#deploy-and-claim-on-zksync-sepolia">Deploy and Claim on zkSync Sepolia</a></li>
-    <li><a href="#summary">Summary</a></li>
+    <li><a href="#summary-1">Summary</a></li>
 </ol>
 </details>
-<details>
 
 <details>
 <summary>
-<a href="#section-14-foundry-upgrades">Section 14: Foundry Upgrades</a>
+<a href="#section-15-foundry-upgrades">Section 14: Foundry Upgrades</a>
 </summary>
 <ol>
+    <li><a href="#introduction-9">Introduction</a></li>
     <li><a href="#upgradable-smart-contracts-overview">Upgradable Smart Contracts Overview</a></li>
     <li><a href="#types-of-upgrades">Types of Upgrades</a></li>
     <li><a href="#delegatecall">Delegatecall</a></li>
@@ -534,7 +516,7 @@ Cyfrin Updraft Courses:
         <li><a href="#initializer">Initializer</a></li>
         <li><a href="#deploy">Deploy</a></li>
         <li><a href="#upgradebox">UpgradeBox</a></li>
-        <li><a href="#test--demo">Test / Demo</a></li>
+        <li><a href="#testdemo">Test / Demo</a></li>
       </ul>
     </li>
     <li><a href="#testnet-demo-1">Testnet Demo</a></li>
@@ -542,10 +524,10 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#section-15-foundry-dao--governance">Section 15: Foundry DAO / Governance</a>
+<a href="#section-16-foundry-dao--governance">Section 15: Foundry DAO / Governance</a>
 </summary>
   <ol>
-    <li><a href="#introduction-8">Introduction</a></li>
+    <li><a href="#introduction-10">Introduction</a></li>
     <li><a href="#what-is-a-dao">What is a DAO?</a></li>
     <li><a href="#how-to-build-a-dao">How to build a DAO</a>
       <ul>
@@ -561,10 +543,10 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#section-16-smart-contract-security--auditing-for-developers">Section 15: Smart Contract Security & Auditing (For developers)</a>
+<a href="#Section-17-Smart-Contract-Security--Auditing-For-developers">Section 15: Smart Contract Security & Auditing (For developers)</a>
 </summary>
   <ol>
-    <li><a href="#introduction-9">Introduction</a></li>
+    <li><a href="#introduction-11">Introduction</a></li>
     <li><a href="#what-is-a-smart-contract-audit">What is a smart contract audit?</a></li>
     <li><a href="#tools">Tools</a>
       <ul>
@@ -579,7 +561,7 @@ Cyfrin Updraft Courses:
       </ul>
     </li>
     <li><a href="#what-does-the-process-of-manual-review-look-like">What does the process of manual review look like?</a></li>
-    <li><a href="#formal-verification">Formal Verification</a></li>
+    <li><a href="#formal-verification-1">Formal Verification</a></li>
     <li><a href="#closing-thoughts">Closing Thoughts</a></li>
   </ol>
 </details>
@@ -619,8 +601,7 @@ Cyfrin Updraft Courses:
 
 ## Chainlist
 
-- [Chainlist](https://chainlist.org/): https://chainlist.org/
-
+- Chainlist: https://chainlist.org/
 
 # Resources For This Course
 
@@ -631,7 +612,7 @@ Cyfrin Updraft Courses:
     - Like ChatGPT, but it searches the web
   - [Bard](https://bard.google.com/)
   - [Other AI extensions](https://twitter.com/aisolopreneur/status/1654823630155464704?s=42&t=-pu_sCYtfrfPJU7OXfifrQ)
-- Github Discussions
+- [Github Discussions](https://github.com/Cyfrin/foundry-full-course-cu/discussions)
   - Ask questions and chat about the course here!
 - [Stack Exchange Ethereum](https://ethereum.stackexchange.com/)
   - Great place for asking technical questions about Ethereum
@@ -814,18 +795,18 @@ _[⌨️ (1:51:36) | High-Level Blockchain Fundamentals](https://www.youtube.com
 - [Nakamoto Consensus](https://blockonomi.com/nakamoto-consensus/)
 - [The merge](https://ethereum.org/en/eth2/)
 
-## L1s L2s and Rollups 
+## L1s L2s and Rollups
 
 - [Replay attacks](https://www.cyfrin.io/blog/replay-attack-in-ethereum)
 - [Sybil attacks](https://www.cyfrin.io/blog/understanding-sybil-attacks-in-blockchain-and-smart-contracts)
 - [Double-spending](https://www.cyfrin.io/blog/understanding-double-spending-in-blockchain)
 - [Zero-knowledge proofs](https://ethereum.org/en/zero-knowledge-proofs/)
 
-## Rollup Stages 
+## Rollup Stages
 
 - [L2 Beat](https://l2beat.com/scaling/summary)
 
-## Making your First Transaction on zkSync 
+## Making your First Transaction on zkSync
 
 - [zkSync bridge](https://portal.zksync.io/bridge/?network=sepolia)
 
@@ -834,6 +815,7 @@ _[⌨️ (1:51:36) | High-Level Blockchain Fundamentals](https://www.youtube.com
 - [zkSync](https://zksync.io/)
 
 ## Section 1 NFTs
+
 - [zkSync](https://explorer.zksync.io/address/0xfa257F68Ca436F6e00299917837D7712Fa5bdf75)
 - [Sepolia](https://sepolia.etherscan.io/address/0x25056312685339b49e1d1C5a0b72Ff9eff13AF77)
 
@@ -934,7 +916,7 @@ _[⌨️ (3:17:46) | Deploying your First Contract](https://youtu.be/umepbfKp5rI
 
 - zkSync compiler edition: 0.8.24
 
-## 🐸🐦 [Tweet Me (add your contract in)!](https://twitter.com/intent/tweet?text=I%20just%20deployed%20a%20Smart%20Contract%20to%20the%20@zksync%20testnet!%0a%0a%20Thanks%20@PatrickAlphaC%20and%20@cyfrinupdraft!)
+- [Tweet Me (add your contract in)!](https://twitter.com/intent/tweet?text=I%20just%20deployed%20a%20Smart%20Contract%20to%20the%20@zksync%20testnet!%0a%0a%20Thanks%20@PatrickAlphaC%20and%20@cyfrinupdraft!) 🐸🐦
 
 ## The EVM & A Recap of Section 2
 
@@ -943,6 +925,7 @@ _[⌨️ (3:27:07) | The EVM & A Recap of Section 2](https://youtu.be/umepbfKp5r
 - The EVM
 
 ## Section 2 NFTs
+
 - [zkSync](https://explorer.zksync.io/address/0x5f9f9f46ECb48D625e320888922Bf86555608E9C)
 - [Sepolia](https://sepolia.etherscan.io/address/0x5c1ddb86F11BB46D3067C702AC554aEaED9ff8f0#code)
 
@@ -985,6 +968,7 @@ _[⌨️ (4:00:44) | Inheritance & Overrides](https://youtu.be/umepbfKp5rI?t=144
 _[⌨️ (4:07:37) | Section 3 Recap](https://youtu.be/umepbfKp5rI?t=14857)_
 
 ## Section 3 NFTs
+
 - [zkSync](https://explorer.zksync.io/address/0x1D5c2Eb5F17Fa0BA4E3DfDDBF59DC0e6316219Ff)
 - [Sepolia](https://sepolia.etherscan.io/address/0x4A62A8901e6113dEF0AEeEC77E531779cd40da73#code)
 
@@ -1090,7 +1074,8 @@ _[⌨️ (5:00:46) | Library](https://youtu.be/umepbfKp5rI?t=18046)_
 
 _[⌨️ (5:05:45) | SafeMath](https://youtu.be/umepbfKp5rI?t=18345)_
 
-- [Openzeppelin Safemath](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/math/SafeMath.sol)
+<!-- - [Openzeppelin Safemath](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/math/SafeMath.sol) doesn't seem to exist anymore? I couldn't find it.-->
+
 - [unchecked vs. checked](https://docs.soliditylang.org/en/latest/control-structures.html#checked-or-unchecked-arithmetic)
 
 ## For Loop
@@ -1130,7 +1115,6 @@ _[⌨️ (5:29:54) | Tesnet Demo](https://youtu.be/umepbfKp5rI?t=19794)_
 
 - [Disconnecting Metamask](https://help.1inch.io/en/articles/4666771-metamask-how-to-connect-disconnect-and-switch-accounts-with-metamask-on-1inch-network)
 
-
 ## Advanced Solidity
 
 _[⌨️ (5:34:01) | Advanced Solidity](https://youtu.be/umepbfKp5rI?t=20041)_
@@ -1165,6 +1149,7 @@ _[⌨️ (5:44:56) | Receive & Fallback Functions](https://youtu.be/umepbfKp5rI?
 _[⌨️ (5:57:10) | Section 4 Recap](https://youtu.be/umepbfKp5rI?t=21430)_
 
 ## Section 4 NFTs
+
 - [zkSync](https://explorer.zksync.io/address/0x598c64586d890222c085eCb3a01Db36237D6ccE4)
 - [Sepolia](https://sepolia.etherscan.io/address/0x1b30DA2a868704483143A4D46865Ac9585629fd0#code)
 
@@ -1203,6 +1188,7 @@ _[⌨️ (6:19:58) | SpeedRunEthereum](https://youtu.be/umepbfKp5rI?t=22798)_
 - Special Guest [Austin](https://twitter.com/austingriffith)
 
 ## Section 5 NFTs
+
 - [zkSync](https://explorer.zksync.io/address/0x687C1d191ccD64777dF009942A148fBF7F52F006#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0x4b3a7F293091708dDD6B8748179aeAF80E9c1bA2#code)
 
@@ -1343,7 +1329,7 @@ _[⌨️ (7:41:41) | Private Key Rant II ](https://youtu.be/umepbfKp5rI?t=27701)
 - `cast send`
 - `source .env`
 
-# Can you Encrypt a Private Key -> a keystore in foundry yet??
+## Can you Encrypt a Private Key -> a keystore in foundry yet??
 
 _[⌨️ (7:45:00) | Can you Encrypt a Private Key -> a keystore in foundry yet?? ](https://youtu.be/umepbfKp5rI?t=27900)_
 
@@ -1416,9 +1402,9 @@ _[⌨️ (8:07:43) | Cleaning up the project ](https://youtu.be/umepbfKp5rI?t=29
 - `forge fmt`
 - `README.md`
 
-## Alchemy & the mempool
+## Alchemy and the mempool
 
-_[⌨️ (8:10:28) | Alchemy & the mempool ](https://youtu.be/umepbfKp5rI?t=29428)_
+_[⌨️ (8:10:28) | Alchemy and the mempool ](https://youtu.be/umepbfKp5rI?t=29428)_
 
 - Special Guest [Vitto](https://twitter.com/VittoStack)
 - [Alchemy](https://alchemy.com/?a=673c802981)
@@ -1428,9 +1414,9 @@ _[⌨️ (8:10:28) | Alchemy & the mempool ](https://youtu.be/umepbfKp5rI?t=2942
 _[⌨️ (8:21:28) | Summary ](https://youtu.be/umepbfKp5rI?t=30088)_
 
 ## Section 6 NFTs
+
 - [zkSync](https://explorer.zksync.io/address/0xbe19357f00B8A80154bB927a95d82888Ee70F6F8#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0x6c4791c3a9E9Bc5449045872Bd1b602d6385E3E1#code)
-
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
@@ -1659,8 +1645,7 @@ _[⌨️ (2:19:17) | Pushing to GitHub ](https://youtu.be/sas02qSFZ74?t=8357)_
 - [What is Git?](https://www.git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 - [The quickstart that we follow in the video](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-using-git)
 - [Learn about git and GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk)
-
-## 🐸🐦 [Tweet Me (add your repo in)!](https://twitter.com/intent/tweet?text=I%20just%20made%20my%20first%20Smart%20Contract%20repo%20using%20@solidity_lang,%20foundry,%20@chainlink,%20@AlchemyPlatform,%20and%20more!%0a%0aThanks%20@PatrickAlphaC!!)
+- [Tweet Me (add your repo in)!](https://twitter.com/intent/tweet?text=I%20just%20made%20my%20first%20Smart%20Contract%20repo%20using%20@solidity_lang,%20foundry,%20@chainlink,%20@AlchemyPlatform,%20and%20more!%0a%0aThanks%20@PatrickAlphaC!!) 🐸🐦
 
 _[⌨️ (2:34:56) | Tweet Me (add your repo in)! ](https://youtu.be/sas02qSFZ74?t=9296)_
 
@@ -1669,6 +1654,7 @@ _[⌨️ (2:34:56) | Tweet Me (add your repo in)! ](https://youtu.be/sas02qSFZ74
 _[⌨️ (2:35:13) | Section 7: Recap ](https://youtu.be/sas02qSFZ74?t=9313)_
 
 ## Section 7 NFTs
+
 - [zkSync](https://explorer.zksync.io/address/0xDBb7cFfb41261D9a445b09E7c5dF28De18254D5B#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0xD7D127991c6A89Df752FC3daeC17540aE8B86101#code)
 
@@ -1711,7 +1697,8 @@ _[⌨️ (3:00:00) | Recap ](https://youtu.be/sas02qSFZ74?t=10800)_
 - [More in-depth Javascript & Full Stack introduction video](https://www.youtube.com/watch?v=pdsYCkUWrgQ)
 
 ## Section 8 NFTs
-- [IPFS hash for website](ipfs://QmdCBj5B188qzXgG1LUCD6aKe6RJHqbSgu7YfPyncDirzh)
+
+- **IPFS hash for website** - ipfs://QmdCBj5B188qzXgG1LUCD6aKe6RJHqbSgu7YfPyncDirzh
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
@@ -1722,6 +1709,8 @@ _[⭐️ (3:04:09) | Section 9: Smart Contract Lottery](https://www.youtube.com/
 💻 Code: [https://github.com/Cyfrin/foundry-smart-contract-lottery-cu](https://github.com/Cyfrin/foundry-smart-contract-lottery-cu)
 
 ## Introduction
+
+_[⌨️ (3:04:11) | Introduction ](https://youtu.be/sas02qSFZ74?t=11051)_
 
 ## Raffle.sol Setup
 
@@ -1804,13 +1793,7 @@ _[⌨️ (3:47:21) | Implementing Chainlink VRF - Introduction ](https://youtu.b
 forge install smartcontractkit/chainlink-brownie-contracts@0.6.1 --no-commit
 ```
 
-## Implementing Chainlink VRF - The Request
-
-## Implementing Chainlink VRF - The FulFill
-
-## Chainlink VRF Recap
-
-### Modulo
+## Modulo
 
 _[⌨️ (4:03:32) | Modulo ](https://youtu.be/sas02qSFZ74?t=14612)_
 
@@ -1966,6 +1949,7 @@ _[⌨️ (7:02:07) | Recap ](https://youtu.be/sas02qSFZ74?t=25327)_
 - Chainlink Keepers: 8 LINK
 
 ## Section 9 NFTs
+
 - [zkSync](https://explorer.zksync.io/address/0xEFA0f9Ca73f5C2f4b735eEDf63d49B1680054158#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0x33e1fD270599188BB1489a169dF1f0be08b83509#code)
 
@@ -2003,8 +1987,8 @@ _[⌨️ (7:19:01) | ERC20 Token - Openzeppelin ](https://youtu.be/sas02qSFZ74?t
 
 - Openzeppelin
   - [Openzeppelin Wizard](https://wizard.openzeppelin.com/)
-- Openzeppelin Contracts
-- Solmate (Openzeppelin alternative)
+- [Openzeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+- [Solmate (Openzeppelin alternative)](https://github.com/transmissions11/solmate)
 
 ## Deploy Script
 
@@ -2018,7 +2002,8 @@ _[⌨️ (7:25:48) | AI Tests ](https://youtu.be/sas02qSFZ74?t=26748)_
 
 ## Section 10 Recap
 
-## Sectoin 10 NFTs
+## Section 10 NFTs
+
 - [zkSync](https://explorer.zksync.io/address/0x475d9da05E73e283EB5B490c89cfDf36B0Bca5fc)
 - [Sepolia](https://sepolia.etherscan.io/address/0xE0aE410a16776BCcb04A8d4B0151Bb3F25035994#code)
 
@@ -2037,7 +2022,7 @@ _[⭐️ (7:40:56) | Section 11: NFTs](https://www.youtube.com/watch?v=sas02qSFZ
 _[⌨️ (7:43:21) | What is an NFT? ](https://youtu.be/sas02qSFZ74?t=27801)_
 
 - [Video](https://www.youtube.com/watch?v=9yuHz6g_P50)
-- [Optional: All on Chain SVG NFT]
+- Optional: All on Chain SVG NFT
 - EIP-721
 
 ## Foundry Setup
@@ -2124,12 +2109,6 @@ _[⌨️ (9:31:29) | SVG NFT: Anvil Demo ](https://youtu.be/sas02qSFZ74?t=34289)
 - [nft.storage](https://nft.storage/)
 - [Patrick video on Filecoin](https://www.youtube.com/watch?v=Cj9r3pKI2L8)
 
-## Filecoin & Arweave
-
-_[⌨️ (9:36:58) | Filecoin & Arweave ](https://youtu.be/sas02qSFZ74?t=34618)_
-
-- Special Guest [Ally](https://twitter.com/DeveloperAlly)
-
 ## Advanced: EVM Opcodes, Encoding, and Calling
 
 _[⌨️ (9:44:02) | Advanced: EVM Opcodes, Encoding, and Calling ](https://youtu.be/sas02qSFZ74?t=35042)_
@@ -2171,6 +2150,12 @@ _[⌨️ (10:28:45) | Verifying Metamask Transactions ](https://youtu.be/sas02qS
 
 - [joinfire.zxyz](https://app.joinfire.xyz/)
 
+## Filecoin & Arweave
+
+_[⌨️ (9:36:58) | Filecoin & Arweave ](https://youtu.be/sas02qSFZ74?t=34618)_
+
+- Special Guest [Ally](https://twitter.com/DeveloperAlly)
+
 ## Section 11 Recap
 
 _[⌨️ (10:36:31) | Section 11 Recap ](https://youtu.be/sas02qSFZ74?t=38191)_
@@ -2178,6 +2163,7 @@ _[⌨️ (10:36:31) | Section 11 Recap ](https://youtu.be/sas02qSFZ74?t=38191)_
 - [ENS](https://ens.domains/)
 
 ## Section 11 NFTs
+
 - [zkSync](https://explorer.zksync.io/address/0x9085b18f712A7F26DC2f4C2F485ffCd1D0a10433#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0x93c7A945af9c453a8c932bf47683B5eB8C2F8792#code)
 
@@ -2308,7 +2294,7 @@ _[⌨️ (2:44:45) | Refactoring ](https://youtu.be/wUjYK5gwNZs?t=9885)_
 
 _[⌨️ (2:56:55) | Leveling up your testing skillz ](https://youtu.be/wUjYK5gwNZs?t=10615)_
 
-## Challenge: Get DSCEngine.sol test coverage above 85%
+### Challenge: Get DSCEngine.sol test coverage above 85%
 
 ## Fuzz (Invariant) Testing
 
@@ -2373,6 +2359,7 @@ _[⌨️ (4:44:38) | Lens Protocol ](https://youtu.be/wUjYK5gwNZs?t=17078)_
 - [Defi Dad](https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg)
 
 ## Section 12 NFTs
+
 - [zkSync](https://explorer.zksync.io/address/0xC4C177DEa09d046D68b0Ad2E0d8003090f0FD832#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0xe5760847db2f10A74Fc575B4803df5fe129811C1#code)
 
@@ -2382,43 +2369,57 @@ _[⌨️ (4:44:38) | Lens Protocol ](https://youtu.be/wUjYK5gwNZs?t=17078)_
 
 💻 Code: [https://github.com/Cyfrin/foundry-merkle-airdrop-cu](https://github.com/Cyfrin/foundry-merkle-airdrop-cu)
 
-## Introduction to Merkle Airdrops and Code Walkthrough
-## Project Setup
-## Merkle Proofs
-## Base Airdrop Contract
-## Already Claimed Check
-## Merkle Tree Scripts
-## Writing the Tests
-## Deployment Script
-## Adding Signature Verification
+- Introduction to Merkle Airdrops and Code Walkthrough
+- Project Setup
+- Merkle Proofs
+- Base Airdrop Contract
+- Already Claimed Check
+- Merkle Tree Scripts
+- Writing the Tests
+- Deployment Script
+- Adding Signature Verification
+
 ## Signature Standards
-  - [EIP-191](https://eips.ethereum.org/EIPS/eip-191)
-  - [EIP-712](https://eips.ethereum.org/EIPS/eip-712)
-  - [Signature standards article](https://www.cyfrin.io/blog/understanding-ethereum-signature-standards-eip-191-eip-712)
+
+- [EIP-191](https://eips.ethereum.org/EIPS/eip-191)
+- [EIP-712](https://eips.ethereum.org/EIPS/eip-712)
+- [Signature standards article](https://www.cyfrin.io/blog/understanding-ethereum-signature-standards-eip-191-eip-712)
+
 ## ECDSA Signatures
-  - [ECDSA signatures article](https://www.cyfrin.io/blog/elliptic-curve-digital-signature-algorithm-and-signatures)
-  - [Signature Malleability - Section 4 of the Replay Attacks Article](https://www.cyfrin.io/blog/replay-attack-in-ethereum)
-## Transaction Types Introduction
+
+- [ECDSA signatures article](https://www.cyfrin.io/blog/elliptic-curve-digital-signature-algorithm-and-signatures)
+- [Signature Malleability - Section 4 of the Replay Attacks Article](https://www.cyfrin.io/blog/replay-attack-in-ethereum)
+
+---
+
+- Transaction Types Introduction
+
 ## Transaction Types
+
 - [Ethereum transaction types](https://ethereum.org/en/developers/docs/transactions/#typed-transaction-envelope)
 - [zkSync transaction types](https://docs.zksync.io/zk-stack/concepts/transaction-lifecycle#transaction-types)
+
 ## Blob Transactions
-  - [Blob transactions article](https://www.cyfrin.io/blog/what-is-eip-4844-proto-danksharding-and-blob-transactions)
-## Type 113 Transactions
-## Implementing Signatures
-## Modifying the Tests
-## Test on zkSync (optional)
-## Create Claiming Script
-## Creating a Signature
-## Splitting a Signature
-## Executing the Anvil Script
-## Deploy and Claim on zkSync Local Node
-## Deploy and Claim on zkSync Sepolia
-## Summary
+
+- [Blob transactions article](https://www.cyfrin.io/blog/what-is-eip-4844-proto-danksharding-and-blob-transactions)
+
+---
+
+- Type 113 Transactions
+- Implementing Signatures
+- Modifying the Tests
+- Test on zkSync (optional)
+- Create Claiming Script
+- Creating a Signature
+- Splitting a Signature
+- Executing the Anvil Script
+- Deploy and Claim on zkSync Local Node
+- Deploy and Claim on zkSync Sepolia
+- Summary
 
 ## Section 13 NFTs (TBD)
 
-# Section 14: Account Abstraction 
+# Section 14: Account Abstraction
 
 💻 Code: [https://github.com/Cyfrin/minimal-account-abstraction](https://github.com/Cyfrin/minimal-account-abstraction)
 
@@ -2426,11 +2427,11 @@ _[⌨️ (4:44:38) | Lens Protocol ](https://youtu.be/wUjYK5gwNZs?t=17078)_
 - What is native account abstraction?
 - How does zkSync do account abstraction?
 - What is EIP-4337?
-- What are zkSync system contracts? 
+- What are zkSync system contracts?
 
 ## Section 14 NFTs (TBD)
 
-# Section 16: Foundry Upgrades
+# Section 15: Foundry Upgrades
 
 💻 Code: [https://github.com/Cyfrin/foundry-upgrades-cu](https://github.com/Cyfrin/foundry-upgrades-cu)
 
@@ -2499,8 +2500,8 @@ _[⌨️ (5:53:48) | Test/Demo ](https://youtu.be/wUjYK5gwNZs?t=21228)_
 
 _[⌨️ (5:59:40) | Testnet Demo ](https://youtu.be/wUjYK5gwNZs?t=21580)_
 
-
 ## Section 15 NFTs
+
 - [zkSync](https://explorer.zksync.io/address/0xaf3697C1B7e686a7f83dcbb753AcbBA4c2A940aB#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0xaFa4150818b7843345A5E54E430Bd0cAE31B5c0C#code)
 
@@ -2552,6 +2553,7 @@ _[⭐️ (6:05:45) | Section 14 | DAOs & Governance](https://www.youtube.com/wat
 - Special Guest [Harrison](https://twitter.com/PopPunkOnChain)
 
 ## Section 16 NFTs
+
 - [zkSync](https://explorer.zksync.io/address/0xC63704f836505F6967d8e6Ee8A1678B57f7b5Ec9)
 - [Sepolia](https://sepolia.etherscan.io/address/0x46F3fE2C8aC9e9AE4DEDE1a7a29Ab3BdcFa7eaFc#code)
 
@@ -2562,7 +2564,7 @@ _[⭐️ (6:05:45) | Section 14 | DAOs & Governance](https://www.youtube.com/wat
 Developers 100% should know all about this! Don't leave the course without at least watching this section!
 
 > [!IMPORTANT]
-> We highly recommend you head over to the end-to-end [Cyfrin Updraft Security and Auditing Curriculum](https://updraft.cyfrin.io/courses/security). 
+> We highly recommend you head over to the end-to-end [Cyfrin Updraft Security and Auditing Curriculum](https://updraft.cyfrin.io/courses/security).
 
 🖥️ Code: https://github.com/PatrickAlphaC/denver-security
 
@@ -2648,6 +2650,7 @@ _[⌨️ (8:10:56) | Wrap. Up](https://youtu.be/wUjYK5gwNZs?t=29455)_
   - [More](https://patrickalphac.medium.com/top-7-smart-contract-auditors-bec7bd70dd9f)
 
 ## Section 15 NFTs
+
 - [zkSync](https://explorer.zksync.io/address/0xb54B64B3BB587b39F189797c68A6bd183fFB4379#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0x766a74f8924C7B07df088fDB0F7D7DbaDd330Fb3#code)
 
@@ -2696,7 +2699,7 @@ Because of all this, I have added alternatives to each section where we suggest 
 
 # Sponsors
 
-A huge thank you to our sponsors. These are the groups and technologies 
+A huge thank you to our sponsors. These are the groups and technologies
 
 - [Matter Labs (zkSync)](https://zksync.io/)
 - [Arbitrum Foundation](https://arbitrum.foundation/)
@@ -2722,10 +2725,8 @@ And thanks to the [Cyfrin](https://www.cyfrin.io/) team for making this possible
 
 Cyfrin Updraft content is open-sourced [licensed as GPLv3](https://github.com/cyfrin/foundry-full-course-cu/blob/main/LICENSE).
 
-
 [![Cyfrin Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cyfrinupdraft)
 [![Cyfrin YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CyfrinAudits)
 [![Cyfrin LinkedIn](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/school/cyfrin-updraft/)
-
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
