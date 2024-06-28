@@ -483,7 +483,41 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#section-13-foundry-upgrades">Section 13: Foundry Upgrades</a>
+<a href="#section-14-foundry-merkle-airdrop">Section 13: Foundry Merkle Airdrop</a>
+</summary>
+<ol>
+    <li><a href="#introduction-to-merkle-airdrops-and-code-walkthrough">Introduction to Merkle Airdrops and Code Walkthrough</a></li>
+    <li><a href="#project-setup">Project Setup</a></li>
+    <li><a href="#merkle-proofs">Merkle Proofs</a></li>
+    <li><a href="#base-airdrop-contract">Base Airdrop Contract</a></li>
+    <li><a href="#already-claimed-check">Already Claimed Check</a></li>
+    <li><a href="#merkle-tree-scripts">Merkle Tree Scripts</a></li>
+    <li><a href="#writing-the-tests">Writing the Tests</a></li>
+    <li><a href="#deployment-script">Deployment Script</a></li>
+    <li><a href="#adding-signature-verification">Adding Signature Verification</a></li>
+    <li><a href="#signature-standards">Signature Standards</a></li>
+    <li><a href="#ecdsa-signatures">ECDSA Signatures</a></li>
+    <li><a href="#transaction-types-introduction">Transaction Types Introduction</a></li>
+    <li><a href="#transaction-types">Transaction Types</a></li>
+    <li><a href="#blob-transactions">Blob Transactions</a></li>
+    <li><a href="#type-113-transactions">Type 113 Transactions</a></li>
+    <li><a href="#implementing-signatures">Implementing Signatures</a></li>
+    <li><a href="#modifying-the-tests">Modifying the Tests</a></li>
+    <li><a href="#test-on-zksync-(optional)">Test on zkSync (optional)</a></li>
+    <li><a href="#create-claiming-script">Create Claiming Script</a></li>
+    <li><a href="#creating-a-signature">Creating a Signature</a></li>
+    <li><a href="#splitting-a-signature">Splitting a Signature</a></li>
+    <li><a href="#executing-the-anvil-script">Executing the Anvil Script</a></li>
+    <li><a href="#depoy-and-claim-on-zksync-local-node">Deploy and Claim on zkSync Local Node</a></li>
+    <li><a href="#deploy-and-claim-on-zksync-sepolia">Deploy and Claim on zkSync Sepolia</a></li>
+    <li><a href="#summary">Summary</a></li>
+</ol>
+</details>
+<details>
+
+<details>
+<summary>
+<a href="#section-14-foundry-upgrades">Section 14: Foundry Upgrades</a>
 </summary>
 <ol>
     <li><a href="#upgradable-smart-contracts-overview">Upgradable Smart Contracts Overview</a></li>
@@ -504,7 +538,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#section-14-foundry-dao--governance">Section 14: Foundry DAO / Governance</a>
+<a href="#section-15-foundry-dao--governance">Section 15: Foundry DAO / Governance</a>
 </summary>
   <ol>
     <li><a href="#introduction-8">Introduction</a></li>
@@ -523,7 +557,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#section-15-smart-contract-security--auditing-for-developers">Section 15: Smart Contract Security & Auditing (For developers)</a>
+<a href="#section-16-smart-contract-security--auditing-for-developers">Section 15: Smart Contract Security & Auditing (For developers)</a>
 </summary>
   <ol>
     <li><a href="#introduction-9">Introduction</a></li>
@@ -2316,15 +2350,35 @@ _[⌨️ (4:44:38) | Lens Protocol ](https://youtu.be/wUjYK5gwNZs?t=17078)_
 - [Defi Dad](https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg)
 
 
-## Section 12 NFTs
-- [zkSync](https://explorer.zksync.io/address/0xC4C177DEa09d046D68b0Ad2E0d8003090f0FD832#contract)
-- [Sepolia](https://sepolia.etherscan.io/address/0xe5760847db2f10A74Fc575B4803df5fe129811C1#code)
+# Section 13: Merkle Airdrop & Signatures
 
-<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
+💻 Code: [https://github.com/Cyfrin/foundry-merkle-airdrop-cu](https://github.com/Cyfrin/foundry-merkle-airdrop-cu)
 
-# Section 13: Signatures
-
-## Section 13 NFTs (TBD)
+## Introduction to Merkle Airdrops and Code Walkthrough
+## Project Setup
+## Merkle Proofs
+## Base Airdrop Contract
+## Already Claimed Check
+## Merkle Tree Scripts
+## Writing the Tests
+## Deployment Script
+## Adding Signature Verification
+## Signature Standards
+## ECDSA Signatures
+## Transaction Types Introduction
+## ransaction Types
+## Blob Transactions
+## Type 113 Transactions
+## Implementing Signatures
+## Modifying the Tests
+## Test on zkSync (optional)
+## Create Claiming Script
+## Creating a Signature
+## Splitting a Signature
+## Executing the Anvil Script
+## Deploy and Claim on zkSync Local Node
+## Deploy and Claim on zkSync Sepolia
+## Summary
 
 # Section 14: Account Abstraction 
 
@@ -2338,7 +2392,7 @@ _[⌨️ (4:44:38) | Lens Protocol ](https://youtu.be/wUjYK5gwNZs?t=17078)_
 
 ## Section 14 NFTs (TBD)
 
-# Section 15: Foundry Upgrades
+# Section 16: Foundry Upgrades
 
 💻 Code: [https://github.com/Cyfrin/foundry-upgrades-cu](https://github.com/Cyfrin/foundry-upgrades-cu)
 
@@ -2459,13 +2513,13 @@ _[⭐️ (6:05:45) | Section 14 | DAOs & Governance](https://www.youtube.com/wat
 
 - Special Guest [Harrison](https://twitter.com/PopPunkOnChain)
 
-## Section 16 NFTs
+## Section 17 NFTs
 - [zkSync](https://explorer.zksync.io/address/0xC63704f836505F6967d8e6Ee8A1678B57f7b5Ec9)
 - [Sepolia](https://sepolia.etherscan.io/address/0x46F3fE2C8aC9e9AE4DEDE1a7a29Ab3BdcFa7eaFc#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Section 17: Smart Contract Security & Auditing (For developers)
+# Section 18: Smart Contract Security & Auditing (For developers)
 
 Developers 100% should know all about this! Don't leave the course without at least watching this section!
 
