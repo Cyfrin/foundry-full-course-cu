@@ -2322,7 +2322,23 @@ _[⌨️ (4:44:38) | Lens Protocol ](https://youtu.be/wUjYK5gwNZs?t=17078)_
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Section 13: Foundry Upgrades
+# Section 13: Signatures
+
+## Section 13 NFTs (TBD)
+
+# Section 14: Account Abstraction 
+
+💻 Code: [https://github.com/Cyfrin/minimal-account-abstraction](https://github.com/Cyfrin/minimal-account-abstraction)
+
+- What is account abstraction?
+- What is native account abstraction?
+- How does zkSync do account abstraction?
+- What is EIP-4337?
+- What are zkSync system contracts? 
+
+## Section 14 NFTs (TBD)
+
+# Section 15: Foundry Upgrades
 
 💻 Code: [https://github.com/Cyfrin/foundry-upgrades-cu](https://github.com/Cyfrin/foundry-upgrades-cu)
 
@@ -2392,13 +2408,13 @@ _[⌨️ (5:53:48) | Test/Demo ](https://youtu.be/wUjYK5gwNZs?t=21228)_
 _[⌨️ (5:59:40) | Testnet Demo ](https://youtu.be/wUjYK5gwNZs?t=21580)_
 
 
-## Section 13 NFTs
+## Section 15 NFTs
 - [zkSync](https://explorer.zksync.io/address/0xaf3697C1B7e686a7f83dcbb753AcbBA4c2A940aB#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0xaFa4150818b7843345A5E54E430Bd0cAE31B5c0C#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Section 14: Foundry DAO / Governance
+# Section 16: Foundry DAO / Governance
 
 Plutocracy is bad! Don't default to ERC20 token voting!!
 
@@ -2443,15 +2459,18 @@ _[⭐️ (6:05:45) | Section 14 | DAOs & Governance](https://www.youtube.com/wat
 
 - Special Guest [Harrison](https://twitter.com/PopPunkOnChain)
 
-## Section 14 NFTs
+## Section 16 NFTs
 - [zkSync](https://explorer.zksync.io/address/0xC63704f836505F6967d8e6Ee8A1678B57f7b5Ec9)
 - [Sepolia](https://sepolia.etherscan.io/address/0x46F3fE2C8aC9e9AE4DEDE1a7a29Ab3BdcFa7eaFc#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Section 15: Smart Contract Security & Auditing (For developers)
+# Section 17: Smart Contract Security & Auditing (For developers)
 
 Developers 100% should know all about this! Don't leave the course without at least watching this section!
+
+> [!IMPORTANT]
+> We highly recommend you head over to the end-to-end [Cyfrin Updraft Security and Auditing Curriculum](https://updraft.cyfrin.io/courses/security). 
 
 🖥️ Code: https://github.com/PatrickAlphaC/denver-security
 
