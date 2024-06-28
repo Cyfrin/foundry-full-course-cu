@@ -99,7 +99,7 @@ Cyfrin Updraft Courses:
 
 # Table of Contents
 
-> All the Sections for on this repo are for several courses on the Solidity Developer Career path of Cyfrin Updraft.
+> All the sections for on this repo are for several courses on the Solidity Developer Career path of Cyfrin Updraft.
 
 <details>
 <summary>Resources</summary>
@@ -599,6 +599,8 @@ Cyfrin Updraft Courses:
   - Great place for asking technical questions about Ethereum
 - [Peeranha](https://peeranha.io/)
   - Decentralized Stack Exchange!
+- [Cookbook](./cookbook-listings.md)
+  - A smart contract registry and co-pilot
 
 # Bonus NFTs
 
@@ -650,12 +652,12 @@ _[⭐️ (0:00:00) | Section 0: Welcome!](https://www.youtube.com/watch?v=umepbf
 
 ## Best Practices
 
-- **Follow the repository:** While going through the course be 100% certain to follow along with the github repository. If you run into in an issue check the chronological-updates in the repo.
+- **Follow the repository:** While going through the course be 100% certain to follow along with the github repository. If you run into an issue check the chronological-updates in the repo.
 - **Be Active in the community:** Ask questions and engage with other developers going through the course in the discussions tab, be sure to go and say hello or gm! This space is different from the other industries, you don't have to be secretive; communicate, network and learn with others :)
 - **Learn at your own pace:** It doesn't matter if it takes you a day, a week, a month or even a year. Progress >>> Perfection
 - **Take Breaks:** You will exhaust your mind and recall less if you go all out and watch the entire course in one sitting.
   **Suggested Strategy** every 25 minutes take a 5 min break, and every 2 hours take a longer 30 min break
-- **Refer to Documentation:** Things are constantly being updated, so whenever Patrick opens up some documentation, open it your end and maybe even have the code sample next to you.
+- **Refer to Documentation:** Things are constantly being updated, so whenever Patrick opens up some documentation, open it on your end and maybe even have the code sample next to you.
 - **Use ChatGPT and/or the course chat**
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -2168,7 +2170,7 @@ _[⌨️ (0:09:17) | Code Walkthrough](https://youtu.be/wUjYK5gwNZs?t=557)_
 
 _[⌨️ (0:12:23) | What is a stablecoin (But actually)](https://youtu.be/wUjYK5gwNZs?t=743)_
 
-- [Video](https://www.youtube.com/watch?v=pciVQVocTYc)
+- [Video](https://www.youtube.com/watch?v=XeqQf08PDlA)
 - [MakerDAO Forums](https://start.makerdao.com/)
 
 ## DecentralizedStableCoin.sol
