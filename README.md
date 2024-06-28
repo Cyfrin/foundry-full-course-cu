@@ -147,6 +147,10 @@ Cyfrin Updraft Courses:
     <li><a href="#gas-ii">Gas II</a></li>
     <li><a href="#gas-ii-summary">Gas II Summary</a></li>
     <li><a href="#high-level-blockchain-fundamentals">High-Level Blockchain Fundamentals</a></li>
+    <li><a href="#l1s-l2s-and-rollups">L1s L2s and Rollups</a></li>
+    <li><a href="#rollup-stages">Rollup Stages</a></li>
+    <li><a href="#making-your-first-transaction-on-zksync">Making your First Transaction on zkSync</a></li>
+    <li><a href="#why-zksync-is-our-recommended-chain">Why zkSync is our Recommended Chain</a></li>
 </ol>
 </details>
 
@@ -809,6 +813,25 @@ _[⌨️ (1:51:36) | High-Level Blockchain Fundamentals](https://www.youtube.com
 - [Proof of Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
 - [Nakamoto Consensus](https://blockonomi.com/nakamoto-consensus/)
 - [The merge](https://ethereum.org/en/eth2/)
+
+## L1s L2s and Rollups 
+
+- [Replay attacks](https://www.cyfrin.io/blog/replay-attack-in-ethereum)
+- [Sybil attacks](https://www.cyfrin.io/blog/understanding-sybil-attacks-in-blockchain-and-smart-contracts)
+- [Double-spending](https://www.cyfrin.io/blog/understanding-double-spending-in-blockchain)
+- [Zero-knowledge proofs](https://ethereum.org/en/zero-knowledge-proofs/)
+
+## Rollup Stages 
+
+- [L2 Beat](https://l2beat.com/scaling/summary)
+
+## Making your First Transaction on zkSync 
+
+- [zkSync bridge](https://portal.zksync.io/bridge/?network=sepolia)
+
+## Why zkSync is our Recommended Chain
+
+- [zkSync](https://zksync.io/)
 
 ## Section 1 NFTs
 - [zkSync](https://explorer.zksync.io/address/0xfa257F68Ca436F6e00299917837D7712Fa5bdf75)
@@ -2374,6 +2397,7 @@ _[⌨️ (4:44:38) | Lens Protocol ](https://youtu.be/wUjYK5gwNZs?t=17078)_
   - [Signature standards article](https://www.cyfrin.io/blog/understanding-ethereum-signature-standards-eip-191-eip-712)
 ## ECDSA Signatures
   - [ECDSA signatures article](https://www.cyfrin.io/blog/elliptic-curve-digital-signature-algorithm-and-signatures)
+  - [Signature Malleability - Section 4 of the Replay Attacks Article](https://www.cyfrin.io/blog/replay-attack-in-ethereum)
 ## Transaction Types Introduction
 ## Transaction Types
 - [Ethereum transaction types](https://ethereum.org/en/developers/docs/transactions/#typed-transaction-envelope)
