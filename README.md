@@ -89,9 +89,9 @@ Please refer to this for an in-depth explanation of the content:
 
 Cyfrin Updraft Courses:
 - [Cyfrin Updraft - Blockchain basics](https://updraft.cyfrin.io/courses/blockchain-basics)
-- [Cyfrin Updraft - Solidity basics](https://updraft.cyfrin.io/courses/blockchain-basics)
-- [Cyfrin Updraft - Foundry Fundamentals](https://updraft.cyfrin.io/courses/blockchain-basics)
-- [Cyfrin Updraft - Advanced Foundry](https://updraft.cyfrin.io/courses/blockchain-basics)
+- [Cyfrin Updraft - Solidity basics](https://updraft.cyfrin.io/courses/solidity)
+- [Cyfrin Updraft - Foundry Fundamentals](https://updraft.cyfrin.io/courses/foundry)
+- [Cyfrin Updraft - Advanced Foundry](https://updraft.cyfrin.io/courses/advanced-foundry)
 
 [YouTube Playlist](https://www.youtube.com/playlist?list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42)
 
