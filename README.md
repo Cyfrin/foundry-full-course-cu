@@ -2370,7 +2370,7 @@ _[⌨️ (4:44:38) | Lens Protocol ](https://youtu.be/wUjYK5gwNZs?t=17078)_
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Section 13: Merkle Airdrop & Signatures
+# Section 13: Foundry Merkle Airdrop & Signatures
 
 💻 Code: [https://github.com/Cyfrin/foundry-merkle-airdrop-cu](https://github.com/Cyfrin/foundry-merkle-airdrop-cu)
 
