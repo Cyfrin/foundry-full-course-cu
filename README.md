@@ -606,7 +606,7 @@ Cyfrin Updraft Courses:
 
 ## Chainlist
 
-- Chainlist: https://chainlist.org/
+- [Chainlist](https://chainlist.org/): https://chainlist.org/
 
 # Resources For This Course
 
@@ -921,7 +921,7 @@ _[⌨️ (3:17:46) | Deploying your First Contract](https://youtu.be/umepbfKp5rI
 
 - zkSync compiler edition: 0.8.24
 
-- [Tweet Me (add your contract in)!](https://twitter.com/intent/tweet?text=I%20just%20deployed%20a%20Smart%20Contract%20to%20the%20@zksync%20testnet!%0a%0a%20Thanks%20@PatrickAlphaC%20and%20@cyfrinupdraft!) 🐸🐦
+## 🐸🐦 [Tweet Me (add your contract in)!](https://twitter.com/intent/tweet?text=I%20just%20deployed%20a%20Smart%20Contract%20to%20the%20@zksyncdevs%20testnet!%0a%0a%20Thanks%20@PatrickAlphaC%20and%20@cyfrinupdraft!)
 
 ## The EVM & A Recap of Section 2
 
@@ -1119,6 +1119,7 @@ _[⌨️ (5:27:37) | Modifiers](https://youtu.be/umepbfKp5rI?t=19657)_
 _[⌨️ (5:29:54) | Tesnet Demo](https://youtu.be/umepbfKp5rI?t=19794)_
 
 - [Disconnecting Metamask](https://help.1inch.io/en/articles/4666771-metamask-how-to-connect-disconnect-and-switch-accounts-with-metamask-on-1inch-network)
+
 
 ## Advanced Solidity
 
@@ -1650,7 +1651,8 @@ _[⌨️ (2:19:17) | Pushing to GitHub ](https://youtu.be/sas02qSFZ74?t=8357)_
 - [What is Git?](https://www.git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 - [The quickstart that we follow in the video](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-using-git)
 - [Learn about git and GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk)
-- [Tweet Me (add your repo in)!](https://twitter.com/intent/tweet?text=I%20just%20made%20my%20first%20Smart%20Contract%20repo%20using%20@solidity_lang,%20foundry,%20@chainlink,%20@AlchemyPlatform,%20and%20more!%0a%0aThanks%20@PatrickAlphaC!!) 🐸🐦
+
+## 🐸🐦 [Tweet Me (add your repo in)!](https://twitter.com/intent/tweet?text=I%20just%20made%20my%20first%20Smart%20Contract%20repo%20using%20@solidity_lang,%20foundry,%20@chainlink,%20@AlchemyPlatform,%20and%20more!%0a%0aThanks%20@PatrickAlphaC%20and%20@cyfrinupdraft!!)
 
 _[⌨️ (2:34:56) | Tweet Me (add your repo in)! ](https://youtu.be/sas02qSFZ74?t=9296)_
 
@@ -2155,12 +2157,6 @@ _[⌨️ (10:28:45) | Verifying Metamask Transactions ](https://youtu.be/sas02qS
 
 - [joinfire.zxyz](https://app.joinfire.xyz/)
 
-## Filecoin & Arweave
-
-_[⌨️ (9:36:58) | Filecoin & Arweave ](https://youtu.be/sas02qSFZ74?t=34618)_
-
-- Special Guest [Ally](https://twitter.com/DeveloperAlly)
-
 ## Section 11 Recap
 
 _[⌨️ (10:36:31) | Section 11 Recap ](https://youtu.be/sas02qSFZ74?t=38191)_
@@ -2657,7 +2653,7 @@ _[⌨️ (8:10:56) | Wrap. Up](https://youtu.be/wUjYK5gwNZs?t=29455)_
   - [Trust](https://www.trust-security.xyz/)
   - [More](https://patrickalphac.medium.com/top-7-smart-contract-auditors-bec7bd70dd9f)
 
-## Section 15 NFTs
+## Section 17 NFTs
 
 - [zkSync](https://explorer.zksync.io/address/0xb54B64B3BB587b39F189797c68A6bd183fFB4379#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0x766a74f8924C7B07df088fDB0F7D7DbaDd330Fb3#code)
