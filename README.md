@@ -469,7 +469,7 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#Section-13-Merkle-Airdrop--Signatures">Section 13: Foundry Merkle Airdrop</a>
+<a href="#Section-13-merkle-airdrop-signatures">Section 13: Foundry Merkle Airdrop and Signatures</a>
 </summary>
 <ol>
     <li><a href="#introduction-to-merkle-airdrops-and-code-walkthrough">Introduction to Merkle Airdrops and Code Walkthrough</a></li>
@@ -502,13 +502,7 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#Section-14-Account-Abstraction">Section 14: Account Abstraction</a>
-</summary>
-</details>
-
-<details>
-<summary>
-<a href="#section-15-foundry-upgrades">Section 15: Foundry Upgrades</a>
+<a href="#section-14-foundry-upgrades">Section 14: Foundry Upgrades</a>
 </summary>
 <ol>
     <li><a href="#introduction-9">Introduction</a></li>
@@ -527,6 +521,11 @@ Cyfrin Updraft Courses:
     </li>
     <li><a href="#testnet-demo-1">Testnet Demo</a></li>
 </ol>
+</details>
+<details>
+<summary>
+<a href="#Section-15-foundry-account-abstraction">Section 15: Foundry Account Abstraction</a>
+</summary>
 </details>
 <details>
 <summary>
@@ -2428,19 +2427,7 @@ _[⌨️ (4:44:38) | Lens Protocol ](https://youtu.be/wUjYK5gwNZs?t=17078)_
 
 ## Section 13 NFTs (TBD)
 
-# Section 14: Account Abstraction
-
-💻 Code: [https://github.com/Cyfrin/minimal-account-abstraction](https://github.com/Cyfrin/minimal-account-abstraction)
-
-- What is account abstraction?
-- What is native account abstraction?
-- How does zkSync do account abstraction?
-- What is EIP-4337?
-- What are zkSync system contracts?
-
-## Section 14 NFTs (TBD)
-
-# Section 15: Foundry Upgrades
+# Section 14: Foundry Upgrades
 
 💻 Code: [https://github.com/Cyfrin/foundry-upgrades-cu](https://github.com/Cyfrin/foundry-upgrades-cu)
 
@@ -2509,12 +2496,24 @@ _[⌨️ (5:53:48) | Test/Demo ](https://youtu.be/wUjYK5gwNZs?t=21228)_
 
 _[⌨️ (5:59:40) | Testnet Demo ](https://youtu.be/wUjYK5gwNZs?t=21580)_
 
-## Section 15 NFTs
+## Section 14 NFTs
 
 - [zkSync](https://explorer.zksync.io/address/0xaf3697C1B7e686a7f83dcbb753AcbBA4c2A940aB#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0xaFa4150818b7843345A5E54E430Bd0cAE31B5c0C#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
+
+# Section 15: Foundry Account Abstraction
+
+💻 Code: [https://github.com/Cyfrin/minimal-account-abstraction](https://github.com/Cyfrin/minimal-account-abstraction)
+
+- What is account abstraction?
+- What is native account abstraction?
+- How does zkSync do account abstraction?
+- What is EIP-4337?
+- What are zkSync system contracts?
+
+## Section 15 NFTs (TBD)
 
 # Section 16: Foundry DAO / Governance
 
