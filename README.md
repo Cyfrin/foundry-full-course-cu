@@ -502,7 +502,13 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#section-15-foundry-upgrades">Section 14: Foundry Upgrades</a>
+<a href="#Section-14-Account-Abstraction">Section 14: Account Abstraction</a>
+</summary>
+</details>
+
+<details>
+<summary>
+<a href="#section-15-foundry-upgrades">Section 15: Foundry Upgrades</a>
 </summary>
 <ol>
     <li><a href="#introduction-9">Introduction</a></li>
@@ -524,7 +530,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#section-16-foundry-dao--governance">Section 15: Foundry DAO / Governance</a>
+<a href="#section-16-foundry-dao--governance">Section 16: Foundry DAO / Governance</a>
 </summary>
   <ol>
     <li><a href="#introduction-10">Introduction</a></li>
@@ -543,7 +549,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#Section-17-Smart-Contract-Security--Auditing-For-developers">Section 15: Smart Contract Security & Auditing (For developers)</a>
+<a href="#Section-17-Smart-Contract-Security--Auditing-For-developers">Section 17: Smart Contract Security & Auditing (For developers)</a>
 </summary>
   <ol>
     <li><a href="#introduction-11">Introduction</a></li>
