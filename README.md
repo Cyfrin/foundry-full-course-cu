@@ -2378,7 +2378,10 @@ _[⌨️ (4:44:38) | Lens Protocol ](https://youtu.be/wUjYK5gwNZs?t=17078)_
 - Introduction to Merkle Airdrops and Code Walkthrough
 - Project Setup
 - Merkle Proofs
-- Base Airdrop Contract
+## Base Airdrop Contract
+
+- Second preimage attack articles [[1](https://flawed.net.nz/2018/02/21/attacking-merkle-trees-with-a-second-preimage-attack/), [2](https://www.rareskills.io/post/merkle-tree-second-preimage-attack)]
+
 - Already Claimed Check
 - Merkle Tree Scripts
 - Writing the Tests
