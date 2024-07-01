@@ -469,7 +469,7 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#Section-13-merkle-airdrop-signatures">Section 13: Foundry Merkle Airdrop and Signatures</a>
+<a href="#Section-13-merkle-airdrop-and-signatures">Section 13: Foundry Merkle Airdrop and Signatures</a>
 </summary>
 <ol>
     <li><a href="#introduction-to-merkle-airdrops-and-code-walkthrough">Introduction to Merkle Airdrops and Code Walkthrough</a></li>
@@ -2370,7 +2370,7 @@ _[⌨️ (4:44:38) | Lens Protocol ](https://youtu.be/wUjYK5gwNZs?t=17078)_
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Section 13: Foundry Merkle Airdrop & Signatures
+# Section 13: Foundry Merkle Airdrop and Signatures
 
 💻 Code: [https://github.com/Cyfrin/foundry-merkle-airdrop-cu](https://github.com/Cyfrin/foundry-merkle-airdrop-cu)
 
