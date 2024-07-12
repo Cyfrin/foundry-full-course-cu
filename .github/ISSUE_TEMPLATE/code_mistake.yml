@@ -10,31 +10,34 @@ body:
         Thanks for taking the time to report this bug!
   - type: dropdown
     attributes:
-      label: Lesson
-      description: Which lesson is this an issue for?
+      label: Section
+      description: Which Section is this an issue for?
       multiple: false
       options:
-        - Lesson 1
-        - Lesson 2
-        - Lesson 3
-        - Lesson 4
-        - Lesson 5
-        - Lesson 6
-        - Lesson 7
-        - Lesson 8
-        - Lesson 9
-        - Lesson 10
-        - Lesson 11
-        - Lesson 12
-        - Lesson 13
-        - Lesson 14
+        - Section 1 | Blockchain Basics
+        - Section 2 | Simple Storage
+        - Section 3 | Storage Factory
+        - Section 4 | Fund Me
+        - Section 5 | AI Prompting
+        - Section 6 | Foundry Simple Storage
+        - Section 7 | Foundry Fund Me
+        - Section 8 | HTML/JS
+        - Section 9 | Smart Contract Lottery
+        - Section 10 | ERC20s
+        - Section 11 | NFTs
+        - Section 12 | Stablecoin
+        - Section 13 | Merkle Tress
+        - Section 14 | Upgrades
+        - Section 15 | Account Abstraction
+        - Section 16 | DAOs
+        - Section 17 | Security Introduction
         - Other (please describe)
     validations:
       required: true
   - type: input
     attributes:
-      label: Could you please leave a link to the timestamp in the video where this error occurs? (You can right click a video and "copy video URL at current time")
-      placeholder: "https://www.youtube.com/watch?v=M576WGiDBdQ&t=21247s"
+      label: Could you please leave a link to the Cyfrin Updraft Lesson (or YouTube video timestamp) where this error occurs? (You can right click a video and "copy video URL at current time")
+      placeholder: "https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/introduction-foundry-simple-storage?lesson_format=video"
   - type: dropdown
     attributes:
       label: Operating System
