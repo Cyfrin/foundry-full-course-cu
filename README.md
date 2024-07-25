@@ -1143,6 +1143,8 @@ _[⌨️ Section 3 Recap](https://updraft.cyfrin.io/courses/solidity/fund-me/rec
 
 DO NOT SKIP THIS!!
 
+# Solidity 101 Section 4: AI Prompting
+
 _[⭐️ Section 4 | AI Prompting](https://updraft.cyfrin.io/courses/solidity/ai-prompting/ai-and-forums)_
 
 ## Intro
