@@ -51,7 +51,7 @@ Please refer to this for an in-depth explanation of the content:
 <br/>
 
 <p align="center">
-<a href="https://youtu.be/WIsXSwo4iDc?si=PkLPgHmsmlHE07wF" target="_blank">
+<a href="https://updraft.cyfrin.io/courses/blockchain-basics" target="_blank">
         <img src="./thumbnails/2024-update.png" width="750" alt="Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI 1">
       </a>
 </p>
