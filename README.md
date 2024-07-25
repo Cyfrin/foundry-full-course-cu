@@ -1132,7 +1132,7 @@ _[⌨️ Receive & Fallback Functions](https://updraft.cyfrin.io/courses/solidit
 
 _[⌨️ Section 3 Recap](https://updraft.cyfrin.io/courses/solidity/fund-me/recap-congratulations-fundme)_
 
-## Course Section 3 NFTs
+## Section 3 NFTs
 
 - [zkSync](https://explorer.zksync.io/address/0x598c64586d890222c085eCb3a01Db36237D6ccE4)
 - [Sepolia](https://sepolia.etherscan.io/address/0x1b30DA2a868704483143A4D46865Ac9585629fd0#code)
