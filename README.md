@@ -51,7 +51,7 @@ Please refer to this for an in-depth explanation of the content:
 <br/>
 
 <p align="center">
-<a href="https://updraft.cyfrin.io/courses/blockchain-basics" target="_blank">
+<a href="https://youtu.be/WIsXSwo4iDc?si=p5SJvcSNYyvMJeAL" target="_blank">
         <img src="./thumbnails/2024-update.png" width="750" alt="Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI">
       </a>
 </p>
@@ -92,7 +92,7 @@ Cyfrin Updraft Courses:
 </ol>
 </details>
 <details>
-<summary> <a href="#welcome-to-the-the-course-repo">Section 0: Welcome to the Course!</a></summary>
+<summary> <a href="#welcome-to-the-course-repo">Welcome to the Course Repo!</a></summary>
 <ol>
   <li>
   <a href="#welcome-to-the-course">Welcome to the course! </a>
@@ -104,7 +104,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#section-1-blockchain-basics">Section 1: Blockchain Basics</a>
+<a href="#blockchain-basics-section-1-what-is-a-blockchain-what-does-a-blockchain-do">Course: Blockchain Basics Section 1</a>
 </summary>
 <ol>
     <li><a href="#what-is-a-blockchain-what-does-a-blockchain-do">What is a Blockchain? What does a blockchain do?</a></li>
@@ -127,7 +127,7 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#section-2-welcome-to-remix---remix-simple-storage">Section 2: Welcome to Remix - Remix Simple Storage</a>
+<a href="#solidity-101-section-1-simple-storage">Solidity 101 Section 1: Simple Storagee</a>
 </summary>
 <ol>
     <li><a href="#introduction">Introduction</a></li>
@@ -143,7 +143,7 @@ Cyfrin Updraft Courses:
 </ol>
 </details>
 <details>
-<summary><a href="#section-3-remix-storage-factory">Section 3: Remix Storage Factory</a></summary>
+<summary><a href="#solidity-101-section-2--remix-storage-factory">Solidity 101 Section 2: Remix Storage Factory</a></summary>
 <ol>
     <li><a href="#introduction-1">Introduction</a></li>
     <li><a href="#basic-solidity-importing-contracts-into-other-contracts">Basic Solidity: Importing Contracts into other Contracts</a></li>
@@ -154,7 +154,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#section-4-remix-fund-me">Section 4: Remix Fund Me</a>
+<a href="#solidity-101-section-3-remix-fund-me">Solidity 101 Section 3: Remix Fund Me</a>
 </summary>
   <ol>
     <li><a href="#introduction-2">Introduction</a></li>
@@ -190,7 +190,7 @@ Cyfrin Updraft Courses:
 </details>
 
 <details>
-<summary><a href="#section-5-ai-prompting-asking-questions-and-getting-help">Section 5: AI Prompting, Asking Questions, and Getting Help</a></summary>
+<summary><a href="#solidity-101-section-4-ai-prompting-asking-questions-and-getting-help">Solidity 101 Section 4: AI Prompting, Asking Questions, and Getting Help</a></summary>
 <ol>
     <li><a href="#intro">Intro</a></li>
     <li><a href="#7-tips-for-this-course">7 Tips for this Course</a></li>
@@ -201,7 +201,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#section-6-foundry-simple-storage">Section 6: Foundry Simple Storage</a>
+<a href="#foundry-fundamentals-section-1-foundry-simple-storage">Foundry Fundamentals Section 1: Foundry Simple Storage</a>
 </summary>
   <ol>
     <li><a href="#introduction-3">Introduction</a></li>
@@ -238,7 +238,7 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#section-7-foundry-fund-me">Section 7: Foundry Fund Me</a>
+<a href="#foundry-fundamentals-section-2-foundry-fund-me">Foundry Fundamentals Section 2: Foundry Fund Me</a>
 </summary>
 <ol>
     <li><a href="#introduction-4">Introduction</a></li>
@@ -268,7 +268,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#section-8-htmljs-fund-me-quick-fullstack--front-end-tutorial">Section 8: Html/Js Fund Me (Quick Fullstack / Front End Tutorial)</a>
+<a href="#foundry-fundamentals-section-3-htmljs-fund-me-quick-fullstack--front-end-tutorial">Foundry Fundamentals Section 3: Html/Js Fund Me (Quick Fullstack / Front End Tutorial)</a>
 </summary>
   <ol>
     <li><a href="#introduction-5">Introduction</a></li>
@@ -280,7 +280,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#section-9-foundry-smart-contract-lottery">Section 9: Foundry Smart Contract Lottery</a>
+<a href="#foundry-fundamentals-section-4-foundry-smart-contract-lottery">Foundry Fundamentals Section 4: Foundry Smart Contract Lottery</a>
 </summary>
 <ol>
     <li><a href="#introduction-6">Introduction</a></li>
@@ -346,7 +346,7 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#section-10-foundry-erc20s">Section 10: Foundry ERC20s</a>
+<a href="#advanced-foundry-section-1-foundry-erc20s">Advanced Foundry Section 1: Foundry ERC20s</a>
 </summary>
 <ol>
     <li><a href="#what-is-an-erc-what-is-an-eip">What is an ERC? What is an EIP?</a></li>
@@ -360,7 +360,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#section-11-foundry-nfts--moodnft">Section 11: Foundry NFTs | MoodNFT</a>
+<a href="#advanced-foundry-section-2-foundry-nfts--moodnft">Advanced Foundry Section 2: Foundry NFTs | MoodNFT</a>
 </summary>
   <ol>
     <li><a href="#introduction-7">Introduction</a></li>
@@ -396,7 +396,7 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#section-12-foundry-defi--stablecoin-the-pinnacle-project-get-here">Section 12: Foundry DeFi | Stablecoin (The PINNACLE PROJECT!! GET HERE!)</a>
+<a href="#advanced-foundry-section-3-foundry-defi--stablecoin-the-pinnacle-project-get-here">Advanced Foundry Section 3: Foundry DeFi | Stablecoin (The PINNACLE PROJECT!! GET HERE!)</a>
 </summary>
 <ol>
     <li><a href="#what-is-defi">What is DeFi?</a></li>
@@ -451,7 +451,7 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#section-13-foundry-merkle-airdrop-and-signatures">Section 13: Foundry Merkle Airdrop and Signatures</a>
+<a href="#advanced-foundry-section-4-foundry-merkle-airdrop-and-signatures">Advanced Foundry Section 4: Foundry Merkle Airdrop and Signatures</a>
 </summary>
 <ol>
     <li><a href="#introduction-to-merkle-airdrops-and-code-walkthrough">Introduction to Merkle Airdrops and Code Walkthrough</a></li>
@@ -484,7 +484,7 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#section-14-foundry-upgrades">Section 14: Foundry Upgrades</a>
+<a href="#advanced-foundry-section-5-foundry-upgrades">Advanced Foundry Section 5: Foundry Upgrades</a>
 </summary>
 <ol>
     <li><a href="#introduction-9">Introduction</a></li>
@@ -506,12 +506,12 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#Section-15-foundry-account-abstraction">Section 15: Foundry Account Abstraction</a>
+<a href="#advanced-foundry-section-6-foundry-account-abstraction">Advanced Foundry Section 6: Foundry Account Abstraction</a>
 </summary>
 </details>
 <details>
 <summary>
-<a href="#section-16-foundry-dao--governance">Section 16: Foundry DAO / Governance</a>
+<a href="#advanced-foundry-section-7-foundry-dao--governance">Advanced Foundry Section 7: Foundry DAO / Governance</a>
 </summary>
   <ol>
     <li><a href="#introduction-10">Introduction</a></li>
@@ -530,7 +530,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#Section-17-Smart-Contract-Security--Auditing-For-developers">Section 17: Smart Contract Security & Auditing (For developers)</a>
+<a href="#advanced-foundry-section-8-smart-contract-security--auditing-for-developers">Advanced Foundry Section 8: Smart Contract Security & Auditing (For developers)</a>
 </summary>
   <ol>
     <li><a href="#introduction-11">Introduction</a></li>
@@ -644,10 +644,9 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 
 # Welcome to the Course Repo
 
-## Welcome to the Course!
+## Welcome to Ultimate Smart Contract Development Course!
 
 <!-- _[ (0:00:00) | Section 0: Welcome!](https://www.youtube.com/watch?v=umepbfKp5rI&t=0s)_ -->
-
 
 
 ## Best Practices
@@ -668,7 +667,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 
 [⭐️ Blockchain Basics Course](https://updraft.cyfrin.io/courses/blockchain-basics)
 
-## What is a Blockchain? What does a blockchain do?
+# Blockchain Basics Section 1: What is a Blockchain? What does a blockchain do?
 
 _[⌨️  What is a Blockchain?](https://updraft.cyfrin.io/courses/blockchain-basics/basics/what-is-a-blockchain)_
 
@@ -796,7 +795,7 @@ _[⌨️ High-Level Blockchain Fundamentals](https://updraft.cyfrin.io/courses/b
 
 - [zkSync](https://zksync.io/)
 
-## Section 1 NFTs
+## Blockchain Basics Section 1 NFTs
 
 - [zkSync](https://explorer.zksync.io/address/0xfa257F68Ca436F6e00299917837D7712Fa5bdf75)
 - [Sepolia](https://sepolia.etherscan.io/address/0x25056312685339b49e1d1C5a0b72Ff9eff13AF77)
@@ -809,7 +808,7 @@ _[⌨️ High-Level Blockchain Fundamentals](https://updraft.cyfrin.io/courses/b
 
 💻 Code: [https://github.com/cyfrin/remix-simple-storage-cu](https://github.com/cyfrin/remix-simple-storage-cu)
 
-## Solidity 101 Section 1: Simple Storage
+# Solidity 101 Section 1: Simple Storage
 ## Introduction
 
 _[⭐️ Welcome to Remix - Simple Storage](https://updraft.cyfrin.io/courses/solidity/simple-storage/welcome-to-solidity-fundamentals?lesson_format=video)_
@@ -911,14 +910,14 @@ _[⌨️ The EVM & A Recap of Section 2](https://updraft.cyfrin.io/courses/solid
 
 - The EVM
 
-## Course Section 1 NFTs
+## Solidity 101 Section 1 NFTs
 
 - [zkSync](https://explorer.zksync.io/address/0x5f9f9f46ECb48D625e320888922Bf86555608E9C)
 - [Sepolia](https://sepolia.etherscan.io/address/0x5c1ddb86F11BB46D3067C702AC554aEaED9ff8f0#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Course Section 2 | Remix Storage Factory
+# Solidity 101 Section 2 | Remix Storage Factory
 
 💻 Code: [https://github.com/cyfrin/remix-storage-factory-cu](https://github.com/cyfrin/remix-storage-factory-cu)
 
@@ -954,7 +953,7 @@ _[⌨️ Inheritance & Overrides](https://updraft.cyfrin.io/courses/solidity/sto
 
 _[⌨️ Section 2 Recap](https://updraft.cyfrin.io/courses/solidity/storage-factory/summary-and-recap)_
 
-## Section 2 NFTs
+## Solidity 101 Section 2 NFTs
 
 - [zkSync](https://explorer.zksync.io/address/0x1D5c2Eb5F17Fa0BA4E3DfDDBF59DC0e6316219Ff)
 - [Sepolia](https://sepolia.etherscan.io/address/0x4A62A8901e6113dEF0AEeEC77E531779cd40da73#code)
@@ -1132,18 +1131,16 @@ _[⌨️ Receive & Fallback Functions](https://updraft.cyfrin.io/courses/solidit
 
 _[⌨️ Section 3 Recap](https://updraft.cyfrin.io/courses/solidity/fund-me/recap-congratulations-fundme)_
 
-## Section 3 NFTs
+## Solidity 101 Section 3 NFTs
 
 - [zkSync](https://explorer.zksync.io/address/0x598c64586d890222c085eCb3a01Db36237D6ccE4)
 - [Sepolia](https://sepolia.etherscan.io/address/0x1b30DA2a868704483143A4D46865Ac9585629fd0#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Section 4: AI Prompting, Asking Questions, and Getting Help
+# Solidity 101 Section 4: AI Prompting, Asking Questions, and Getting Help
 
 DO NOT SKIP THIS!!
-
-# Solidity 101 Section 4: AI Prompting
 
 _[⭐️ Section 4 | AI Prompting](https://updraft.cyfrin.io/courses/solidity/ai-prompting/ai-and-forums)_
 
@@ -1173,7 +1170,7 @@ _[⌨️ SpeedRunEthereum](https://updraft.cyfrin.io/courses/solidity/ai-prompti
 
 - Special Guest [Austin](https://twitter.com/austingriffith)
 
-## Section 4 NFTs
+## Solidity 101 Section 4 NFTs
 
 - [zkSync](https://explorer.zksync.io/address/0x687C1d191ccD64777dF009942A148fBF7F52F006#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0x4b3a7F293091708dDD6B8748179aeAF80E9c1bA2#code)
@@ -1182,7 +1179,7 @@ _[⌨️ SpeedRunEthereum](https://updraft.cyfrin.io/courses/solidity/ai-prompti
 
 # Course: Foundry Fundamentals
 
-## Foundry Simple Storage
+# Foundry Fundamentals Section 1: Foundry Simple Storage
 
 💻 Code: [https://github.com/Cyfrin/foundry-simple-storage-cu](https://github.com/Cyfrin/foundry-simple-storage-cu)
 
@@ -1406,7 +1403,7 @@ _[⌨️ Alchemy and the mempool ](https://updraft.cyfrin.io/courses/foundry/fou
 
 _[⌨️ Summary ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/summary-congratulations?lesson_format=video)_
 
-## Section 6 NFTs
+## Foundry Fundamentals Section 1 NFTs
 
 - [zkSync](https://explorer.zksync.io/address/0xbe19357f00B8A80154bB927a95d82888Ee70F6F8#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0x6c4791c3a9E9Bc5449045872Bd1b602d6385E3E1#code)
@@ -1414,7 +1411,7 @@ _[⌨️ Summary ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-stor
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 
-# Section 2: Foundry Fund Me
+## Foundry Fundamentals Section 2: Foundry Fund Me
 
 _[⭐️ Foundry Fund Me](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/introduction)_
 
@@ -1631,14 +1628,14 @@ _[⌨️ (2:34:56) | Tweet Me (add your repo in)! ](https://youtu.be/sas02qSFZ74
 
 _[⌨️ Section 2: Recap ](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/section-recap)_
 
-## Course Section 2 NFTs
+## Foundry Fundamentals Section 2 NFTs
 
 - [zkSync](https://explorer.zksync.io/address/0xDBb7cFfb41261D9a445b09E7c5dF28De18254D5B#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0xD7D127991c6A89Df752FC3daeC17540aE8B86101#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Section 3: Html/Js Fund Me (Quick Fullstack / Front End Tutorial)
+# Foundry Fundamentals Section 3: Html/Js Fund Me (Quick Fullstack / Front End Tutorial)
 
 _[⭐️ Section 3: HTML Fund Me](ht)_
 
@@ -1675,13 +1672,13 @@ _[⌨️ Recap ]()_
 
 - [More in-depth Javascript & Full Stack introduction video](https://www.youtube.com/watch?v=pdsYCkUWrgQ)
 
-## Course Section 4 NFTs
+## Foundry Fundamentals Section 3 NFTs
 
 - **IPFS hash for website** - ipfs://QmdCBj5B188qzXgG1LUCD6aKe6RJHqbSgu7YfPyncDirzh
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Section 4: Foundry Smart Contract Lottery
+# Foundry Fundamentals Section 4: Foundry Smart Contract Lottery
 
 _[⭐️ Section 4: Smart Contract Lottery](https://updraft.cyfrin.io/courses/foundry/smart-contract-lottery/introduction?lesson_format=video)_
 
@@ -1941,7 +1938,7 @@ _[⌨️ Recap ](https://updraft.cyfrin.io/courses/foundry/smart-contract-lotter
 - Chainlink VRF: 2 LINK
 - Chainlink Keepers: 8 LINK
 
-## Course Section 4 NFTs
+## Foundry Fundamentals Section 4 NFTs
 
 - [zkSync](https://explorer.zksync.io/address/0xEFA0f9Ca73f5C2f4b735eEDf63d49B1680054158#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0x33e1fD270599188BB1489a169dF1f0be08b83509#code)
@@ -1958,7 +1955,7 @@ _[⌨️ Recap ](https://updraft.cyfrin.io/courses/foundry/smart-contract-lotter
 
 # Course: Advanced Foundry
 
-# Section 1: Foundry ERC20s
+# Advanced Foundry Section 1: Foundry ERC20s
 
 _[⭐️ Section 1: ERC20s](https://updraft.cyfrin.io/courses/advanced-foundry)_
 
@@ -2005,14 +2002,14 @@ _[⌨️ AI Tests ](https://updraft.cyfrin.io/courses/advanced-foundry/How-to-cr
 
 
 
-## Course Section 1 NFTs
+## Advanced Foundry Section 1 NFTs
 
 - [zkSync](https://explorer.zksync.io/address/0x475d9da05E73e283EB5B490c89cfDf36B0Bca5fc)
 - [Sepolia](https://sepolia.etherscan.io/address/0xE0aE410a16776BCcb04A8d4B0151Bb3F25035994#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Section 2: Foundry NFTs | MoodNFT
+# Advanced Foundry Section 2: Foundry NFTs | MoodNFT
 
 _[⭐️ Section 2: NFTs](https://updraft.cyfrin.io/courses/advanced-foundry/how-to-create-an-NFT-collection/introduction-to-nfts)_
 
@@ -2164,7 +2161,7 @@ _[⌨️ (10:36:31) | Section 2 Recap ](https://updraft.cyfrin.io/courses/advanc
 
 - [ENS](https://ens.domains/)
 
-## Course Section 2 NFTs
+## Advanced Foundry Section 2 NFTs
 
 - [zkSync](https://explorer.zksync.io/address/0x9085b18f712A7F26DC2f4C2F485ffCd1D0a10433#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0x93c7A945af9c453a8c932bf47683B5eB8C2F8792#code)
@@ -2175,7 +2172,7 @@ _[⌨️ (10:36:31) | Section 2 Recap ](https://updraft.cyfrin.io/courses/advanc
 
 
 
-# Section 3: Foundry DeFi | Stablecoin (The PINNACLE PROJECT!! GET HERE!)
+# Advanced Foundry Section 3: Foundry DeFi | Stablecoin (The PINNACLE PROJECT!! GET HERE!)
 
 💻 Code: [https://github.com/Cyfrin/foundry-defi-stablecoin-cu](https://github.com/Cyfrin/foundry-defi-stablecoin-cu)
 
@@ -2354,14 +2351,14 @@ _[⌨️ Lens Protocol ](https://updraft.cyfrin.io/courses/advanced-foundry/deve
 - [Defi-Minimal](https://github.com/smartcontractkit/defi-minimal/tree/main/contracts)
 - [Defi Dad](https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg)
 
-## Course Section 3 NFTs
+## Advanced Foundry Section 3 NFTs
 
 - [zkSync](https://explorer.zksync.io/address/0xC4C177DEa09d046D68b0Ad2E0d8003090f0FD832#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0xe5760847db2f10A74Fc575B4803df5fe129811C1#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Section 4: Foundry Merkle Airdrop and Signatures
+# Advanced Foundry Section 4: Foundry Merkle Airdrop and Signatures
 
 💻 Code: [https://github.com/Cyfrin/foundry-merkle-airdrop-cu](https://github.com/Cyfrin/foundry-merkle-airdrop-cu)
 
@@ -2454,9 +2451,9 @@ _[⌨️ Blob Transactions](https://updraft.cyfrin.io/courses/advanced-foundry/m
 - Deploy and Claim on zkSync Sepolia
 - Summary
 
-## Course Section 4 NFTs (TBD)
+## Advanced Foundry Section 4 NFTs (TBD)
 
-# Section 5: Foundry Upgrades
+# Advanced Foundry Section 5: Foundry Upgrades
 
 💻 Code: [https://github.com/Cyfrin/foundry-upgrades-cu](https://github.com/Cyfrin/foundry-upgrades-cu)
 
@@ -2522,14 +2519,14 @@ _[⌨️ (5:53:48) | Test/Demo ](https://youtu.be/wUjYK5gwNZs?t=21228)_
 
 _[⌨️ Testnet Demo ](https://updraft.cyfrin.io/courses/advanced-foundry/upgradeable-smart-contracts/testnet-demos)_
 
-## Course Section 5 NFTs
+## Advanced Foundry Section 5 NFTs
 
 - [zkSync](https://explorer.zksync.io/address/0xaf3697C1B7e686a7f83dcbb753AcbBA4c2A940aB#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0xaFa4150818b7843345A5E54E430Bd0cAE31B5c0C#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Section 6: Foundry Account Abstraction
+# Advanced Foundry Section 6: Foundry Account Abstraction
 
 💻 Code: [https://github.com/Cyfrin/minimal-account-abstraction](https://github.com/Cyfrin/minimal-account-abstraction)
 
@@ -2674,9 +2671,9 @@ _[⌨️ Testnet Demo](https://updraft.cyfrin.io/courses/advanced-foundry/accoun
 
 _[⌨️ Recap End](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/recap-end)_
 
-## Section 6 NFTs (TBD)
+## Advanced Foundry Section 6 NFTs (TBD)
 
-# Section 7: Foundry DAO / Governance
+# Advanced Foundry Section 7: Foundry DAO / Governance
 
 Plutocracy is bad! Don't default to ERC20 token voting!!
 
@@ -2694,7 +2691,7 @@ _[⭐️ Section 14 | DAOs & Governance](https://updraft.cyfrin.io/courses/advan
 - [What is a DAO?](https://www.youtube.com/watch?v=X_QKZzd68ro)
 - Special Guest [Juliette](https://twitter.com/_juliettech)
 
-# How to build a DAO
+## How to build a DAO
 
 ## DAOs toolings - Introduction to Aragon
 
@@ -2737,14 +2734,14 @@ _[⌨️ Section Recap](https://updraft.cyfrin.io/courses/advanced-foundry/daos/
 
 - Special Guest [Harrison](https://twitter.com/PopPunkOnChain)
 
-## Section 16 NFTs
+## Advanced Foundry Section 7 NFTs
 
 - [zkSync](https://explorer.zksync.io/address/0xC63704f836505F6967d8e6Ee8A1678B57f7b5Ec9)
 - [Sepolia](https://sepolia.etherscan.io/address/0x46F3fE2C8aC9e9AE4DEDE1a7a29Ab3BdcFa7eaFc#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Section 8: Smart Contract Security & Auditing (For developers)
+# Advanced Foundry Section 8: Smart Contract Security & Auditing (For developers)
 
 Developers 100% should know all about this! Don't leave the course without at least watching this section!
 
@@ -2836,7 +2833,7 @@ _[⌨️ Wrap. Up](https://updraft.cyfrin.io/courses/advanced-foundry/security/c
   - [Trust](https://www.trust-security.xyz/)
   - [More](https://patrickalphac.medium.com/top-7-smart-contract-auditors-bec7bd70dd9f)
 
-## Course Section 6 NFTs
+## Advanced Foundry Section 8 NFTs
 
 - [zkSync](https://explorer.zksync.io/address/0xb54B64B3BB587b39F189797c68A6bd183fFB4379#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0x766a74f8924C7B07df088fDB0F7D7DbaDd330Fb3#code)
