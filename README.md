@@ -961,7 +961,7 @@ _[⌨️ Section 2 Recap](https://updraft.cyfrin.io/courses/solidity/storage-fac
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Section 3: Remix Fund Me
+# Solidity 101 Section 3: Remix Fund Me
 
 💻 Code: [https://github.com/Cyfrin/remix-fund-me-cu](https://github.com/Cyfrin/remix-fund-me-cu)
 
