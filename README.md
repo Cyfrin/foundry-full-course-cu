@@ -52,7 +52,7 @@ Please refer to this for an in-depth explanation of the content:
 
 <p align="center">
 <a href="https://updraft.cyfrin.io/courses/blockchain-basics" target="_blank">
-        <img src="./thumbnails/2024-update.png" width="750" alt="Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI 1">
+        <img src="./thumbnails/2024-update.png" width="750" alt="Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI">
       </a>
 </p>
 
