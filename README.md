@@ -66,7 +66,7 @@ Cyfrin Updraft Courses:
 - [Cyfrin Updraft - Foundry Fundamentals](https://updraft.cyfrin.io/courses/foundry)
 - [Cyfrin Updraft - Advanced Foundry](https://updraft.cyfrin.io/courses/advanced-foundry)
 
-[YouTube Link](https://youtu.be/WIsXSwo4iDc?si=PkLPgHmsmlHE07wF)
+[YouTube Link](https://www.youtube.com/watch?v=-1GB6m39-rM)
 
 # Table of Contents
 
