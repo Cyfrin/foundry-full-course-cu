@@ -954,7 +954,7 @@ _[⌨️ Inheritance & Overrides](https://updraft.cyfrin.io/courses/solidity/sto
 
 _[⌨️ Section 2 Recap](https://updraft.cyfrin.io/courses/solidity/storage-factory/summary-and-recap)_
 
-## Course Section 2 NFTs
+## Section 2 NFTs
 
 - [zkSync](https://explorer.zksync.io/address/0x1D5c2Eb5F17Fa0BA4E3DfDDBF59DC0e6316219Ff)
 - [Sepolia](https://sepolia.etherscan.io/address/0x4A62A8901e6113dEF0AEeEC77E531779cd40da73#code)
