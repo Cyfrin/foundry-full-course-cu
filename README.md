@@ -809,7 +809,7 @@ _[⌨️ High-Level Blockchain Fundamentals](https://updraft.cyfrin.io/courses/b
 
 💻 Code: [https://github.com/cyfrin/remix-simple-storage-cu](https://github.com/cyfrin/remix-simple-storage-cu)
 
-
+## Solidity 101 Section 1: Simple Storage
 ## Introduction
 
 _[⭐️ Welcome to Remix - Simple Storage](https://updraft.cyfrin.io/courses/solidity/simple-storage/welcome-to-solidity-fundamentals?lesson_format=video)_
