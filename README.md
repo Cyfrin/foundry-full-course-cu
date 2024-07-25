@@ -1173,7 +1173,7 @@ _[⌨️ SpeedRunEthereum](https://updraft.cyfrin.io/courses/solidity/ai-prompti
 
 - Special Guest [Austin](https://twitter.com/austingriffith)
 
-## Course Section 4 NFTs
+## Section 4 NFTs
 
 - [zkSync](https://explorer.zksync.io/address/0x687C1d191ccD64777dF009942A148fBF7F52F006#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0x4b3a7F293091708dDD6B8748179aeAF80E9c1bA2#code)
