@@ -51,7 +51,7 @@ Please refer to this for an in-depth explanation of the content:
 <br/>
 
 <p align="center">
-<a href="https://youtu.be/WIsXSwo4iDc?si=p5SJvcSNYyvMJeAL" target="_blank">
+<a href="https://youtu.be/-1GB6m39-rM?si=rImbgmtZZ0M1HA-0" target="_blank">
         <img src="./thumbnails/2024-update.png" width="750" alt="Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI">
       </a>
 </p>
