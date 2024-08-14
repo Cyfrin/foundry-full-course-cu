@@ -127,7 +127,7 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#solidity-101-section-1-simple-storage">Solidity 101 Section 1: Simple Storagee</a>
+<a href="#solidity-101-section-1-simple-storage">Solidity 101 Section 1: Simple Storage</a>
 </summary>
 <ol>
     <li><a href="#introduction">Introduction</a></li>
