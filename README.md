@@ -1361,7 +1361,7 @@ ANYWHERE written in plain text
 
 ## Deploying to a testnet or a mainnet
 
-_[⌨️ Deploying to a testnet Spolia ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/deploying-smart-contract-testnet-sepolia)_
+_[⌨️ Deploying to a testnet Sepolia ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/deploying-smart-contract-testnet-sepolia)_
 
 - [Alchemy](https://alchemy.com/?a=673c802981)
 - Other node as a service:
