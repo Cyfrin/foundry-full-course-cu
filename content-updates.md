@@ -14,14 +14,14 @@ So, you've crushed Patrick's course, huh? 🎉 And now you're like, "Cool, but n
 
 
 
-### Solving common problems and erorrs most students face
+### Solving common problems and errors most students face
 Outdated packages and confusing commands got you stuck? We tackle the most common issues students face during the course and also fix some issues on our end. Get the lowdown on how to navigate through those roadblocks. 🛠️✌️
 
 [![Chronological Updates](https://img.youtube.com/vi/G_evB-LLkRU/0.jpg)](https://www.youtube.com/watch?v=G_evB-LLkRU)
 
 ## 🕒 Upcoming Content
 
-✅ Solving common problems and erorrs most students face, like outdated packages, libraries and commands that work differently now, etc. This will be a video series that will be released in the coming weeks.
+✅ Solving common problems and errors most students face, like outdated packages, libraries and commands that work differently now, etc. This will be a video series that will be released in the coming weeks.
 
 1️⃣ "Building a Charismatic Web3 Resume" 📝
 

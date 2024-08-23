@@ -1252,7 +1252,7 @@ _[⌨️ Foundry Setup II (WSL)](https://updraft.cyfrin.io/courses/foundry/found
 
 _[⌨️ Formatting Solidity in VSCode ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/vscode-solidity-setup)_
 
-- Format your solidity code with in your `settings.json`
+- Format your solidity code within your `settings.json`
 
 ```json
     "[solidity]": {
