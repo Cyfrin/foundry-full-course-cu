@@ -19,7 +19,7 @@ For those who prefer the video format here we have a video with a recopilation o
 
 ## Lesson 4 Challenge
 
-We are not going to spoil you the solution of most the challenges but when is our fault we have to aknowledge it. In this challenge we made a little mistake on the smart contract, in line 40 there is a typo stating `10e10` instead of `1e10` which is the correct value. This is the reason why the challenge is not working as expected.
+We are not going to spoil you the solution of most the challenges but when is our fault we have to acknowledge it. In this challenge we made a little mistake on the smart contract, in line 40 there is a typo stating `10e10` instead of `1e10` which is the correct value. This is the reason why the challenge is not working as expected.
 
 ```solidity
 function solveChallenge(uint256 priceGuess, string memory yourTwitterHandle) external {
