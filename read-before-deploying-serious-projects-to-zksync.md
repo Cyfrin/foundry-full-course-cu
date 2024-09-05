@@ -56,7 +56,7 @@ Many hardhat libraries are hard-pegged to specific versions of openzeppelin libr
 - [ ] The plugin fails to:
   - [ ] Verify certain contracts (likely same issues as above)
   - [ ] Verify contracts with libraries
-  - [ ] Auto detech the correct solidity and zkSolc version (like the solidity compiler does)
+  - [ ] Auto detect the correct solidity and zkSolc version (like the solidity compiler does)
 
 GitHub Issues:
 - https://github.com/NethermindEth/zksync-remix-plugin/issues/110
