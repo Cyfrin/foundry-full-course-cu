@@ -70,7 +70,7 @@ Cyfrin Updraft Courses:
 
 # Table of Contents
 
-> All the sections for on this repo are for several courses on the Solidity Developer Career path of Cyfrin Updraft.
+> All the sections on this repo are for several courses on the Solidity Developer Career path of Cyfrin Updraft.
 
 <details>
 <summary>Resources</summary>

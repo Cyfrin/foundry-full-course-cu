@@ -4,7 +4,7 @@
 
 Also note, take this pledge: "I solemnly swear that after asking a question I will spend at least 5 minutes trying to answer someone else's question. I will consult the 'How to answer a question' page before I do so. "
 
-The internet is our documentation, and we want to treat is as such. **Every** *specific* question we have *should* be able to be found by typing it into a web search bar. 
+The internet is our documentation, and we want to treat it as such. **Every** *specific* question we have *should* be able to be found by typing it into a web search bar. 
 
 Now, there are no "bad" questions, but there are poorly-formatted questions. A poorly formatted question has a low chance of being answered, poor chance of being discovered, and can "clutter up" forums and discussion boards. So let's make sure we strive for well-formatted questions!
 
