@@ -85,8 +85,8 @@ Cyfrin Updraft Courses:
 <li><a href="#resources-for-this-course">Resources For This Course</a></li>
 <li><a href="#bonus-nfts">Bonus NFTs</a>
   <ul>
-    <li><a href="#important-notes-for-zksync">Important Notes for zkSync</a></li>
-    <li><a href="#bridging-to-zksync">Bridging to zkSync</a></li>
+    <li><a href="#important-notes-for-zksync">Important Notes for ZKsync</a></li>
+    <li><a href="#bridging-to-zksync">Bridging to ZKsync</a></li>
   </ul>
 </li>
 </ol>
@@ -120,8 +120,8 @@ Cyfrin Updraft Courses:
     <li><a href="#high-level-blockchain-fundamentals">High-Level Blockchain Fundamentals</a></li>
     <li><a href="#l1s-l2s-and-rollups">L1s L2s and Rollups</a></li>
     <li><a href="#rollup-stages">Rollup Stages</a></li>
-    <li><a href="#making-your-first-transaction-on-zksync">Making your First Transaction on zkSync</a></li>
-    <li><a href="#why-zksync-is-our-recommended-chain">Why zkSync is our Recommended Chain</a></li>
+    <li><a href="#making-your-first-transaction-on-zksync">Making your First Transaction on ZKsync</a></li>
+    <li><a href="#why-zksync-is-our-recommended-chain">Why ZKsync is our Recommended Chain</a></li>
 </ol>
 </details>
 
@@ -471,13 +471,13 @@ Cyfrin Updraft Courses:
     <li><a href="#type-113-transactions">Type 113 Transactions</a></li>
     <li><a href="#implementing-signatures">Implementing Signatures</a></li>
     <li><a href="#modifying-the-tests">Modifying the Tests</a></li>
-    <li><a href="#test-on-zksync-optional">Test on zkSync (optional)</a></li>
+    <li><a href="#test-on-zksync-optional">Test on ZKsync (optional)</a></li>
     <li><a href="#create-claiming-script">Create Claiming Script</a></li>
     <li><a href="#creating-a-signature">Creating a Signature</a></li>
     <li><a href="#splitting-a-signature">Splitting a Signature</a></li>
     <li><a href="#executing-the-anvil-script">Executing the Anvil Script</a></li>
-    <li><a href="#Deploy-and-Claim-on-zkSync-Local-Node">Deploy and Claim on zkSync Local Node</a></li>
-    <li><a href="#deploy-and-claim-on-zksync-sepolia">Deploy and Claim on zkSync Sepolia</a></li>
+    <li><a href="#Deploy-and-Claim-on-ZKsync-Local-Node">Deploy and Claim on ZKsync Local Node</a></li>
+    <li><a href="#deploy-and-claim-on-zksync-sepolia">Deploy and Claim on ZKsync Sepolia</a></li>
     <li><a href="#summary-1">Summary</a></li>
 </ol>
 </details>
@@ -581,8 +581,8 @@ Cyfrin Updraft Courses:
 - Main (Sepolia): <a href="https://cloud.google.com/application/web3/faucet/ethereum/sepolia" target="_blank"> Sepolia GCP Faucet </a>
 - Alchemy Faucet (Sepolia):<a href="https://sepoliafaucet.com/" target="_blank"> https://sepoliafaucet.com/</a>
 - Infura Faucet (Sepolia):<a href="https://www.infura.io/faucet/sepolia" target="_blank" > https://www.infura.io/faucet/sepolia</a>
-- zkSync Faucets (zkSync Sepolia):<a href="https://docs.zksync.io/build/tooling/network-faucets.html" target="_blank"> https://docs.zksync.io/build/tooling/network-faucets.html</a>
-- zkSync Bridge:<a href="https://portal.zksync.io/bridge/" target="_blank"> https://portal.zksync.io/bridge/</a>
+- ZKsync Faucets (ZKsync Sepolia):<a href="https://docs.zksync.io/build/tooling/network-faucets.html" target="_blank"> https://docs.zksync.io/build/tooling/network-faucets.html</a>
+- ZKsync Bridge:<a href="https://portal.zksync.io/bridge/" target="_blank"> https://portal.zksync.io/bridge/</a>
 
 > ⚠️ All code associated with this course is for demo purposes only. They have not been audited and should not be considered production ready. Please use at your own risk.
 
@@ -613,12 +613,12 @@ Cyfrin Updraft Courses:
 These are 100% optional to do.
 
 - [Sepolia](https://sepolia.etherscan.io/address/0x76B50696B8EFFCA6Ee6Da7F6471110F334536321)
-- [zkSync Sepolia](https://sepolia.explorer.zksync.io/address/0x96bA338cf715fcbE935BCa076A7a8BAB1f18E39A)
-- [zkSync](https://explorer.zksync.io/address/0xBbA202c6DA89646F13C11a63C4aF182E4fFd4c2e)
+- [ZKsync Sepolia](https://sepolia.explorer.zksync.io/address/0x96bA338cf715fcbE935BCa076A7a8BAB1f18E39A)
+- [ZKsync](https://explorer.zksync.io/address/0xBbA202c6DA89646F13C11a63C4aF182E4fFd4c2e)
 
-After every section, in this GitHub repo will be a link to a contract on Sepolia or zkSync. They contain a challenge for you to solve, and in return, you'll be given an AWESOME NFT.
+After every section, in this GitHub repo will be a link to a contract on Sepolia or ZKsync. They contain a challenge for you to solve, and in return, you'll be given an AWESOME NFT.
 
-## Important Notes for zkSync
+## Important Notes for ZKsync
 
 IF YOU DECIDE TO MINT THE REAL NFT:
 
@@ -628,7 +628,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 3. It might be a good idea to wait till later in the course when we teach you about verifying metamask transactions.
 4. Feel free to mint NFTs on sepolia without worrying about the above
 
-## Bridging to zkSync
+## Bridging to ZKsync
 
 1. The process for bridging looks like the following:
    1. Buy ETH (On an exchange like [Coinbase](https://www.coinbase.com/home) or [Kraken](https://www.kraken.com/))
@@ -638,7 +638,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
    3. [Rainbow](https://rainbow.me/)
    4. [Argent](https://www.argent.xyz/)
    5. [Coinbase Wallet](https://www.coinbase.com/wallet)
-3. Use the [zkSync Bridge](https://portal.zksync.io/bridge/)
+3. Use the [ZKsync Bridge](https://portal.zksync.io/bridge/)
 
 
 
@@ -787,17 +787,17 @@ _[⌨️ High-Level Blockchain Fundamentals](https://updraft.cyfrin.io/courses/b
 
 - [L2 Beat](https://l2beat.com/scaling/summary)
 
-## Making your First Transaction on zkSync
+## Making your First Transaction on ZKsync
 
-- [zkSync bridge](https://portal.zksync.io/bridge/?network=sepolia)
+- [ZKsync bridge](https://portal.zksync.io/bridge/?network=sepolia)
 
-## Why zkSync is our Recommended Chain
+## Why ZKsync is our Recommended Chain
 
-- [zkSync](https://zksync.io/)
+- [ZKsync](https://zksync.io/)
 
 ## Blockchain Basics Section 1 NFTs
 
-- [zkSync](https://explorer.zksync.io/address/0xfa257F68Ca436F6e00299917837D7712Fa5bdf75)
+- [ZKsync](https://explorer.zksync.io/address/0xfa257F68Ca436F6e00299917837D7712Fa5bdf75)
 - [Sepolia](https://sepolia.etherscan.io/address/0x25056312685339b49e1d1C5a0b72Ff9eff13AF77)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -896,11 +896,11 @@ _[⌨️ Deploying your First Contract](https://updraft.cyfrin.io/courses/solidi
 - See the faucets at the top of this readme!
 - Interacting with Deployed Contracts
 
-## zkSync L2 deploy
+## ZKsync L2 deploy
 
-_[⌨️ Deploying to Zksync](https://updraft.cyfrin.io/courses/solidity/simple-storage/zksync-deploying)_
+_[⌨️ Deploying to ZKsync](https://updraft.cyfrin.io/courses/solidity/simple-storage/zksync-deploying)_
 
-- zkSync compiler edition: 0.8.24
+- ZKsync compiler edition: 0.8.24
 
 ## 🐸🐦 [Tweet Me (add your contract in)!](https://twitter.com/intent/tweet?text=I%20just%20deployed%20a%20Smart%20Contract%20to%20the%20@zksyncdevs%20testnet!%0a%0a%20Thanks%20@PatrickAlphaC%20and%20@cyfrinupdraft!)
 
@@ -912,7 +912,7 @@ _[⌨️ The EVM & A Recap of Section 2](https://updraft.cyfrin.io/courses/solid
 
 ## Solidity 101 Section 1 NFTs
 
-- [zkSync](https://explorer.zksync.io/address/0x5f9f9f46ECb48D625e320888922Bf86555608E9C)
+- [ZKsync](https://explorer.zksync.io/address/0x5f9f9f46ECb48D625e320888922Bf86555608E9C)
 - [Sepolia](https://sepolia.etherscan.io/address/0x5c1ddb86F11BB46D3067C702AC554aEaED9ff8f0#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -955,7 +955,7 @@ _[⌨️ Section 2 Recap](https://updraft.cyfrin.io/courses/solidity/storage-fac
 
 ## Solidity 101 Section 2 NFTs
 
-- [zkSync](https://explorer.zksync.io/address/0x1D5c2Eb5F17Fa0BA4E3DfDDBF59DC0e6316219Ff)
+- [ZKsync](https://explorer.zksync.io/address/0x1D5c2Eb5F17Fa0BA4E3DfDDBF59DC0e6316219Ff)
 - [Sepolia](https://sepolia.etherscan.io/address/0x4A62A8901e6113dEF0AEeEC77E531779cd40da73#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -1133,7 +1133,7 @@ _[⌨️ Section 3 Recap](https://updraft.cyfrin.io/courses/solidity/fund-me/rec
 
 ## Solidity 101 Section 3 NFTs
 
-- [zkSync](https://explorer.zksync.io/address/0x598c64586d890222c085eCb3a01Db36237D6ccE4)
+- [ZKsync](https://explorer.zksync.io/address/0x598c64586d890222c085eCb3a01Db36237D6ccE4)
 - [Sepolia](https://sepolia.etherscan.io/address/0x1b30DA2a868704483143A4D46865Ac9585629fd0#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -1172,7 +1172,7 @@ _[⌨️ SpeedRunEthereum](https://updraft.cyfrin.io/courses/solidity/ai-prompti
 
 ## Solidity 101 Section 4 NFTs
 
-- [zkSync](https://explorer.zksync.io/address/0x687C1d191ccD64777dF009942A148fBF7F52F006#contract)
+- [ZKsync](https://explorer.zksync.io/address/0x687C1d191ccD64777dF009942A148fBF7F52F006#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0x4b3a7F293091708dDD6B8748179aeAF80E9c1bA2#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -1267,7 +1267,7 @@ _[⌨️ Formatting Solidity in VSCode ](https://updraft.cyfrin.io/courses/found
 
 _[⌨️ Compiling in Foundry ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/compiling-a-smart-contract-foundry)_
 
-## Compiling to zkSync in foundry-zksync
+## Compiling to ZKsync in foundry-zksync
 
 - [foundry-zksync](https://github.com/matter-labs/foundry-zksync)
 
@@ -1381,12 +1381,12 @@ _[⌨️ Cleaning up the project ](https://updraft.cyfrin.io/courses/foundry/fou
 - `forge fmt`
 - `README.md`
 
-## Foundry Zksync
+## Foundry ZKsync
 
-- _[⌨️ Foundry Zksync ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/foundry-zksync)_
-- _[⌨️ Compiling Foundry Zksync ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/compiling-foundry-zksync)_
-- _[⌨️ Zksync Local Node ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/zksync-local-node)_
-- _[⌨️ Zksync Local Deploy ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/zksync-local-deploy)_
+- _[⌨️ Foundry ZKsync ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/foundry-zksync)_
+- _[⌨️ Compiling Foundry ZKsync ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/compiling-foundry-zksync)_
+- _[⌨️ ZKsync Local Node ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/zksync-local-node)_
+- _[⌨️ ZKsync Local Deploy ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/zksync-local-deploy)_
 - _[⌨️ Tx Types ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/tx-types)_
 - _[⌨️ Why L2 ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/why-l2)_
 
@@ -1405,7 +1405,7 @@ _[⌨️ Summary ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-stor
 
 ## Foundry Fundamentals Section 1 NFTs
 
-- [zkSync](https://explorer.zksync.io/address/0xbe19357f00B8A80154bB927a95d82888Ee70F6F8#contract)
+- [ZKsync](https://explorer.zksync.io/address/0xbe19357f00B8A80154bB927a95d82888Ee70F6F8#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0x6c4791c3a9E9Bc5449045872Bd1b602d6385E3E1#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -1600,9 +1600,9 @@ _[⌨️ Makefile ](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/ma
 - [Install make Ubuntu](https://linuxhint.com/install-use-make-ubuntu/).
 - [Etherscan API Key](https://docs.etherscan.io/getting-started/viewing-api-usage-statistics)
 
-## Zksync Devops
+## ZKsync Devops
 
-_[⌨️ Zksync Devops ](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/zksync-devops)_
+_[⌨️ ZKsync Devops ](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/zksync-devops)_
 
 
 ## Pushing to GitHub
@@ -1630,7 +1630,7 @@ _[⌨️ Section 2: Recap ](https://updraft.cyfrin.io/courses/foundry/foundry-fu
 
 ## Foundry Fundamentals Section 2 NFTs
 
-- [zkSync](https://explorer.zksync.io/address/0xDBb7cFfb41261D9a445b09E7c5dF28De18254D5B#contract)
+- [ZKsync](https://explorer.zksync.io/address/0xDBb7cFfb41261D9a445b09E7c5dF28De18254D5B#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0xD7D127991c6A89Df752FC3daeC17540aE8B86101#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -1940,7 +1940,7 @@ _[⌨️ Recap ](https://updraft.cyfrin.io/courses/foundry/smart-contract-lotter
 
 ## Foundry Fundamentals Section 4 NFTs
 
-- [zkSync](https://explorer.zksync.io/address/0xEFA0f9Ca73f5C2f4b735eEDf63d49B1680054158#contract)
+- [ZKsync](https://explorer.zksync.io/address/0xEFA0f9Ca73f5C2f4b735eEDf63d49B1680054158#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0x33e1fD270599188BB1489a169dF1f0be08b83509#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -2004,7 +2004,7 @@ _[⌨️ AI Tests ](https://updraft.cyfrin.io/courses/advanced-foundry/How-to-cr
 
 ## Advanced Foundry Section 1 NFTs
 
-- [zkSync](https://explorer.zksync.io/address/0x475d9da05E73e283EB5B490c89cfDf36B0Bca5fc)
+- [ZKsync](https://explorer.zksync.io/address/0x475d9da05E73e283EB5B490c89cfDf36B0Bca5fc)
 - [Sepolia](https://sepolia.etherscan.io/address/0xE0aE410a16776BCcb04A8d4B0151Bb3F25035994#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -2163,7 +2163,7 @@ _[⌨️ (10:36:31) | Section 2 Recap ](https://updraft.cyfrin.io/courses/advanc
 
 ## Advanced Foundry Section 2 NFTs
 
-- [zkSync](https://explorer.zksync.io/address/0x9085b18f712A7F26DC2f4C2F485ffCd1D0a10433#contract)
+- [ZKsync](https://explorer.zksync.io/address/0x9085b18f712A7F26DC2f4C2F485ffCd1D0a10433#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0x93c7A945af9c453a8c932bf47683B5eB8C2F8792#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -2353,7 +2353,7 @@ _[⌨️ Lens Protocol ](https://updraft.cyfrin.io/courses/advanced-foundry/deve
 
 ## Advanced Foundry Section 3 NFTs
 
-- [zkSync](https://explorer.zksync.io/address/0xC4C177DEa09d046D68b0Ad2E0d8003090f0FD832#contract)
+- [ZKsync](https://explorer.zksync.io/address/0xC4C177DEa09d046D68b0Ad2E0d8003090f0FD832#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0xe5760847db2f10A74Fc575B4803df5fe129811C1#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -2428,7 +2428,7 @@ _[⌨️ Transaction Types Introduction](https://updraft.cyfrin.io/courses/advan
 _[⌨️ Transaction Types](https://updraft.cyfrin.io/courses/advanced-foundry/merkle-airdrop/transaction-types)_
 
 - [Ethereum transaction types](https://ethereum.org/en/developers/docs/transactions/#typed-transaction-envelope)
-- [zkSync transaction types](https://docs.zksync.io/zk-stack/concepts/transaction-lifecycle#transaction-types)
+- [ZKsync transaction types](https://docs.zksync.io/zk-stack/concepts/transaction-lifecycle#transaction-types)
 
 ## Blob Transactions
 
@@ -2442,13 +2442,13 @@ _[⌨️ Blob Transactions](https://updraft.cyfrin.io/courses/advanced-foundry/m
 - Type 113 Transactions
 - Implementing Signatures
 - Modifying the Tests
-- Test on zkSync (optional)
+- Test on ZKsync (optional)
 - Create Claiming Script
 - Creating a Signature
 - Splitting a Signature
 - Executing the Anvil Script
-- Deploy and Claim on zkSync Local Node
-- Deploy and Claim on zkSync Sepolia
+- Deploy and Claim on ZKsync Local Node
+- Deploy and Claim on ZKsync Sepolia
 - Summary
 
 ## Advanced Foundry Section 4 NFTs (TBD)
@@ -2521,7 +2521,7 @@ _[⌨️ Testnet Demo ](https://updraft.cyfrin.io/courses/advanced-foundry/upgra
 
 ## Advanced Foundry Section 5 NFTs
 
-- [zkSync](https://explorer.zksync.io/address/0xaf3697C1B7e686a7f83dcbb753AcbBA4c2A940aB#contract)
+- [ZKsync](https://explorer.zksync.io/address/0xaf3697C1B7e686a7f83dcbb753AcbBA4c2A940aB#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0xaFa4150818b7843345A5E54E430Bd0cAE31B5c0C#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -2535,9 +2535,9 @@ _[⌨️ Testnet Demo ](https://updraft.cyfrin.io/courses/advanced-foundry/upgra
 _[⌨️ Account Abstraction Introduction](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/introduction)_
 
 - What is native account abstraction?
-- How does zkSync do account abstraction?
+- How does ZKsync do account abstraction?
 - What is EIP-4337?
-- What are zkSync system contracts?
+- What are ZKsync system contracts?
 
 ## Code Overview
 
@@ -2603,9 +2603,9 @@ _[⌨️ Mid Session Recap](https://updraft.cyfrin.io/courses/advanced-foundry/a
 
 _[⌨️ Live Demo](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/live-demo-eth)_
 
-## ZkSync Native Account Abstraction
+## ZKsync Native Account Abstraction
 
-_[⌨️ ZkSync Setup](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/zksync-setup)_
+_[⌨️ ZKsync Setup](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/zksync-setup)_
 
 ## IAccount 
 
@@ -2619,23 +2619,23 @@ _[⌨️ System Contracts](https://updraft.cyfrin.io/courses/advanced-foundry/ac
 
 _[⌨️ TxType 113 Lifecycle](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/life-cycle)_
 
-## Mid-zkSync Recap
+## Mid-ZKsync Recap
 
-_[⌨️ ZkSync Accounts Recap](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/zksync-recap)_
+_[⌨️ ZKsync Accounts Recap](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/zksync-recap)_
 
-## System Contract Call zkSync Simulations
+## System Contract Call ZKsync Simulations
 
-_[⌨️ ZkSync Transaction Simulations](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/zksync-simulations)_
+_[⌨️ ZKsync Transaction Simulations](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/zksync-simulations)_
 
-## Validate Transaction zkSync
+## Validate Transaction ZKsync
 
 _[⌨️ ValidateTransaction](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/validate-tx)_
 
-## Execute Function Zksync
+## Execute Function ZKsync
 
 _[⌨️ executeTransaction](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/execute-tx)_
 
-## Pay For Transaction zkSync
+## Pay For Transaction ZKsync
 
 _[⌨️ payForTransaction](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/pay-for-tx)_
 
@@ -2643,9 +2643,9 @@ _[⌨️ payForTransaction](https://updraft.cyfrin.io/courses/advanced-foundry/a
 
 _[⌨️ executeTransactionFromOutside](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/execute-tx-from-out)_
 
-## zkSync Tests
+## ZKsync Tests
 
-_[⌨️ zkSync Tests](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/execute-tx-from-out)_
+_[⌨️ ZKsync Tests](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/execute-tx-from-out)_
 
 ## Building a Transaction Struct
 
@@ -2659,11 +2659,11 @@ _[⌨️ --via-ir](https://updraft.cyfrin.io/courses/advanced-foundry/account-ab
 
 _[⌨️ Validate Transaction Test](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/validate-tx-test)_
 
-## Clean Up zkSync
+## Clean Up ZKsync
 
 _[⌨️ Clean up](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/clean-up-zk)_
 
-## Testnet zkSync Demo
+## Testnet ZKsync Demo
 
 _[⌨️ Testnet Demo](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/testnet-last)_
 
@@ -2736,7 +2736,7 @@ _[⌨️ Section Recap](https://updraft.cyfrin.io/courses/advanced-foundry/daos/
 
 ## Advanced Foundry Section 7 NFTs
 
-- [zkSync](https://explorer.zksync.io/address/0xC63704f836505F6967d8e6Ee8A1678B57f7b5Ec9)
+- [ZKsync](https://explorer.zksync.io/address/0xC63704f836505F6967d8e6Ee8A1678B57f7b5Ec9)
 - [Sepolia](https://sepolia.etherscan.io/address/0x46F3fE2C8aC9e9AE4DEDE1a7a29Ab3BdcFa7eaFc#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -2835,7 +2835,7 @@ _[⌨️ Wrap. Up](https://updraft.cyfrin.io/courses/advanced-foundry/security/c
 
 ## Advanced Foundry Section 8 NFTs
 
-- [zkSync](https://explorer.zksync.io/address/0xb54B64B3BB587b39F189797c68A6bd183fFB4379#contract)
+- [ZKsync](https://explorer.zksync.io/address/0xb54B64B3BB587b39F189797c68A6bd183fFB4379#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0x766a74f8924C7B07df088fDB0F7D7DbaDd330Fb3#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -2885,7 +2885,7 @@ Because of all this, I have added alternatives to each section where we suggest 
 
 A huge thank you to our sponsors. These are the groups and technologies
 
-- [Matter Labs (zkSync)](https://zksync.io/)
+- [Matter Labs (ZKsync)](https://zksync.io/)
 - [Arbitrum Foundation](https://arbitrum.foundation/)
 - [Chainlink Labs](https://chainlinklabs.com/)
 - [BadgerDAO](https://badger.com/)
