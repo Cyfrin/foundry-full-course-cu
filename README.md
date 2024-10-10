@@ -578,9 +578,13 @@ Cyfrin Updraft Courses:
 
 # [Testnet Faucets](https://faucets.chain.link)
 
+If you receive a flag pop-up requiring you to have 0.001 ETH on mainnet, you may be able to wait 10 to 20 minutes and try again to avoid adding the 0.001 ETH on the mainnet.
+
 - Main (Sepolia): <a href="https://cloud.google.com/application/web3/faucet/ethereum/sepolia" target="_blank"> Sepolia GCP Faucet </a>
 - Alchemy Faucet (Sepolia):<a href="https://sepoliafaucet.com/" target="_blank"> https://sepoliafaucet.com/</a>
 - Infura Faucet (Sepolia):<a href="https://www.infura.io/faucet/sepolia" target="_blank" > https://www.infura.io/faucet/sepolia</a>
+- Chainlink Faucet (Sepolia):<a href="https://faucets.chain.link/sepolia" target="_blank" > https://faucets.chain.link/sepolia</a>
+  - No need for 0.001 ETH on mainnet
 - ZKsync Faucets (ZKsync Sepolia):<a href="https://docs.zksync.io/build/tooling/network-faucets.html" target="_blank"> https://docs.zksync.io/build/tooling/network-faucets.html</a>
 - ZKsync Bridge:<a href="https://portal.zksync.io/bridge/" target="_blank"> https://portal.zksync.io/bridge/</a>
 
