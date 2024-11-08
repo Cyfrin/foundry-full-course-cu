@@ -581,8 +581,9 @@ If you receive a flag pop-up requiring you to have 0.001 ETH on mainnet, you may
 # Resources For This Course
 
 - AI Frens
+  - [claude.ai](https://claude.ai/)
+  - [cursor IDE](https://www.cursor.com/)
   - [ChatGPT](https://chat.openai.com/)
-    - Just know that it will often get things wrong, but it's very fast!
   - [Phind](https://www.phind.com/)
     - Like ChatGPT, but it searches the web
   - [Bard](https://bard.google.com/)
