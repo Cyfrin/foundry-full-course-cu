@@ -21,7 +21,7 @@ _Entire course and video content updated June 15, 2024_
 [![Stargazers][stars-shield]][stars-url] [![Forks][forks-shield]][forks-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![GPLv3 License][license-shield]][license-url]
 
 <p align="center">
     <br />
