@@ -659,6 +659,9 @@ The Blockchain Basics has it's own [GitHub repository (aka, codebase)](https://g
 
 
 # Solidity 101 Section 1: Simple Storage
+
+💻 Code: [https://github.com/cyfrin/remix-simple-storage-cu](https://github.com/cyfrin/remix-simple-storage-cu)
+
 ## Introduction
 
 _[⭐️ Welcome to Remix - Simple Storage](https://updraft.cyfrin.io/courses/solidity/simple-storage/welcome-to-solidity-fundamentals?lesson_format=video)_
