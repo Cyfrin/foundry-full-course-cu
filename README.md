@@ -102,27 +102,11 @@ Cyfrin Updraft Courses:
   </li>
 </ol>
 </details>
+
 <details>
 <summary>
 <a href="#blockchain-basics-section-1-what-is-a-blockchain-what-does-a-blockchain-do">Course: Blockchain Basics Section 1</a>
 </summary>
-<ol>
-    <li><a href="#what-is-a-blockchain-what-does-a-blockchain-do">What is a Blockchain? What does a blockchain do?</a></li>
-    <li><a href="#the-purpose-of-smart-contracts">The Purpose Of Smart Contracts</a></li>
-    <li><a href="#other-blockchain-benefits">Other Blockchain Benefits</a></li>
-    <li><a href="#what-have-smart-contracts-done-so-far">What have Smart Contracts done so far?</a></li>
-    <li><a href="#making-your-first-transaction">Making Your First Transaction</a></li>
-    <li><a href="#gas-i-introduction-to-gas">Gas I: Introduction to Gas</a></li>
-    <li><a href="#how-do-blockchains-work">How Do Blockchains Work?</a></li>
-    <li><a href="#signing-transactions">Signing Transactions</a></li>
-    <li><a href="#gas-ii">Gas II</a></li>
-    <li><a href="#gas-ii-summary">Gas II Summary</a></li>
-    <li><a href="#high-level-blockchain-fundamentals">High-Level Blockchain Fundamentals</a></li>
-    <li><a href="#l1s-l2s-and-rollups">L1s L2s and Rollups</a></li>
-    <li><a href="#rollup-stages">Rollup Stages</a></li>
-    <li><a href="#making-your-first-transaction-on-zksync">Making your First Transaction on ZKsync</a></li>
-    <li><a href="#why-zksync-is-our-recommended-chain">Why ZKsync is our Recommended Chain</a></li>
-</ol>
 </details>
 
 <details>
@@ -671,148 +655,13 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 
 [⭐️ Blockchain Basics Course](https://updraft.cyfrin.io/courses/blockchain-basics)
 
-# Blockchain Basics Section 1: What is a Blockchain? What does a blockchain do?
-
-_[⌨️  What is a Blockchain?](https://updraft.cyfrin.io/courses/blockchain-basics/basics/what-is-a-blockchain)_
-
-- [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
-  - [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
-- [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
-  - [Vitalik Buterin](https://en.wikipedia.org/wiki/Vitalik_Buterin)
-- [What is a Smart Contract?](https://chain.link/education/smart-contracts)
-- [Nick Szabo](https://en.wikipedia.org/wiki/Nick_Szabo)
-- [Hybrid Smart Contracts](https://blog.chain.link/hybrid-smart-contracts-explained/)
-- [Blockchain Oracles](https://betterprogramming.pub/what-is-a-blockchain-oracle-f5ccab8dbd72?source=friends_link&sk=d921a38466df8a9176ed8dd767d8c77d)
-- [Terminology](https://connect.comptia.org/content/articles/blockchain-terminology)
-- [Web3](https://en.wikipedia.org/wiki/Web3)
-- [What is a blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
-
-## The Purpose Of Smart Contracts
-
-_[⌨️  The Purpose Of Smart Contracts](https://updraft.cyfrin.io/courses/blockchain-basics/basics/the-purpose-of-smart-contracts?lesson_format=video)_
-
-- 🎥 [Original Video](https://www.youtube.com/watch?v=_JeRq7Gwj5Y&feature=youtu.be)
-- 🦬 [My ETH Denver Talk](https://www.youtube.com/watch?v=06hXCX_jj2E)
-- 🍔 [McDonalds Scandal](https://www.chicagotribune.com/sns-mcdonalds-story.html)
-- ⛓ [More on the evolution of agreements](https://www.youtube.com/watch?v=ufVyX7JDCgg)
-- ✍️ [What is a Smart Contract?](https://www.youtube.com/watch?v=ZE2HxTmxfrI)
-- 🧱 [How does a blockchain work?](https://www.youtube.com/watch?v=SSo_EIwHSd4)
-- 🔮 [Chainlink & Oracles](https://www.youtube.com/watch?v=tIUHQ7sDoaU)
-
-## Other Blockchain Benefits
-
-_[⌨️ Other Blockchain Benefits](https://updraft.cyfrin.io/courses/blockchain-basics/basics/smart-contract-landscape)_
-
-- Decentralized
-- Transparency & Flexibility
-- Speed & Efficiency
-- Security & Immutability
-- Counterparty Risk Removal
-- Trust Minimized Agreements
-
-## What have Smart Contracts done so far?
-
-- [DeFi](https://chain.link/education/defi)
-  - [Defi Llama](https://defillama.com/)
-  - [Why DeFi is Important](https://medium.com/the-capital/why-defi-1519cc4d4bd3)
-- [DAOs](https://betterprogramming.pub/what-is-a-dao-what-is-the-architecture-of-a-dao-how-to-build-a-dao-high-level-d096a97162cc)
-- [NFTs](https://www.youtube.com/watch?v=9yuHz6g_P50)
-
-## Making Your First Transaction
-
-_[⌨️ Making Your First Transaction](https://updraft.cyfrin.io/courses/blockchain-basics/basics/metamask-setup-making-your-first-transaction)_
-
-- [Metamask Download Link](https://metamask.io/)
-  - [What is a Private Key?](https://www.coinbase.com/learn/crypto-basics/what-is-a-private-key)
-  - [What is a Secret Phrase?](https://metamask.zendesk.com/hc/en-us/articles/360060826432-What-is-a-Secret-Recovery-Phrase-and-how-to-keep-your-crypto-wallet-secure)
-- [Etherscan](https://etherscan.io/)
-- [Sepolia Etherscan](https://sepolia.etherscan.io/)
-- Sepolia Faucet (Check the [link token contracts page](https://docs.chain.link/docs/link-token-contracts/#sepolia))
-  - NOTE: The Chainlink documentation always has the most up to date faucets on their [link token contracts page](https://docs.chain.link/docs/link-token-contracts/#sepolia). If the faucet above is broken, check the chainlink documentation for the most up to date faucet.
-- OR, use the [Sepolia ETH Faucet](https://faucets.chain.link/), just be sure to swap your metamask to Sepolia!
-
-## Gas I: Introduction to Gas
-
-_[⌨️ Gas I: Introduction to Gas](https://updraft.cyfrin.io/courses/blockchain-basics/basics/introduction-to-gas)_
-
-- [Gas and Gas Fees](https://ethereum.org/en/developers/docs/gas/)
-- [Wei, Gwei, and Ether Converter](https://eth-converter.com/)
-- [ETH Gas Station](https://ethgasstation.info/)
-
-## How Do Blockchains Work?
-
-_[⌨️ How Do Blockchains Work?](https://updraft.cyfrin.io/courses/blockchain-basics/basics/how-do-blockchains-work)_
-
-- [What is a hash?](https://techjury.net/blog/what-is-cryptographic-hash/)
-- [Blockchain Demo](https://andersbrownworth.com/blockchain/)
-- [Summary](https://ethereum.org/en/developers/docs/intro-to-ethereum/)
-
-## Signing Transactions
-
-_[⌨️ Signing Transactions](https://updraft.cyfrin.io/courses/blockchain-basics/basics/signing-ethereum-transactions)_
-
-- [Public / Private Keys](https://andersbrownworth.com/blockchain/public-private-keys/keys)
-- [Layer 2 and Rollups](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/)
-- [Decentralized Blockchain Oracles](https://blog.chain.link/what-is-the-blockchain-oracle-problem/)
-
-## Gas II
-
-_[⌨️ Gas II: Block Rewards & EIP 1559](https://updraft.cyfrin.io/courses/blockchain-basics/basics/gas-in-depth)_
-
-- [Block Rewards](https://www.investopedia.com/terms/b/block-reward.asp)
-- Advanced Gas
-  - [EIP 1559](https://www.youtube.com/watch?v=MGemhK9t44Q)
-  - GWEI, WEI, and ETH
-    - [ETH Converter](https://eth-converter.com/)
-
-## Gas II Summary
+The Blockchain Basics has it's own [GitHub repository (aka, codebase)](https://github.com/Cyfrin/blockchain-basics-cu?tab=readme-ov-file). You can find it here: [https://github.com/Cyfrin/blockchain-basics-cu?tab=readme-ov-file](https://github.com/Cyfrin/blockchain-basics-cu?tab=readme-ov-file)
 
 
-- [Run Your Own Ethereum Node](https://geth.ethereum.org/docs/getting-started)
-
-## High-Level Blockchain Fundamentals
-
-_[⌨️ High-Level Blockchain Fundamentals](https://updraft.cyfrin.io/courses/blockchain-basics/basics/how-the-blockchain-works)_
-
-- [Consensus](https://wiki.polkadot.network/docs/learn-consensus)
-- [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
-- [Proof of Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
-- [Nakamoto Consensus](https://blockonomi.com/nakamoto-consensus/)
-- [The merge](https://ethereum.org/en/eth2/)
-
-## L1s L2s and Rollups
-
-- [Replay attacks](https://www.cyfrin.io/blog/replay-attack-in-ethereum)
-- [Sybil attacks](https://www.cyfrin.io/blog/understanding-sybil-attacks-in-blockchain-and-smart-contracts)
-- [Double-spending](https://www.cyfrin.io/blog/understanding-double-spending-in-blockchain)
-- [Zero-knowledge proofs](https://ethereum.org/en/zero-knowledge-proofs/)
-
-## Rollup Stages
-
-- [L2 Beat](https://l2beat.com/scaling/summary)
-
-## Making your First Transaction on ZKsync
-
-- [ZKsync bridge](https://portal.zksync.io/bridge/?network=sepolia)
-
-## Why ZKsync is our Recommended Chain
-
-- [ZKsync](https://zksync.io/)
-
-## Blockchain Basics Section 1 NFTs
-
-- [ZKsync](https://explorer.zksync.io/address/0xfa257F68Ca436F6e00299917837D7712Fa5bdf75)
-- [Sepolia](https://sepolia.etherscan.io/address/0x25056312685339b49e1d1C5a0b72Ff9eff13AF77)
-
-<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
-
-# Course: Solidity & Smart Contract Developmnet
-
-[⭐️ Learn Solidity & Smart Contract Development](https://updraft.cyfrin.io/courses/solidity)
+# Solidity 101 Section 1: Simple Storage
 
 💻 Code: [https://github.com/cyfrin/remix-simple-storage-cu](https://github.com/cyfrin/remix-simple-storage-cu)
 
-# Solidity 101 Section 1: Simple Storage
 ## Introduction
 
 _[⭐️ Welcome to Remix - Simple Storage](https://updraft.cyfrin.io/courses/solidity/simple-storage/welcome-to-solidity-fundamentals?lesson_format=video)_
