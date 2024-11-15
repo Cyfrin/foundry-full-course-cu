@@ -586,7 +586,7 @@ If you receive a flag pop-up requiring you to have 0.001 ETH on mainnet, you may
   - [ChatGPT](https://chat.openai.com/)
   - [Phind](https://www.phind.com/)
     - Like ChatGPT, but it searches the web
-  - [Bard](https://bard.google.com/)
+  - [Gemini](https://gemini.google.com/)
   - [Other AI extensions](https://twitter.com/aisolopreneur/status/1654823630155464704?s=42&t=-pu_sCYtfrfPJU7OXfifrQ)
 - [Github Discussions](https://github.com/Cyfrin/foundry-full-course-cu/discussions)
   - Ask questions and chat about the course here!
