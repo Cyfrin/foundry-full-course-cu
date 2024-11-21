@@ -2371,7 +2371,7 @@ _[⌨️ (5:53:48) | Test/Demo ](https://youtu.be/wUjYK5gwNZs?t=21228)_
 
 ## Testnet Demo
 
-_[⌨️ Testnet Demo ](https://updraft.cyfrin.io/courses/advanced-foundry/upgradeable-smart-contracts/testnet-demos)_
+_[⌨️ Testnet Demo ](https://updraft.cyfrin.io/courses/advanced-foundry/upgradeable-smart-contracts/testnet-demo)_
 
 ## Advanced Foundry Section 5 NFTs
 
