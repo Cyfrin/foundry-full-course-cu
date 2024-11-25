@@ -27,7 +27,7 @@ Outdated packages and confusing commands got you stuck? We tackle the most commo
 
 Ready to flex those resume muscles? We're gonna show you how to make that Web3 resume of yours pop! Oh, and we've got some industry hotshots sharing their pro tips. Don't sleep on this!
 
-2️⃣ "Get Hackthon-Ready, Folks!" 🏆
+2️⃣ "Get Hackathon-Ready, Folks!" 🏆
 
 Wanna know how to crush it in those blockchain hackathons? We're talkin' mindset, strategies, and maybe even a quick zen moment before go-time.
 
