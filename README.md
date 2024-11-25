@@ -927,7 +927,7 @@ _[⌨️ For Loop](https://updraft.cyfrin.io/courses/solidity/fund-me/solidity-f
 
 ## Resetting an array
 
-_[⌨️ (Resetting an array](https://updraft.cyfrin.io/courses/solidity/fund-me/solidity-reset-an-array)_
+_[⌨️ Resetting an array](https://updraft.cyfrin.io/courses/solidity/fund-me/solidity-reset-an-array)_
 
 ## Transfer, Send, and Call
 
@@ -951,7 +951,7 @@ _[⌨️ Modifiers](https://updraft.cyfrin.io/courses/solidity/fund-me/solidity-
 
 ## Testnet Demo
 
-_[⌨️ Tesnet Demo](https://updraft.cyfrin.io/courses/solidity/fund-me/testnet-demo)_
+_[⌨️ Testnet Demo](https://updraft.cyfrin.io/courses/solidity/fund-me/testnet-demo)_
 
 - [Disconnecting Metamask](https://help.1inch.io/en/articles/4666771-metamask-how-to-connect-disconnect-and-switch-accounts-with-metamask-on-1inch-network)
 
