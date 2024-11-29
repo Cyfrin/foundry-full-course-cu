@@ -2,7 +2,7 @@
 
 *For moving forward, updates will now be on respective videos in Cyfrin Updraft. This file will no longer be updated.*
 
-For those who prefer the video format here we have a video with a recopilation of this updates you can follow along:
+For those who prefer the video format here we have a video with a recompilation of this updates you can follow along:
 
 [![Chronological Updates](https://img.youtube.com/vi/G_evB-LLkRU/0.jpg)](https://www.youtube.com/watch?v=G_evB-LLkRU)
 
@@ -61,7 +61,7 @@ cargo install --path ./anvil --profile local --force
 
 Per the [foundry docs](https://book.getfoundry.sh/getting-started/installation#building-from-source)
 
-3. The extension used on the video is [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) which has being deprecated, so please use [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml) instead.
+3. The extension used on the video is [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) which has been deprecated, so please use [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml) instead.
 
 # Lesson 7
 
@@ -129,7 +129,7 @@ contract GovernorTest is Test {
 }
 ```
 
-2. The role **TIMELOCK_ADMIN_ROLE** has been removed inside `TimelockController.sol`. The admin can be set inside the MyTimelock constructor (1) and then (2) can be revoked after the assignement of the needed roles to MyGoverner.
+2. The role **TIMELOCK_ADMIN_ROLE** has been removed inside `TimelockController.sol`. The admin can be set inside the MyTimelock constructor (1) and then (2) can be revoked after the assignment of the needed roles to MyGoverner.
 
 ```solidity
 contract MyTimelock is TimelockController {
