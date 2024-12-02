@@ -1815,6 +1815,8 @@ _[⭐️ Section 1: ERC20s](https://updraft.cyfrin.io/courses/advanced-foundry)_
 
 💻 Code: [https://github.com/Cyfrin/foundry-erc20-cu](https://github.com/Cyfrin/foundry-erc20-cu)
 
+Learn how to build your own ERC20 like DAI, USDC, or WETH!
+
 ## What is an ERC? What is an EIP?
 
 - What is an EIP?
@@ -2029,6 +2031,8 @@ _[⌨️ (10:36:31) | Section 2 Recap ](https://updraft.cyfrin.io/courses/advanc
 # Advanced Foundry Section 3: Foundry DeFi | Stablecoin (The PINNACLE PROJECT!! GET HERE!)
 
 💻 Code: [https://github.com/Cyfrin/foundry-defi-stablecoin-cu](https://github.com/Cyfrin/foundry-defi-stablecoin-cu)
+
+This is one of the top projects you can build in the blockchain space. A decentralized stablecoin! We will teach you about the differences between DAI, USDC, RAI, and other stablecoins, and allow you to build your own. 
 
 ## Introduction
 
