@@ -36,7 +36,6 @@ body:
       required: true
   - type: input
     attributes:
-    attributes:
       label: Could you please leave a link to the Cyfrin Updraft Lesson (or YouTube video timestamp) where this error occurs? (You can right click a video and "copy video URL at current time")
       placeholder: "https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/introduction-foundry-simple-storage?lesson_format=video"
   - type: textarea
