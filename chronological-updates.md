@@ -118,7 +118,7 @@ Openzeppelin v5 made some changes:
 constructor(address owner) Ownable(owner) {}
 ```
 
-This will also change the behaviour inside the `GovernorTest.sol`, where we dont need to transfer the contract ownership, but we just set it inside the constructor.
+This will also change the behaviour inside the `GovernorTest.sol`, where we don't need to transfer the contract ownership, but we just set it inside the constructor.
 
 ```solidity
 contract GovernorTest is Test {
