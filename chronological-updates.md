@@ -2,7 +2,7 @@
 
 *For moving forward, updates will now be on respective videos in Cyfrin Updraft. This file will no longer be updated.*
 
-For those who prefer the video format here we have a video with a recompilation of this updates you can follow along:
+For those who prefer the video format here we have a video with a recompilation of these updates you can follow along:
 
 [![Chronological Updates](https://img.youtube.com/vi/G_evB-LLkRU/0.jpg)](https://www.youtube.com/watch?v=G_evB-LLkRU)
 
@@ -15,7 +15,7 @@ For those who prefer the video format here we have a video with a recompilation 
 # Lesson 3
 
 # Lesson 4
-1. ```KOVAN``` has been replaced with ```SEPOLIA``` here is the link to [ChainLink](https://docs.chain.link/data-feeds/using-data-feeds)
+1. ```KOVAN``` has been replaced with ```SEPOLIA``` here is the link to [Chainlink](https://docs.chain.link/data-feeds/using-data-feeds)
 
 ## Lesson 4 Challenge
 
@@ -118,7 +118,7 @@ Openzeppelin v5 made some changes:
 constructor(address owner) Ownable(owner) {}
 ```
 
-This will also change the behaviour inside the `GovernorTest.sol`, where we dont need to transfer the contract ownership, but we just set it inside the constructor.
+This will also change the behaviour inside the `GovernorTest.sol`, where we don't need to transfer the contract ownership, but we just set it inside the constructor.
 
 ```solidity
 contract GovernorTest is Test {
