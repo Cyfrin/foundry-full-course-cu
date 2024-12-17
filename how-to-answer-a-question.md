@@ -12,7 +12,7 @@ Thank you for wanting to answer questions! This is how we grow as a community :)
 
 * If the question is poorly formatted and you know how to reformat it reformat it and ask them next time to format their code.
 
-* If the question is posted in the wrong place (like a theoretical question posted on stackoverflow) kindly let them know that it's in the wrong place. 
+* If the question is posted in the wrong place (like a theoretical question posted on Stack Overflow) kindly let them know that it's in the wrong place. 
  
 * If the question has already been asked and answered, answer with a link to the question that has already been asked and answered and ask if that solves the problem.
  
@@ -24,7 +24,7 @@ Thank you for wanting to answer questions! This is how we grow as a community :)
 
 ### Don't feel obliged to help right away if they are not asking well-formatted questions. Make them ask a well-formatted question first before you answer!
 
-But don't be a jerk about it. If they just need a little formatting touch up, just touch up their question for them. 
+But don't be a jerk about it. If they just need a little formatting touch-up, just touch-up their question for them. 
 
 # 2. Make sure your answer unblocks them
 
