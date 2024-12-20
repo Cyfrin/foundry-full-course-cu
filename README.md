@@ -418,7 +418,7 @@ Cyfrin Updraft Courses:
         <li><a href="#revert_on_fail--true">revert_on_fail = true</a></li>
         <li><a href="#redeeming-collateral">Redeeming Collateral</a></li>
         <li><a href="#minting-dsc">Minting DSC</a></li>
-        <li><a href="#debugging-fuzz-tests">Debuggin Fuzz Tests</a></li>
+        <li><a href="#debugging-fuzz-tests">Debugging Fuzz Tests</a></li>
         <li><a href="#challenge-find-out-why-mintdsc-is-never-being-called-on-our-handlersol">Challenge: Find out why `mintDsc` is never being called on our Handler.sol</a></li>
       </ul>
     </li>
@@ -785,7 +785,7 @@ _[⭐️ Section 2 | Storage Factory](https://updraft.cyfrin.io/courses/solidity
 
 _[⌨️ Importing Contracts into other Contracts](https://updraft.cyfrin.io/courses/solidity/storage-factory/solidity-imports)_
 
-- [Composibility](https://chain.link/techtalks/defi-composability)
+- [Composability](https://chain.link/techtalks/defi-composability)
 - [Solidity new keyword](https://docs.soliditylang.org/en/latest/control-structures.html?highlight=new#creating-contracts-via-new)
 - [Importing Code in solidity](https://solidity-by-example.org/import)
 
