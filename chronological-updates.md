@@ -52,7 +52,7 @@ You will need to add one zero to the end of the number to make it work:
 # Lesson 6
 
 1. `forge test -m` has [been replaced](https://github.com/foundry-rs/foundry/blob/98a1862d7e9f6ee53ef7371c683b10f2322ffa23/CHANGELOG.md?plain=1#L30) by `forge test --mt`
-2. If you have trouble installing anvil, you can install it with this command:
+2. If you have trouble installing an anvil, you can install it with this command:
 
 ```
 # install Anvil
@@ -152,7 +152,7 @@ contract GovernorTest is Test {
 
 3. Openzeppelin Wizard
 
-- The Openzeppelin Wizard has a total different content and it misses this import inside `GovToken.sol`:
+- The Openzeppelin Wizard has a totally different content and it misses this import inside `GovToken.sol`:
   `import {Nonces} from "@openzeppelin/contracts/utils/Nonces.sol";`
 - The voting delay has now changed from 1 block to 7400: this value has to be updated also for the `VOTING_DELAY` state variable inside `GovernorTest.sol`.
 
