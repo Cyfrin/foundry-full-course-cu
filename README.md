@@ -492,6 +492,42 @@ Cyfrin Updraft Courses:
 <summary>
 <a href="#advanced-foundry-section-6-foundry-account-abstraction">Advanced Foundry Section 6: Foundry Account Abstraction</a>
 </summary>
+<ol>
+    <li><a href="#what-is-account-abstraction">What is account abstraction?</a></li>
+    <li><a href="#code-overview">Code Overview</a></li>
+    <li><a href="#ethereum-setup">Ethereum Setup</a></li>
+    <li><a href="#packeduseroperation">PackedUserOperation</a></li>
+    <li><a href="#validate-userop">Validate UserOp</a></li>
+    <li><a href="#entrypoint-contract">EntryPoint Contract</a></li>
+    <li><a href="#execute-function-ethereum">Execute Function Ethereum</a></li>
+    <li><a href="#deployment-script-for-an-ethereum-account">Deployment Script for an Ethereum Account</a></li>
+    <li><a href="#tests-owner-can-execute">Tests Owner can Execute</a></li>
+    <li><a href="#unsigned-packeduseroperation-test">Unsigned PackedUserOperation Test</a></li>
+    <li><a href="#signed-userop-test">Signed UserOp Test</a></li>
+    <li><a href="#using-unlocked-accounts-for-local-development">Using unlocked accounts for local development</a></li>
+    <li><a href="#test-validation-of-user-ops">Test Validation of User Ops</a></li>
+    <li><a href="#test-entry-point">Test Entry Point</a></li>
+    <li><a href="#advanced-debugging">Advanced Debugging</a></li>
+    <li><a href="#mid-session-recap">Mid-session Recap</a></li>
+    <li><a href="#live-demo-on-arbitrum">Live Demo on Arbitrum</a></li>
+    <li><a href="#zksync-native-account-abstraction">ZKsync Native Account Abstraction</a></li>
+    <li><a href="#iaccount">IAccount</a></li>
+    <li><a href="#system-contracts">System Contracts</a></li>
+    <li><a href="#type-113-lifecycle">Type 113 LifeCycle</a></li>
+    <li><a href="#mid-zksync-recap">Mid-ZKsync Recap</a></li>
+    <li><a href="#system-contract-call-zksync-simulations">System Contract Call ZKsync Simulations</a></li>
+    <li><a href="#validate-transaction-zksync">Validate Transaction ZKsync</a></li>
+    <li><a href="#execute-function-zksync">Execute Function ZKsync</a></li>
+    <li><a href="#pay-for-transaction-zksync">Pay For Transaction ZKsync</a></li>
+    <li><a href="#execute-transaction-from-outside">Execute Transaction From Outside</a></li>
+    <li><a href="#zksync-tests">ZKsync Tests</a></li>
+    <li><a href="#building-a-transaction-struct">Building a Transaction Struct</a></li>
+    <li><a href="#via-ir">Via Ir</a></li>
+    <li><a href="#validate-transaction-test">Validate Transaction Test</a></li>
+    <li><a href="#clean-up-zksync">Clean Up ZKsync</a></li>
+    <li><a href="#testnet-zksync-demo">Testnet ZKsync Demo</a></li>
+    <li><a href="#rcap--end">Recap & End</a></li>
+</ol>
 </details>
 <details>
 <summary>
