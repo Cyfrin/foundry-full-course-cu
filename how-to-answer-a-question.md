@@ -30,7 +30,7 @@ But don't be a jerk about it. If they just need a little formatting touch-up, ju
 
 * Often times, people will ask questions where the answer might be X, but they are trying to do Y. Try to anticipate what people are trying to do. Answer the question at face value, and then maybe give more information on where to go next. 
 
-* Often, giving a summary of your answer at the top with copy pasteable code, and then a "more information" is a best practice. 
+* Often, giving a summary of your answer at the top with copy-pasteable code, and then a "more information" is a best practice. 
 
 # 3. Remember this is living documentation!
 
