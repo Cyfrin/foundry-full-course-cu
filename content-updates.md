@@ -50,7 +50,7 @@ Bots, bots, bots! Let's figure out what they're all about and how you can outwit
 
 8️⃣ "The Must-Read Web3 Books: Get Your Read On!" 📚
 
-Calling all book nerds! We're gonna dish on the books you can't afford to miss if you're serious about Web3. Might even chat with a few authors, who's knows?
+Calling all book nerds! We're gonna dish on the books you can't afford to miss if you're serious about Web3. Might even chat with a few authors, who knows?
 
 9️⃣ "Mastering In-line Assembly and Yul" 🤖
 
