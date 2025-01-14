@@ -56,7 +56,6 @@ Please refer to this for an in-depth explanation of the content:
       </a>
 </p>
 
-
 <br/>
 
 Cyfrin Updraft Courses:
@@ -435,7 +434,16 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#advanced-foundry-section-4-foundry-merkle-airdrop-and-signatures">Advanced Foundry Section 4: Foundry Merkle Airdrop and Signatures</a>
+<a href="#advanced-foundry-section-4-foundry-merkle-airdrop-and-signatures">Advanced Foundry Section 4: Foundry Cross-Chain Rebase Token</a>
+</summary>
+<ol>
+    <li><a href="#introduction-to-merkle-airdrops-and-code-walkthrough">Introduction and Code Walkthrough</a></li>
+</ol>
+</details>
+
+<details>
+<summary>
+<a href="#advanced-foundry-section-4-foundry-merkle-airdrop-and-signatures">Advanced Foundry Section 5: Foundry Merkle Airdrop and Signatures</a>
 </summary>
 <ol>
     <li><a href="#introduction-to-merkle-airdrops-and-code-walkthrough">Introduction to Merkle Airdrops and Code Walkthrough</a></li>
@@ -468,7 +476,7 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#advanced-foundry-section-5-foundry-upgrades">Advanced Foundry Section 5: Foundry Upgrades</a>
+<a href="#advanced-foundry-section-5-foundry-upgrades">Advanced Foundry Section 6: Foundry Upgrades</a>
 </summary>
 <ol>
     <li><a href="#introduction-9">Introduction</a></li>
@@ -490,7 +498,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#advanced-foundry-section-6-foundry-account-abstraction">Advanced Foundry Section 6: Foundry Account Abstraction</a>
+<a href="#advanced-foundry-section-6-foundry-account-abstraction">Advanced Foundry Section 7: Foundry Account Abstraction</a>
 </summary>
 <ol>
     <li><a href="#what-is-account-abstraction">What is account abstraction?</a></li>
@@ -531,7 +539,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#advanced-foundry-section-7-foundry-dao--governance">Advanced Foundry Section 7: Foundry DAO / Governance</a>
+<a href="#advanced-foundry-section-7-foundry-dao--governance">Advanced Foundry Section 8: Foundry DAO / Governance</a>
 </summary>
   <ol>
     <li><a href="#introduction-10">Introduction</a></li>
@@ -550,7 +558,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#advanced-foundry-section-8-smart-contract-security--auditing-for-developers">Advanced Foundry Section 8: Smart Contract Security & Auditing (For developers)</a>
+<a href="#advanced-foundry-section-8-smart-contract-security--auditing-for-developers">Advanced Foundry Section 9: Smart Contract Security & Auditing (For developers)</a>
 </summary>
   <ol>
     <li><a href="#introduction-11">Introduction</a></li>
@@ -666,14 +674,11 @@ IF YOU DECIDE TO MINT THE REAL NFT:
    5. [Coinbase Wallet](https://www.coinbase.com/wallet)
 3. Use the [ZKsync Bridge](https://portal.zksync.io/bridge/)
 
-
-
 # Welcome to the Course Repo
 
 ## Welcome to Ultimate Smart Contract Development Course!
 
 <!-- _[ (0:00:00) | Section 0: Welcome!](https://www.youtube.com/watch?v=umepbfKp5rI&t=0s)_ -->
-
 
 ## Best Practices
 
@@ -694,7 +699,6 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 [⭐️ Blockchain Basics Course](https://updraft.cyfrin.io/courses/blockchain-basics)
 
 The Blockchain Basics has it's own [GitHub repository (aka, codebase)](https://github.com/Cyfrin/blockchain-basics-cu?tab=readme-ov-file). You can find it here: [https://github.com/Cyfrin/blockchain-basics-cu?tab=readme-ov-file](https://github.com/Cyfrin/blockchain-basics-cu?tab=readme-ov-file)
-
 
 # Solidity 101 Section 1: Simple Storage
 
@@ -992,7 +996,6 @@ _[⌨️ Testnet Demo](https://updraft.cyfrin.io/courses/solidity/fund-me/testne
 
 - [Disconnecting Metamask](https://help.1inch.io/en/articles/4666771-metamask-how-to-connect-disconnect-and-switch-accounts-with-metamask-on-1inch-network)
 
-
 ### Immutable & Constant
 
 _[⌨️ Immutable & Constant](https://updraft.cyfrin.io/courses/solidity/fund-me/solidity-immutability-and-constants)_
@@ -1123,7 +1126,6 @@ _[⌨️ Foundry Install ](https://updraft.cyfrin.io/courses/foundry/foundry-sim
 
 _[⌨️ VSCode Setup II ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/vscode-setup)_
 
-
 - CoPilot
 - Copilot labs
 - Hardhat Solidity Extension
@@ -1249,7 +1251,6 @@ ANYWHERE written in plain text
 
 - [Someone fix this please](https://github.com/foundry-rs/foundry/issues/3818)
 
-
 ## Deploying to a testnet or a mainnet
 
 _[⌨️ Deploying to a testnet Sepolia ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/deploying-smart-contract-testnet-sepolia)_
@@ -1281,8 +1282,6 @@ _[⌨️ Cleaning up the project ](https://updraft.cyfrin.io/courses/foundry/fou
 - _[⌨️ Tx Types ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/tx-types)_
 - _[⌨️ Why L2 ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/why-l2)_
 
-
-
 ## Alchemy and the mempool
 
 _[⌨️ Alchemy and the mempool ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/introduction-to-alchemy)_
@@ -1300,7 +1299,6 @@ _[⌨️ Summary ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-stor
 - [Sepolia](https://sepolia.etherscan.io/address/0x6c4791c3a9E9Bc5449045872Bd1b602d6385E3E1#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
-
 
 ## Foundry Fundamentals Section 2: Foundry Fund Me
 
@@ -1407,8 +1405,6 @@ _[⌨️ Magic Numbers ](https://updraft.cyfrin.io/courses/foundry/foundry-fund-
 
 _[⌨️ Refactoring III: Mocking (continued) ](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/refactoring-mocks-2)_
 
-
-
 ## More Cheatcodes
 
 _[⌨️ More Cheatcodes ](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/foundr-tests-cheatcodes)_
@@ -1495,7 +1491,6 @@ _[⌨️ Makefile ](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/ma
 
 _[⌨️ ZKsync Devops ](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/zksync-devops)_
 
-
 ## Pushing to GitHub
 
 _[⌨️ Pushing to GitHub ](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/pushing-to-github)_
@@ -1545,6 +1540,7 @@ _[⌨️ Setup ](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/fund-
 ## How Metamask works with your browser
 
 <!-- TODO: Replace with Correct updraft sections -->
+
 _[⌨️ How Metamask works with your browser ]()_
 
 - [Metamask Docs](https://docs.metamask.io/)
@@ -1715,12 +1711,11 @@ _[⌨️ Tests & Deploy Script Setup ](https://updraft.cyfrin.io/courses/foundry
 
 ## Deploy Script
 
-_[⌨️  Script Setup ](https://updraft.cyfrin.io/courses/foundry/smart-contract-lottery/deploy-script)_
-
+_[⌨️ Script Setup ](https://updraft.cyfrin.io/courses/foundry/smart-contract-lottery/deploy-script)_
 
 ### Mock Chainlink VRF Coordinator
 
-_[⌨️  Mock Chainlink VRF Coordinator ](https://updraft.cyfrin.io/courses/foundry/smart-contract-lottery/deploy-mock-chainlink-vrf)_
+_[⌨️ Mock Chainlink VRF Coordinator ](https://updraft.cyfrin.io/courses/foundry/smart-contract-lottery/deploy-mock-chainlink-vrf)_
 
 ## Tests & Deploy Script Continued
 
@@ -1744,7 +1739,7 @@ _[⌨️ Testing Events in Foundry ](https://updraft.cyfrin.io/courses/foundry/s
 
 ### vm.roll & vm.warp
 
-_[⌨️  vm.roll & vm.warp ](https://updraft.cyfrin.io/courses/foundry/smart-contract-lottery/vm-roll-warp)_
+_[⌨️ vm.roll & vm.warp ](https://updraft.cyfrin.io/courses/foundry/smart-contract-lottery/vm-roll-warp)_
 
 ## Create Subscription Script
 
@@ -1778,7 +1773,6 @@ _[⌨️ More Tests ](https://updraft.cyfrin.io/courses/foundry/smart-contract-l
 ## Coverage Report
 
 _[⌨️ Coverage Report ](https://updraft.cyfrin.io/courses/foundry/smart-contract-lottery/coverage-report)_
-
 
 ## PerformUpkeep Tests
 
@@ -1893,8 +1887,6 @@ _[⌨️ AI Tests ](https://updraft.cyfrin.io/courses/advanced-foundry/How-to-cr
 
 - [Token Approvals](https://etherscan.io/tokenapprovalchecker)
 
-
-
 ## Advanced Foundry Section 1 NFTs
 
 - [ZKsync](https://explorer.zksync.io/address/0x475d9da05E73e283EB5B490c89cfDf36B0Bca5fc)
@@ -1920,7 +1912,7 @@ _[⌨️ What is an NFT? ](https://updraft.cyfrin.io/courses/advanced-foundry/ho
 
 ## Foundry Setup
 
-_[⌨️  Foundry Setup ](https://updraft.cyfrin.io/courses/advanced-foundry/how-to-create-an-NFT-collection/foundry-setup)_
+_[⌨️ Foundry Setup ](https://updraft.cyfrin.io/courses/advanced-foundry/how-to-create-an-NFT-collection/foundry-setup)_
 
 - TokenURI
 - Pudgy Penguin Example
@@ -1933,7 +1925,7 @@ _[⌨️ IPFS ](https://updraft.cyfrin.io/courses/advanced-foundry/how-to-create
 
 ## Using IPFS
 
-_[⌨️  Using IPFS ](https://updraft.cyfrin.io/courses/advanced-foundry/how-to-create-an-NFT-collection/upload-data-on-IPFS)_
+_[⌨️ Using IPFS ](https://updraft.cyfrin.io/courses/advanced-foundry/how-to-create-an-NFT-collection/upload-data-on-IPFS)_
 
 ## Basic NFT: Deploy Script
 
@@ -2006,7 +1998,6 @@ _[⌨️ SVG NFT: Anvil Demo ](https://updraft.cyfrin.io/courses/advanced-foundr
 
 _[⌨️ NFTS: Filecoin & Arweave ](https://updraft.cyfrin.io/courses/advanced-foundry/how-to-create-an-NFT-collection/introduction-to-filecoin-arweave)_
 
-
 ## Advanced: EVM Opcodes, Encoding, and Calling
 
 _[⌨️ Advanced: EVM Opcodes, Encoding, and Calling ](https://updraft.cyfrin.io/courses/advanced-foundry/how-to-create-an-NFT-collection/evm-opcodes-advanced)_
@@ -2061,15 +2052,11 @@ _[⌨️ (10:36:31) | Section 2 Recap ](https://updraft.cyfrin.io/courses/advanc
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-
-
-
-
 # Advanced Foundry Section 3: Foundry DeFi | Stablecoin (The PINNACLE PROJECT!! GET HERE!)
 
 💻 Code: [https://github.com/Cyfrin/foundry-defi-stablecoin-cu](https://github.com/Cyfrin/foundry-defi-stablecoin-cu)
 
-This is one of the top projects you can build in the blockchain space. A decentralized stablecoin! We will teach you about the differences between DAI, USDC, RAI, and other stablecoins, and allow you to build your own. 
+This is one of the top projects you can build in the blockchain space. A decentralized stablecoin! We will teach you about the differences between DAI, USDC, RAI, and other stablecoins, and allow you to build your own.
 
 ## Introduction
 
@@ -2253,13 +2240,136 @@ _[⌨️ Lens Protocol ](https://updraft.cyfrin.io/courses/advanced-foundry/deve
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Advanced Foundry Section 4: Foundry Merkle Airdrop and Signatures
+# Advanced Foundry Section 4: Foundry Cross Chain Rebase Token
+
+💻 Code: [https://github.com/Cyfrin/foundry-cross-chain-rebase-token-cu](https://github.com/Cyfrin/foundry-cross-chain-rebase-token-cu)
+
+## Introduction and Code Walkthrough
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/introduction)_
+
+## What is a rebase token
+
+_[⌨️ What is a rebase token ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/what-is-a-rebase-token)_
+
+## Rebase token code structure
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/rebase-token-code-structure)_
+
+## Writing the rebase token contract
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/writing-the-rebase-token-contract)_
+
+## mintInterest and burn functions
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/mintinterest-and-burn-functions)_
+
+## Finish rebase token contract
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/finish-rebase-token-contract)_
+
+## Access controll
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/access-control)_
+
+## Vault and NATSPEC
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/vault-and-natspec)_
+
+## Rebase token tests part 1
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/rebase-token-tests-part-1)_
+
+## Rebase token tests part 2
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/rebase-token-tests-part-2)_
+
+## Vulnerabilities and cross-chain intro
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/vulnerabilities-and-cross-chain-intro)_
+
+## Bridging
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/bridging)_
+
+## CCIP
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/ccip)_
+
+## The CCT standard
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/the-cct-standard)_
+
+## Pool contract
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/pool-contract)_
+
+## Finish pool contract
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/finish-pool-contract)_
+
+## Chainlink local and fork testing
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/chainlink-local-and-fork-testing)_
+
+## Deploy token test
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/deploy-token-test)_
+
+## CCIP setup test
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/ccip-setup-test)_
+
+## Configure pool test
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/configure-pool-test)_
+
+## Bridge function test
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/bridge-function-introduction)_
+
+## First cross chain test
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/first-cross-chain-test)_
+
+## Vault deployer script
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/vault-deployer-script)_
+
+## Token and pool deployer script
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/token-and-pool-deployer-script)_
+
+## Pool config script
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/pool-config-script)_
+
+## Bridging script
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/bridging-script)_
+
+## Build scripts
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/build-scripts)_
+
+## Run scripts on testnet
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/run-scripts-on-testnet)_
+
+## Cross chain message received
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/cross-chain-message-received)_
+
+## Outro
+
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/outro)_
+
+# Advanced Foundry Section 5: Foundry Merkle Airdrop and Signatures
 
 💻 Code: [https://github.com/Cyfrin/foundry-merkle-airdrop-cu](https://github.com/Cyfrin/foundry-merkle-airdrop-cu)
 
-
 ## Introduction to Merkle Airdrops and Code Walkthrough
- 
+
 _[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/merkle-airdrop/introduction)_
 
 ## Project Setup
@@ -2270,34 +2380,35 @@ _[⌨️ Project Setup ](https://updraft.cyfrin.io/courses/advanced-foundry/merk
 
 _[⌨️ Merkle Proofs ](https://updraft.cyfrin.io/courses/advanced-foundry/merkle-airdrop/merkle-proofs)_
 
-
 ## Base Airdrop Contract
 
 _[⌨️ Base Airdrop Contract](https://updraft.cyfrin.io/courses/advanced-foundry/merkle-airdrop/base-airdrop-contract)_
 
-
 - Second preimage attack articles [[1](https://flawed.net.nz/2018/02/21/attacking-merkle-trees-with-a-second-preimage-attack/), [2](https://www.rareskills.io/post/merkle-tree-second-preimage-attack)]
 
 ## Already Claimed Check
+
 _[⌨️ Already Claimed Check](https://updraft.cyfrin.io/courses/advanced-foundry/merkle-airdrop/already-claimed-check)_
-  
+
 ## Merkle Tree Scripts
+
 _[⌨️ Merkle Tree Scripts](https://updraft.cyfrin.io/courses/advanced-foundry/merkle-airdrop/merkle-tree-script)_
-  
+
 ## Writing the Tests
+
 _[⌨️ Writing the Tests](https://updraft.cyfrin.io/courses/advanced-foundry/merkle-airdrop/writing-the-tests)_
-  
+
 ## Deployment Script
+
 _[⌨️ Deployment Script](https://updraft.cyfrin.io/courses/advanced-foundry/merkle-airdrop/deployment-script)_
-  
+
 ## Adding Signature Verification
+
 _[⌨️ Adding Signature Verification](https://updraft.cyfrin.io/courses/advanced-foundry/merkle-airdrop/adding-signature-verification)_
-  
 
 ## Signature Standards
 
 _[⌨️ Signature Standards](https://updraft.cyfrin.io/courses/advanced-foundry/merkle-airdrop/signature-standards)_
-
 
 - [EIP-191](https://eips.ethereum.org/EIPS/eip-191)
 - [EIP-712](https://eips.ethereum.org/EIPS/eip-712)
@@ -2307,7 +2418,6 @@ _[⌨️ Signature Standards](https://updraft.cyfrin.io/courses/advanced-foundry
 
 _[⌨️ ECDSA Signatures](https://updraft.cyfrin.io/courses/advanced-foundry/merkle-airdrop/ecdsa-signatures)_
 
-
 - [ECDSA signatures article](https://www.cyfrin.io/blog/elliptic-curve-digital-signature-algorithm-and-signatures)
 - [Signature Malleability - Section 4 of the Replay Attacks Article](https://www.cyfrin.io/blog/replay-attack-in-ethereum)
 
@@ -2316,7 +2426,6 @@ _[⌨️ ECDSA Signatures](https://updraft.cyfrin.io/courses/advanced-foundry/me
 ## Transaction Types Introduction
 
 _[⌨️ Transaction Types Introduction](https://updraft.cyfrin.io/courses/advanced-foundry/merkle-airdrop/transaction-types-introduction)_
-
 
 ## Transaction Types
 
@@ -2328,7 +2437,6 @@ _[⌨️ Transaction Types](https://updraft.cyfrin.io/courses/advanced-foundry/m
 ## Blob Transactions
 
 _[⌨️ Blob Transactions](https://updraft.cyfrin.io/courses/advanced-foundry/merkle-airdrop/blob-transactions)_
-
 
 - [Blob transactions article](https://www.cyfrin.io/blog/what-is-eip-4844-proto-danksharding-and-blob-transactions)
 
@@ -2346,9 +2454,9 @@ _[⌨️ Blob Transactions](https://updraft.cyfrin.io/courses/advanced-foundry/m
 - Deploy and Claim on ZKsync Sepolia
 - Summary
 
-## Advanced Foundry Section 4 NFTs (TBD)
+## Advanced Foundry Section 5 NFTs (TBD)
 
-# Advanced Foundry Section 5: Foundry Upgrades
+# Advanced Foundry Section 6: Foundry Upgrades
 
 💻 Code: [https://github.com/Cyfrin/foundry-upgrades-cu](https://github.com/Cyfrin/foundry-upgrades-cu)
 
@@ -2395,7 +2503,6 @@ _[⌨️ UUPS Setup ](https://updraft.cyfrin.io/courses/advanced-foundry/upgrade
 - [UUPS vs Transparent](https://docs.openzeppelin.com/contracts/4.x/api/proxy#transparent-vs-uups)
 - Abstract Contracts
 
-
 ### Deploy
 
 _[⌨️ Deploy ](https://updraft.cyfrin.io/courses/advanced-foundry/upgradeable-smart-contracts/deploy-upgreadable-smart-contracts)_
@@ -2414,14 +2521,14 @@ _[⌨️ (5:53:48) | Test/Demo ](https://youtu.be/wUjYK5gwNZs?t=21228)_
 
 _[⌨️ Testnet Demo ](https://updraft.cyfrin.io/courses/advanced-foundry/upgradeable-smart-contracts/testnet-demo)_
 
-## Advanced Foundry Section 5 NFTs
+## Advanced Foundry Section 6 NFTs
 
 - [ZKsync](https://explorer.zksync.io/address/0xaf3697C1B7e686a7f83dcbb753AcbBA4c2A940aB#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0xaFa4150818b7843345A5E54E430Bd0cAE31B5c0C#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Advanced Foundry Section 6: Foundry Account Abstraction
+# Advanced Foundry Section 7: Foundry Account Abstraction
 
 💻 Code: [https://github.com/Cyfrin/minimal-account-abstraction](https://github.com/Cyfrin/minimal-account-abstraction)
 
@@ -2502,7 +2609,7 @@ _[⌨️ Live Demo](https://updraft.cyfrin.io/courses/advanced-foundry/account-a
 
 _[⌨️ ZKsync Setup](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/zksync-setup)_
 
-## IAccount 
+## IAccount
 
 _[⌨️ IAccount](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/iaccount)_
 
@@ -2566,9 +2673,9 @@ _[⌨️ Testnet Demo](https://updraft.cyfrin.io/courses/advanced-foundry/accoun
 
 _[⌨️ Recap End](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/recap-end)_
 
-## Advanced Foundry Section 6 NFTs (TBD)
+## Advanced Foundry Section 7 NFTs (TBD)
 
-# Advanced Foundry Section 7: Foundry DAO / Governance
+# Advanced Foundry Section 8: Foundry DAO / Governance
 
 Plutocracy is bad! Don't default to ERC20 token voting!!
 
@@ -2596,7 +2703,6 @@ _[⌨️ DAOs tooling - Special Guest from Aragon](https://updraft.cyfrin.io/cou
 
 _[⌨️ Build your own DAO Setup](https://updraft.cyfrin.io/courses/advanced-foundry/daos/introduction-to-aragon-dao)_
 
-
 - [How to build a DAO](https://www.youtube.com/watch?v=AhJtmUqhAqg)
 - That's Patrick
 - [PY Code](https://github.com/brownie-mix/dao-mix)
@@ -2614,7 +2720,6 @@ _[⌨️ Governance Tokens](https://updraft.cyfrin.io/courses/advanced-foundry/d
 
 _[⌨️ Creating the Governor Contract](https://updraft.cyfrin.io/courses/advanced-foundry/daos/create-governor-contract)_
 
-
 - [CastVoteBySig](https://forum.openzeppelin.com/t/what-is-votecastbysig/17069/2)
 
 ## Tests
@@ -2629,14 +2734,14 @@ _[⌨️ Section Recap](https://updraft.cyfrin.io/courses/advanced-foundry/daos/
 
 - Special Guest [Harrison](https://twitter.com/PopPunkOnChain)
 
-## Advanced Foundry Section 7 NFTs
+## Advanced Foundry Section 8 NFTs
 
 - [ZKsync](https://explorer.zksync.io/address/0xC63704f836505F6967d8e6Ee8A1678B57f7b5Ec9)
 - [Sepolia](https://sepolia.etherscan.io/address/0x46F3fE2C8aC9e9AE4DEDE1a7a29Ab3BdcFa7eaFc#code)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Advanced Foundry Section 8: Smart Contract Security & Auditing (For developers)
+# Advanced Foundry Section 9: Smart Contract Security & Auditing (For developers)
 
 Developers 100% should know all about this! Don't leave the course without at least watching this section!
 
@@ -2728,7 +2833,7 @@ _[⌨️ Wrap. Up](https://updraft.cyfrin.io/courses/advanced-foundry/security/c
   - [Trust](https://www.trust-security.xyz/)
   - [More](https://patrickalphac.medium.com/top-7-smart-contract-auditors-bec7bd70dd9f)
 
-## Advanced Foundry Section 8 NFTs
+## Advanced Foundry Section 9 NFTs
 
 - [ZKsync](https://explorer.zksync.io/address/0xb54B64B3BB587b39F189797c68A6bd183fFB4379#contract)
 - [Sepolia](https://sepolia.etherscan.io/address/0x766a74f8924C7B07df088fDB0F7D7DbaDd330Fb3#code)
