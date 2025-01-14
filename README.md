@@ -2746,6 +2746,8 @@ _[⌨️ Section Recap](https://updraft.cyfrin.io/courses/advanced-foundry/daos/
 Developers 100% should know all about this! Don't leave the course without at least watching this section!
 
 > [!IMPORTANT]
+> PLEASE AT LEAST WATCH THE DOCKER CONTAINER SECTION OF THIS CURRICULUM!!
+> You can find a shorter video of the [docker curriculum here.](https://www.youtube.com/watch?v=5p8fQ45TwUs)
 > We highly recommend you head over to the end-to-end [Cyfrin Updraft Security and Auditing Curriculum](https://updraft.cyfrin.io/courses/security).
 
 🖥️ Code: https://github.com/PatrickAlphaC/denver-security
@@ -2811,6 +2813,10 @@ _[⌨️ Manual Review with Tincho](https://updraft.cyfrin.io/courses/advanced-f
 _[⌨️ Formal Verification](https://updraft.cyfrin.io/courses/advanced-foundry/security/formal-verification)_
 
 - [Formal Verification & Symbolic Execution | W/ Trail Of Bits](https://www.youtube.com/watch?v=izpoxfTSaFs)
+
+## Isolated Development Environments
+
+- [Watch this video](https://www.youtube.com/watch?v=5p8fQ45TwUs)
 
 ## Closing Thoughts
 
