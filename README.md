@@ -2440,7 +2440,7 @@ _[⌨️ Code Overview](https://updraft.cyfrin.io/courses/advanced-foundry/accou
 
 ## Ethereum Setup
 
-_[⌨️ Etheren Account Abstraction](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/eth-setup)_
+_[⌨️ Ethereum Account Abstraction](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/eth-setup)_
 
 ## PackedUserOperation
 
@@ -2468,7 +2468,7 @@ _[⌨️ Tests Owner can Execute](https://updraft.cyfrin.io/courses/advanced-fou
 
 ## Unsigned PackedUserOperation Test
 
-_[⌨️ Get Unsigened PackedUserOperation](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/unsigned-packed-user-op)_
+_[⌨️ Get Unsigned PackedUserOperation](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/unsigned-packed-user-op)_
 
 ## Signed UserOp Test
 
@@ -2562,7 +2562,7 @@ _[⌨️ Clean up](https://updraft.cyfrin.io/courses/advanced-foundry/account-ab
 
 _[⌨️ Testnet Demo](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/testnet-last)_
 
-## Rcap & End
+## Recap & End
 
 _[⌨️ Recap End](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/recap-end)_
 
