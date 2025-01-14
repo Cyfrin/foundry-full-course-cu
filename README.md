@@ -104,7 +104,7 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#blockchain-basics-section-1-what-is-a-blockchain-what-does-a-blockchain-do">Course: Blockchain Basics Section 1</a>
+<a href="#course-blockchain-basics">Course: Blockchain Basics</a>
 </summary>
 </details>
 
@@ -434,7 +434,7 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#advanced-foundry-section-4-foundry-merkle-airdrop-and-signatures">Advanced Foundry Section 4: Foundry Cross-Chain Rebase Token</a>
+<a href="#advanced-foundry-section-4-foundry-cross-chain-rebase-token">Advanced Foundry Section 4: Foundry Cross-Chain Rebase Token</a>
 </summary>
 <ol>
     <li><a href="#introduction-to-merkle-airdrops-and-code-walkthrough">Introduction and Code Walkthrough</a></li>
@@ -443,7 +443,7 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#advanced-foundry-section-4-foundry-merkle-airdrop-and-signatures">Advanced Foundry Section 5: Foundry Merkle Airdrop and Signatures</a>
+<a href="#advanced-foundry-section-5-foundry-merkle-airdrop-and-signatures">Advanced Foundry Section 5: Foundry Merkle Airdrop and Signatures</a>
 </summary>
 <ol>
     <li><a href="#introduction-to-merkle-airdrops-and-code-walkthrough">Introduction to Merkle Airdrops and Code Walkthrough</a></li>
@@ -476,7 +476,7 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#advanced-foundry-section-5-foundry-upgrades">Advanced Foundry Section 6: Foundry Upgrades</a>
+<a href="#advanced-foundry-section-6-foundry-upgrades">Advanced Foundry Section 6: Foundry Upgrades</a>
 </summary>
 <ol>
     <li><a href="#introduction-9">Introduction</a></li>
@@ -498,7 +498,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#advanced-foundry-section-6-foundry-account-abstraction">Advanced Foundry Section 7: Foundry Account Abstraction</a>
+<a href="#advanced-foundry-section-7-foundry-account-abstraction">Advanced Foundry Section 7: Foundry Account Abstraction</a>
 </summary>
 <ol>
     <li><a href="#what-is-account-abstraction">What is account abstraction?</a></li>
@@ -539,7 +539,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#advanced-foundry-section-7-foundry-dao--governance">Advanced Foundry Section 8: Foundry DAO / Governance</a>
+<a href="#advanced-foundry-section-8-foundry-dao--governance">Advanced Foundry Section 8: Foundry DAO / Governance</a>
 </summary>
   <ol>
     <li><a href="#introduction-10">Introduction</a></li>
@@ -558,7 +558,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#advanced-foundry-section-8-smart-contract-security--auditing-for-developers">Advanced Foundry Section 9: Smart Contract Security & Auditing (For developers)</a>
+<a href="#advanced-foundry-section-9-smart-contract-security--auditing-for-developers">Advanced Foundry Section 9: Smart Contract Security & Auditing (For developers)</a>
 </summary>
   <ol>
     <li><a href="#introduction-11">Introduction</a></li>
