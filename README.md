@@ -2268,7 +2268,7 @@ _[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross
 
 _[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/finish-rebase-token-contract)_
 
-## Access controll
+## Access control
 
 _[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/access-control)_
 
