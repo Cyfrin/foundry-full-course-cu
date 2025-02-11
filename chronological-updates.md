@@ -129,7 +129,7 @@ contract GovernorTest is Test {
 }
 ```
 
-2. The role **TIMELOCK_ADMIN_ROLE** has been removed inside `TimelockController.sol`. The admin can be set inside the MyTimelock constructor (1) and then (2) can be revoked after the assignment of the needed roles to MyGoverner.
+2. The role **TIMELOCK_ADMIN_ROLE** has been removed inside `TimelockController.sol`. The admin can be set inside the MyTimelock constructor (1) and then (2) can be revoked after the assignment of the needed roles to MyGovernor.
 
 ```solidity
 contract MyTimelock is TimelockController {
