@@ -41,7 +41,7 @@ Github Issues:
 - Not a GitHub issue, but this package should be clearer: https://www.npmjs.com/package/@matterlabs/zksync-contracts
 
 ## Rationale
-The current [zksync-contracts](https://www.npmjs.com/package/@matterlabs/zksync-contracts) npm packages is currently recommended in the ZKsync documentation, however it's very unclear what code it is using and how to contribute. At the moment, this lack of clarity could be considered a security issue, as the code was published a year ago and the ZKsync chain has changed a lot since then. In the future, the [era-contracts](https://github.com/matter-labs/era-contracts) should replace it
+The current [zksync-contracts](https://www.npmjs.com/package/@matterlabs/zksync-contracts) npm packages are currently recommended in the ZKsync documentation, however it's very unclear what code it is using and how to contribute. At the moment, this lack of clarity could be considered a security issue, as the code was published a year ago and the ZKsync chain has changed a lot since then. In the future, the [era-contracts](https://github.com/matter-labs/era-contracts) should replace it
 
 # 5. Using 5.0.0+ of openzeppelin libraries and hardhat 
 - [ ] The dependency on specific openzeppelin packages should be removed for zksync libraries.
