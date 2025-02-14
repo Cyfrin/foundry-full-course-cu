@@ -16,7 +16,7 @@ Thank you for wanting to answer questions! This is how we grow as a community :)
  
 * If the question has already been asked and answered, answer with a link to the question that has already been asked and answered and ask if that solves the problem.
  
-* If the problem has a poor title, doesn't make sense to others, etc, feel free to edit the question to what does if you can understand it. If not, you can answer by saying "I don't quite understand what you're asking, could you reformat your question following the "how to ask a question" guide? 
+* If the problem has a poor title, doesn't make sense to others, etc, feel free to edit the question to what it does if you can understand it. If not, you can answer by saying "I don't quite understand what you're asking, could you reformat your question following the "how to ask a question" guide? 
  
 * If they used screenshots, feel free to ask them to copy-paste the code. 
  
@@ -24,7 +24,7 @@ Thank you for wanting to answer questions! This is how we grow as a community :)
 
 ### Don't feel obliged to help right away if they are not asking well-formatted questions. Make them ask a well-formatted question first before you answer!
 
-But don't be a jerk about it. If they just need a little formatting touch-up, just touch-up their question for them. 
+But don't be a jerk about it. If they just need a little formatting touch up, just touch up their question for them. 
 
 # 2. Make sure your answer unblocks them
 
