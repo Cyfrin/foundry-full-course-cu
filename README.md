@@ -1561,7 +1561,7 @@ _[⌨️ Recap ]()_
 
 ## Foundry Fundamentals Section 3 NFTs
 
-- **IPFS hash for website** - ipfs://QmdCBj5B188qzXgG1LUCD6aKe6RJHqbSgu7YfPyncDirzh
+- **IPFS hash for website** - ipfs://QmUgc1xpNgTMwSF2GBS5FTFKmSdrmSnLJD5DoYZtcQ2n5X
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
