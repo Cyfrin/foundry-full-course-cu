@@ -41,7 +41,7 @@ This repository houses course resources and [discussions](https://github.com/Cyf
 Please refer to this for an in-depth explanation of the content:
 
 - [Website](https://updraft.cyfrin.io) - Join Cyfrin Updraft and enjoy 50+ hours of smart contract development courses
-- [Twitter](https://twitter.com/CyfrinUpdraft) - Stay updated with the latest course releases
+- [Twitter](https://x.com/CyfrinUpdraft) - Stay updated with the latest course releases
 - [LinkedIn](https://www.linkedin.com/school/cyfrin-updraft/) - Add Updraft to your learning experiences
 - [Discord](https://discord.gg/cyfrin) - Join a community of 3000+ developers and auditors
 - [Newsletter](https://cyfrin.io/newsletter) - Weekly security research tips and resources to level up your career
@@ -632,7 +632,7 @@ If you receive a flag pop-up requiring you to have 0.001 ETH on mainnet, you may
   - [Phind](https://www.phind.com/)
     - Like ChatGPT, but it searches the web
   - [Gemini](https://gemini.google.com/)
-  - [Other AI extensions](https://twitter.com/aisolopreneur/status/1654823630155464704?s=42&t=-pu_sCYtfrfPJU7OXfifrQ)
+  - [Other AI extensions](https://x.com/aisolopreneur/status/1654823630155464704?s=42&t=-pu_sCYtfrfPJU7OXfifrQ)
 - [Github Discussions](https://github.com/Cyfrin/foundry-full-course-cu/discussions)
   - Ask questions and chat about the course here!
 - [Stack Exchange Ethereum](https://ethereum.stackexchange.com/)
@@ -658,7 +658,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 
 1. We didn't audit the NFT, so if you want to make sure you'll be safe, interact with the contract using a burner wallet (a wallet with very little money that you don't use for anything else)
    1. In fact... Get good at interacting with wallets from a burner wallet
-2. Read my [Tweet thread on basic wallet safety](https://twitter.com/PatrickAlphaC/status/1663936101650685954)
+2. Read my [Tweet thread on basic wallet safety](https://x.com/PatrickAlphaC/status/1663936101650685954)
 3. It might be a good idea to wait till later in the course when we teach you about verifying metamask transactions.
 4. Feel free to mint NFTs on sepolia without worrying about the above
 
@@ -797,7 +797,7 @@ _[⌨️ Deploying to ZKsync](https://updraft.cyfrin.io/courses/solidity/simple-
 
 - ZKsync compiler edition: 0.8.24
 
-## 🐸🐦 [Tweet Me (add your contract in)!](https://twitter.com/intent/tweet?text=I%20just%20deployed%20a%20Smart%20Contract%20to%20the%20@zksyncdevs%20testnet!%0a%0a%20Thanks%20@PatrickAlphaC%20and%20@cyfrinupdraft!)
+## 🐸🐦 [Tweet Me (add your contract in)!](https://x.com/intent/tweet?text=I%20just%20deployed%20a%20Smart%20Contract%20to%20the%20@zksyncdevs%20testnet!%0a%0a%20Thanks%20@PatrickAlphaC%20and%20@cyfrinupdraft!)
 
 ## The EVM & A Recap of the section
 
@@ -1062,7 +1062,7 @@ _[⌨️ Formatting a question](https://updraft.cyfrin.io/courses/solidity/ai-pr
 
 _[⌨️ SpeedRunEthereum](https://updraft.cyfrin.io/courses/solidity/ai-prompting/speedrun)_
 
-- Special Guest [Austin](https://twitter.com/austingriffith)
+- Special Guest [Austin](https://x.com/austingriffith)
 
 ## Solidity 101 Section 4 NFTs
 
@@ -1095,7 +1095,7 @@ _[⌨️ Installation & Setup (MacOS & Linux) ](https://updraft.cyfrin.io/course
 
 _[⌨️ (Windows Setup (WSL) ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/development-environment-setup-windows)_
 
-- Special Guest [Vasiliy](https://twitter.com/cromewar)
+- Special Guest [Vasiliy](https://x.com/cromewar)
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/install)
   - When working in WSL, use Linux commands instead of Windows commands
 - [TroubleShooting](https://docs.microsoft.com/en-us/windows/wsl/troubleshooting)
@@ -1286,7 +1286,7 @@ _[⌨️ Cleaning up the project ](https://updraft.cyfrin.io/courses/foundry/fou
 
 _[⌨️ Alchemy and the mempool ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/introduction-to-alchemy)_
 
-- Special Guest [Vitto](https://twitter.com/VittoStack)
+- Special Guest [Vitto](https://x.com/VittoStack)
 - [Alchemy](https://alchemy.com/?a=673c802981)
 
 ## Summary
@@ -1420,7 +1420,7 @@ _[⌨️ More Cheatcodes ](https://updraft.cyfrin.io/courses/foundry/foundry-fun
 
 _[⌨️ More Coverage ](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/more-coverage)_
 
-- [State tree testing](https://twitter.com/PaulRBerg/status/1624763320539525121?s=20)
+- [State tree testing](https://x.com/PaulRBerg/status/1624763320539525121?s=20)
 - Arrange, Act, Assert
 - [hoax](https://book.getfoundry.sh/reference/forge-std/hoax?highlight=hoax#hoax)
 - uint160 -> address
@@ -1506,7 +1506,7 @@ _[⌨️ Pushing to GitHub ](https://updraft.cyfrin.io/courses/foundry/foundry-f
 - [The quickstart that we follow in the video](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-using-git)
 - [Learn about git and GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
-## 🐸🐦 [Tweet Me (add your repo in)!](https://twitter.com/intent/tweet?text=I%20just%20made%20my%20first%20Smart%20Contract%20repo%20using%20@solidity_lang,%20foundry,%20@chainlink,%20@AlchemyPlatform,%20and%20more!%0a%0aThanks%20@PatrickAlphaC%20and%20@cyfrinupdraft!!)
+## 🐸🐦 [Tweet Me (add your repo in)!](https://x.com/intent/tweet?text=I%20just%20made%20my%20first%20Smart%20Contract%20repo%20using%20@solidity_lang,%20foundry,%20@chainlink,%20@AlchemyPlatform,%20and%20more!%0a%0aThanks%20@PatrickAlphaC%20and%20@cyfrinupdraft!!)
 
 _[⌨️ (2:34:56) | Tweet Me (add your repo in)! ](https://youtu.be/sas02qSFZ74?t=9296)_
 
@@ -1634,7 +1634,7 @@ _[⌨️ Chainlink VRF ](https://updraft.cyfrin.io/courses/foundry/smart-contrac
 
 - Introduction to Chainlink VRF
 
-* Special Guest [Richard](https://twitter.com/RGottleber)
+* Special Guest [Richard](https://x.com/RGottleber)
 
 ### Sub-Section: Chainlink VRF
 
@@ -2006,7 +2006,7 @@ _[⌨️ Advanced: EVM Opcodes, Encoding, and Calling ](https://updraft.cyfrin.i
 
 - abi.encode
 - abi.encodePacked
-  Thanks to [Alex Roan](https://twitter.com/alexroan) for his help on this session!
+  Thanks to [Alex Roan](https://x.com/alexroan) for his help on this session!
 - Example Contract Creation Transaction
   What REALLY is the ABI?
 - EVM Opcodes
@@ -2225,7 +2225,7 @@ _[⌨️ Recap ](https://updraft.cyfrin.io/courses/advanced-foundry/develop-defi
 
 _[⌨️ Lens Protocol ](https://updraft.cyfrin.io/courses/advanced-foundry/develop-defi-protocol/introduction-to-lens-protocol)_
 
-- Special Guest [Nader](https://twitter.com/dabit3)
+- Special Guest [Nader](https://x.com/dabit3)
 - [Lens Protocol](https://www.lens.xyz/)
 
 ### More DeFi Learnings:
@@ -2691,7 +2691,7 @@ _[⭐️ Section 14 | DAOs & Governance](https://updraft.cyfrin.io/courses/advan
 ## What is a DAO?
 
 - [What is a DAO?](https://www.youtube.com/watch?v=X_QKZzd68ro)
-- Special Guest [Juliette](https://twitter.com/_juliettech)
+- Special Guest [Juliette](https://x.com/_juliettech)
 
 ## How to build a DAO
 
@@ -2732,7 +2732,7 @@ _[⌨️ Section Recap](https://updraft.cyfrin.io/courses/advanced-foundry/daos/
 
 ## Bonus: Gas optimization tips
 
-- Special Guest [Harrison](https://twitter.com/PopPunkOnChain)
+- Special Guest [Harrison](https://x.com/PopPunkOnChain)
 
 ## Advanced Foundry Section 8 NFTs
 
@@ -2863,7 +2863,7 @@ _[⌨️ Wrap. Up](https://updraft.cyfrin.io/courses/advanced-foundry/security/c
 
 ### Community
 
-- [Twitter](https://twitter.com/PatrickAlphaC)
+- [Twitter](https://x.com/PatrickAlphaC)
 - [Ethereum Discord](https://ethereum.org/en/)
 - [Reddit ethdev](https://www.reddit.com/r/ethdev/)
 
@@ -2871,7 +2871,7 @@ _[⌨️ Wrap. Up](https://updraft.cyfrin.io/courses/advanced-foundry/security/c
 
 - [CL Hackathon](https://chain.link/hackathon)
 - [ETH Global](https://ethglobal.co/)
-- [ETH India](https://twitter.com/ETHIndiaco)
+- [ETH India](https://x.com/ETHIndiaco)
 
 Be sure to check out project grant programs!
 
