@@ -10,7 +10,7 @@ Thank you for wanting to answer questions! This is how we grow as a community :)
 
 # 1. Make sure the question follows the "how-to-ask-a-good-question" guide
 
-* If the question is poorly formatted and you know how to reformat it reformat it and ask them next time to format their code.
+* If the question is poorly formatted and you know how to reformat it, reformat it and ask them next time to format their code.
 
 * If the question is posted in the wrong place (like a theoretical question posted on Stack Overflow) kindly let them know that it's in the wrong place. 
  
