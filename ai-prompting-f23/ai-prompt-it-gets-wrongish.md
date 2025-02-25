@@ -10,14 +10,14 @@ contract AINotHelpful {
 
     function assemblyStore(uint256 newNumber) external {
         assembly {
-            sstore(0x00, newNumber)
+            sstore(myNumberOne.slot, newNumber)
         }
     }
 
     function assemblyView() external view returns (uint256) {
         assembly {
             mstore(0, result)
-            return(0, 0x20)
+            return(myNumberOne.slot, 0x20)
         }
     }
 }
