@@ -9,7 +9,7 @@ This markdown file is a list of improvements to the ZKsync developer experience 
 Github Issue: https://github.com/matter-labs/foundry-zksync/issues/102
 
 ## Rationale 
-Being able to see the actual solidity code in the explorer is crucial for understanding what code people are going to be interacting with. Rug-pullers can essentially say "trust me bro, we can't verify on ZKsync so we had to leave it as raw assembly" which is going to get a lot of people hurt. As of today, it's not possible to verify `is-system` or `system-mode=true` contracts on ZKsync.
+Being able to see the actual solidity code in the explorer is crucial for understanding what code people are going to be interacting with. Rug-pullers can essentially say "trust me bro, we can't verify on ZKsync, so we had to leave it as raw assembly" which is going to get a lot of people hurt. As of today, it's not possible to verify `is-system` or `system-mode=true` contracts on ZKsync.
 
 # 2. Using foundry as your deployment framework should not be used for production
 - [ ] foundry-zksync scripting must first work for deployment 
