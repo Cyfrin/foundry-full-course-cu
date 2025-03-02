@@ -1,7 +1,7 @@
 This markdown file is a list of improvements to the ZKsync developer experience environment. 
 
 > [!IMPORTANT]  
-> It is our opinion that at the moment, certain aspects of the ZKsync ecosystem are not ready for production use. The list here itemizes situations where we do not recommend you deploy to ZKsync. Below each situation is a list of check boxes, that once filled, we believe the situation is ready for production use. The developer experience for each of the following makes the experience so poor, that we don't want developers making hacky work-arounds that may cause them to make mistakes. 
+> It is our opinion that at the moment, certain aspects of the ZKsync ecosystem are not ready for production use. The list here itemizes situations where we do not recommend you deploy to ZKsync. Below each situation is a list of check boxes, that once filled, we believe the situation is ready for production use. The developer experience for each of the following makes the experience so poor, that we don't want developers to create hacky workarounds that may cause them to make mistakes. 
 
 # 1. Using is-system/system-mode contracts should not be used for production (hardhat or ZKsync)
 - [ ] verification for explorers must work that interact with system contracts
