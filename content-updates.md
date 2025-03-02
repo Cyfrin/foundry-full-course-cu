@@ -1,6 +1,6 @@
 # 📘 Course Content Expansion Reference
 
-Yo, how you've been doing? 👋
+Yo, how have you been doing?? 👋
 
 As we mention on the [announcement](https://github.com/Cyfrin/foundry-full-course-f23/discussions/973), please refer to this page to look at what new content is cooking and what's coming up next. We'll be updating this page regularly, so make sure to check back often.
 
