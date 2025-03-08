@@ -616,6 +616,7 @@ If you receive a flag pop-up requiring you to have 0.001 ETH on mainnet, you may
   - No need for 0.001 ETH on mainnet
 - ZKsync Faucets (ZKsync Sepolia):<a href="https://docs.zksync.io/zksync-era/ecosystem/network-faucets" target="_blank"> https://docs.zksync.io/zksync-era/ecosystem/network-faucets</a>
 - ZKsync Bridge:<a href="https://portal.zksync.io/bridge/" target="_blank"> https://portal.zksync.io/bridge/</a>
+- Google Sepolia Faucet:<a href="https://cloud.google.com/application/web3/faucet/ethereum/sepolia" target="_blank">https://cloud.google.com/application/web3/faucet/ethereum/sepolia</a>
 
 > ⚠️ All code associated with this course is for demo purposes only. They have not been audited and should not be considered production ready. Please use at your own risk.
 
