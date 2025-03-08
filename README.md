@@ -893,8 +893,8 @@ _[⌨️ Getting real world price data (Chainlink)](https://updraft.cyfrin.io/co
 - [Chainlink Price Feeds (Data Feeds)](https://docs.chain.link/docs/get-the-latest-price/)
   - [data.chain.link](https://data.chain.link/)
 - [Chainlink VRF](https://docs.chain.link/docs/chainlink-vrf/)
-- [Chainlink Keepers](https://docs.chain.link/docs/chainlink-keepers/introduction/)
-- [Chainlink API Calls](https://docs.chain.link/docs/request-and-receive-data/)
+- [Chainlink Keepers (Automation)](https://docs.chain.link/chainlink-automation)
+- [Chainlink API Calls (AnyAPI)](https://docs.chain.link/any-api/introduction)
 - [Importing Tokens into your Metamask](https://consensys.net/blog/metamask/how-to-add-your-custom-tokens-in-metamask/)
 - [Request and Receive Chainlink Model](https://docs.chain.link/docs/architecture-request-model/)
 
