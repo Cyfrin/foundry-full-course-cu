@@ -2244,7 +2244,7 @@ _[⌨️ Lens Protocol ](https://updraft.cyfrin.io/courses/advanced-foundry/deve
 
 💻 Code: [https://github.com/Cyfrin/foundry-cross-chain-rebase-token-cu](https://github.com/Cyfrin/foundry-cross-chain-rebase-token-cu)
 
-## Introduction and Code Walkthrough
+## Introduction and Code Walkthrough
 
 _[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/introduction)_
 
