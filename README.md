@@ -2268,9 +2268,9 @@ _[⌨️ mintInterest and burn functions ](https://updraft.cyfrin.io/courses/adv
 
 _[⌨️ Finish rebase token contract ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/finish-rebase-token-contract)_
 
-## Access controll
+## Access control
 
-_[⌨️ Access controll ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/access-control)_
+_[⌨️ Access control ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/access-control)_
 
 ## Vault and NATSPEC
 
