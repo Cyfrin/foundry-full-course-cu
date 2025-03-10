@@ -2246,7 +2246,7 @@ _[⌨️ Lens Protocol ](https://updraft.cyfrin.io/courses/advanced-foundry/deve
 
 ## Introduction and Code Walkthrough
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/introduction)_
+_[⌨️ Introduction and Code Walkthrough ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/introduction)_
 
 ## What is a rebase token
 
@@ -2254,115 +2254,119 @@ _[⌨️ What is a rebase token ](https://updraft.cyfrin.io/courses/advanced-fou
 
 ## Rebase token code structure
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/rebase-token-code-structure)_
+_[⌨️ Rebase token code structure ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/rebase-token-code-structure)_
 
 ## Writing the rebase token contract
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/writing-the-rebase-token-contract)_
+_[⌨️ Writing the rebase token contract ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/writing-the-rebase-token-contract)_
 
 ## mintInterest and burn functions
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/mintinterest-and-burn-functions)_
+_[⌨️ mintInterest and burn functions ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/mintinterest-and-burn-functions)_
 
 ## Finish rebase token contract
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/finish-rebase-token-contract)_
+_[⌨️ Finish rebase token contract ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/finish-rebase-token-contract)_
 
 ## Access control
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/access-control)_
+_[⌨️ Access control ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/access-control)_
 
 ## Vault and NATSPEC
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/vault-and-natspec)_
+_[⌨️ Vault and NATSPEC ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/vault-and-natspec)_
 
 ## Rebase token tests part 1
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/rebase-token-tests-part-1)_
+_[⌨️ Rebase token tests part 1 ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/rebase-token-tests-part-1)_
 
 ## Rebase token tests part 2
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/rebase-token-tests-part-2)_
+_[⌨️ Rebase token tests part 2 ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/rebase-token-tests-part-2)_
 
 ## Vulnerabilities and cross-chain intro
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/vulnerabilities-and-cross-chain-intro)_
+_[⌨️ Vulnerabilities and cross-chain intro ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/vulnerabilities-and-cross-chain-intro)_
 
 ## Bridging
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/bridging)_
+_[⌨️ Bridging ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/bridging)_
 
 ## CCIP
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/ccip)_
+_[⌨️ CCIP ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/ccip)_
 
 ## The CCT standard
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/the-cct-standard)_
+_[⌨️ The CCT standard ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/the-cct-standard)_
+
+## Circle CCTP
+
+_[⌨️ Circle CCTP ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/circle-cctp)_
 
 ## Pool contract
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/pool-contract)_
+_[⌨️ Pool contract ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/pool-contract)_
 
 ## Finish pool contract
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/finish-pool-contract)_
+_[⌨️ Finish pool contract ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/finish-pool-contract)_
 
 ## Chainlink local and fork testing
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/chainlink-local-and-fork-testing)_
+_[⌨️ Chainlink local and fork testing ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/chainlink-local-and-fork-testing)_
 
 ## Deploy token test
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/deploy-token-test)_
+_[⌨️ Deploy token test ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/deploy-token-test)_
 
 ## CCIP setup test
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/ccip-setup-test)_
+_[⌨️ CCIP setup test ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/ccip-setup-test)_
 
 ## Configure pool test
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/configure-pool-test)_
+_[⌨️ Configure pool test ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/configure-pool-test)_
 
 ## Bridge function test
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/bridge-function-introduction)_
+_[⌨️ Bridge function test ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/bridge-function-introduction)_
 
 ## First cross chain test
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/first-cross-chain-test)_
+_[⌨️ First cross chain test ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/first-cross-chain-test)_
 
 ## Vault deployer script
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/vault-deployer-script)_
+_[⌨️ Vault deployer script ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/vault-deployer-script)_
 
 ## Token and pool deployer script
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/token-and-pool-deployer-script)_
+_[⌨️ Token and pool deployer script ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/token-and-pool-deployer-script)_
 
 ## Pool config script
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/pool-config-script)_
+_[⌨️ Pool config script ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/pool-config-script)_
 
 ## Bridging script
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/bridging-script)_
+_[⌨️ Bridging script ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/bridging-script)_
 
 ## Build scripts
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/build-scripts)_
+_[⌨️ Build scripts ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/build-scripts)_
 
 ## Run scripts on testnet
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/run-scripts-on-testnet)_
+_[⌨️ Run scripts on testnet ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/run-scripts-on-testnet)_
 
 ## Cross chain message received
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/cross-chain-message-received)_
+_[⌨️ Cross chain message received ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/cross-chain-message-received)_
 
 ## Outro
 
-_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/outro)_
+_[⌨️ Outro ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/outro)_
 
 # Advanced Foundry Section 5: Foundry Merkle Airdrop and Signatures
 
