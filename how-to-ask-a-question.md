@@ -37,7 +37,7 @@ We want every tech question ever to be:
 
 So that in 6 months when you forget the answer, you can just google it and it'll show up!
 
-We don't want there to be multiple questions, because that can fragment where people look! We want to add answers, comments, etc all in one place
+We don't want there to be multiple questions, because that can fragment where people look! We want to add answers, comments, etc., all in one place
 
 # 2. Know where to post your question
 

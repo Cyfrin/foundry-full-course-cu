@@ -41,7 +41,7 @@ This repository houses course resources and [discussions](https://github.com/Cyf
 Please refer to this for an in-depth explanation of the content:
 
 - [Website](https://updraft.cyfrin.io) - Join Cyfrin Updraft and enjoy 50+ hours of smart contract development courses
-- [Twitter](https://twitter.com/CyfrinUpdraft) - Stay updated with the latest course releases
+- [Twitter](https://x.com/CyfrinUpdraft) - Stay updated with the latest course releases
 - [LinkedIn](https://www.linkedin.com/school/cyfrin-updraft/) - Add Updraft to your learning experiences
 - [Discord](https://discord.gg/cyfrin) - Join a community of 3000+ developers and auditors
 - [Newsletter](https://cyfrin.io/newsletter) - Weekly security research tips and resources to level up your career
@@ -104,7 +104,7 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#blockchain-basics-section-1-what-is-a-blockchain-what-does-a-blockchain-do">Course: Blockchain Basics Section 1</a>
+<a href="#course-blockchain-basics">Course: Blockchain Basics</a>
 </summary>
 </details>
 
@@ -434,7 +434,7 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#advanced-foundry-section-4-foundry-merkle-airdrop-and-signatures">Advanced Foundry Section 4: Foundry Cross-Chain Rebase Token</a>
+<a href="#advanced-foundry-section-4-foundry-cross-chain-rebase-token">Advanced Foundry Section 4: Foundry Cross-Chain Rebase Token</a>
 </summary>
 <ol>
     <li><a href="#introduction-to-merkle-airdrops-and-code-walkthrough">Introduction and Code Walkthrough</a></li>
@@ -443,7 +443,7 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#advanced-foundry-section-4-foundry-merkle-airdrop-and-signatures">Advanced Foundry Section 5: Foundry Merkle Airdrop and Signatures</a>
+<a href="#advanced-foundry-section-5-foundry-merkle-airdrop-and-signatures">Advanced Foundry Section 5: Foundry Merkle Airdrop and Signatures</a>
 </summary>
 <ol>
     <li><a href="#introduction-to-merkle-airdrops-and-code-walkthrough">Introduction to Merkle Airdrops and Code Walkthrough</a></li>
@@ -476,7 +476,7 @@ Cyfrin Updraft Courses:
 
 <details>
 <summary>
-<a href="#advanced-foundry-section-5-foundry-upgrades">Advanced Foundry Section 6: Foundry Upgrades</a>
+<a href="#advanced-foundry-section-6-foundry-upgrades">Advanced Foundry Section 6: Foundry Upgrades</a>
 </summary>
 <ol>
     <li><a href="#introduction-9">Introduction</a></li>
@@ -498,7 +498,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#advanced-foundry-section-6-foundry-account-abstraction">Advanced Foundry Section 7: Foundry Account Abstraction</a>
+<a href="#advanced-foundry-section-7-foundry-account-abstraction">Advanced Foundry Section 7: Foundry Account Abstraction</a>
 </summary>
 <ol>
     <li><a href="#what-is-account-abstraction">What is account abstraction?</a></li>
@@ -539,7 +539,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#advanced-foundry-section-7-foundry-dao--governance">Advanced Foundry Section 8: Foundry DAO / Governance</a>
+<a href="#advanced-foundry-section-8-foundry-dao--governance">Advanced Foundry Section 8: Foundry DAO / Governance</a>
 </summary>
   <ol>
     <li><a href="#introduction-10">Introduction</a></li>
@@ -558,7 +558,7 @@ Cyfrin Updraft Courses:
 </details>
 <details>
 <summary>
-<a href="#advanced-foundry-section-8-smart-contract-security--auditing-for-developers">Advanced Foundry Section 9: Smart Contract Security & Auditing (For developers)</a>
+<a href="#advanced-foundry-section-9-smart-contract-security--auditing-for-developers">Advanced Foundry Section 9: Smart Contract Security & Auditing (For developers)</a>
 </summary>
   <ol>
     <li><a href="#introduction-11">Introduction</a></li>
@@ -632,7 +632,7 @@ If you receive a flag pop-up requiring you to have 0.001 ETH on mainnet, you may
   - [Phind](https://www.phind.com/)
     - Like ChatGPT, but it searches the web
   - [Gemini](https://gemini.google.com/)
-  - [Other AI extensions](https://twitter.com/aisolopreneur/status/1654823630155464704?s=42&t=-pu_sCYtfrfPJU7OXfifrQ)
+  - [Other AI extensions](https://x.com/aisolopreneur/status/1654823630155464704?s=42&t=-pu_sCYtfrfPJU7OXfifrQ)
 - [Github Discussions](https://github.com/Cyfrin/foundry-full-course-cu/discussions)
   - Ask questions and chat about the course here!
 - [Stack Exchange Ethereum](https://ethereum.stackexchange.com/)
@@ -658,7 +658,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 
 1. We didn't audit the NFT, so if you want to make sure you'll be safe, interact with the contract using a burner wallet (a wallet with very little money that you don't use for anything else)
    1. In fact... Get good at interacting with wallets from a burner wallet
-2. Read my [Tweet thread on basic wallet safety](https://twitter.com/PatrickAlphaC/status/1663936101650685954)
+2. Read my [Tweet thread on basic wallet safety](https://x.com/PatrickAlphaC/status/1663936101650685954)
 3. It might be a good idea to wait till later in the course when we teach you about verifying metamask transactions.
 4. Feel free to mint NFTs on sepolia without worrying about the above
 
@@ -797,7 +797,7 @@ _[⌨️ Deploying to ZKsync](https://updraft.cyfrin.io/courses/solidity/simple-
 
 - ZKsync compiler edition: 0.8.24
 
-## 🐸🐦 [Tweet Me (add your contract in)!](https://twitter.com/intent/tweet?text=I%20just%20deployed%20a%20Smart%20Contract%20to%20the%20@zksyncdevs%20testnet!%0a%0a%20Thanks%20@PatrickAlphaC%20and%20@cyfrinupdraft!)
+## 🐸🐦 [Tweet Me (add your contract in)!](https://x.com/intent/tweet?text=I%20just%20deployed%20a%20Smart%20Contract%20to%20the%20@zksyncdevs%20testnet!%0a%0a%20Thanks%20@PatrickAlphaC%20and%20@cyfrinupdraft!)
 
 ## The EVM & A Recap of the section
 
@@ -1062,7 +1062,7 @@ _[⌨️ Formatting a question](https://updraft.cyfrin.io/courses/solidity/ai-pr
 
 _[⌨️ SpeedRunEthereum](https://updraft.cyfrin.io/courses/solidity/ai-prompting/speedrun)_
 
-- Special Guest [Austin](https://twitter.com/austingriffith)
+- Special Guest [Austin](https://x.com/austingriffith)
 
 ## Solidity 101 Section 4 NFTs
 
@@ -1095,7 +1095,7 @@ _[⌨️ Installation & Setup (MacOS & Linux) ](https://updraft.cyfrin.io/course
 
 _[⌨️ (Windows Setup (WSL) ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/development-environment-setup-windows)_
 
-- Special Guest [Vasiliy](https://twitter.com/cromewar)
+- Special Guest [Vasiliy](https://x.com/cromewar)
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/install)
   - When working in WSL, use Linux commands instead of Windows commands
 - [TroubleShooting](https://docs.microsoft.com/en-us/windows/wsl/troubleshooting)
@@ -1286,7 +1286,7 @@ _[⌨️ Cleaning up the project ](https://updraft.cyfrin.io/courses/foundry/fou
 
 _[⌨️ Alchemy and the mempool ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/introduction-to-alchemy)_
 
-- Special Guest [Vitto](https://twitter.com/VittoStack)
+- Special Guest [Vitto](https://x.com/VittoStack)
 - [Alchemy](https://alchemy.com/?a=673c802981)
 
 ## Summary
@@ -1420,7 +1420,7 @@ _[⌨️ More Cheatcodes ](https://updraft.cyfrin.io/courses/foundry/foundry-fun
 
 _[⌨️ More Coverage ](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/more-coverage)_
 
-- [State tree testing](https://twitter.com/PaulRBerg/status/1624763320539525121?s=20)
+- [State tree testing](https://x.com/PaulRBerg/status/1624763320539525121?s=20)
 - Arrange, Act, Assert
 - [hoax](https://book.getfoundry.sh/reference/forge-std/hoax?highlight=hoax#hoax)
 - uint160 -> address
@@ -1506,7 +1506,7 @@ _[⌨️ Pushing to GitHub ](https://updraft.cyfrin.io/courses/foundry/foundry-f
 - [The quickstart that we follow in the video](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-using-git)
 - [Learn about git and GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
-## 🐸🐦 [Tweet Me (add your repo in)!](https://twitter.com/intent/tweet?text=I%20just%20made%20my%20first%20Smart%20Contract%20repo%20using%20@solidity_lang,%20foundry,%20@chainlink,%20@AlchemyPlatform,%20and%20more!%0a%0aThanks%20@PatrickAlphaC%20and%20@cyfrinupdraft!!)
+## 🐸🐦 [Tweet Me (add your repo in)!](https://x.com/intent/tweet?text=I%20just%20made%20my%20first%20Smart%20Contract%20repo%20using%20@solidity_lang,%20foundry,%20@chainlink,%20@AlchemyPlatform,%20and%20more!%0a%0aThanks%20@PatrickAlphaC%20and%20@cyfrinupdraft!!)
 
 _[⌨️ (2:34:56) | Tweet Me (add your repo in)! ](https://youtu.be/sas02qSFZ74?t=9296)_
 
@@ -1634,7 +1634,7 @@ _[⌨️ Chainlink VRF ](https://updraft.cyfrin.io/courses/foundry/smart-contrac
 
 - Introduction to Chainlink VRF
 
-* Special Guest [Richard](https://twitter.com/RGottleber)
+* Special Guest [Richard](https://x.com/RGottleber)
 
 ### Sub-Section: Chainlink VRF
 
@@ -2006,7 +2006,7 @@ _[⌨️ Advanced: EVM Opcodes, Encoding, and Calling ](https://updraft.cyfrin.i
 
 - abi.encode
 - abi.encodePacked
-  Thanks to [Alex Roan](https://twitter.com/alexroan) for his help on this session!
+  Thanks to [Alex Roan](https://x.com/alexroan) for his help on this session!
 - Example Contract Creation Transaction
   What REALLY is the ABI?
 - EVM Opcodes
@@ -2225,7 +2225,7 @@ _[⌨️ Recap ](https://updraft.cyfrin.io/courses/advanced-foundry/develop-defi
 
 _[⌨️ Lens Protocol ](https://updraft.cyfrin.io/courses/advanced-foundry/develop-defi-protocol/introduction-to-lens-protocol)_
 
-- Special Guest [Nader](https://twitter.com/dabit3)
+- Special Guest [Nader](https://x.com/dabit3)
 - [Lens Protocol](https://www.lens.xyz/)
 
 ### More DeFi Learnings:
@@ -2254,19 +2254,19 @@ _[⌨️ What is a rebase token ](https://updraft.cyfrin.io/courses/advanced-fou
 
 ## Rebase token code structure
 
-_[⌨️ Rebase token code structure ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/rebase-token-code-structure)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/rebase-token-code-structure)_
 
 ## Writing the rebase token contract
 
-_[⌨️ Writing the rebase token contract ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/writing-the-rebase-token-contract)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/writing-the-rebase-token-contract)_
 
 ## mintInterest and burn functions
 
-_[⌨️ mintInterest and burn functions ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/mintinterest-and-burn-functions)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/mintinterest-and-burn-functions)_
 
 ## Finish rebase token contract
 
-_[⌨️ Finish rebase token contract ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/finish-rebase-token-contract)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/finish-rebase-token-contract)_
 
 ## Access control
 
@@ -2274,101 +2274,95 @@ _[⌨️ Access control ](https://updraft.cyfrin.io/courses/advanced-foundry/cro
 
 ## Vault and NATSPEC
 
-_[⌨️ Vault and NATSPEC ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/vault-and-natspec)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/vault-and-natspec)_
 
 ## Rebase token tests part 1
 
-_[⌨️ Rebase token tests part 1 ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/rebase-token-tests-part-1)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/rebase-token-tests-part-1)_
 
 ## Rebase token tests part 2
 
-_[⌨️ Rebase token tests part 2 ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/rebase-token-tests-part-2)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/rebase-token-tests-part-2)_
 
 ## Vulnerabilities and cross-chain intro
 
-_[⌨️ Vulnerabilities and cross-chain intro ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/vulnerabilities-and-cross-chain-intro)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/vulnerabilities-and-cross-chain-intro)_
 
 ## Bridging
 
-_[⌨️ Bridging ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/bridging)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/bridging)_
 
 ## CCIP
 
-_[⌨️ CCIP ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/ccip)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/ccip)_
 
 ## The CCT standard
 
-_[⌨️ The CCT standard ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/the-cct-standard)_
-
-## Circle CCTP
-
-_[⌨️ Circle CCTP ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/circle-cctp)_
-
-- [The repo mentioned in the lesson](https://github.com/ciaranightingale/cctp-v1-ethers)
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/the-cct-standard)_
 
 ## Pool contract
 
-_[⌨️ Pool contract ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/pool-contract)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/pool-contract)_
 
 ## Finish pool contract
 
-_[⌨️ Finish pool contract ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/finish-pool-contract)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/finish-pool-contract)_
 
 ## Chainlink local and fork testing
 
-_[⌨️ Chainlink local and fork testing ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/chainlink-local-and-fork-testing)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/chainlink-local-and-fork-testing)_
 
 ## Deploy token test
 
-_[⌨️ Deploy token test ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/deploy-token-test)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/deploy-token-test)_
 
 ## CCIP setup test
 
-_[⌨️ CCIP setup test ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/ccip-setup-test)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/ccip-setup-test)_
 
 ## Configure pool test
 
-_[⌨️ Configure pool test ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/configure-pool-test)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/configure-pool-test)_
 
 ## Bridge function test
 
-_[⌨️ Bridge function test ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/bridge-function-introduction)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/bridge-function-introduction)_
 
 ## First cross chain test
 
-_[⌨️ First cross chain test ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/first-cross-chain-test)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/first-cross-chain-test)_
 
 ## Vault deployer script
 
-_[⌨️ Vault deployer script ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/vault-deployer-script)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/vault-deployer-script)_
 
 ## Token and pool deployer script
 
-_[⌨️ Token and pool deployer script ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/token-and-pool-deployer-script)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/token-and-pool-deployer-script)_
 
 ## Pool config script
 
-_[⌨️ Pool config script ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/pool-config-script)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/pool-config-script)_
 
 ## Bridging script
 
-_[⌨️ Bridging script ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/bridging-script)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/bridging-script)_
 
 ## Build scripts
 
-_[⌨️ Build scripts ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/build-scripts)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/build-scripts)_
 
 ## Run scripts on testnet
 
-_[⌨️ Run scripts on testnet ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/run-scripts-on-testnet)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/run-scripts-on-testnet)_
 
 ## Cross chain message received
 
-_[⌨️ Cross chain message received ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/cross-chain-message-received)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/cross-chain-message-received)_
 
 ## Outro
 
-_[⌨️ Outro ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/outro)_
+_[⌨️ Introduction ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/outro)_
 
 # Advanced Foundry Section 5: Foundry Merkle Airdrop and Signatures
 
@@ -2553,7 +2547,7 @@ _[⌨️ Code Overview](https://updraft.cyfrin.io/courses/advanced-foundry/accou
 
 ## Ethereum Setup
 
-_[⌨️ Etheren Account Abstraction](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/eth-setup)_
+_[⌨️ Ethereum Account Abstraction](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/eth-setup)_
 
 ## PackedUserOperation
 
@@ -2581,7 +2575,7 @@ _[⌨️ Tests Owner can Execute](https://updraft.cyfrin.io/courses/advanced-fou
 
 ## Unsigned PackedUserOperation Test
 
-_[⌨️ Get Unsigened PackedUserOperation](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/unsigned-packed-user-op)_
+_[⌨️ Get Unsigned PackedUserOperation](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/unsigned-packed-user-op)_
 
 ## Signed UserOp Test
 
@@ -2675,7 +2669,7 @@ _[⌨️ Clean up](https://updraft.cyfrin.io/courses/advanced-foundry/account-ab
 
 _[⌨️ Testnet Demo](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/testnet-last)_
 
-## Rcap & End
+## Recap & End
 
 _[⌨️ Recap End](https://updraft.cyfrin.io/courses/advanced-foundry/account-abstraction/recap-end)_
 
@@ -2697,7 +2691,7 @@ _[⭐️ Section 14 | DAOs & Governance](https://updraft.cyfrin.io/courses/advan
 ## What is a DAO?
 
 - [What is a DAO?](https://www.youtube.com/watch?v=X_QKZzd68ro)
-- Special Guest [Juliette](https://twitter.com/_juliettech)
+- Special Guest [Juliette](https://x.com/_juliettech)
 
 ## How to build a DAO
 
@@ -2738,7 +2732,7 @@ _[⌨️ Section Recap](https://updraft.cyfrin.io/courses/advanced-foundry/daos/
 
 ## Bonus: Gas optimization tips
 
-- Special Guest [Harrison](https://twitter.com/PopPunkOnChain)
+- Special Guest [Harrison](https://x.com/PopPunkOnChain)
 
 ## Advanced Foundry Section 8 NFTs
 
@@ -2752,6 +2746,8 @@ _[⌨️ Section Recap](https://updraft.cyfrin.io/courses/advanced-foundry/daos/
 Developers 100% should know all about this! Don't leave the course without at least watching this section!
 
 > [!IMPORTANT]
+> PLEASE AT LEAST WATCH THE DOCKER CONTAINER SECTION OF THIS CURRICULUM!!
+> You can find a shorter video of the [docker curriculum here.](https://www.youtube.com/watch?v=5p8fQ45TwUs)
 > We highly recommend you head over to the end-to-end [Cyfrin Updraft Security and Auditing Curriculum](https://updraft.cyfrin.io/courses/security).
 
 🖥️ Code: https://github.com/PatrickAlphaC/denver-security
@@ -2818,6 +2814,10 @@ _[⌨️ Formal Verification](https://updraft.cyfrin.io/courses/advanced-foundry
 
 - [Formal Verification & Symbolic Execution | W/ Trail Of Bits](https://www.youtube.com/watch?v=izpoxfTSaFs)
 
+## Isolated Development Environments
+
+- [Watch this video](https://www.youtube.com/watch?v=5p8fQ45TwUs)
+
 ## Closing Thoughts
 
 _[⌨️ Wrap. Up](https://updraft.cyfrin.io/courses/advanced-foundry/security/congratulations)_
@@ -2863,7 +2863,7 @@ _[⌨️ Wrap. Up](https://updraft.cyfrin.io/courses/advanced-foundry/security/c
 
 ### Community
 
-- [Twitter](https://twitter.com/PatrickAlphaC)
+- [Twitter](https://x.com/PatrickAlphaC)
 - [Ethereum Discord](https://ethereum.org/en/)
 - [Reddit ethdev](https://www.reddit.com/r/ethdev/)
 
@@ -2871,7 +2871,7 @@ _[⌨️ Wrap. Up](https://updraft.cyfrin.io/courses/advanced-foundry/security/c
 
 - [CL Hackathon](https://chain.link/hackathon)
 - [ETH Global](https://ethglobal.co/)
-- [ETH India](https://twitter.com/ETHIndiaco)
+- [ETH India](https://x.com/ETHIndiaco)
 
 Be sure to check out project grant programs!
 

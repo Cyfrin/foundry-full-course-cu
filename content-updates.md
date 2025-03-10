@@ -1,6 +1,6 @@
 # 📘 Course Content Expansion Reference
 
-Yo, how you've been doing? 👋
+Yo, how have you been doing?? 👋
 
 As we mention on the [announcement](https://github.com/Cyfrin/foundry-full-course-f23/discussions/973), please refer to this page to look at what new content is cooking and what's coming up next. We'll be updating this page regularly, so make sure to check back often.
 
@@ -8,16 +8,16 @@ As we mention on the [announcement](https://github.com/Cyfrin/foundry-full-cours
 
 ### What to do after finishing Patricks Course
 
-So, you've crushed Patrick's course, huh? 🎉 And now you're like, "Cool, but now what?" Well, don't sweat it. This video 🎥 will guide you through 5 ideas of what to do next.
+So, you've crushed Patrick's course, huh? 🎉 And now you're like, "Cool, but now what?" Well, don't sweat it. This video 🎥 will guide you on what to do next.
 
-[![Chronological Updates](https://img.youtube.com/vi/HRW7G0xo8yw/0.jpg)](https://youtu.be/HRW7G0xo8yw?si=6F4krRb6szELXG1Z)
+[Get a job in tech](https://www.youtube.com/watch?v=mgJGv1s8QiQ)  
 
 
 
 ### Solving common problems and errors most students face
-Outdated packages and confusing commands got you stuck? We tackle the most common issues students face during the course and also fix some issues on our end. Get the lowdown on how to navigate through those roadblocks. 🛠️✌️
+We tackle the most common problems students encounter during the course and even fix some on our end.  
+To stay up to date, check out [Cyfrin Updraft](https://www.cyfrin.io/updraft), where we regularly update content. 🛠️✌️
 
-[![Chronological Updates](https://img.youtube.com/vi/G_evB-LLkRU/0.jpg)](https://www.youtube.com/watch?v=G_evB-LLkRU)
 
 ## 🕒 Upcoming Content
 
@@ -60,11 +60,10 @@ Ready to go under the hood of EVM? Let's talk low-level programming, bit operati
 
 ## 📚 Updated Lessons
 
-- Content expansion for lesson coming soon!
+-Stay up to date with the latest content and fixes!  
 
-## 🗓️ Rollout Date
+➡️ Visit [Cyfrin Updraft](https://www.cyfrin.io/updraft) 
 
-We'll start rolling out these new features and updates from the 1st of next month. But we will update you with some content this month as well.
 
 ## 💬 Your Feedback Matters
 
