@@ -709,6 +709,7 @@ The Blockchain Basics has it's own [GitHub repository (aka, codebase)](https://g
 _[⭐️ Welcome to Remix - Simple Storage](https://updraft.cyfrin.io/courses/solidity/simple-storage/welcome-to-solidity-fundamentals?lesson_format=video)_
 
 - [Remix](https://remix.ethereum.org/)
+  - Remix now has the ability to link your workpace with your github repository. The icon is below the search icon on the left side bar (the second icon). This process involves authenticating against an EMPTY repository and setting up the git remote. After completing this process, you can push all your work directly from remix to your repo.
 - [Solidity Documentation](https://docs.soliditylang.org/en/latest/index.html)
 
 ## Setting Up Your First Contract
