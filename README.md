@@ -611,7 +611,7 @@ If you receive a flag pop-up requiring you to have 0.001 ETH on mainnet, you may
 - Tenderly Virtual Signup: <a href="https://tenderly.co/?mtm_campaign=partner&mtm_kwd=cyfrin" target="_blank"> https://tenderly.co/?mtm_campaign=partner&mtm_kwd=cyfrin</a>
 - Main (Sepolia): <a href="https://cloud.google.com/application/web3/faucet/ethereum/sepolia" target="_blank"> Sepolia GCP Faucet </a>
 - Alchemy Faucet (Sepolia):<a href="https://sepoliafaucet.com/" target="_blank"> https://sepoliafaucet.com/</a>
-- Infura Faucet (Sepolia):<a href="https://www.infura.io/faucet/sepolia" target="_blank" > https://www.infura.io/faucet/sepolia</a>
+- Infura Faucet (Sepolia):<a href="https://docs.metamask.io/developer-tools/faucet" target="_blank" > https://docs.metamask.io/developer-tools/faucet</a>
 - Chainlink Faucet (Sepolia):<a href="https://faucets.chain.link/sepolia" target="_blank" > https://faucets.chain.link/sepolia</a>
   - No need for 0.001 ETH on mainnet
 - ZKsync Faucets (ZKsync Sepolia):<a href="https://docs.zksync.io/zksync-era/ecosystem/network-faucets" target="_blank"> https://docs.zksync.io/zksync-era/ecosystem/network-faucets</a>
