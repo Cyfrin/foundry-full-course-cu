@@ -2108,7 +2108,7 @@ _[⌨️ DSCEngine.sol Setup ](https://updraft.cyfrin.io/courses/advanced-foundr
 _[⌨️ Deposit Collateral ](https://updraft.cyfrin.io/courses/advanced-foundry/develop-defi-protocol/defi-deposit-collateral)_
 
 - Other DeFi Examples:
-  - [Aave V2 Docs](https://docs.aave.com/developers/v/2.0/)
+  - [Aave V2 Docs]( https://aave.com/docs)
   - [Aave NPM](https://www.npmjs.com/package/@aave/protocol-v2)
 
 ## Mint DSC
