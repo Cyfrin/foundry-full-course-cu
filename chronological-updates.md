@@ -2,9 +2,7 @@
 
 *For moving forward, updates will now be on respective videos in Cyfrin Updraft. This file will no longer be updated.*
 
-For those who prefer the video format here we have a video with a recompilation of these updates you can follow along:
 
-[![Chronological Updates](https://img.youtube.com/vi/G_evB-LLkRU/0.jpg)](https://www.youtube.com/watch?v=G_evB-LLkRU)
 
 # Lesson 0
 
