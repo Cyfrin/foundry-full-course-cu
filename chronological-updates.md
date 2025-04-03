@@ -2,7 +2,6 @@
 
 *For moving forward, updates will now be on respective videos in Cyfrin Updraft. This file will no longer be updated.*
 
-For those who prefer the video format here we have a video with a recompilation of these updates you can follow along:
 
 
 # Lesson 0
