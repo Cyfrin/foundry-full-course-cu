@@ -1325,7 +1325,7 @@ _[⌨️ Setup Continued ](https://updraft.cyfrin.io/courses/foundry/foundry-fun
 
 - [Chainlink Brownie Contracts Github Repo](https://github.com/smartcontractkit/chainlink-brownie-contracts)
   ```bash
-  forge install smartcontractkit/chainlink-brownie-contracts@0.6.1 --no-commit
+  forge install smartcontractkit/chainlink-brownie-contracts@0.6.1
   ```
 - [Dependencies](https://book.getfoundry.sh/projects/dependencies)
 - [remappings](https://book.getfoundry.sh/reference/forge/forge-remappings)
