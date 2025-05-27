@@ -2314,6 +2314,21 @@ _[⌨️ Pool contract ](https://updraft.cyfrin.io/courses/advanced-foundry/cros
 
 _[⌨️ Finish pool contract ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/finish-pool-contract)_
 
+### 📦 Dependency Update Notice
+
+🔄 **Update:** This project previously used the [`smartcontractkit/ccip`](https://github.com/smartcontractkit/ccip) repository.  
+🆕 You should now use the updated, more actively maintained [`smartcontractkit/chainlink`](https://github.com/smartcontractkit/chainlink) repository instead.
+
+### 🔁 Remappings
+
+To ensure clean and maintainable import paths, use the following remappings in your `foundry.toml` or a separate `remappings.txt` file:
+
+```toml
+remappings = [
+    '@openzeppelin/=lib/openzeppelin-contracts/',
+    '@chainlink/=lib/chainlink/',
+]
+```
 ## Chainlink local and fork testing
 
 _[⌨️ Chainlink local and fork testing ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/chainlink-local-and-fork-testing)_
