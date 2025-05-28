@@ -1175,7 +1175,7 @@ _[⌨️ Deploying to a local chain I (Anvil or Ganache)](https://updraft.cyfrin
 
 _[⌨️ Adding another network to Metamask](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/how-to-add-a-new-network-to-metamask)_
 
-- [ETH JSON RPC](https://ethereum.github.io/execution-apis/api-documentation/)
+- [ETH JSON RPC](https://ethereum.github.io/execution-apis/)
 
 ## Deploying to a local chain II (Forge Create)
 
