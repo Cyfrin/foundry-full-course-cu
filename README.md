@@ -2830,7 +2830,7 @@ _[⌨️ Wrap. Up](https://updraft.cyfrin.io/courses/advanced-foundry/security/c
 
 - [Common Attacks](https://blog.sigmaprime.io/solidity-security.html)
 - [Best Practices](https://consensys.github.io/smart-contract-best-practices/)
-- [Attacks](https://consensys.github.io/smart-contract-best-practices/attacks/)
+- [Attacks](https://consensysdiligence.github.io/smart-contract-best-practices/attacks/)
   - [Oracle Attacks](https://hackernoon.com/how-dollar100m-got-stolen-from-defi-in-2021-price-oracle-manipulation-and-flash-loan-attacks-explained-3n6q33r1)
 - [Damn Vulnerable Defi](https://www.damnvulnerabledefi.xyz/)
 - [Ethernaut](https://ethernaut.openzeppelin.com/)
