@@ -25,9 +25,9 @@ _Entire course and video content updated June 15, 2024_
 
 <p align="center">
     <br />
-    <a href="https://cyfrin.io/">
+    <a href="tps://cyfrin.io/">
         <img src=".github/images/poweredbycyfrinbluehigher.png" width="145" alt=""/></a>
-<a href="https://updraft.cyfrin.io/courses/foundry">
+<a href="tps://updraft.cyfrin.io/courses/foundry">
         <img src=".github/images/coursebadge.png" width="242.3" alt=""/></a>
     <br />
 </p>
@@ -36,12 +36,12 @@ Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidi
 
 </div>
 
-This repository houses course resources and [discussions](https://github.com/Cyfrin/foundry-full-course-cu/discussions) for the course.
+This repository houses course resources and [discussions](tps://github.com/Cyfrin/foundry-full-course-cu/discussions) for the course.
 
 Please refer to this for an in-depth explanation of the content:
 
-- [Website](https://updraft.cyfrin.io) - Join Cyfrin Updraft and enjoy 50+ hours of smart contract development courses
-- [Twitter](https://x.com/CyfrinUpdraft) - Stay updated with the latest course releases
+- [Website](tps://updraft.cyfrin.io) - Join Cyfrin Updraft and enjoy 50+ hours of smart contract development courses
+- [Twitter](tps://x.com/CyfrinUpdraft) - Stay updated with the latest course releases
 - [LinkedIn](https://www.linkedin.com/school/cyfrin-updraft/) - Add Updraft to your learning experiences
 - [Discord](https://discord.gg/cyfrin) - Join a community of 3000+ developers and auditors
 - [Newsletter](https://cyfrin.io/newsletter) - Weekly security research tips and resources to level up your career
@@ -1524,7 +1524,7 @@ _[⌨️ Section 2: Recap ](https://updraft.cyfrin.io/courses/foundry/foundry-fu
 
 # Foundry Fundamentals Section 3: Html/Js Fund Me (Quick Fullstack / Front End Tutorial)
 
-_[⭐️ Section 3: HTML Fund Me](ht)_
+_[⭐️ Section 3: HTML Fund Me](https://updraft.cyfrin.io/courses/foundry/html-fund-me/introduction)_
 
 💻 Code: [https://github.com/Cyfrin/html-fund-me-cu](https://github.com/Cyfrin/html-fund-me-cu)
 
