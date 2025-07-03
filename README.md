@@ -907,7 +907,7 @@ _[⌨️ Quick recap I](https://updraft.cyfrin.io/courses/solidity/fund-me/mid-s
 
 _[⌨️ Interfaces](https://updraft.cyfrin.io/courses/solidity/fund-me/solidity-smart-contract-interfaces)_
 
-- For reference - [ChainLink Interface's Repo](https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/shared/interfaces/AggregatorV3Interface.sol)
+- For reference - [ChainLink Interface's Repo](https://github.com/smartcontractkit/chainlink-brownie-contracts/blob/main/contracts/src/v0.8/shared/interfaces/AggregatorV3Interface.sol)
 
 ## AI Help III
 
