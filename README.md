@@ -2916,7 +2916,8 @@ A huge thank you to our sponsors. These are the groups and technologies
 - [Arbitrum Foundation](https://arbitrum.foundation/)
 - [Chainlink Labs](https://chainlinklabs.com/)
 - [BadgerDAO](https://badger.com/)
-- [Optimism RPGF Round 3](https://community.optimism.io/citizens-house/rounds/retropgf-3)
+
+- [Optimism RPGF Round 3](https://gov.optimism.io/t/retropgf-3-application-review-process/6916)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
