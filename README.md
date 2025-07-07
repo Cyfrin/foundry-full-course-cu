@@ -2916,6 +2916,7 @@ A huge thank you to our sponsors. These are the groups and technologies
 - [Arbitrum Foundation](https://arbitrum.foundation/)
 - [Chainlink Labs](https://chainlinklabs.com/)
 - [BadgerDAO](https://badger.com/)
+
 - [Optimism RPGF Round 3](https://gov.optimism.io/t/retropgf-3-application-review-process/6916)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -2926,7 +2927,7 @@ Thanks to everyone who is taking, participating in, and working on this course. 
 
 And thanks to the [Cyfrin](https://www.cyfrin.io/) team for making this possible!
 
-<a href="https://github.com/cyfrin/security-and-auditing-full-course-s23/graphs/contributors">
+<a href="https://github.com/Cyfrin/foundry-full-course-cu/graphs/contributors">
 
 <img src="https://contrib.rocks/image?repo=cyfrin/foundry-full-course-cu" />
 
