@@ -1127,10 +1127,10 @@ _[⌨️ Foundry Install ](https://updraft.cyfrin.io/courses/foundry/foundry-sim
 
 _[⌨️ VSCode Setup II ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/vscode-setup)_
 
-- CoPilot
-- Copilot labs
-- Hardhat Solidity Extension
-- VSCodium
+
+- [CoPilot](https://code.visualstudio.com/docs/copilot/overview)
+- [Hardhat Solidity Extension](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity)
+- [VSCodium](https://vscodium.com/)
 - `mkdir foundry-cu`
 - `cd foundry-cu`
 - `mkdir foundry-simple-storage-cu`
@@ -2910,7 +2910,7 @@ Because of all this, I have added alternatives to each section where we suggest 
 
 # Sponsors
 
-A huge thank you to our sponsors. These are the groups and technologies
+A huge thank you to our sponsors. These are the groups and technologies:
 
 - [Matter Labs (ZKsync)](https://zksync.io/)
 - [Arbitrum Foundation](https://arbitrum.foundation/)
