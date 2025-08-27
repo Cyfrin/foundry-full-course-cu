@@ -1094,7 +1094,7 @@ _[⌨️ Installation & Setup (MacOS & Linux) ](https://updraft.cyfrin.io/course
 
 ### Windows Setup (WSL)
 
-_[⌨️ (Windows Setup (WSL) ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/development-environment-setup-windows)_
+_[⌨️ Windows Setup (WSL) ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/development-environment-setup-windows)_
 
 - Special Guest [Vasiliy](https://x.com/cromewar)
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/install)
