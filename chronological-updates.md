@@ -110,7 +110,7 @@ The UUPSUpgradeable function `upgradeTo` has been **removed** in Openzeppelin ve
 
 Openzeppelin v5 made some changes:
 
-1. **Ownable constructor** has been updated with 1 parameter instead of 0. Since `Box.sol` it's inheriting it, we need to pass the address of the owner of the Box contract into its constructor:
+1. **Ownable constructor** has been updated with 1 parameter instead of 0. Since `Box.sol` is inheriting it, we need to pass the address of the owner of the Box contract into its constructor:
 
 ```solidity
 constructor(address owner) Ownable(owner) {}
