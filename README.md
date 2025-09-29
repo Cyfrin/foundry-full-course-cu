@@ -1588,6 +1588,7 @@ _[⌨️ Solidity Contract Layout ](https://updraft.cyfrin.io/courses/foundry/sm
 
 ```
 // Layout of Contract:
+// license
 // version
 // imports
 // errors
