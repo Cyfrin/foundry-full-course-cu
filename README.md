@@ -686,7 +686,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 - **Be Active in the community:** Ask questions and engage with other developers going through the course in the discussions tab, be sure to go and say hello or gm! This space is different from the other industries, you don't have to be secretive; communicate, network and learn with others :)
 - **Learn at your own pace:** It doesn't matter if it takes you a day, a week, a month or even a year. Progress >>> Perfection
 - **Take Breaks:** You will exhaust your mind and recall less if you go all out and watch the entire course in one sitting.
-  **Suggested Strategy** every 25 minutes take a 5 min break, and every 2 hours take a longer 30 min break
+  **Suggested Strategy:** every 25 minutes take a 5 min break, and every 2 hours take a longer 30 min break
 - **Refer to Documentation:** Things are constantly being updated, so whenever Patrick opens up some documentation, open it on your end and maybe even have the code sample next to you.
 - **Use ChatGPT and/or the course chat**
 
