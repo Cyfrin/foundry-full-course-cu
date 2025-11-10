@@ -627,7 +627,6 @@ If you receive a flag pop-up requiring you to have 0.001 ETH on mainnet, you may
 
 - AI Frens
   - [claude.ai](https://claude.ai/)
-  - [cursor IDE](https://www.cursor.com/)
   - [ChatGPT](https://chat.openai.com/)
   - [Phind](https://www.phind.com/)
     - Like ChatGPT, but it searches the web
@@ -641,6 +640,8 @@ If you receive a flag pop-up requiring you to have 0.001 ETH on mainnet, you may
   - Decentralized Stack Exchange!
 - [Cookbook](./cookbook-listings.md)
   - A smart contract registry and co-pilot
+ 
+**Note: Given the frequency of exploits through Cursor extensions, we **cannot** recommend the IDE, at this time.
 
 # Bonus NFTs
 
