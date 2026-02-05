@@ -793,12 +793,6 @@ _[⌨️ Deploying your First Contract](https://updraft.cyfrin.io/courses/solidi
 - See the faucets at the top of this readme!
 - Interacting with Deployed Contracts
 
-## ZKsync L2 deploy
-
-_[⌨️ Deploying to ZKsync](https://updraft.cyfrin.io/courses/solidity/simple-storage/zksync-deploying)_
-
-- ZKsync compiler edition: 0.8.24
-
 ## 🐸🐦 [Tweet Me (add your contract in)!](https://x.com/intent/tweet?text=I%20just%20deployed%20a%20Smart%20Contract%20to%20the%20@zksyncdevs%20testnet!%0a%0a%20Thanks%20@PatrickAlphaC%20and%20@cyfrinupdraft!)
 
 ## The EVM & A Recap of the section
