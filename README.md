@@ -608,7 +608,7 @@ Cyfrin Updraft Courses:
 
 If you receive a flag pop-up requiring you to have 0.001 ETH on mainnet, you may be able to wait 10 to 20 minutes and try again to avoid adding the 0.001 ETH on the mainnet.
 
-- Tenderly Virtual Signup: <a href="https://dashboard.tenderly.co/accept-coupon?promo_code=CYFRIN1 " target="_blank"> https://dashboard.tenderly.co/accept-coupon?promo_code=CYFRIN1 </a>
+- Tenderly Virtual Signup: <a href="https://dashboard.tenderly.co/accept-coupon?promo_code=CYFRIN1" target="_blank"> https://dashboard.tenderly.co/accept-coupon?promo_code=CYFRIN1 </a>
 - Main (Sepolia): <a href="https://cloud.google.com/application/web3/faucet/ethereum/sepolia" target="_blank"> Sepolia GCP Faucet </a>
 - Alchemy Faucet (Sepolia):<a href="https://sepoliafaucet.com/" target="_blank"> https://sepoliafaucet.com/</a>
 - Infura Faucet (Sepolia):<a href="https://docs.metamask.io/developer-tools/faucet" target="_blank" > https://docs.metamask.io/developer-tools/faucet</a>
