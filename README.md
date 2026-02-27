@@ -1650,7 +1650,7 @@ _[⌨️ Implementing Chainlink VRF - Introduction ](https://updraft.cyfrin.io/c
 * [Chainlink Brownie Contracts](https://github.com/smartcontractkit/chainlink-brownie-contracts)
 
 ```bash
-forge install smartcontractkit/chainlink-brownie-contracts@1.1.1 --no-commit
+forge install smartcontractkit/chainlink-brownie-contracts@1.1.1 
 ```
 
 ## Modulo
