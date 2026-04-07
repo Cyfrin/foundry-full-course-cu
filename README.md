@@ -2083,7 +2083,7 @@ _[⌨️ Code Walkthrough](https://updraft.cyfrin.io/courses/advanced-foundry/de
 _[⌨️ What is a stablecoin (But actually)](https://updraft.cyfrin.io/courses/advanced-foundry/develop-defi-protocol/defi-stablecoins)_
 
 - [Video](https://www.youtube.com/watch?v=XeqQf08PDlA)
-- [MakerDAO Forums](https://start.makerdao.com/)
+- [MakerDAO Forums](https://forum.skyeco.com/)
 
 ## DecentralizedStableCoin.sol
 
