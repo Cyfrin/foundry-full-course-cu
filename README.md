@@ -2312,8 +2312,16 @@ _[⌨️ Finish pool contract ](https://updraft.cyfrin.io/courses/advanced-found
 
 ### 📦 Dependency Update Notice
 
-🔄 **Update:** This project previously used the [`smartcontractkit/ccip`](https://github.com/smartcontractkit/ccip) repository.  
-🆕 You should now use the updated, more actively maintained [`smartcontractkit/chainlink`](https://github.com/smartcontractkit/chainlink) repository instead.
+🔄 **Update:** This project previously used the [`smartcontractkit/ccip`](https://github.com/smartcontractkit/ccip) repository
+🆕 You should use the exact same version of ccip dependencies as in the original [`https://github.com/Cyfrin/foundry-cross-chain-rebase-token-cu`](https://github.com/Cyfrin/foundry-cross-chain-rebase-token-cu/tree/main/lib) repo to ensure consistency throughout the course.
+
+### Dependencies added:
+
+[`https://github.com/smartcontractkit/ccip/tree/8c94ed47c5a437cd51921b42b907cb6364882023`](https://github.com/smartcontractkit/ccip/tree/8c94ed47c5a437cd51921b42b907cb6364882023)
+
+```bash
+forge install https://github.com/smartcontractkit/ccip@8c94ed47c5a437cd51921b42b907cb6364882023
+```
 
 ### 🔁 Remappings
 
@@ -2322,12 +2330,18 @@ To ensure clean and maintainable import paths, use the following remappings in y
 ```toml
 remappings = [
     '@openzeppelin/=lib/openzeppelin-contracts/',
-    '@chainlink/=lib/chainlink/',
+    '@ccip=lib/ccip/',
+    '@chainlink-local/=lib/chainlink-local/',
 ]
 ```
 ## Chainlink local and fork testing
 
 _[⌨️ Chainlink local and fork testing ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/chainlink-local-and-fork-testing)_
+
+### 🌐 Fork Testing RPC url Update Notice
+
+The course previously used `Arbitrum Sepolia` as the destination chain, but it didn’t work well with the project.
+Use another compatible chain (e.g., BNB Smart Chain (BSC) Testnet) instead.
 
 ## Deploy token test
 
@@ -2344,6 +2358,8 @@ _[⌨️ Configure pool test ](https://updraft.cyfrin.io/courses/advanced-foundr
 ## Bridge function test
 
 _[⌨️ Bridge function test ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/bridge-function-introduction)_
+
+P.S. There is an unexplained error in the course regarding the `bridging fork testing`. If you get stuck, check the discussion tab or the original repository [`https://github.com/Cyfrin/foundry-cross-chain-rebase-token-cu`](https://github.com/Cyfrin/foundry-cross-chain-rebase-token-cu) for updates to the project’s source code. (you need to pay a very close attention, i don't want to spoil anything, and remember: never give up 💪)
 
 ## First cross chain test
 
