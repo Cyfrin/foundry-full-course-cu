@@ -10,6 +10,8 @@
 [license-url]: https://github.com/Cyfrin/foundry-full-course-cu/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
+latest - 4hr 16min
+
 _Entire course and video content updated June 15, 2024_
 
 <div align="center">
