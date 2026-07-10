@@ -640,8 +640,8 @@ If you receive a flag pop-up requiring you to have 0.001 ETH on mainnet, you may
   - Decentralized Stack Exchange!
 - [Cookbook](./cookbook-listings.md)
   - A smart contract registry and co-pilot
- 
-**Note: Given the frequency of exploits through Cursor extensions, we **cannot** recommend the IDE, at this time.
+
+**Note: Given the frequency of exploits through Cursor extensions, we **cannot\*\* recommend the IDE, at this time.
 
 # Bonus NFTs
 
@@ -902,7 +902,7 @@ _[⌨️ Quick recap I](https://updraft.cyfrin.io/courses/solidity/fund-me/mid-s
 
 _[⌨️ Interfaces](https://updraft.cyfrin.io/courses/solidity/fund-me/solidity-smart-contract-interfaces)_
 
-- For reference - [ChainLink Interface's Repo](https://github.com/smartcontractkit/chainlink-brownie-contracts/blob/main/contracts/src/v0.8/shared/interfaces/AggregatorV3Interface.sol)
+- For reference - [ChainLink Interface's Repo](https://github.com/smartcontractkit/chainlink-evm/blob/main/contracts/src/v0.8/shared/interfaces/AggregatorV3Interface.sol)
 
 ## AI Help III
 
@@ -1122,7 +1122,6 @@ _[⌨️ Foundry Install ](https://updraft.cyfrin.io/courses/foundry/foundry-sim
 
 _[⌨️ VSCode Setup II ](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/vscode-setup)_
 
-
 - [CoPilot](https://code.visualstudio.com/docs/copilot/overview)
 - [Hardhat Solidity Extension](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity)
 - [VSCodium](https://vscodium.com/)
@@ -1318,13 +1317,13 @@ _[⌨️ Testing Introduction ](https://updraft.cyfrin.io/courses/foundry/foundr
 
 _[⌨️ Setup Continued ](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/finshing-the-setup)_
 
-- [Chainlink Brownie Contracts Github Repo](https://github.com/smartcontractkit/chainlink-brownie-contracts)
+- [Chainlink Brownie Contracts Github Repo](https://github.com/smartcontractkit/chainlink-brownie-contracts) (deprecated — visit this repo for more information and migration instructions)
   ```bash
-  forge install smartcontractkit/chainlink-brownie-contracts@0.6.1
+  forge install smartcontractkit/chainlink-evm@<tag>
   ```
+  Replace `<tag>` with a release tag from the [chainlink-evm releases page](https://github.com/smartcontractkit/chainlink-evm/releases) (e.g. `contracts-v1.5.0`, `cre-v0.5.1`).
 - [Dependencies](https://book.getfoundry.sh/projects/dependencies)
 - [remappings](https://book.getfoundry.sh/reference/forge/forge-remappings)
-- [Chainlink Brownie Contracts](https://github.com/smartcontractkit/chainlink-brownie-contracts)
 
 ## Tests
 
@@ -1646,11 +1645,13 @@ _[⌨️ Implementing Chainlink VRF - Introduction ](https://updraft.cyfrin.io/c
 
 * [Get Sepolia Testnet LINK tokens](https://faucets.chain.link/)
 * [Chainlink docs - create a random number](https://docs.chain.link/vrf/v2/subscription/examples/get-a-random-number#create-and-fund-a-subscription)
-* [Chainlink Brownie Contracts](https://github.com/smartcontractkit/chainlink-brownie-contracts)
+* [Chainlink Brownie Contracts](https://github.com/smartcontractkit/chainlink-brownie-contracts) (deprecated — visit this repo for more information and migration instructions)
 
 ```bash
-forge install smartcontractkit/chainlink-brownie-contracts@1.1.1 
+forge install smartcontractkit/chainlink-evm@<tag>
 ```
+
+Replace `<tag>` with a release tag from the [chainlink-evm releases page](https://github.com/smartcontractkit/chainlink-evm/releases) (e.g. `contracts-v1.5.0`, `cre-v0.5.1`).
 
 ## Modulo
 
@@ -1724,6 +1725,7 @@ _[⌨️ Lots of Tests ](https://updraft.cyfrin.io/courses/foundry/smart-contrac
 ## Headers
 
 _[⌨️ Headers ](https://updraft.cyfrin.io/courses/foundry/smart-contract-lottery/headers)_
+
 - [Headers GitHub Repository](https://github.com/transmissions11/headers)
 
 ## Adding more tests.
@@ -2104,7 +2106,7 @@ _[⌨️ DSCEngine.sol Setup ](https://updraft.cyfrin.io/courses/advanced-foundr
 _[⌨️ Deposit Collateral ](https://updraft.cyfrin.io/courses/advanced-foundry/develop-defi-protocol/defi-deposit-collateral)_
 
 - Other DeFi Examples:
-  - [Aave V2 Docs]( https://aave.com/docs)
+  - [Aave V2 Docs](https://aave.com/docs)
   - [Aave NPM](https://www.npmjs.com/package/@aave/protocol-v2)
 
 ## Mint DSC
@@ -2324,6 +2326,7 @@ remappings = [
     '@chainlink/=lib/chainlink/',
 ]
 ```
+
 ## Chainlink local and fork testing
 
 _[⌨️ Chainlink local and fork testing ](https://updraft.cyfrin.io/courses/advanced-foundry/cross-chain-rebase-token/chainlink-local-and-fork-testing)_
